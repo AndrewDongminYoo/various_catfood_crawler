@@ -1,0 +1,49 @@
+{
+    "CATPRE": "https://catpre.com/category/053",
+    "CATKINGDOM": "https://www.catskingdom.co.kr/shop/goods/goods_list.php?&category=007",
+    "NEKO": "https://neko.co.kr/product/list.html?cate_no=24",
+    "MAMACAT": [
+        "https://mamacat.co.kr/product/list.html?cate_no=4343",
+        "https://mamacat.co.kr/product/list.html?cate_no=3467"
+    ],
+    "MARKETKOONG": "https://marketkoong.com/shop?category=cat_food all",
+    "MONTCHUBELLE": "https://smartstore.naver.com/mcdb/category/a59a414065b74f51a7c12f991a1b10ac",
+    "HARIM": "https://harimpetfood.com/category/cat/98/",
+    "HILLS": "https://www.hillspet.co.kr/cat-food",
+    "MONTRAUM": "http://www.montraum.com/common/process/shopmain.asp?iniCategory=107&thisCategory=",
+    "MONAMI": "https://www.monamimall.com/w/product/productList.do?schCateIdx1=1&schCateIdx2=93&schCateIdx3=605",
+    "WELLNESS": "https://brand.naver.com/yuhanpet/category/104f695225d74b4e8533bb971769d430?cp=1",
+    "CATPANG": "https://www.catpang.com/shop/goods/goods_list.php?category=001001",
+    "BLANCCAT": [
+        "https://www.blanccat.com/product/list.html?cate_no=42",
+        "https://www.blanccat.com/product/list.html?cate_no=605"
+    ],
+    "OLIVEYOUNG": "https://www.oliveyoung.co.kr/store/display/getMCategoryList.do?dispCatNo=1000003000300030001&fltDispCatNo=&prdSort=01&pageIdx=1&rowsPerPage=24&searchTypeSort=btn_thumb&plusButtonFlag=N&isLoginCnt=null&aShowCnt=&bShowCnt=&cShowCnt=&trackingCd=Cat1000003000300030001_Small",
+    "CUCUCAT": "http://www.cucucat.co.kr/shop/goods/goods_list.php?&&category=136",
+    "CATSMON": "http://www.catsmon.com/shop/goods/goods_list.php?&category=001",
+    "KKORIYA": "https://www.kkoriya.co.kr/goods/goods_list.php?cateCd=007015",
+    "UNION": "http://www.unionpet.co.kr/shop/goods/goods_list.php?&category=097",
+    "LUCY": "https://lucypetmall.com/untitled-4",
+    "PETFRIENDS": "https://www.pet-friends.co.kr/main/product/list/category/4,product_group2_id_4",
+    "PETORIA": "https://petoria.co.kr/product/list.html?cate_no=710",
+    "WELLFEED": [
+        "https://wellfeed.co.kr/category/고양이-건사료/165/",
+        "https://wellfeed.co.kr/category/고양이-주식캔/166/"
+    ],
+    "BLACKWOOD": "https://wellfeed.co.kr/category/고양이-주식캔/166/",
+    "WEFLUFFY": "https://wefluffy.co.kr/goods/goods_list.php?cateCd=007008",
+    "RUNIPET": "http://runiepet.com/product/list.html?cate_no=81",
+    "PURPLESTORE": "https://www.purplesto.re/products/sales/list/?type=category&value=19",
+    "FITPET": "https://v.fitpetmall.com/home/categories/feed",
+    "PETHOOH": "https://www.pethooh.com/category/사료/156/",
+    "IRION": "http://www.irionmall.co.kr/shop/shopbrand.html?xcode=010&mcode=001&type=Y",
+    "CATSHOME": "http://catshome.co.kr/product/list.html?cate_no=24",
+    "ABOUTPET": "https://aboutpet.co.kr/shop/indexCategory?lnbDispClsfNo=300000174&cateCdL=12565&dispClsfNo=12673",
+    "CHUNGDAM": "http://www.chungdamahm.co.kr/shop/shopbrand.html?xcode=025&type=Y",
+    "POLYPARK": "http://www.polypark.kr/product/list.html?cate_no=321",
+    "HUSSE": "http://www.polypark.kr/product/list.html?cate_no=321",
+    "HELLOCATDOG": "https://www.hellocatdog.com/goods/goods_list.php?cateCd=002",
+    "AMIO": "https://smartstore.naver.com/leaudry/category/106203a7421647219dd3c147cae2ea2a?cp=1",
+    "CHEESEMARKET": "https://smartstore.naver.com/csw059/category/91532174c723464e8e8fcb4576c92058?cp=1",
+    "COUPANG": "https://www.coupang.com/np/campaigns/82/components/445759?listSize=60&brand=&offerCondition=&filterType=&isPriceRange=false&minPrice=&maxPrice=&page=1&channel=user&fromComponent=Y&selectedPlpKeepFilter=&sorter=bestAsc&filter=&component=445759&rating=0"
+}
