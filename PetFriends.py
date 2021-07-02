@@ -1,8 +1,5 @@
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException, TimeoutException
+from selenium.common.exceptions import ElementClickInterceptedException, TimeoutException
 from selenium import webdriver
-from bs4 import BeautifulSoup
-import time
 from selenium.webdriver.common.action_chains import ActionChains
 from openpyxl import Workbook
 from selenium.webdriver.common.by import By
