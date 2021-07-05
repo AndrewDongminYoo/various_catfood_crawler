@@ -1,48 +1,52 @@
 from selenium import webdriver
 import csv
+from urllib import parse
 import time
 
 driver = webdriver.Chrome()
 driver.implicitly_wait(5)
+brand_list_english =  ['A La CARTE', 'AATU', 'Absolute Holistic', 'ACANA', 'Addiction', 'Adirondack', 'ADVANCE',
+                       'Against The Grain', 'AIXIA', 'AlmoNature', 'Alpha Spririt', 'AlphaVET', 'Ancestry', 'ANF',
+                       'Animonda', 'AnnaMaet', 'Artemis', 'Atas Cat', 'Aujou by RAWZ', 'Avoderm', 'Beaphar',
+                       'BEST BREED', 'BlackHawk', 'Blackwood PetFood', 'Blue Buffalo', 'BlueBay Animate PetFood',
+                       'Bonachibo', 'BOREAL', 'Bravery PetFood', 'Canada Fresh', 'Canagan', 'Canidae Per Foods',
+                       'Cardinal Fussie Cat', 'Cargill Nutrena', 'Carna4', 'Caru', 'Catz finefood',
+                       'Celtic Connection Holistic Pet Food', 'Chicken Soup for the Soul', 'Comanion Pets Classic',
+                       'Diamond Pet Foods Premium Edge', "Dr. Clauder's Best Choice", 'Dr.Link', 'Earthborn',
+                       'Economy ROYAL', 'EntomaPerFood', 'Essential The Jaguar', "Evanger's GrainFree", 'Evolve',
+                       'Farmina Vet Life Feline', 'Feline Natural', 'First Choice Canada', 'FirstMate', 'Fish4Dog',
+                       'Forza10 USA', 'GATHER', 'Go! Solution', 'Go! Solutions', 'Good Friends', 'Gosbi',
+                       "Grandma mae's", 'Hagen Catit Dinner', 'HALO', 'Halo pets', 'Healthy Shores Canada',
+                       "Hill's Science Diet", 'Hi-tek Naturals', 'Husse', 'Instinct Pet Food', 'iti Pet Food',
+                       'Josera', 'Kirkland Signature', 'Kongo', 'KOOKUT', 'Leonardo Catfood', "Lilly's Kitchen",
+                       'Little BigPaw', 'Lotus', 'Maria Pet Food', 'Marp', 'Me-O', 'MEOW Cat Food', 'MeowMix',
+                       'Mera Finest', 'Merrick', 'Miamor (German)', 'Miaw Miaw', 'Micho', 'Mito', 'Monge',
+                       'Natural Balance', 'Natural Greatness', 'Natural Planet', "Nature's Logic",
+                       "Nature's Protection", "Nature's Variety", 'Naturliebe FairCat', 'Naturliebe HappyCat', 'Naturo',
+                       'NEKKO', 'New Origin Pet Bakery', 'Nisshin Kaiseki', 'North Paw', 'Northwest Naturals',
+                       'NOW FRESH', 'Nulo Freestyle', 'NutraGold', 'Nutram Canada', 'Nutrena Little Lion',
+                       'Nutrena Real O Plus', 'Nutrience', 'Nutrio', 'nutripe classic', 'NutriSource',
+                       'Nutro Natural Choice', 'Openfarm Korea', 'Optimanova', 'Orgameal', 'Organix', 'Orijen Cat',
+                       "O'stech", 'Oven-Baked Traditional', 'Oven-Baked Traditional', 'PRIMAL PET FOODS',
+                       'PRO PAC® Ultimates', 'Pronature Canada', 'Pro-Nutrition PureLife', 'PureLuxe', 'Raws',
+                       'Rex Catfood', 'RoyalCanin', 'Sanabelle', 'Schesir', 'Sheba', 'Smack Raw HydratE Cat Food',
+                       'SmartHeartGold 9 care', 'Snappy Tom', 'SolidGold Perfood', 'Specific', 'Stella and Chewys',
+                       "Steve's Real Food", 'Supreme Source', 'Taste of the Wild', 'Tender & True',
+                       'Terra Canis & Terra Fellis', 'Thai Union Manufacturing Co.,Ltd', 'Thrive complete', 'TIKI PETS',
+                       'TOMOJO Pet Food', 'TOTAL ALIMENTOS EQUILIBRIO', 'TROVET', 'TRUELINE',
+                       "Tuffy's Petfoods Dinnertime", "Tuffy's Purevita", 'TUSCAN NATURAL', 'Verus',
+                       "Vet's Complete Life", "Vet's CompleteLife", "Vet's Kitchen", 'Vigor&Sage', 'Vintage Cat food',
+                       'Vitakraft CatFood', 'Vital Essentials', 'Vital Essentials', 'Wahre Liebe', 'Wellnesss',
+                       'Weruba Catfood', 'Whiskas', 'Wishbone', 'Wysong', 'ZEAL Canada', 'ZiwiPeak']
 
-with open("./data/0001.csv", mode="w", encoding="utf8", newline="") as input_file:
+with open("./data/0004.csv", mode="w", encoding="ansi", newline="") as input_file:
     writer = csv.writer(input_file, dialect="excel")
-    brand_list = ['ANF', 'CP', 'Go!', 'HALO', 'iti', 'NOW', '게더', '고스비', '고양이정원', '굿프랜드', '궁', '그냥저냥', '그라비',
-                  '그랜마 메이스', '그린벨', '깨양이의만찬', '꼬뜨', '나비랑', '내추럴 그레이트니스', '내추럴발란스', '내추럴팩토리',
-                  '내추럴플래닛', '내추로', '냥셰프', '넘버원', '네이처스 로직', '네이처스 버라이어티', '네이처스 프로텍션', '네츄럴시그니처',
-                  '네츄럴오', '네츄럴코어', '네츄럴파이브', '네코', '노스웨스트', '노스포', '뉴-MeO', '뉴로 프리스타일', '뉴블루캣',
-                  '뉴알엑스', '뉴웨이브', '뉴트라골드', '뉴트라이프', '뉴트람', '뉴트로 내추럴 초이스', '뉴트리나', '뉴트리소스',
-                  '뉴트리언스', '뉴트리오', '뉴트리웰', '뉴트리플랜', '닛신', '닥터링크', '더독', '더밸류', '드림캣', '레오나르도',
-                  '렉스', '로얄캐닌', '로우즈', '로투스', '리얼 오 플러스', '리틀라이언', '리틀빅파우', '릴리스키친', '마리아', '마프',
-                  '맘블레스', '먀오', '먀우먀우', '메라 파인이스트', '메릭', '모찌네', '몬지', '미아모아', '미요미', '미유믹스',
-                  '미토&미쵸', '바레리베', '바이탈 에센셜스 (VE)', '베루스', '베스트 초이스', '베스트브리드', '벤티',
-                  '벳츠 컴플리트라이프', '벳츠키친', '보나시보', '보레알', '브레이버리', '블랙우드', '블랙호크', '블루버팔로',
-                  '블루베이애니메잇', '블루키친', '비고앤세이지', '비어파', '비타크래프트', '빈티지', '사나벨', '사랑해 마이캣', '사조',
-                  '세라피드', '솔리드골드', '쉬바', '슈슈', '슈프림소스', '스내피톰', '스마트하트', '스맥', '스케지어',
-                  '스텔라 앤 츄이스', '스티브스 리얼푸드', '스페시픽', '쓰라이브', '아딜론덱', '아르테미스', '아보덤', '아이디얼레시피',
-                  '아이시아', '아카나', '아타스', '아투', '알라까르떼', '알모네이쳐', '알파벳', '알파스피릿', '애니몬다',
-                  '앱솔루트 홀리스틱', '어게인스트 더 그레인', '어드밴스', '어딕션', '어스본', '에센셜더재규어포캣', '엔세스트리',
-                  '엔젤스캣', '엔토마', '오가닉스', '오네이쳐', '오리젠', '오븐베이크', '오스테크', '오쥬바이로우즈', '오픈팜',
-                  '올가밀', '옵티마노바', '와이송', '요세라', '원더캣츠', '웨루바', '웰니스', '웰츠', '위스카스', '위시본', '유니참',
-                  '이벤져', '이볼브', '이즈칸', '이코노미', '인네이처', '지위픽', '진수성찬', '질캐나다', '치킨 수프 포 더 소울',
-                  '카나간', '카루', '카르나포', '카카토 (강아지 습식)', '캐나다프레쉬', '캐니대', '캐비밸런스', '캐츠랑', '캐츠비',
-                  '캣맘', '캣밥', '캣사랑', '캣위너', '캣츠러브', '캣츠맘마', '캣츠미어', '캣츠아이', '캣츠에비뉴', '캣츠온', '캣츠유',
-                  '캣츠파인푸드', '캣투스', '캣티거', '캣티즌', '캣패밀리', '커클랜드', '컴플리트라이프', '케어캣', 'K9 Natural',
-                  '켈틱커넥션', '코코브라운', '콤비네이션', '콩고', '쿠쿳', '쿠팡 탐사', '클라쎄밀', '키츠가든', '키티캣',
-                  '터피스디너타임', '테라펠리스', '테비랑', '테비탑퍼', '테이스트오브더와일드', '텐더앤트루', '토로토로',
-                  '토모조', '토스칸', '토탈이퀼리브리오', '톰스패밀리', '투펫', '트로벳', '트루라인', '티키캣', '파미나',
-                  '퍼스트메이트', '퍼스트초이스', '퍼스트캣', '퍼시캣', '페어캣', '펠리코', '펫베이커리', '펫시아', '풀무원 아미오',
-                  '퓨리나 비욘드', '퓨리나 원', '퓨리나 캣차우', '퓨리나 팬시피스트', '퓨리나 퓨어네이쳐', '퓨리나 프로플랜',
-                  '퓨리나 프리스키', '퓨어라이프', '퓨어럭스', '퓨어비타', '프라이멀', '프렌드포캣', '프로네이쳐', '프로바이오틱 라이브',
-                  '프로바이트캣', '프로베스트 (곰표)', '프로팩', '프리미엄엣지', '피니키', '피쉬포캣', '하겐 캣잇', '하림', '하이큐',
-                  '하이테크 내추럴스', '한끼뚝딱', '해피캣', '해피타임', '헬로코코', '헬시쇼어스', '후새', '힐스', '앱솔루트', '아나멧',
-                  '캣츠 파인푸드', 'K9', '포르자10', '고!', '헤일로', '후세', '인스팅트', '미유 믹스', '미쵸', '나우', '오븐베이크드',
-                  '클래식 펫츠', '나인케어', '바이탈 에센셜']
-    for i, brand in enumerate(brand_list):
-        driver.get("https://www.google.com/search?q=" + brand.replace(" ", "+") + "고양이+사료")
-        time.sleep(1.5)
-        first = driver.find_elements_by_css_selector('div.yuRUbf > a')[0].get_attribute('href')
-        second = driver.find_elements_by_css_selector('div.yuRUbf > a')[1].get_attribute('href')
-        third = driver.find_elements_by_css_selector('div.yuRUbf > a')[2].get_attribute('href')
-        print(brand, f" {i+1}/{len(brand_list)}")
-        writer.writerow([brand, first, second, third])
+    for i, brand in enumerate(brand_list_english):
+        driver.get("https://www.google.com/search?q=" + brand.replace(" ", "+") + "+cat+food")
+        time.sleep(1.2)
+        row = [brand]
+        links = driver.find_elements_by_css_selector('div.yuRUbf > a')
+        for link in links:
+            href = link.get_attribute('href')
+            row.append(href)
+        writer.writerow(row)
