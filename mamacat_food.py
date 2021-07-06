@@ -7,7 +7,7 @@ driver.set_window_size(width=1600, height=900)
 driver.minimize_window()
 driver.implicitly_wait(15)
 
-with open('./MAMACATURL.txt', 'r', encoding='utf8', newline="") as input:
+with open('json/MAMACATURL.txt', 'r', encoding='utf8', newline="") as input:
     formulas_list = []
     for idx, line in enumerate(input.readlines()):
         driver.get(line)
