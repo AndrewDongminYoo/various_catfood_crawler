@@ -7,7 +7,7 @@ import json
 # 웹 드라이버 설정
 driver = webdriver.Chrome()
 driver.set_window_size(height=1900, width=900)
-driver.minimize_window()
+# driver.minimize_window()
 driver.implicitly_wait(10)
 
 # ws.append(['brand', 'formula', 'price', 'age', 'moisture_type', 'weight', 'main_ingredients', 'special_diets', 'calorie_content', 'manufacturer', 'check_point', 'kor_ingredients', 'eng_ingredients', 'caution', 'kor_analysis', 'eng_analysis', 'environment', 'recall', 'texture', 'package_img'])
@@ -103,7 +103,7 @@ for link in sales_list:
     diction['texture'] = driver.find_element(By.CLASS_NAME, 'feedingGuide__summary').text.replace('"', '')
     diction['infoImage'] = driver.find_element(By.CLASS_NAME, 'packageCheck__image').get_attribute('src')
     formulas_list.append(diction)
-    print(len(formulas_list), diction['name_product'])
+    print(diction)
 driver.quit()
 with open('./PURPLE.json', 'w', encoding='utf8', newline="") as output_file:
     json.dump(formulas_list, output_file, indent=2, ensure_ascii=False)
