@@ -13,7 +13,7 @@ brand_list_english =  ['A La CARTE', 'AATU', 'Absolute Holistic', 'ACANA', 'Addi
                        'Cardinal Fussie Cat', 'Cargill Nutrena', 'Carna4', 'Caru', 'Catz finefood',
                        'Celtic Connection Holistic Pet Food', 'Chicken Soup for the Soul', 'Comanion Pets Classic',
                        'Diamond Pet Foods Premium Edge', "Dr. Clauder's Best Choice", 'Dr.Link', 'Earthborn',
-                       'Economy ROYAL', 'EntomaPerFood', 'Essential The Jaguar', "Evanger's GrainFree", 'Evolve',
+                       'Economy ROYAL', 'Entoma PetFood', 'Essential The Jaguar', "Evanger's GrainFree", 'Evolve',
                        'Farmina Vet Life Feline', 'Feline Natural', 'First Choice Canada', 'FirstMate', 'Fish4Dog',
                        'Forza10 USA', 'GATHER', 'Go! Solution', 'Go! Solutions', 'Good Friends', 'Gosbi',
                        "Grandma mae's", 'Hagen Catit Dinner', 'HALO', 'Halo pets', 'Healthy Shores Canada',
