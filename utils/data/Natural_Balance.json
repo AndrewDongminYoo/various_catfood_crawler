@@ -33,6 +33,7 @@
       "descriptions": "Natural Balance L.I.D. Limited Ingredient Diets dry cat food offers complete and balanced nutrition for adult cats. This simple formula is made with one animal protein source and two primary carbohydrate sources, which provide fiber and essential vitamins and minerals to help support healthy digestion. Salmon is the number-one ingredient of this high-quality food; there are no grains, fillers, artificial flavors or colors. Whether your cat has food sensitivities, or you just want to keep it simple, Natural Balance L.I.D. Limited Ingredient Diets High Protein provides your cat with balanced nutrition for a happy healthy life. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Salmon, Peas, Salmon Meal, Pea Protein, Canola Oil (Preserved with Mixed Tocopherols), Brewers Dried Yeast, Natural Flavor, Flaxseed, Citric Acid (Preservative), Sodium Acid Pyrophosphate (Source of Phosphorus), Salt, Potassium Chloride, Choline Chloride, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, D-calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Menadione Sodium Bisulfite Complex, Vitamin B12 Supplement, Folic Acid, Biotin), Inulin, Lactic Acid, Rosemary Extract.",
       "analysis": [
+         "Crude Protein (Min.) 37.0%",
          "Crude Fat (Min.) 15.0%",
          "Crude Fiber (Max.) 4.0%",
          "Moisture (Max.) 10.0%",
@@ -52,7 +53,7 @@
          "Helps support healthy skin and coat"
       ],
       "descriptions": null,
-      "ingredients": null,
+      "ingredients": "Tuna, Tuna Meal, Peas, Pea Protein, Canola Oil (Preserved With Mixed Tocopherols), Brewers Dried Yeast, Flaxseed, Natural Flavor, Citric Acid (Preservative), Sodium Acid Pyrophosphate (Source Of Phosphorus), Salt, Choline Chloride, Potassium Chloride, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, D-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Menadione Sodium Bisulfite Complex, Vitamin B12 Supplement, Folic Acid, Biotin), Inulin, Lactic Acid, Rosemary Extract. ",
       "analysis": [
          "Crude Protein (Min.) 37.0%",
          "Crude Fat (Min.) 12.0%",
@@ -72,9 +73,17 @@
          "Helps support healthy digestion",
          "Helps support healthy skin and coat"
       ],
-      "descriptions": null,
+      "descriptions": "Designed with a limited number of premium protein and carbohydrate sources, L.I.D. Limited Ingredient Diets® Green Pea & Chicken Dry Cat Formula is an excellent choice when seeking alternative ingredients for your cat. This ultra premium grain-free cat food is designed to support healthy digestion and to maintain skin and coat health - all while providing complete, balanced nutrition for adult cats. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Green Peas, Chicken Meal, Chicken, Chicken Fat (Preserved With Mixed Tocopherols), Pea Protein, Natural Flavor, Salmon Oil (Preserved With Mixed Tocopherols), Calcium Carbonate, Flaxseed, Potassium Chloride, Salt, Choline Chloride, DL-Methionine, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Mixed Tocopherols (Preservative), Rosemary Extract, Green Tea Extract, Spearmint Extract ",
-      "analysis": "Omega-6 Fatty Acids (Min.) 1.5%*",
+      "analysis": [
+         "Crude Protein (Min.) 30.0%",
+         "Crude Fat (Min.) 12.0%",
+         "Crude Fiber (Max.) 5.0%",
+         "Moisture (Max.) 10.0%",
+         "Taurine (Min.) 0.16%",
+         "Omega-3 Fatty Acids (Min.) 0.40%*",
+         "Omega-6 Fatty Acids (Min.) 1.5%*"
+      ],
       "calorie": "ME = 3,600 kcal/kg; 410 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -85,7 +94,7 @@
          "Helps support healthy digestion",
          "Helps support healthy skin and coat"
       ],
-      "descriptions": null,
+      "descriptions": "Designed with a limited number of premium protein and carbohydrate sources, L.I.D. Limited Ingredient Diets® Green Pea & Duck Dry Cat Formula is an excellent choice when seeking alternative ingredients for your cat. This ultra premium grain-free cat food is designed to support healthy digestion and to maintain skin and coat health - all while providing complete, balanced nutrition for adult cats. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Green Peas, Duck, Duck Meal, Pea Protein, Canola Oil (Preserved With Mixed Tocopherols), Natural Flavor, Salmon Oil (Preserved With Mixed Tocopherols), Flaxseed, Salt, Choline Chloride, DL-Methionine, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Mixed Tocopherols (Preservative), Rosemary Extract, Green Tea Extract, Spearmint Extract ",
       "analysis": [
          "Crude Protein (Min.) 29.5%",
@@ -106,7 +115,7 @@
          "Helps support healthy digestion",
          "Helps support healthy skin and coat"
       ],
-      "descriptions": null,
+      "descriptions": "Designed with a limited number of premium protein and carbohydrate sources, L.I.D. Limited Ingredient Diets® Green Pea & Salmon Dry Cat Formula is an excellent choice when seeking alternative ingredients for your cat. This ultra premium grain-free cat food is designed to support healthy digestion and to maintain skin and coat health - all while providing complete, balanced nutrition for adult cats. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Green Peas, Salmon Meal, Salmon, Pea Protein, Canola Oil (Preserved With Mixed Tocopherols), Natural Flavor, Calcium Carbonate, Flaxseed, DL-Methionine, Salt, Choline Chloride, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Menadione Sodium Bisulfite Complex, Vitamin B12 Supplement, Folic Acid, Biotin), Mixed Tocopherols (Preservative), Rosemary Extract, Green Tea Extract, Spearmint Extract ",
       "analysis": [
          "Crude Protein (Min.) 30.0%",
@@ -127,7 +136,7 @@
          "Helps support healthy digestion",
          "Helps support healthy skin and coat"
       ],
-      "descriptions": null,
+      "descriptions": "Designed with a limited number of premium protein and carbohydrate sources, this grain-free cat food is an excellent choice when seeking alternative ingredients for your cat. Our L.I.D. Limited Ingredient Diets® Green Pea & Venison Dry Cat Formula is designed to support healthy digestion and to maintain skin and coat health - all while providing complete, balanced nutrition for adult cats. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Green Peas, Venison, Pea Protein, Venison Meal, Brewers Dried Yeast, Canola Oil (Preserved with Mixed Tocopherols), Flaxseed, Salmon Oil (Preserved with Mixed Tocopherols), Natural Flavor, Sodium Acid Pyrophosphate (Source of Phosphorus), Salt, Potassium Chloride, DL-Methionine, Choline Chloride, Taurine, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Lactic Acid, Citric Acid (Preservative), Mixed Tocopherols (Preservative), Rosemary Extract. ",
       "analysis": [
          "Crude Protein (Min.) 30.0%",
@@ -149,7 +158,7 @@
          "Helps support healthy digestion",
          "Helps support healthy skin and coat"
       ],
-      "descriptions": null,
+      "descriptions": "Keep your feline friend healthy, lean and satisfied with Natural Balance® L.I.D. Limited Ingredient Diets® Indoor Formula Dry Cat Food. Featuring premium quality salmon as the #1 ingredient, this grain-free cat food contains prebiotic fiber for healthy digestion and easy litter box clean-up. Created specifically for the needs of adult indoor cats, this limited ingredient cat food supports hairball control and helps maintain healthy skin and a shiny coat. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Salmon, Chickpeas, Peas, Salmon Meal, Pea Protein, Dried Beet Pulp, Potatoes, Brewers Dried Yeast, Canola Oil (Preserved With Mixed Tocopherols), Dehydrated Alfalfa Meal, Natural Flavor, Sodium Acid Pyrophosphate (Source of Phosphorus), Choline Chloride, Taurine, Salt, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Proteinate, Copper Sulfate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Potassium Chloride, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Inulin, Lactic Acid, Citric Acid (Preservative), Mixed Tocopherols (Preservative), Rosemary Extract",
       "analysis": [
          "Crude Protein (Min.) 30.0%",
@@ -172,7 +181,7 @@
          "Helps support healthy digestion",
          "Helps support healthy skin and coat"
       ],
-      "descriptions": null,
+      "descriptions": "Keep your feline friend healthy, lean and satisfied with Natural Balance® L.I.D. Limited Ingredient Diets® Indoor Formula Dry Cat Food. Featuring premium quality turkey as the #1 ingredient, this grain-free cat food contains prebiotic fiber for healthy digestion and easy litter box clean-up. Created specifically for the needs of adult indoor cats, this limited ingredient cat food supports hairball control and helps maintain healthy skin and a shiny coat. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Turkey, Chickpeas, Turkey Meal, Peas, Pea Protein, Potatoes, Dried Beet Pulp, Canola Oil (Preserved With Mixed Tocopherols), Natural Flavor, Salt, Choline Chloride, Sodium Acid Pyrophosphate (Source of Phosphorus), Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Proteinate, Copper Sulfate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Potassium Chloride, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Inulin, Lactic Acid, Mixed Tocopherols (Preservative), Citric Acid (Preservative), Rosemary Extract ",
       "analysis": [
          "Crude Protein (Min.) 30.0%",
@@ -196,7 +205,7 @@
          "Helps support healthy skin and coat"
       ],
       "descriptions": null,
-      "ingredients": null,
+      "ingredients": "Chicken, Chicken Meal, Peas, Pea Protein, Chicken Fat (Preserved With Mixed Tocopherols), Brewers Dried Yeast, Natural Flavor, Flaxseed, Citric Acid (Preservative), Sodium Acid Pyrophosphate (Source Of Phosphorus), Salt, Choline Chloride, Potassium Chloride, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, D-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Inulin, Lactic Acid, Rosemary Extract, Green Tea Extract. ",
       "analysis": [
          "Crude Protein (Min.) 37.0%",
          "Crude Fat (Min.) 18.0%",
@@ -223,6 +232,13 @@
       ],
       "ingredients": "Chicken, Chicken Meal, Pea Protein, Peas, Chicken Fat (Preserved With Mixed Tocopherols), Brewers Dried Yeast, Duck Meal, Chicken Liver, Salmon Meal, Dried Eggs, Natural Flavor, Brown Rice, Menhaden Fish Oil (Preserved With Mixed Tocopherols), Oat Hulls, Pea Fiber, Salt, Choline Chloride, DL-Methionine, Potassium Chloride, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), L-Ascorbyl-2-Polyphosphate (Source Of Vitamin C), L-Tryptophan, Inulin, Dried Cranberries, Dried Blueberries, Dried Kelp, Yucca Schidigera Extract, L-Lysine Monohydrochloride, Mixed Tocopherols (Preservative), Rosemary Extract, Green Tea Extract, Spearmint Extract ",
       "analysis": [
+         "Crude Protein (Min.) 38.0%",
+         "Crude Fat (Min.) 20.0%",
+         "Crude Fiber (Max.) 3.0%",
+         "Moisture (Max.) 10.0%",
+         "Eicosapentaenoic + Docosahexaenoic Acid (Min.) 0.40%",
+         "Calcium (Min.) 1.0%",
+         "Phosphorus (Min.) 0.80%",
          "Vitamin E (Min.) 100 IU/kg",
          "Taurine (Min.) 0.15%",
          "Ascorbic Acid (Vitamin C) (Min.) 200 mg/kg",
@@ -338,7 +354,7 @@
          "Helps protect cells with antioxidants",
          "Helps maintain healthy heart and eyes"
       ],
-      "descriptions": null,
+      "descriptions": "Created by our expert nutritionists, Original Ultra® Whole Body Health® Chicken, Salmon & Duck Canned Cat Formula nourishes your cat's complete well-being with an entire body approach. Formulated for all breeds and life stages from growing kittens to ever-energetic adult cats, this diet offers an optimal balance of premium proteins and key nutrients. Plus, the high-quality ingredients make this ultra premium canned formula so delicious that your cat will never meow for anything else! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Chicken Broth, Chicken, Chicken Liver, Salmon, Duck, Brewers Dried Yeast, Brown Rice, Canola Oil (Preserved With Mixed Tocopherols), Natural Flavor, Menhaden Oil (Preserved With Mixed Tocopherols), Dicalcium Phosphate, Salmon Meal, Calcium Carbonate, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Potassium Chloride, Salt, Taurine, Oat Hulls, Pea Fiber, DL-Methionine, Carrageenan, Choline Chloride, L-Ascorbyl-2-Polyphosphate (Source Of Vitamin C), L-Tryptophan, Cranberries, Blueberries, Dried Kelp, Yucca Schidigera Extract, L-Lysine Monohydrochloride, Rosemary Extract ",
       "analysis": [
          "Crude Protein (Min.) 9.5%",
@@ -364,7 +380,7 @@
          "Helps maintain healthy heart and eyes",
          "Helps support healthy bones and teeth"
       ],
-      "descriptions": null,
+      "descriptions": "With 15% fewer calories per oz than our Original Ultra® Whole Body Health® Chicken, Salmon & Duck Canned Cat Food, this formula is designed specifically for overweight or less active adult and senior cats. Our Reduced Calorie formula is made with premium ingredients including chicken, salmon, and duck - a highly palatable combination that can also kindle the appetite of older cats. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Chicken Broth, Chicken, Chicken Liver, Salmon, Duck, Brown Rice, Chicken Meal, Natural Flavor, Pea Fiber, Oat Hulls, Menhaden Oil (Preserved With Mixed Tocophoerols), Canola Oil (Preserved With Mixed Tocopherols), Dicalcium Phosphate, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Potassium Chloride, Salt, Taurine, Dl-Methionine, Choline Chloride, Magnesium Chloride, Carrageenan, L-Ascorbyl-2-Polyphosphate (Source Of Vitamin C), L-Tryptophan, Cranberries, Blueberries, Dried Kelp, Yucca Schidigera Extract, L-Lysine Monohydrochloride, Rosemary Extract ",
       "analysis": [
          "Crude Protein (Min.) 8.5%",
@@ -385,7 +401,7 @@
       "url": "https://www.naturalbalanceinc.com/cat-formulas/canned-food/original-ultra/chicken-liver-pate",
       "title": "Ultra Premium Chicken & Liver Paté Canned Cat Formula",
       "key_benefits": null,
-      "descriptions": null,
+      "descriptions": "Our Ultra Premium Chicken & Liver Paté Canned Cat Formula offers complete and balanced nutrition for all breeds and life stages from kittens to adult cats. Formulated to be highly digestible, this formula's unique mix of high-quality meats and energy sources also has a taste and texture your cat will love! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Chicken, Chicken Liver, Chicken Broth, Carrots, Brown Rice, Natural Flavor, Dried Egg, Dicalcium Phosphate, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Potassium Chloride, Salt, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite.), Menhaden Oil (Preserved with Mixed Tocopherols), Cranberries, Taurine, Choline Chloride, Carrageenan, Magnesium Chloride, Rosemary Extract",
       "analysis": [
          "Crude Protein (Min.) 9.0%",
@@ -405,8 +421,8 @@
          "No artificial flavors or colors",
          "Complete and balanced nutrition for pets of all life stages"
       ],
-      "descriptions": null,
-      "ingredients": null,
+      "descriptions": "Our Ultra Premium Indoor Canned Cat Formula offers complete and balanced nutrition for all life stages. Made with a premium mixture of proteins and grains, this special formula targets the unique needs of indoor felines, including high digestibility, with a taste that cats love! You can find Natural Balance online or at your local Pet Specialty Store.",
+      "ingredients": "Chicken, Chicken Broth, Chicken Liver, Salmon, Oat Bran, Brown Rice, Natural Flavor, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Choline Chloride, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Cranberries, Calcium Carbonate, Potassium Chloride, Yucca Schidigera Extract, Salt, Carrageenan",
       "analysis": [
          "Crude Protein (Min.) 9.0%",
          "Crude Fat (Min.) 5.0%",
@@ -420,9 +436,15 @@
       "url": "https://www.naturalbalanceinc.com/cat-formulas/canned-food/original-ultra/ocean-fish",
       "title": "Ultra Premium Ocean Fish Canned Cat Formula",
       "key_benefits": null,
-      "descriptions": null,
+      "descriptions": "With a premium mix of ingredients, this canned food has a taste cats love plus support for skin & coat health. Complete, balanced nutrition for all life stages! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Ocean Fish, Fish Broth, Turkey, Chicken Liver, Tuna, Carrots, Ground Brown Rice, Natural Flavor, Vitamins ( Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Menadione Sodium Bisulfite Complex, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Menhaden Oil (Preserved with Mixed Tocopherols), Calcium Carbonate,  Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite),Thiamine Mononitrate, Menhaden Fish Meal, Salt, Dicalcium Phosphate, Potassium Chloride, Cranberries, Carrageenan, Taurine, Rosemary Extract",
-      "analysis": "Taurine (Min.) 0.05%",
+      "analysis": [
+         "Crude Protein (Min.) 9.0%",
+         "Crude Fat (Min.) 5.0%",
+         "Crude Fiber (Max.) 1.0%",
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1050 kcal/kg; 90 kcal/3 oz can ME = 1170 kcal/kg; 180 kcal/5.5 oz can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -434,7 +456,7 @@
          "Helps support healthy skin and coat",
          "No artificial flavors or colors"
       ],
-      "descriptions": null,
+      "descriptions": "Our Ultra Premium Salmon Canned Cat Formula offers complete and balanced nutrition for all breeds and life stages from kittens to adult cats. Formulated to be highly digestible, this formula's unique mix of high-quality fish, vegetables, and energy sources has a taste and texture your cat will love! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Salmon, Chicken, Chicken Liver, Fish Broth, Whitefish, Dried Egg, Ground Brown Rice, Carrots, Natural Flavor, Vitamins (Choline Chloride, Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, Vitamin A Supplement, Menadione Sodium Bisulfite Complex (source of vitamin K activity), Pyridoxine Hydrochloride, d-Calcium Pantothenate, Riboflavin Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Cranberries, Dicalcium Phosphate, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Guar Gum, Salt, Potassium Chloride, Taurine, Carrageenan",
       "analysis": [
          "Crude Protein (Min.) 10.0%",
@@ -448,10 +470,13 @@
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/canned-food/original-ultra/tuna-shrimp",
       "title": "Ultra Premium Tuna & Shrimp Canned Cat Formula",
-      "key_benefits": null,
-      "descriptions": null,
+      "key_benefits": [],
+      "descriptions": "Our Ultra Premium Tuna & Shrimp Canned Cat Formula offers complete and balanced nutrition for all breeds and life stages from kittens to adult cats. Formulated to be highly digestible, this formula's unique mix of high-quality seafood, vegetables, and energy sources has a taste and texture your cat will love! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Tuna, Water Sufficient for Processing, Chicken Liver, Whitefish, Chicken, Brown Rice, Shrimp, Natural Flavor, Menhaden Oil (Preserved with Mixed Tocopherols), Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Menadione Sodium Bisulfite Complex, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Choline Chloride, Carrots, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Guar Gum, Dried Egg Product, Taurine, Cranberries, Salt, Carrageenan, Potassium Chloride, Rosemary Extract",
       "analysis": [
+         "Crude Protein (Min.) 10.0%",
+         "Crude Fat (Min.) 5.0%",
+         "Crude Fiber (Max.) 1.5%",
          "Moisture (Max.) 78.0%",
          "Taurine (Min.) 0.05%"
       ],
@@ -461,7 +486,7 @@
       "url": "https://www.naturalbalanceinc.com/cat-formulas/canned-food/original-ultra/turkey-giblets",
       "title": "Ultra Premium Turkey & Giblets Canned Cat Formula",
       "key_benefits": null,
-      "descriptions": null,
+      "descriptions": "Our Ultra Premium Turkey & Giblets Canned Cat Formula offers complete and balanced nutrition for all breeds and life stages from kittens to adult cats. Formulated to be highly digestible, this formula's unique mix of high-quality meats, vegetables, and energy sources has a taste and texture your cat will love! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Turkey, Turkey Broth, Poultry Giblets, Dried Carrots, Brown Rice, Natural Flavor, Dicalcium Phosphate, Salmon Meal, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Guar Gum, Taurine, Potassium Chloride, Salt, Calcium Carbonate, Cranberries, Dl-Methionine, Carrageenan, Choline Chloride",
       "analysis": [
          "Crude Protein (Min.) 9.0%",
@@ -481,8 +506,8 @@
          "Helps support healthy skin and coat",
          "Complete and balanced nutrition for adult pets"
       ],
-      "descriptions": null,
-      "ingredients": null,
+      "descriptions": "Designed with a limited number of premium protein and carbohydrate sources, this grain-free cat food is an excellent choice when seeking alternative ingredients for your cat. Our L.I.D. Limited Ingredient Diets® Duck & Green Pea is designed to support healthy digestion and to maintain skin and coat health—all while providing complete, balanced nutrition for adult cats. You can find Natural Balance online or at your local Pet Specialty Store.",
+      "ingredients": "Ingredient Statement:",
       "analysis": [
          "Crude Protein (Min.) 9.0%",
          "Crude Fat (Min.) 7.0%",
@@ -501,7 +526,7 @@
          "Helps support healthy skin and coat",
          "Complete and balanced nutrition for adult pets"
       ],
-      "descriptions": null,
+      "descriptions": "Designed with a limited number of premium protein and carbohydrate sources, this grain-free cat food is an excellent choice when seeking alternative ingredients for your cat. Our L.I.D. Limited Ingredient Diets® Salmon & Green Pea Canned Cat Formula is designed to support healthy digestion and to maintain skin and coat health—all while providing complete, balanced nutrition for adult cats. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Ingredient Statement:",
       "analysis": [
          "Crude Protein (Min.) 9.0%",
@@ -521,8 +546,8 @@
          "No grains, corn, wheat or soy",
          "No artificial flavors or colors"
       ],
-      "descriptions": null,
-      "ingredients": null,
+      "descriptions": "Keep your feline friend healthy and satisfied with Natural Balance® L.I.D. Limited Ingredient Diets® Indoor Formula Wet Cat Food. This grain-free, lean formula helps support indoor cat weight maintenance and contains prebiotic fiber for healthy digestion and easy litter box clean-up. Created specifically for the needs of adult indoor cats, this limited ingredient formula provides balanced Omega-6 & Omega-3 fatty acids to help maintain healthy skin and a shiny coat. You can find Natural Balance online or at your local Pet Specialty Store.",
+      "ingredients": "Water (Sufficient For Processing), Duck, Duck Liver, Peas, Pea Flour, Tapioca Starch, Flaxseed, Natural Flavor, Pea Protein, Salmon Oil, Cranberries, Canola Oil (Preserved With Mixed Tocopherols), Potassium Chloride, Taurine, Fructooligosaccharides, Salt, Choline Chloride, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Folic Acid, Vitamin B12 Supplement, Vitamin D3 Supplement, Biotin), Guar Gum, Carrageenan, Minerals (Ferrous Sulfate, Zinc Oxide, Manganese Sulfate, Copper Amino Acid Complex, Potassium Iodide, Sodium Selenite), Rosemary Extract.",
       "analysis": [
          "Crude Protein (Min.) 9.0%",
          "Crude Fat (Min.) 3%",
@@ -541,8 +566,8 @@
          "Helps support healthy skin and coat",
          "Complete and balanced nutrition for adult pets"
       ],
-      "descriptions": null,
-      "ingredients": null,
+      "descriptions": "Keep your feline friend healthy and satisfied with Natural Balance® L.I.D. Limited Ingredient Diets® Indoor Formula Wet Cat Food. This grain-free, lean formula helps support indoor cat weight maintenance and contains prebiotic fiber for healthy digestion and easy litter box clean-up. Created specifically for the needs of adult indoor cats, this limited ingredient formula provides balanced Omega-6 & Omega-3 fatty acids to help maintain healthy skin and a shiny coat. You can find Natural Balance online or at your local Pet Specialty Store.",
+      "ingredients": "Turkey Broth, Turkey, Turkey Liver, Chickpeas, Peas, Pea Protein, Brewers Dried Yeast, Natural Flavor, Salmon Oil (Preserved With Mixed Tocopherols), Pea Fiber, Choline Chloride, Taurine, Guar Gum, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Calcium Carbonate, Dicalcium Phosphate, Potassium Chloride, Salt, Cranberries, Inulin, Carrageenan, Flaxseed, Yucca Schidigera Extract ",
       "analysis": [
          "Crude Protein (Min.) 9.0%",
          "Crude Fat (Min.) 2.5%",
@@ -562,7 +587,7 @@
          "Helps support healthy skin and coat",
          "Complete and balanced nutrition for adult pets"
       ],
-      "descriptions": null,
+      "descriptions": "Keep your feline friend healthy and satisfied with Natural Balance® L.I.D. Limited Ingredient Diets® Indoor Formula Wet Cat Food. This grain-free, lean formula helps support indoor cat weight maintenance and contains prebiotic fiber for healthy digestion and easy litter box clean-up. Created specifically for the needs of adult indoor cats, this limited ingredient formula provides balanced Omega-6 & Omega-3 fatty acids to help maintain healthy skin and a shiny coat. You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Salmon Broth, Salmon, Chickpeas, Peas, Pea Protein, Natural Flavor, Salmon Oil (Preserved With Mixed Tocopherols), Pea Fiber, Salmon Meal, Choline Chloride, Taurine, Guar Gum, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Menadione Sodium Bisulfite Complex, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Calcium Carbonate, Dicalcium Phosphate, Potassium Chloride, Salt, Cranberries, Inulin, Carrageenan, Flaxseed, Yucca Schidigera Extract. ",
       "analysis": [
          "Crude Protein (Min.) 9.0%",
@@ -605,7 +630,13 @@
       ],
       "descriptions": "Cooked to savory perfection, this handcrafted stew will treat your cat's taste buds to high-quality tuna and chicken in a tasty gravy. The delicious paté provides complete & balanced nutrition for all breeds of adult cats, and the gourmet flavor will make your cat roll over for more Delectable Delights® Land ‘n Sea Cat-serole® Cat Paté Formula! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Tuna Broth, Tuna, Chicken, Whitefish, Pea Protein, Rice Flour, Sunflower Oil, Tricalcium Phosphate, Guar Gum, Potassium Chloride, Choline Chloride, Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, D-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity), Folic Acid, Biotin, Vitamin B12 Supplement), Salt, Taurine, Minerals (Ferrous Sulfate, Zinc Oxide, Manganese Sulfate, Copper Amino Acid Complex, Potassium Iodide, Sodium Selenite), Zinc Oxide, Thiamine Mononitrate.",
-      "analysis": "Taurine (Min.) 0.05%",
+      "analysis": [
+         "Crude Protein (Min.) 11.0%",
+         "Crude Fat (Min.) 2.5%",
+         "Crude Fiber (Max.) 1.0%",
+         "Moisture (Max.) 83.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1022 kcal/kg; 73 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -618,7 +649,7 @@
          "No grains, corn, wheat or soy"
       ],
       "descriptions": "Cooked to savory perfection, this handcrafted stew will treat your cat's taste buds to high-quality sardines, whitefish, tuna & mackerel in a tasty gravy. The delicious paté provides complete & balanced nutrition for all breeds of adult cats, and the gourmet flavor will make your cat meow for more Delectable Delights® Life's a Beach® Cat Paté Formula! You can find Natural Balance online or at your local Pet Specialty Store.",
-      "ingredients": " ",
+      "ingredients": "",
       "analysis": [
          "Crude Protein (Min.) 11.0%",
          "Crude Fat (Min.) 3.0%",
