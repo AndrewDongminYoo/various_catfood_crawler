@@ -19,7 +19,7 @@
          "Omega-6 Fatty Acids (Min.) 1.5%",
          "L-Carnitine (Min.) 300 mg/kg"
       ],
-      "calorie": ""
+      "calorie": "ME = 3,200 kcal/kg; 320 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/dry-food/limited-ingredient-diets/high-protein-salmon",
@@ -30,9 +30,12 @@
          "Helps support healthy digestion",
          "Helps support healthy skin and coat"
       ],
-      "descriptions": null,
-      "ingredients": null,
-      "analysis": [],
+      "descriptions": "Natural Balance L.I.D. Limited Ingredient Diets dry cat food offers complete and balanced nutrition for adult cats. This simple formula is made with one animal protein source and two primary carbohydrate sources, which provide fiber and essential vitamins and minerals to help support healthy digestion. Salmon is the number-one ingredient of this high-quality food; there are no grains, fillers, artificial flavors or colors. Whether your cat has food sensitivities, or you just want to keep it simple, Natural Balance L.I.D. Limited Ingredient Diets High Protein provides your cat with balanced nutrition for a happy healthy life. You can find Natural Balance online or at your local Pet Specialty Store.",
+      "ingredients": "",
+      "analysis": [
+         "Omega-3 Fatty Acids (Min.) 0.30%*",
+         "Omega-6 Fatty Acids (Min.) 1.0%*"
+      ],
       "calorie": "ME = 3,760 kcal/kg; 413 kcal/8 oz cup"
    },
    {
@@ -46,7 +49,15 @@
       ],
       "descriptions": null,
       "ingredients": null,
-      "analysis": [],
+      "analysis": [
+         "Crude Protein (Min.) 37.0%",
+         "Crude Fat (Min.) 12.0%",
+         "Crude Fiber (Max.) 4.0%",
+         "Moisture (Max.) 10.0%",
+         "Taurine (Min.) 0.15%",
+         "Omega-3 Fatty Acids (Min.) 0.30%*",
+         "Omega-6 Fatty Acids (Min.) 1.0%*"
+      ],
       "calorie": "ME = 3,610 kcal/kg; 397 kcal/cup"
    },
    {
@@ -60,7 +71,7 @@
       "descriptions": null,
       "ingredients": "Green Peas, Chicken Meal, Chicken, Chicken Fat (Preserved With Mixed Tocopherols), Pea Protein, Natural Flavor, Salmon Oil (Preserved With Mixed Tocopherols), Calcium Carbonate, Flaxseed, Potassium Chloride, Salt, Choline Chloride, DL-Methionine, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Mixed Tocopherols (Preservative), Rosemary Extract, Green Tea Extract, Spearmint Extract ",
       "analysis": "Omega-6 Fatty Acids (Min.) 1.5%*",
-      "calorie": ""
+      "calorie": "ME = 3,600 kcal/kg; 410 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/dry-food/limited-ingredient-diets/green-pea-duck",
@@ -72,7 +83,15 @@
       ],
       "descriptions": null,
       "ingredients": "Green Peas, Duck, Duck Meal, Pea Protein, Canola Oil (Preserved With Mixed Tocopherols), Natural Flavor, Salmon Oil (Preserved With Mixed Tocopherols), Flaxseed, Salt, Choline Chloride, DL-Methionine, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Mixed Tocopherols (Preservative), Rosemary Extract, Green Tea Extract, Spearmint Extract ",
-      "analysis": [],
+      "analysis": [
+         "Crude Protein (Min.) 29.5%",
+         "Crude Fat (Min.) 11.5%",
+         "Crude Fiber (Max.) 5.0%",
+         "Moisture (Max.) 10.0%",
+         "Taurine (Min.) 0.16%",
+         "Omega-3 Fatty Acids (Min.) 0.50%*",
+         "Omega-6 Fatty Acids (Min.) 1.5%*"
+      ],
       "calorie": "ME = 3,500 kcal/kg; 410 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -85,8 +104,11 @@
       ],
       "descriptions": null,
       "ingredients": "Green Peas, Salmon Meal, Salmon, Pea Protein, Canola Oil (Preserved With Mixed Tocopherols), Natural Flavor, Calcium Carbonate, Flaxseed, DL-Methionine, Salt, Choline Chloride, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Taurine, Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Menadione Sodium Bisulfite Complex, Vitamin B12 Supplement, Folic Acid, Biotin), Mixed Tocopherols (Preservative), Rosemary Extract, Green Tea Extract, Spearmint Extract ",
-      "analysis": [],
-      "calorie": ""
+      "analysis": [
+         "Omega-3 Fatty Acids (Min.) 0.80%*",
+         "Omega-6 Fatty Acids (Min.) 1.9%*"
+      ],
+      "calorie": "ME = 3,540 kcal/kg; 410 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/dry-food/limited-ingredient-diets/green-pea-venison",
@@ -98,8 +120,16 @@
       ],
       "descriptions": null,
       "ingredients": "Green Peas, Venison, Pea Protein, Venison Meal, Brewers Dried Yeast, Canola Oil (Preserved with Mixed Tocopherols), Flaxseed, Salmon Oil (Preserved with Mixed Tocopherols), Natural Flavor, Sodium Acid Pyrophosphate (Source of Phosphorus), Salt, Potassium Chloride, DL-Methionine, Choline Chloride, Taurine, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Vitamins (Vitamin E Supplement, Niacin, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Lactic Acid, Citric Acid (Preservative), Mixed Tocopherols (Preservative), Rosemary Extract. ",
-      "analysis": [],
-      "calorie": ""
+      "analysis": [
+         "Crude Protein (Min.) 30.0%",
+         "Crude Fat (Min.) 10.0%",
+         "Crude Fiber (Max.) 5.0%",
+         "Moisture (Max.) 10.0%",
+         "Taurine (Min.) 0.16%",
+         "Omega-3 Fatty Acids (Min.) 0.40%*",
+         "Omega-6 Fatty Acids (Min.) 1.0%*"
+      ],
+      "calorie": "ME = 3,300 kcal/kg; 370 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/dry-food/limited-ingredient-diets/indoor-salmon-chickpea",
@@ -122,7 +152,7 @@
          "Omega-3 Fatty Acids (Min.) 0.50%*",
          "Omega-6 Fatty Acids (Min.) 1.5%*"
       ],
-      "calorie": ""
+      "calorie": "ME = 3,217 kcal/kg; 329 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/dry-food/limited-ingredient-diets/indoor-turkey-chickpea",
@@ -145,7 +175,7 @@
          "Omega-3 Fatty Acids (Min.) 0.20%*",
          "Omega-6 Fatty Acids (Min.) 1.5%*"
       ],
-      "calorie": ""
+      "calorie": "ME = 3,282 kcal/kg; 336 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/dry-food/limited-ingredient-diets/high-protein-chicken",
@@ -158,7 +188,15 @@
       ],
       "descriptions": null,
       "ingredients": null,
-      "analysis": [],
+      "analysis": [
+         "Crude Protein (Min.) 37.0%",
+         "Crude Fat (Min.) 18.0%",
+         "Crude Fiber (Max.) 4.0%",
+         "Moisture (Max.) 10.0%",
+         "Taurine (Min.) 0.15%",
+         "Omega-3 Fatty Acids (Min.) 0.30%*",
+         "Omega-6 Fatty Acids (Min.) 1.0%*"
+      ],
       "calorie": "3,830 kcal/kg, 436 kcal/cup"
    },
    {
@@ -182,7 +220,7 @@
          "Omega-3 Fatty Acids (Min.) 0.50%*",
          "Omega-6 Fatty Acids (Min.) 3.0%*"
       ],
-      "calorie": ""
+      "calorie": "ME = 3,900 kcal/kg; 420 kcal/8 cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/dry-food/original-ultra/chicken-meal-salmon-meal",
@@ -206,7 +244,7 @@
          "Omega-3 Fatty Acids (Min.) 0.50%",
          "Omega-6 Fatty Acids (Min.) 2.5%"
       ],
-      "calorie": ""
+      "calorie": "ME = 3,870 kcal/kg; 425 kcal/cup Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/dry-food/original-ultra/chicken-salmon-meal-als",
@@ -264,7 +302,12 @@
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/canned-food/original-ultra/whole-body-health-chicken-salmon-duck",
       "title": "Original Ultra® Whole Body Health® Chicken, Salmon & Duck Canned Cat Formula | Natural Balance",
-      "key_benefits": null,
+      "key_benefits": [
+         "Complete and balanced nutrition for pets of all life stages",
+         "Helps support neural and brain health",
+         "Helps protect cells with antioxidants",
+         "Helps maintain healthy heart and eyes"
+      ],
       "descriptions": null,
       "ingredients": "Chicken Broth, Chicken, Chicken Liver, Salmon, Duck, Brewers Dried Yeast, Brown Rice, Canola Oil (Preserved With Mixed Tocopherols), Natural Flavor, Menhaden Oil (Preserved With Mixed Tocopherols), Dicalcium Phosphate, Salmon Meal, Calcium Carbonate, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Potassium Chloride, Salt, Taurine, Oat Hulls, Pea Fiber, DL-Methionine, Carrageenan, Choline Chloride, L-Ascorbyl-2-Polyphosphate (Source Of Vitamin C), L-Tryptophan, Cranberries, Blueberries, Dried Kelp, Yucca Schidigera Extract, L-Lysine Monohydrochloride, Rosemary Extract ",
       "analysis": [
@@ -279,7 +322,12 @@
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/canned-food/original-ultra/whole-body-health-reduced-calorie-chicken-salmon-duck",
       "title": "Original Ultra® Whole Body Health® Reduced Calorie Chicken, Salmon & Duck Canned Cat Formula | Natural Balance",
-      "key_benefits": null,
+      "key_benefits": [
+         "Helps support neural and brain health",
+         "Helps protect cells with antioxidants",
+         "Helps maintain healthy heart and eyes",
+         "Helps support healthy bones and teeth"
+      ],
       "descriptions": null,
       "ingredients": "Chicken Broth, Chicken, Chicken Liver, Salmon, Duck, Brown Rice, Chicken Meal, Natural Flavor, Pea Fiber, Oat Hulls, Menhaden Oil (Preserved With Mixed Tocophoerols), Canola Oil (Preserved With Mixed Tocopherols), Dicalcium Phosphate, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Potassium Chloride, Salt, Taurine, Dl-Methionine, Choline Chloride, Magnesium Chloride, Carrageenan, L-Ascorbyl-2-Polyphosphate (Source Of Vitamin C), L-Tryptophan, Cranberries, Blueberries, Dried Kelp, Yucca Schidigera Extract, L-Lysine Monohydrochloride, Rosemary Extract ",
       "analysis": [
@@ -294,8 +342,14 @@
       "title": "Ultra Premium Chicken & Liver Paté Canned Cat Formula | Natural Balance",
       "key_benefits": null,
       "descriptions": null,
-      "ingredients": "",
-      "analysis": [],
+      "ingredients": "Chicken, Chicken Liver, Chicken Broth, Carrots, Brown Rice, Natural Flavor, Dried Egg, Dicalcium Phosphate, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Potassium Chloride, Salt, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite.), Menhaden Oil (Preserved with Mixed Tocopherols), Cranberries, Taurine, Choline Chloride, Carrageenan, Magnesium Chloride, Rosemary Extract",
+      "analysis": [
+         "Crude Protein (Min.) 9.0%",
+         "Crude Fat (Min.) 6.0%",
+         "Crude Fiber (Max.) 1.5%",
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1150 kcal/kg; 100 kcal/3 oz can ME = 1152 kcal/kg; 180 kcal/5.5 oz can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -323,17 +377,28 @@
       "title": "Ultra Premium Ocean Fish Canned Cat Formula | Natural Balance",
       "key_benefits": null,
       "descriptions": null,
-      "ingredients": "",
+      "ingredients": "Ocean Fish, Fish Broth, Turkey, Chicken Liver, Tuna, Carrots, Ground Brown Rice, Natural Flavor, Vitamins ( Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Menadione Sodium Bisulfite Complex, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Guar Gum, Menhaden Oil (Preserved with Mixed Tocopherols), Calcium Carbonate,  Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite),Thiamine Mononitrate, Menhaden Fish Meal, Salt, Dicalcium Phosphate, Potassium Chloride, Cranberries, Carrageenan, Taurine, Rosemary Extract",
       "analysis": "Taurine (Min.) 0.05%",
-      "calorie": ""
+      "calorie": "ME = 1050 kcal/kg; 90 kcal/3 oz can ME = 1170 kcal/kg; 180 kcal/5.5 oz can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/canned-food/original-ultra/salmon",
       "title": "Ultra Premium Salmon Canned Cat Formula | Natural Balance",
-      "key_benefits": null,
+      "key_benefits": [
+         "Complete and balanced nutrition for pets of all life stages",
+         "Helps support healthy digestion",
+         "Helps support healthy skin and coat",
+         "No artificial flavors or colors"
+      ],
       "descriptions": null,
-      "ingredients": "",
-      "analysis": [],
+      "ingredients": "Salmon, Chicken, Chicken Liver, Fish Broth, Whitefish, Dried Egg, Ground Brown Rice, Carrots, Natural Flavor, Vitamins (Choline Chloride, Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, Vitamin A Supplement, Menadione Sodium Bisulfite Complex (source of vitamin K activity), Pyridoxine Hydrochloride, d-Calcium Pantothenate, Riboflavin Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Cranberries, Dicalcium Phosphate, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Guar Gum, Salt, Potassium Chloride, Taurine, Carrageenan",
+      "analysis": [
+         "Crude Protein (Min.) 10.0%",
+         "Crude Fat (Min.) 6.0%",
+         "Crude Fiber (Max.) 1.5%",
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1070 kcal/kg; 100 kcal/3 oz can ME = 1250 kcal/kg; 195 kcal/5.5 oz can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -342,7 +407,10 @@
       "key_benefits": null,
       "descriptions": null,
       "ingredients": "Tuna, Water Sufficient for Processing, Chicken Liver, Whitefish, Chicken, Brown Rice, Shrimp, Natural Flavor, Menhaden Oil (Preserved with Mixed Tocopherols), Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Menadione Sodium Bisulfite Complex, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Choline Chloride, Carrots, Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Guar Gum, Dried Egg Product, Taurine, Cranberries, Salt, Carrageenan, Potassium Chloride, Rosemary Extract",
-      "analysis": [],
+      "analysis": [
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1110 kcal/kg; 173 kcal/5.5 oz can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -351,7 +419,13 @@
       "key_benefits": null,
       "descriptions": null,
       "ingredients": "Turkey, Turkey Broth, Poultry Giblets, Dried Carrots, Brown Rice, Natural Flavor, Dicalcium Phosphate, Salmon Meal, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin D3 Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Guar Gum, Taurine, Potassium Chloride, Salt, Calcium Carbonate, Cranberries, Dl-Methionine, Carrageenan, Choline Chloride",
-      "analysis": [],
+      "analysis": [
+         "Crude Protein (Min.) 9.0%",
+         "Crude Fat (Min.) 5.0%",
+         "Crude Fiber (Max.) 1.5%",
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1070 kcal/kg; 90 kcal/3 oz can ME = 1070 kcal/kg; 170 kcal/5.5 oz can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -365,7 +439,13 @@
       ],
       "descriptions": null,
       "ingredients": null,
-      "analysis": [],
+      "analysis": [
+         "Crude Protein (Min.) 9.0%",
+         "Crude Fat (Min.) 7.0%",
+         "Crude Fiber (Max.) 2.0%",
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1220 kcal/kg; 190 kcal/5.5 oz. can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -378,8 +458,14 @@
          "Complete and balanced nutrition for adult pets"
       ],
       "descriptions": null,
-      "ingredients": null,
-      "analysis": [],
+      "ingredients": "Ingredient Statement:",
+      "analysis": [
+         "Crude Protein (Min.) 9.0%",
+         "Crude Fat (Min.) 4.0%",
+         "Crude Fiber (Max.) 1.0%",
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1250 kcal/kg; 195 kcal/5.5 oz. can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -393,7 +479,13 @@
       ],
       "descriptions": null,
       "ingredients": null,
-      "analysis": [],
+      "analysis": [
+         "Crude Protein (Min.) 9.0%",
+         "Crude Fat (Min.) 3%",
+         "Crude Fiber (Max.) 2%",
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.10%"
+      ],
       "calorie": "ME = 926 kcal/kg; 145 kcal/5.5 oz. can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -407,7 +499,14 @@
       ],
       "descriptions": null,
       "ingredients": null,
-      "analysis": [],
+      "analysis": [
+         "Crude Protein (Min.) 9.0%",
+         "Crude Fat (Min.) 2.5%",
+         "Crude Fat (Max) 5.0%",
+         "Crude Fiber (Max.) 2.5%",
+         "Moisture (Max.) 78.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "ME = 1,110 kcal/kg; 173 kcal/5.5 oz. can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -420,7 +519,7 @@
          "Complete and balanced nutrition for adult pets"
       ],
       "descriptions": null,
-      "ingredients": null,
+      "ingredients": "Salmon Broth, Salmon, Chickpeas, Peas, Pea Protein, Natural Flavor, Salmon Oil (Preserved With Mixed Tocopherols), Pea Fiber, Salmon Meal, Choline Chloride, Taurine, Guar Gum, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Niacin, Vitamin A Supplement, Menadione Sodium Bisulfite Complex, Pyridoxine Hydrochloride, D-Calcium Pantothenate, Riboflavin Supplement, Vitamin B12 Supplement, Folic Acid, Biotin), Minerals (Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Calcium Iodate, Sodium Selenite), Calcium Carbonate, Dicalcium Phosphate, Potassium Chloride, Salt, Cranberries, Inulin, Carrageenan, Flaxseed, Yucca Schidigera Extract. ",
       "analysis": "Taurine (Min.) 0.05%",
       "calorie": "ME = 990 kcal/kg; 155 kcal/5.5 oz. can Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
@@ -456,7 +555,7 @@
       "descriptions": "Cooked to savory perfection, this handcrafted stew will treat your cat's taste buds to high-quality tuna and chicken in a tasty gravy. The delicious paté provides complete & balanced nutrition for all breeds of adult cats, and the gourmet flavor will make your cat roll over for more Delectable Delights® Land ‘n Sea Cat-serole® Cat Paté Formula! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": "Tuna Broth, Tuna, Chicken, Whitefish, Pea Protein, Rice Flour, Sunflower Oil, Tricalcium Phosphate, Guar Gum, Potassium Chloride, Choline Chloride, Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, D-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity), Folic Acid, Biotin, Vitamin B12 Supplement), Salt, Taurine, Minerals (Ferrous Sulfate, Zinc Oxide, Manganese Sulfate, Copper Amino Acid Complex, Potassium Iodide, Sodium Selenite), Zinc Oxide, Thiamine Mononitrate.",
       "analysis": "Taurine (Min.) 0.05%",
-      "calorie": ""
+      "calorie": "ME = 1022 kcal/kg; 73 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
       "url": "https://www.naturalbalanceinc.com/cat-formulas/wet-food/delectable-delights/life-s-a-beach",
@@ -469,7 +568,13 @@
       ],
       "descriptions": "Cooked to savory perfection, this handcrafted stew will treat your cat's taste buds to high-quality sardines, whitefish, tuna & mackerel in a tasty gravy. The delicious paté provides complete & balanced nutrition for all breeds of adult cats, and the gourmet flavor will make your cat meow for more Delectable Delights® Life's a Beach® Cat Paté Formula! You can find Natural Balance online or at your local Pet Specialty Store.",
       "ingredients": " ",
-      "analysis": [],
+      "analysis": [
+         "Crude Protein (Min.) 11.0%",
+         "Crude Fat (Min.) 3.0%",
+         "Crude Fiber (Max.) 1.0%",
+         "Moisture (Max.) 80.0%",
+         "Taurine (Min.) 0.10%"
+      ],
       "calorie": "1042 kcal/kg 74 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -482,8 +587,14 @@
          "No grains, corn, wheat or soy"
       ],
       "descriptions": "Cooked to savory perfection, this handcrafted stew will treat your cat's taste buds to high-quality tuna, salmon, carrots & shrimp in a tasty gravy. The grain-free ingredients provide complete & balanced nutrition for all breeds of adult cats, and the gourmet flavor will make your cat meow for more Delectable Delights® O'Fishally Scampi® Cat Stew Formula! You can find Natural Balance online or at your local Pet Specialty Store.",
-      "ingredients": "",
-      "analysis": [],
+      "ingredients": "Tuna Broth, Tuna, Salmon, Chicken, Carrots, Shrimp, Dill, Dried Egg, Pea Protein, Tapioca Starch, Guar Gum, Tricalcium Phosphate, Sunflower Oil, Salt, Choline Chloride, Potassium Chloride, Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, D-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity), Folic Acid, Biotin, Vitamin B12 Supplement), Taurine, Minerals (Ferrous Sulfate, Zinc Oxide, Manganese Sulfate, Copper Amino Acid Complex, Potassium Iodide, Sodium Selenite), Magnesium Sulfate, Zinc Oxide, Thiamine Mononitrate",
+      "analysis": [
+         "Crude Protein (Min.) 10%",
+         "Crude Fat (Min.) 2%",
+         "Crude Fiber (Max.) 1%",
+         "Moisture (Max.) 83%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "828 kcal/kg 59 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -496,8 +607,14 @@
          "No grains, corn, wheat or soy"
       ],
       "descriptions": "Cooked to savory perfection, this handcrafted stew will treat your cat's taste buds to high-quality whitefish, sardines & kale in a tasty gravy. The grain-free ingredients provide complete & balanced nutrition for all breeds of adult cats, and the gourmet flavor will make your cat purr for more Delectable Delights® Purrrfect Paella® Cat Stew Formula! You can find Natural Balance online or at your local Pet Specialty Store.",
-      "ingredients": "",
-      "analysis": [],
+      "ingredients": "Tuna Broth, Whitefish, Sardines, Chicken, Kale, Scallops, Dried Egg, Tapioca Starch, Pea Protein, Sunflower Oil, Guar Gum, Tricalcium Phosphate, Salt, Choline Chloride, Potassium Chloride, Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, D-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity), Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Ferrous Sulfate, Zinc Oxide, Manganese Sulfate, Copper Amino Acid Complex, Potassium Iodide, Sodium Selenite), Taurine, Magnesium Sulfate, Zinc Oxide, Thiamine Mononitrate.",
+      "analysis": [
+         "Crude Protein (Min.) 10.0%",
+         "Crude Fat (Min.) 2.0%",
+         "Crude Fiber (Max.) 1.0%",
+         "Moisture (Max.) 83.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "822 kcal/kg 58 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    },
    {
@@ -510,8 +627,14 @@
          "No grains, corn, wheat or soy"
       ],
       "descriptions": "Cooked to savory perfection, this handcrafted stew will treat your cat's taste buds to high-quality tuna, whitefish & carrots in a tasty gravy. The grain-free ingredients provide complete & balanced nutrition for all breeds of adult cats, and the gourmet flavor will make your cat purr for more Delectable Delights® Sea Brulée® Cat Stew Formula! You can find Natural Balance online or at your local Pet Specialty Store.",
-      "ingredients": "",
-      "analysis": [],
+      "ingredients": "Tuna Broth, Whitefish, Sardines, Chicken, Kale, Scallops, Dried Egg, Tapioca Starch, Pea Protein, Sunflower Oil, Guar Gum, Tricalcium Phosphate, Salt, Choline Chloride, Potassium Chloride, Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, D-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity), Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Ferrous Sulfate, Zinc Oxide, Manganese Sulfate, Copper Amino Acid Complex, Potassium Iodide, Sodium Selenite), Taurine, Magnesium Sulfate, Zinc Oxide, Thiamine Mononitrate.",
+      "analysis": [
+         "Crude Protein (Min.) 10.0%",
+         "Crude Fat (Min.) 2.0%",
+         "Crude Fiber (Max.) 1.0%",
+         "Moisture (Max.) 83.0%",
+         "Taurine (Min.) 0.05%"
+      ],
       "calorie": "846 kcal/kg 60 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
    }
 ]

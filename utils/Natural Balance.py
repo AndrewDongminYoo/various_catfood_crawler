@@ -1,5 +1,7 @@
 from selenium import webdriver
 from selenium.common.exceptions import JavascriptException, NoSuchElementException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from import_csv import result
 import json
@@ -8,12 +10,42 @@ import time
 Natural_Balance_url_list = result['Natural Balance']
 driver = webdriver.Chrome()
 driver.implicitly_wait(10)
+wait = WebDriverWait(driver, timeout=7)
 NBalance = []
 
 
 def set_attr(element_id: str, attr_to_on: str):
     driver.execute_script(f"document.getElementById('{element_id}').setAttribute('{attr_to_on}','true');")
 
+scroll_to_bottom = "window.scrollTo(0, document.body.scrollHeight);"
+scroll_300px = "window.scrollBy(0, 300);"
+get_window_height = "return document.body.scrollHeight"
+last_height = driver.execute_script(get_window_height)
+# while True:
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     driver.execute_script(scroll_300px)
+#     time.sleep(1)
+#     new_height = driver.execute_script(get_window_height)
+#     if new_height == last_height:
+#         break
+#     last_height = new_height
 
 def get_text_by_xpath(xpath):
     result_list = []
@@ -81,18 +113,15 @@ input_file = open("./data/Natural_Balance.json", mode="r", encoding="utf-8")
 NBalance = json.load(input_file)
 for formula in NBalance:
     driver.get(formula['url'])
-    time.sleep(2)
-    if not formula['descriptions']:
-        formula['descriptions'] = get_text_by_css('#content > div.module.product-detail-header > div > div.meta.animated.fadeInUp.in-view > div.product-description > div > div > div > p')
-    driver.execute_script("window.scrollBy(0, 900);")
-    if not formula['key_benefits']:
-        formula['key_benefits'] = get_text_by_css('p.Description__consist-text')
-    driver.execute_script("window.scrollBy(0, 600);")
-    if not formula['analysis']:
-        formula['analysis'] = get_text_by_css('#tab-nutrition > div > div.left > div > div > table > tbody > tr')
-    if not formula['ingredients']:
-        formula['ingredients'] = get_text_by_css('#tab-nutrition > div > div.right > div > div:nth-child(1) > div > div > div > div')
-    formula['calorie'] = get_text_by_css('#tab-nutrition > div > div.right > div > div:nth-child(2) > div > p')
+    formula['descriptions'] = get_text_by_css('main.product-detail.theme.pink:nth-child(5) div.module.product-detail-header:nth-child(1) div.tb-wrap div.meta.animated.fadeInUp.in-view div.product-description > p:nth-child(1)')
+    driver.execute_script('window.scrollTo(0, 600);')
+    formula['key_benefits'] = get_text_by_css('main.product-detail.theme.pink:nth-child(5) div.module.formula-benefits.animated.fadeInUp.in-view:nth-child(2) div.carousel:nth-child(2) div.items.slick-initialized.slick-slider div.slick-list.draggable div.slick-track div.slick-slide.slick-active div:nth-child(1) div.item > h6')
+    driver.execute_script('window.scrollTo(0, 1350);')
+    formula['analysis'] = get_text_by_css('main.product-detail.theme.pink:nth-child(5) div.module.product-detail-tabs.animated.fadeInUp.in-view:nth-child(3) div.tabs-content div.tab-content.active:nth-child(1) div.tb-wrap div.left div.guaranteed-analysis.mobile-drawer div.mobile-drawer-content:nth-child(2) table:nth-child(1) tbody:nth-child(1) tr')
+    driver.execute_script('window.scrollTo(0, 1350);')
+    formula['ingredients'] = get_text_by_css('main.product-detail.theme.pink:nth-child(5) div.module.product-detail-tabs.animated.fadeInUp.in-view:nth-child(3) div.tabs-content div.tab-content.active:nth-child(1) div.tb-wrap div.right div.h-set div.mobile-drawer:nth-child(1) div.mobile-drawer-content:nth-child(2) > p:nth-child(2)')
+    driver.execute_script('window.scrollTo(0, 1450);')
+    formula['calorie'] = get_text_by_css('main.product-detail.theme.pink:nth-child(5) div.module.product-detail-tabs.animated.fadeInUp.in-view:nth-child(3) div.tabs-content div.tab-content.active:nth-child(1) div.tb-wrap div.right div.h-set div.mobile-drawer:nth-child(2) div.mobile-drawer-content:nth-child(2) > p:nth-child(1)')
     print(formula)
 output_file = open("./data/Natural_Balance_.json", mode="w", encoding="utf-8")
 json.dump(NBalance, output_file, indent=3, ensure_ascii=False)
