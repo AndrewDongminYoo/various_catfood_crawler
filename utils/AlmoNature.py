@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from import_csv import result
 import json
+import time
 
 Amlonature_url_list = result['AlmoNature']
 driver = webdriver.Chrome()
@@ -35,33 +36,35 @@ def get_text_by_css(css):
     return result_list
 
 
-# for url in Amlonature_url_list:
-#     driver.get(url)
-#     title = driver.title[0:-19]
-#     descriptions = get_text_by_xpath('//*[@id="product"]/div/section[1]/div[2]/p')
-#     key_benefits = get_text_by_xpath('//*[@id="product"]/div/section[1]/ul/li[1]/div[2]')
-#     analysis = get_text_by_xpath('//*[@id="product"]/div/section[2]/div/div[3]/ul/li')
-#     ingredients = get_text_by_xpath('//*[@id="product"]/div/section[2]/div/div[4]/div/ul/li/p')
-#     calorie = get_text_by_xpath('//*[@id="product"]/div/section[2]/div/div[3]/ul/li[6]/span[2]/b')
-#     product = {
-#         "url": url,
-#         "title": title,
-#         "key_benefits": key_benefits,
-#         "descriptions": descriptions,
-#         "ingredients": ingredients,
-#         "analysis": analysis,
-#         "calorie": calorie
-#     }
-#     print(product)
-#     almo.append(product)
-# driver.quit()
-# input_file = open("./data/AlmoNature.json", mode="w", newline="", encoding="utf-8")
-# json.dump(obj=almo, fp=input_file, indent=3, ensure_ascii=False)
-# input_file.close()
+for url in Amlonature_url_list:
+    driver.get(url)
+    title = driver.title[0:-19]
+    descriptions = get_text_by_xpath('//*[@id="product"]/div/section[1]/div[2]/p')
+    key_benefits = get_text_by_xpath('//*[@id="product"]/div/section[1]/ul/li[1]/div[2]')
+    analysis = get_text_by_xpath('//*[@id="product"]/div/section[2]/div/div[3]/ul/li')
+    ingredients = get_text_by_xpath('//*[@id="product"]/div/section[2]/div/div[4]/div/ul/li/p')
+    calorie = get_text_by_xpath('//*[@id="product"]/div/section[2]/div/div[3]/ul/li[6]/span[2]/b')
+    product = {
+        "url": url,
+        "title": title,
+        "key_benefits": key_benefits,
+        "descriptions": descriptions,
+        "ingredients": ingredients,
+        "analysis": analysis,
+        "calorie": calorie
+    }
+    print(product)
+    almo.append(product)
+driver.quit()
+input_file = open("./data/AlmoNature.json", mode="w", newline="", encoding="utf-8")
+json.dump(obj=almo, fp=input_file, indent=3, ensure_ascii=False)
+input_file.close()
 input_file = open("./data/AlmoNature.json", mode="r", encoding="utf-8")
 almo = json.load(input_file)
 for formula in almo:
     driver.get(formula['url'])
+    time.sleep(2)
+    driver.execute_script("window.scrollBy(0, 1000);")
     if not formula['descriptions']:
         formula['descriptions'] = get_text_by_css('p.Description__text')
     if not formula['key_benefits']:

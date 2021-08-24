@@ -21,7 +21,7 @@
          "Recipes with no added grain. Ideal for those who choose a product without added grain.",
          "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Ham, Water sufficient for processing, Cheese (Parmigiano Reggiano), Guar gum",
       "analysis": [
          "Crude fat 1%",
@@ -71,17 +71,29 @@
    {
       "url": "https://www.almonature.com/en/cat-products/2504H-HQS-Made-in-Italy-Salmon-in-broth",
       "title": "HQS Made in Italy Salmon in broth for cats",
-      "key_benefits": [],
-      "descriptions": "",
-      "ingredients": "",
-      "analysis": [],
-      "calorie": ""
+      "key_benefits": [
+         "Single animal source of proteins, meat or fish. Ideal in case of food sensitivities.",
+         "No gluten recipes, where rice is the only source of grain.",
+         "Recipes with no added grain. Ideal for those who choose a product without added grain.",
+         "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
+      ],
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
+      "ingredients": "Ingredients: Salmon, Water sufficient for processing, Guar gum",
+      "analysis": [
+         "Crude protein 12%",
+         "Crude fat 10%",
+         "Moisture 79%",
+         "Crude fiber 1.5%",
+         "Ash 1%",
+         "Energy 1600 kcal ME/kg, 112 kcal ME/2.47oz"
+      ],
+      "calorie": "Energy 1600 kcal ME/kg, 112 kcal ME/2.47oz"
    },
    {
       "url": "https://www.almonature.com/en/cat-products/1711-HQS-Complete-Tuna-recipe-with-Quinoa-in-gravy",
       "title": "HQS Complete Tuna recipe with Quinoa in gravy for cats",
       "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
-      "descriptions": null,
+      "descriptions": "",
       "ingredients": "Ingredients: Tuna, Fish Broth, Quinoa, Sunflower Oil, Tapioca Starch, Calcium Sulfate, Tricalcium Phosphate, Guar Gum, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate, Copper Glycine Complex, Potassium Iodide), Vitamins ((Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin, Supplement, Pyridoxine Hydrochloride, Biotin Supplement, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)), Choline Chloride, Magnesium Sulfate, Taurine.",
       "analysis": [
          "Crude Protein 14%",
@@ -97,7 +109,7 @@
       "url": "https://www.almonature.com/en/cat-products/1712-HQS-Complete-Tuna-recipe-with-Mango-in-gravy",
       "title": "HQS Complete Tuna recipe with Mango in gravy for cats",
       "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
-      "descriptions": null,
+      "descriptions": "",
       "ingredients": [
          "Ingredients: Tuna, Fish Broth, Mango, Sunflower Oil, Tapioca Starch, Calcium Sulfate, Tricalcium Phosphate, Guar Gum, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate, Copper Glycine Complex, Potassium Iodide), Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin Supplement, Folic Acid, Menadione"
       ],
@@ -115,7 +127,7 @@
       "url": "https://www.almonature.com/en/cat-products/1713-HQS-Complete-Chicken-recipe-with-Zucchini-in-gravy",
       "title": "HQS Complete Chicken recipe with Zucchini in gravy for cats",
       "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
-      "descriptions": null,
+      "descriptions": "",
       "ingredients": "Ingredients: Chicken, Chicken Broth, Zucchini, Sunflower Oil, Tapioca Starch, Calcium Sulfate, Tricalcium Phosphate, Sodium Triphosphate, Guar Gum, Potassium Chloride, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate, Copper Glycine Complex, Potassium Iodide), Vitamins, (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin Supplement, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)), Choline Chloride, Magnesium Sulfate, Taurine",
       "analysis": [
          "Crude Protein 12 %",
@@ -131,7 +143,7 @@
       "url": "https://www.almonature.com/en/cat-products/1714-HQS-Complete-Tuna-recipe-with-Quail-Eggs-in-gravy",
       "title": "HQS Complete Tuna recipe with Quail Eggs in gravy for cats",
       "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
-      "descriptions": null,
+      "descriptions": "",
       "ingredients": "Ingredients: Tuna, Fish Broth, Quail Egg, Sunflower Oil, Tapioca Starch Calcium Sulfate, Tricalcium Phosphate, Guar Gum, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate, Copper Glycine Complex, Potassium Iodide), Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin Supplement, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)), Choline Chloride, Magnesium Sulfate, Taurine.",
       "analysis": [
          "Crude Protein 14 %",
@@ -147,7 +159,7 @@
       "url": "https://www.almonature.com/en/cat-products/1715-HQS-Complete-Salmon-recipe-with-Papaya-in-gravy",
       "title": "HQS Complete Salmon recipe with Papaya in gravy for cats",
       "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
-      "descriptions": null,
+      "descriptions": "",
       "ingredients": [
          "Ingredients: Salmon, Fish Broth, Papaya, Sunflower Oil, Tapioca Starch, Calcium Sulfate, Tricalcium Phosphate, Guar Gum,"
       ],
@@ -165,7 +177,7 @@
       "url": "https://www.almonature.com/en/cat-products/1700-HQS-Complete-Chicken-recipe-with-Carrots-in-gravy",
       "title": "HQS Complete Chicken recipe with Carrots in gravy for cats",
       "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Complete and balance cat food made with the finest fresh ingredients. With added vitamins and minerals. Complete and Balance - Feed your HQS Complete 3 cans per day for every 8 lbs of bodyweight. Adjust as necessary for less active or more active cats.",
       "ingredients": "Ingredients: Chicken, Water Sufficient For Cooking, Carrots, Sunflower Oil, Tapioca Starch, Natural Flavor, Tricalcium Phosphate, Guar Gum, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate Monohydrate, Copper Glycine Complex, Potassium Iodide), Choline Chloride, Taurine, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)), Potassium Chloride.",
       "analysis": [
          "Crude Protein 14.50%",
@@ -178,24 +190,12 @@
       "calorie": "Kcal/2.47 oz 65.0"
    },
    {
-      "url": "https://www.almonature.com/en/cat-products/1701-HQS-Complete-Chicken-recipe-with-Cheese-in-gravy",
-      "title": "HQS Complete Chicken recipe with Cheese in gravy for cats",
-      "key_benefits": [
-         "No gluten recipes, where rice is the only source of grain.",
-         "Recipes with no added grain. Ideal for those who choose a product without added grain."
-      ],
-      "descriptions": null,
-      "ingredients": null,
-      "analysis": null,
-      "calorie": null
-   },
-   {
       "url": "https://www.almonature.com/en/cat-products/1702-HQS-Complete-Chicken-recipe-with-Green-Beans-in-gravy",
       "title": "HQS Complete Chicken recipe with Green Beans in gravy for cats",
       "key_benefits": [
          "Recipes with no added grain. Ideal for those who choose a product without added grain."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Complete and balance cat food made with the finest fresh ingredients. With added vitamins and minerals. Complete and Balance - Feed your HQS Complete 3 cans per day for every 8 lbs of bodyweight. Adjust as necessary for less active or more active cats.",
       "ingredients": "Ingredients: Chicken, Water Sufficient For Cooking, Green Beans, Sunflower Oil, Tapioca Starch, Natural Flavor, Tricalcium Phosphate, Guar Gum, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate Monohydrate, Copper Glycine Complex, Potassium Iodide), Choline Chloride, Taurine, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)).",
       "analysis": [
          "Crude Protein 14.5%",
@@ -214,7 +214,7 @@
          "No gluten recipes, where rice is the only source of grain.",
          "Recipes with no added grain. Ideal for those who choose a product without added grain."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Complete and balance cat food made with the finest fresh ingredients. With added vitamins and minerals. Complete and Balance - Feed your HQS Complete 3 cans per day for every 8 lbs of bodyweight. Adjust as necessary for less active or more active cats.",
       "ingredients": "Ingredients: Tuna, Water Sufficient For Cooking, Pumpkin, Sunflower Oil, Tapioca Starch, Natural Flavor, Tricalcium Phosphate, Guar Gum, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate Monohydrate, Copper Glycine Complex, Potassium Iodide), Choline Chloride, Taurine, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)).",
       "analysis": [
          "Crude Protein 14.5%",
@@ -248,8 +248,11 @@
    {
       "url": "https://www.almonature.com/en/cat-products/1705-HQS-Complete-Mackerel-recipe-with-Sweet-Potatoes-in-gravy",
       "title": "HQS Complete Mackerel recipe with Sweet Potatoes in gravy for cats",
-      "key_benefits": [],
-      "descriptions": "",
+      "key_benefits": [
+         "No gluten recipes, where rice is the only source of grain.",
+         "Recipes with no added grain. Ideal for those who choose a product without added grain."
+      ],
+      "descriptions": "HQS - High Quality Sourced. Complete and balance cat food made with the finest fresh ingredients. With added vitamins and minerals. Complete and Balance - Feed your HQS Complete 3 cans per day for every 8 lbs of bodyweight. Adjust as necessary for less active or more active cats.",
       "ingredients": "Ingredients: Mackerel, Water Sufficient For Cooking, Sweet Potatoes, Tapioca Starch, Natural Flavor, Sunflower Oil, Guar Gum, Tricalcium Phosphate, Potassium Chloride, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate Monohydrate, Copper Glycine Complex, Potassium Iodide), Taurine, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)), Choline Chloride.",
       "analysis": [
          "Crude Protein 12.5%",
@@ -264,11 +267,21 @@
    {
       "url": "https://www.almonature.com/en/cat-products/1706-HQS-Complete-Chicken-recipe-with-Duck-in-gravy",
       "title": "HQS Complete Chicken recipe with Duck in gravy for cats",
-      "key_benefits": [],
-      "descriptions": "",
-      "ingredients": "",
-      "analysis": [],
-      "calorie": ""
+      "key_benefits": [
+         "No gluten recipes, where rice is the only source of grain.",
+         "Recipes with no added grain. Ideal for those who choose a product without added grain."
+      ],
+      "descriptions": "HQS - High Quality Sourced. Complete and balance cat food made with the finest fresh ingredients. With added vitamins and minerals. Complete and Balance - Feed your HQS Complete 3 cans per day for every 8 lbs of bodyweight. Adjust as necessary for less active or more active cats.",
+      "ingredients": "Ingredients: Chicken, Water Sufficient For Cooking, Duck, Sunflower Oil, Tapioca Starch, Guar Gum, Potassium Chloride, Tricalcium Phosphate, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate Monohydrate, Copper Glycine Complex, Potassium Iodide), Choline Chloride, Taurine, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity)).",
+      "analysis": [
+         "Crude Protein 14%",
+         "Crude Fat 2%",
+         "Moisture 81%",
+         "Crude Fiber 0.5%",
+         "Ash 2.5%",
+         "Energy 890.8 kcals/kg - 62.3 kcals/2.47 oz"
+      ],
+      "calorie": "Energy 890.8 kcals/kg - 62.3 kcals/2.47 oz"
    },
    {
       "url": "https://www.almonature.com/en/cat-products/1707-HQS-Complete-Chicken-recipe-with-Turkey-in-Gravy",
@@ -277,7 +290,7 @@
          "No gluten recipes, where rice is the only source of grain.",
          "Recipes with no added grain. Ideal for those who choose a product without added grain."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Complete and balance cat food made with the finest fresh ingredients. With added vitamins and minerals. Complete and Balance - Feed your HQS Complete 3 cans per day for every 8 lbs of bodyweight. Adjust as necessary for less active or more active cats.",
       "ingredients": "Ingredients: Chicken, Water Sufficient For Cooking, Turkey, Sunflower Oil, Tapioca Starch, Tricalcium Phosphate, Guar Gum, Potassium Chloride, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate Monohydrate, Copper Glycine Complex, Potassium Iodide), Taurine, Choline Chloride, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity)).",
       "analysis": [
          "Crude Protein 14%",
@@ -287,13 +300,16 @@
          "Ash 2.5%",
          "Energy 897.3 kcals/kg - 62.8 kcals/2.47 oz"
       ],
-      "calorie": ""
+      "calorie": "Energy 897.3 kcals/kg - 62.8 kcals/2.47 oz"
    },
    {
       "url": "https://www.almonature.com/en/cat-products/1708-HQS-Complete-Chicken-recipe-with-Sweet-Potatoes-in-gravy",
       "title": "HQS Complete Chicken recipe with Sweet Potatoes in gravy for cats",
-      "key_benefits": [],
-      "descriptions": "",
+      "key_benefits": [
+         "No gluten recipes, where rice is the only source of grain.",
+         "Recipes with no added grain. Ideal for those who choose a product without added grain."
+      ],
+      "descriptions": "HQS - High Quality Sourced. Complete and balance cat food made with the finest fresh ingredients. With added vitamins and minerals. Complete and Balance - Feed your HQS Complete 3 cans per day for every 8 lbs of bodyweight. Adjust as necessary for less active or more active cats.",
       "ingredients": "Ingredients: Chicken, Water Sufficient For Cooking, Sweet Potatoes, Sunflower Oil, Tapioca Starch, Tricalcium Phosphate, Guar Gum, Potassium Chloride, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate Monohydrate, Copper Glycine Complex, Potassium Iodide), Choline Chloride, Taurine, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity)).",
       "analysis": [
          "Energy 949 kcals/kg - 66.4 kcals/2.47 oz."
@@ -303,11 +319,20 @@
    {
       "url": "https://www.almonature.com/en/cat-products/1709-HQS-Complete-Mackerel-recipe-with-Sea-Bream-in-gravy",
       "title": "HQS Complete Mackerel recipe with Sea Bream in gravy for cats",
-      "key_benefits": [],
-      "descriptions": "",
-      "ingredients": "",
-      "analysis": [],
-      "calorie": ""
+      "key_benefits": [
+         "No gluten recipes, where rice is the only source of grain.",
+         "Recipes with no added grain. Ideal for those who choose a product without added grain."
+      ],
+      "descriptions": "HQS - High Quality Sourced. Complete and balance cat food made with the finest fresh ingredients. With added vitamins and minerals. Complete and Balance - Feed your HQS Complete 3 cans per day for every 8 lbs of bodyweight. Adjust as necessary for less active or more active cats.",
+      "ingredients": "Ingredients: Mackerel, Water Sufficient For Cooking, Sea Bream, Sunflower Oil, Tapioca Starch, Calcium Sulfate, Potassium Chloride, Guar Gum, Magnesium Sulfate, Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate Monohydrate, Copper Glycine Complex, Potassium Iodide), Taurine, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity)).",
+      "analysis": [
+         "Crude Protein 14%",
+         "Crude Fat 2%",
+         "Moisture 81%",
+         "Crude Fiber 0.5%",
+         "Ash 2.5%"
+      ],
+      "calorie": "Energy 892.2 Kcal ME/kg - 62.4 Kcal ME/2.47oz"
    },
    {
       "url": "https://www.almonature.com/en/cat-products/1710-HQS-Complete-Tuna-recipe-with-Sardines-in-gravy",
@@ -323,10 +348,9 @@
          "Crude Fat 2%",
          "Moisture 81%",
          "Crude Fiber 0.5%",
-         "Ash 2.5%",
-         "Energy 873.4 kcals/kg - 61.1 kcals/2.47 oz"
+         "Ash 2.5%"
       ],
-      "calorie": ""
+      "calorie": "Energy 873.4 kcals/kg - 61.1 kcals/2.47 oz"
    },
    {
       "url": "https://www.almonature.com/en/cat-products/1001H-HQS-Natural-Chicken-Drumstick-in-broth",
@@ -366,7 +390,7 @@
       "url": "https://www.almonature.com/en/cat-products/1003H-HQS-Natural-Mixed-Seafood-in-broth",
       "title": "HQS Natural Mixed Seafood in broth for cats",
       "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: White Fish 46%, Water Sufficient For Cooking 24%, Clams 14%, Squid 9%, Shrimp 7%.",
       "analysis": [
          "Crude Protein 13%",
@@ -381,8 +405,13 @@
    {
       "url": "https://www.almonature.com/en/cat-products/1004H-HQS-Natural-Chicken-Breast-in-broth",
       "title": "HQS Natural Chicken Breast in broth for cats",
-      "key_benefits": [],
-      "descriptions": "",
+      "key_benefits": [
+         "Single animal source of proteins, meat or fish. Ideal in case of food sensitivities.",
+         "No gluten recipes, where rice is the only source of grain.",
+         "Recipes with no added grain. Ideal for those who choose a product without added grain.",
+         "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
+      ],
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Chicken Breast 76%, Water Sufficient For Cooking 24%.",
       "analysis": [
          "Crude Fiber 0.5%",
@@ -416,9 +445,16 @@
       "url": "https://www.almonature.com/en/cat-products/1006H-HQS-Natural-Salmon-with-Carrots-in-broth",
       "title": "HQS Natural Salmon with Carrots in broth for cats",
       "key_benefits": "Single protein Single animal source of proteins, meat or fish. Ideal in case of food sensitivities.",
-      "descriptions": "",
-      "ingredients": null,
-      "analysis": [],
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
+      "ingredients": "",
+      "analysis": [
+         "Crude Protein (min) 15%",
+         "Crude Fat (min) 0.5%",
+         "Crude Fiber (max) 1%",
+         "Moisture (max) 82%",
+         "Ash (max) 3%",
+         "Energy 560 Kcal ME/kg – 39.2 Kcal ME/2.47oz"
+      ],
       "calorie": "560 Kcal ME/kg – 39.2 Kcal ME/2.47oz"
    },
    {
@@ -429,7 +465,7 @@
          "Recipes with no added grain. Ideal for those who choose a product without added grain.",
          "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Salmon 38%, Chicken 38%, Water Sufficient For Cooking 24%.",
       "analysis": [
          "Crude Protein 17.5%",
@@ -464,10 +500,19 @@
    {
       "url": "https://www.almonature.com/en/cat-products/1009H-HQS-Natural-Tuna-and-Cheese-in-broth",
       "title": "HQS Natural Tuna and Cheese in broth for cats",
-      "key_benefits": [],
-      "descriptions": "",
+      "key_benefits": [
+         "No gluten recipes, where rice is the only source of grain.",
+         "Recipes with no added grain. Ideal for those who choose a product without added grain.",
+         "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
+      ],
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Tuna 69%, Water Sufficient For Cooking 24%, Cheese 7%.",
-      "analysis": [],
+      "analysis": [
+         "Moisture 79%",
+         "Crude Fiber 0.1%",
+         "Ash 1%",
+         "Energy 750 - Kcal/70 g (2.47 oz) 52.5"
+      ],
       "calorie": "750 - Kcal/70 g (2.47 oz) 52.5"
    },
    {
@@ -494,7 +539,7 @@
          "Recipes with no added grain. Ideal for those who choose a product without added grain.",
          "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Tuna 70%, Water Sufficient For Cooking 24%, Shrimp 6%.",
       "analysis": [
          "Crude Protein 18%",
@@ -514,7 +559,7 @@
          "Recipes with no added grain. Ideal for those who choose a product without added grain.",
          "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Tuna 48%, Chicken 28%, Water Sufficient For Cooking 24%.",
       "analysis": [
          "Crude Protein 18%",
@@ -616,7 +661,7 @@
          "Recipes with no added grain. Ideal for those who choose a product without added grain.",
          "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Pacific Tuna 76%, Water Sufficient For Cooking 24%.",
       "analysis": [
          "Crude Protein 17%",
@@ -633,7 +678,7 @@
       "title": "HQS Natural Tuna and Clams in broth for cats",
       "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
       "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
-      "ingredients": "",
+      "ingredients": "Ingredients: Tuna 70%, Water Sufficient For Cooking 24%, Clams 6%",
       "analysis": [
          "Crude Protein 17%",
          "Crude Fat 0.6%",
@@ -691,7 +736,7 @@
       "key_benefits": [
          "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
       ],
-      "descriptions": "",
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Chicken 70%, Water Sufficient for Processing 24%, Quinoa 6%.",
       "analysis": [
          "Crude Protein 15.3%",
@@ -706,8 +751,13 @@
    {
       "url": "https://www.almonature.com/en/cat-products/1050H-HQS-Natural-Chicken-Recipe-in-broth-Kitten",
       "title": "HQS Natural Chicken Recipe in broth - Kitten for cats",
-      "key_benefits": [],
-      "descriptions": "",
+      "key_benefits": [
+         "Single animal source of proteins, meat or fish. Ideal in case of food sensitivities.",
+         "No gluten recipes, where rice is the only source of grain.",
+         "Recipes with no added grain. Ideal for those who choose a product without added grain.",
+         "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
+      ],
+      "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
       "ingredients": "Ingredients: Chicken 50%, Water Sufficient for Processing 40%, Cheese 5%, Sunflower Oil 3%, Chicken Liver 1%, Dehydrated Egg 1%.",
       "analysis": [
          "Ash 1%",
