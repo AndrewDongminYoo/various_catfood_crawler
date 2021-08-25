@@ -3,9 +3,17 @@
         "brand": "Nutrience",
         "url": "https://nutrience.com/products/healthy-kitten/",
         "title": "Canadian made Healthy Kitten, Chicken food - Nutrience -kitten formula",
-        "descriptions": "CUSTOMER RATING (41)",
-        "key_benefits": null,
-        "ingredients": null,
+        "descriptions": "Nutrience Infusion kibble for kittens is a Canadian made kitten food, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals. Whole vegetables and fruits are included for their antioxidant and phytonutrient properties to help kittens develop a strong immune system. Additionally, this formula is made with natural sources of DHA to help support brain and eye development. Plus, this kitten food is rich in Canadian-sourced protein and freeze-dried infused for a superior flavor that even the finickiest kittens will crave. On top of being delicious, this kibble is also fortified with prebiotics and probiotics that provide greater absorption of nutrients and help support your kitten’s healthy gut flora.",
+        "key_benefits": [
+            "Supports Brain Development Contains DHA to help support brain and eye development.",
+            "Helps Develop a Strong Immune System Made with whole fruits and vegetables containing rich antioxidant and phytonutrient properties to help develop a strong immune system.",
+            "Rich in Omega-3 Fatty Acids Salmon oil, herring oil, and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure healthy skin and a shiny coat for your kitten.",
+            "Fortified with Prebiotics & Probiotics Fortified with prebiotics and probiotics that provide greater absorption of nutrients and help support healthy gut flora.",
+            "Made with Fresh Canadian Sourced Protein Made with fresh Canadian sourced proteins to support lean muscle growth and energy levels.",
+            "Protects Joints During Growth Includes glucosamine and chondroitin to help protect their joints during growth spurts.",
+            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits."
+        ],
+        "ingredients": "",
         "analysis": [
             "Crude protein min. 36.0%",
             "Crude fat min. 20.0%",
@@ -21,13 +29,22 @@
             "Omega-6 fatty acids* min. 3.8%",
             "Omega-3 fatty acids* min. 0.3%",
             "Total microorganisms* min. 120M CFU/lb"
-        ]
+        ],
+        "calorie": ""
     },
     {
         "brand": "Nutrience",
         "url": "https://nutrience.com/products/healthy-adult-indoor/",
         "title": "Healthy Adult Indoor - Nutrience - Cat Food Made in Canada",
-        "descriptions": "CUSTOMER RATING (1)",
+        "descriptions": "Nutrience Infusion is a Canadian made cat food for indoor cats, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals.",
+        "key_benefits": [
+            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
+            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
+            "Marine Source Omega-3 Salmon oil is used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat.",
+            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
+        ],
+        "ingredients": "",
+        "analysis":         "descriptions": "CUSTOMER RATING (1)",
         "key_benefits": null,
         "ingredients": null,
         "analysis": [
@@ -45,7 +62,8 @@
             "Omega-6 fatty acids* min. 3.0%",
             "Omega-3 fatty acids* min. 0.3%",
             "Glucosamine* min. 400 mg/kg"
-        ]
+        ],
+        "calorie": ""
     },
     {
         "brand": "Nutrience",
@@ -109,9 +127,14 @@
         "brand": "Nutrience",
         "url": "https://nutrience.com/products/fraser-valley-formula-2/",
         "title": "Fraser Valley | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
-        "descriptions": "CUSTOMER RATING (1)",
-        "key_benefits": null,
-        "ingredients": null,
+        "descriptions": "Our Nutrience SubZero Fraser Valley food for cats is prepared right here in Canada with fresh, never frozen Canadian sources of poultry, Pacific wild-caught fish and real freeze-dried chicken for a superior flavor that even the finickiest cats will crave. This cat food is grain-free and contains chunks of freeze-dried Nutriboost for optimal nutrition.",
+        "key_benefits": [
+            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
+            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
+            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
+            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
+        ],
+        "ingredients": "",
         "analysis": [
             "Crude protein min. 42.0%",
             "Crude fat min. 20.0%",
@@ -127,15 +150,21 @@
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min. 3.5%",
             "Omega-3 fatty acids* min. 0.4%"
-        ]
+        ],
+        "calorie": ""
     },
     {
         "brand": "Nutrience",
         "url": "https://nutrience.com/products/prairie-red-formula-cat/",
         "title": "Prairie Red | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
-        "descriptions": "CUSTOMER RATING (1)",
-        "key_benefits": null,
-        "ingredients": null,
+        "descriptions": "Our Prairie Red formula is prepared right here in Canada with fresh, never frozen Canadian sources of beef, bison, wild boar, Pacific wild-caught fish and real freeze-dried beef liver for a superior flavor that even the finickiest cats will crave. This formula is grain-free, poultry-free and contains freeze-dried chunks of Nutriboost for optimal nutrition.",
+        "key_benefits": [
+            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
+            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
+            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
+            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
+        ],
+        "ingredients": "",
         "analysis": [
             "Crude protein min. 40.0%",
             "Crude fat min. 20.0%",
@@ -151,15 +180,21 @@
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min. 3.5%",
             "Omega-3 fatty acids* min. 0.4%"
-        ]
+        ],
+        "calorie": ""
     },
     {
         "brand": "Nutrience",
         "url": "https://nutrience.com/products/canadian-pacific-formula/",
         "title": "Canadian Pacific | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
-        "descriptions": "CUSTOMER RATING (2)",
-        "key_benefits": null,
-        "ingredients": null,
+        "descriptions": "Our Canadian Pacific food for cats is prepared with fresh wild-caught fish as well as real freeze-dried fish for a superior flavor that even the finickiest cats will crave. Made with chunks of Nutriboost for optimal nutrition.",
+        "key_benefits": [
+            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
+            "Salmon Oil & Coconut Oil A special botanical blend including coconut oil and salmon oil help to maintain a healthy skin and coat.",
+            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
+            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
+        ],
+        "ingredients": "",
         "analysis": [
             "Crude protein min. 38.0%",
             "Crude fat min. 18.0%",
@@ -170,7 +205,8 @@
             "Glucosamine* min. 800 mg/kg",
             "Chondroitin sulfate* min. 400 mg/kg",
             "Total microorganisms* min. 225,000,000 CFU/lb"
-        ]
+        ],
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -258,7 +294,8 @@
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min. 3.0%",
             "Omega-3 fatty acids* min. 0.3%"
-        ]
+        ],
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -275,7 +312,8 @@
             "All our air-dried meat, poultry and fish are completely free from hormones and antibiotics."
         ],
         "ingredients": null,
-        "analysis": null
+        "analysis": null,
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -292,7 +330,8 @@
             "All our air-dried meat, poultry and fish are completely free from hormones and antibiotics."
         ],
         "ingredients": null,
-        "analysis": null
+        "analysis": null,
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -323,7 +362,8 @@
             "Taurine min. 0.15%",
             "Ascorbic acid* (vitamin C) min. 60 mg/kg",
             "Omega-6 fatty acids* min. 3.0%"
-        ]
+        ],
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -353,7 +393,8 @@
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min 3.5%",
             "Omega-3 fatty acids* min 0.3%"
-        ]
+        ],
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -383,6 +424,7 @@
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min 3.8%",
             "Omega-3 fatty acids* min 0.4%"
-        ]
+        ],
+        "calorie": null
     }
 ]
