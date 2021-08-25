@@ -112,7 +112,7 @@ class WebScrapper:
               JAVASCRIPT=''
               ):
         for url in self.url_list:
-            product = {}
+            product = {'brand': self.brand_name}
             self.driver.get(url)
             time.sleep(2)
             # if hidden_elements:
