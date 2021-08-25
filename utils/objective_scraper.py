@@ -28,6 +28,7 @@ class WebScrapper:
         self.result_list = []
 
     def save(self):
+        self.driver.quit()
         with open(f"./data/{str(self.index_number).zfill(4)}_{self.brand_name}.json",
                   mode="w", encoding="utf-8", newline="") as output_file:
             json.dump(obj=self.result_list, fp=output_file, indent=4, ensure_ascii=False)
