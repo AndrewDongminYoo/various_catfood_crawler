@@ -54,44 +54,44 @@ def get_text_by_css(css):
         return result_list
 
 
-# for url in Wellness_url_list:
-#     driver.get(url)
-#     time.sleep(3)
-#     driver.execute_script("document.querySelectorAll('p').forEach(p => p.setAttribute('style','display:block;'));")
-#     title = driver.title
-#     driver.execute_script("window.scrollTo(0, 200);")
-#     descriptions = get_text_by_xpath('//*[@id="block-wellness-content"]/div/section[1]/div/div/div[4]/p[3]')
-#     driver.execute_script("window.scrollTo(0, 600);")
-#     key_benefits = driver.execute_script('''
-#     let benefits = document.querySelectorAll("#block-wellness-content > div > section.full-bleed.full-bleed--product-header > section > ul > li > div > img");
-#     let alts = [];
-#     for (let i=0;i<benefits.length;i++) {
-#         let alt = benefits[i].getAttribute('alt');
-#         alts.push(alt);
-#     };
-#     return alts''')
-#     driver.execute_script("window.scrollTo(0, 1600);")
-#     ingredients = get_text_by_xpath('//*[@id="block-wellness-content"]/div/section[3]/div/div[1]/p[1]')
-#     driver.execute_script("window.scrollTo(0, 2200);")
-#     driver.execute_script("document.querySelectorAll('table').forEach(t => t.setAttribute('style','display:block;'));")
-#     analysis = get_text_by_xpath('//*[@id="tableWrapperWrapper"]/div[1]/table/tbody/tr')
-#     driver.execute_script("window.scrollTo(0, 3400);")
-#     calorie = get_text_by_xpath('//*[@id="block-wellness-content"]/div/section[3]/div/div[3]/p[4]')
-#     product = {
-#         "url": url,
-#         "title": title,
-#         "descriptions": descriptions,
-#         "key_benefits": key_benefits,
-#         "ingredients": ingredients,
-#         "analysis": analysis,
-#         "calorie": calorie
-#     }
-#     print(product)
-#     Wellness.append(product)
-# driver.quit()
-# output_file = open("./data/Wellness.json", mode="w", newline="", encoding="utf-8")
-# json.dump(obj=Wellness, fp=output_file, indent=3, ensure_ascii=False)
-# output_file.close()
+for url in Wellness_url_list:
+    driver.get(url)
+    time.sleep(3)
+    driver.execute_script("document.querySelectorAll('p').forEach(p => p.setAttribute('style','display:block;'));")
+    title = driver.title
+    driver.execute_script("window.scrollTo(0, 200);")
+    descriptions = get_text_by_xpath('//*[@id="block-wellness-content"]/div/section[1]/div/div/div[4]/p[3]')
+    driver.execute_script("window.scrollTo(0, 600);")
+    key_benefits = driver.execute_script('''
+    let benefits = document.querySelectorAll("#block-wellness-content > div > section.full-bleed.full-bleed--product-header > section > ul > li > div > img");
+    let alts = [];
+    for (let i=0;i<benefits.length;i++) {
+        let alt = benefits[i].getAttribute('alt');
+        alts.push(alt);
+    };
+    return alts''')
+    driver.execute_script("window.scrollTo(0, 1600);")
+    ingredients = get_text_by_xpath('//*[@id="block-wellness-content"]/div/section[3]/div/div[1]/p[1]')
+    driver.execute_script("window.scrollTo(0, 2200);")
+    driver.execute_script("document.querySelectorAll('table').forEach(t => t.setAttribute('style','display:block;'));")
+    analysis = get_text_by_xpath('//*[@id="tableWrapperWrapper"]/div[1]/table/tbody/tr')
+    driver.execute_script("window.scrollTo(0, 3400);")
+    calorie = get_text_by_xpath('//*[@id="block-wellness-content"]/div/section[3]/div/div[3]/p[4]')
+    product = {
+        "url": url,
+        "title": title,
+        "descriptions": descriptions,
+        "key_benefits": key_benefits,
+        "ingredients": ingredients,
+        "analysis": analysis,
+        "calorie": calorie
+    }
+    print(product)
+    Wellness.append(product)
+driver.quit()
+output_file = open("./data/Wellness.json", mode="w", newline="", encoding="utf-8")
+json.dump(obj=Wellness, fp=output_file, indent=3, ensure_ascii=False)
+output_file.close()
 
 
 input_file = open('./data/Wellness.json', mode='r', newline='', encoding='utf-8')
