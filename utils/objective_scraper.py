@@ -113,7 +113,7 @@ class WebScrapper:
               JAVASCRIPT=''
               ):
         for url in self.url_list:
-            product = {'brand': self.brand_name}
+            product = {'brand': self.brand_name, 'url': url}
             self.driver.get(url)
             time.sleep(2)
             # if hidden_elements:
@@ -129,19 +129,19 @@ class WebScrapper:
             self.execute(JAVASCRIPT)
             if DESC_PATH:
                 product['descriptions'] = self.extract_text(DESC_PATH)
-                self.execute('window.scrollBy(0,200);')
+                self.execute('window.scrollBy(0,300);')
             if BENEFIT_PATH:
                 product['key_benefits'] = self.extract_text(BENEFIT_PATH)
-                self.execute('window.scrollBy(0,200);')
+                self.execute('window.scrollBy(0,300);')
             if INGREDIENTS:
                 product['ingredients'] = self.extract_text(INGREDIENTS)
-                self.execute('window.scrollBy(0,200);')
+                self.execute('window.scrollBy(0,300);')
             if ANALYSIS:
                 product['analysis'] = self.extract_text(ANALYSIS)
-                self.execute('window.scrollBy(0,200);')
+                self.execute('window.scrollBy(0,300);')
             if ADDITIVES:
                 product['additive'] = self.extract_text(ADDITIVES)
-                self.execute('window.scrollBy(0,200);')
+                self.execute('window.scrollBy(0,300);')
             if CALORIE_CONTENT:
                 product['calorie'] = self.extract_text(CALORIE_CONTENT)
             print(product)
