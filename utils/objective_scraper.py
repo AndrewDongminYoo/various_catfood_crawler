@@ -33,8 +33,8 @@ class WebScrapper:
                   mode="w", encoding="utf-8", newline="") as output_file:
             json.dump(obj=self.result_list, fp=output_file, indent=4, ensure_ascii=False)
 
-    def execute(self, script: str, *args):
-        return self.driver.execute_script(script=script, *args)
+    def execute(self, script: str):
+        return self.driver.execute_script(script=script)
 
     def set_attr(self, element_id: str, attr_to_on: str):
         self.execute(f"document.getElementById('{element_id}').setAttribute('{attr_to_on}','true');")
@@ -58,7 +58,7 @@ class WebScrapper:
         return self.execute(f"document.querySelector('{selector}').classList.add('{show_class}');")
 
     def scroll_to(self, element: WebElement):
-        return self.execute("arguments[0].scrollIntoView();", element)
+        return self.driver.execute_script("arguments[0].scrollIntoView();", element)
 
     def click_element(self, selector):
         return self.execute(f"document.querySelector('{selector}').click().scrollIntoViewIfNeeded();")
@@ -69,8 +69,10 @@ class WebScrapper:
         if len(targets) == 0:
             return None
         if len(targets) == 1:
+            self.driver.execute_script("arguments[0].scrollIntoView(false);", targets[0])
             return targets[0].text.replace("\n", " ")
         elif len(targets) > 1:
+            self.driver.execute_script("arguments[0].scrollIntoView(false);", targets[-1])
             for t in targets:
                 if t.text:
                     result_list.append(t.text.replace("\n", " "))
@@ -84,8 +86,10 @@ class WebScrapper:
         if len(targets) == 0:
             return None
         elif len(targets) == 1:
+            self.driver.execute_script("arguments[0].scrollIntoView(false);", targets[0])
             return targets[0].text.replace("\n", " ")
         elif len(targets) > 1:
+            self.driver.execute_script("arguments[0].scrollIntoView(false);", targets[-1])
             for t in targets:
                 if t.text:
                     result_list.append(t.text.replace("\n", " "))
@@ -123,25 +127,19 @@ class WebScrapper:
             #     self.activate_class_by_selector(deactivated_elem, activate_class)
             if TITLE_PATH:
                 product['title'] = self.extract_text(TITLE_PATH)
-                self.execute('window.scrollBy(0,200);')
             else:
                 product['title'] = self.driver.title
             self.execute(JAVASCRIPT)
             if DESC_PATH:
                 product['descriptions'] = self.extract_text(DESC_PATH)
-                self.execute('window.scrollBy(0,300);')
             if BENEFIT_PATH:
                 product['key_benefits'] = self.extract_text(BENEFIT_PATH)
-                self.execute('window.scrollBy(0,300);')
             if INGREDIENTS:
                 product['ingredients'] = self.extract_text(INGREDIENTS)
-                self.execute('window.scrollBy(0,300);')
             if ANALYSIS:
                 product['analysis'] = self.extract_text(ANALYSIS)
-                self.execute('window.scrollBy(0,300);')
             if ADDITIVES:
                 product['additive'] = self.extract_text(ADDITIVES)
-                self.execute('window.scrollBy(0,300);')
             if CALORIE_CONTENT:
                 product['calorie'] = self.extract_text(CALORIE_CONTENT)
             print(product)

@@ -13,7 +13,7 @@
             "Protects Joints During Growth Includes glucosamine and chondroitin to help protect their joints during growth spurts.",
             "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits."
         ],
-        "ingredients": "",
+        "ingredients": "Deboned chicken, chicken meal, steel cut oats, pearl barley, green peas, red lentils, chicken fat (preserved with mixed tocopherols), natural chicken flavour, sun-cured alfalfa, freeze-dried chicken liver, salmon oil (natural source of DHA), coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, vitamins (vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc sulfate, zinc proteinate, iron proteinate, ferrous sulphate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), lecithin, salt, choline chloride, potassium chloride, chicory root extract, yeast extract, calcium carbonate, DL-methionine, L-lysine, taurine, rosemary extract, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
         "analysis": [
             "Crude protein min. 36.0%",
             "Crude fat min. 20.0%",
@@ -30,7 +30,7 @@
             "Omega-3 fatty acids* min. 0.3%",
             "Total microorganisms* min. 120M CFU/lb"
         ],
-        "calorie": ""
+        "calorie": "Calorie Content (calculated): 3,935 kcal/kg or 472 kcal/cup ME"
     },
     {
         "brand": "Nutrience",
@@ -43,10 +43,7 @@
             "Marine Source Omega-3 Salmon oil is used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat.",
             "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
         ],
-        "ingredients": "",
-        "analysis":         "descriptions": "CUSTOMER RATING (1)",
-        "key_benefits": null,
-        "ingredients": null,
+        "ingredients": "Deboned chicken, chicken meal, steel cut oats, pearl barley, green peas, red lentils, chicken fat (preserved with mixed tocopherols), sun-cured alfalfa, natural chicken flavour, freeze-dried chicken liver, salmon oil, coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, vitamins (vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc sulfate, zinc proteinate, iron proteinate, ferrous sulphate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), lecithin, salt, choline chloride, potassium chloride, chicory root extract, yeast extract, calcium carbonate, DL-methionine, L-lysine, taurine, glucosamine hydrochloride, chondroitin sulfate, rosemary extract, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
         "analysis": [
             "Crude protein min. 32.0%",
             "Crude fat min. 16.0%",
@@ -61,7 +58,9 @@
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min. 3.0%",
             "Omega-3 fatty acids* min. 0.3%",
-            "Glucosamine* min. 400 mg/kg"
+            "Glucosamine* min. 400 mg/kg",
+            "Chondroitin sulfate* min. 200 mg/kg",
+            "Total microorganisms* min. 120M CFU/lb"
         ],
         "calorie": ""
     },
@@ -92,7 +91,8 @@
             "Omega-6 fatty acids* min. 3.5%",
             "Omega-3 fatty acids* min. 0.3%",
             "Total microorganisms* min. 120M CFU/lb"
-        ]
+        ],
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -120,8 +120,12 @@
             "Taurine min. 0.15%",
             "L-carnitine* min. 100mg/kg",
             "Omega-6 fatty acids* min. 3.0%",
-            "Omega-3 fatty acids* min. 0.3%"
-        ]
+            "Omega-3 fatty acids* min. 0.3%",
+            "Glucosamine* min. 400mg/kg",
+            "Chondroitin Sulfate* min. 200mg/kg",
+            "Total microorganisms* min. 120M CFU/lb"
+        ],
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -134,7 +138,7 @@
             "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
             "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
         ],
-        "ingredients": "",
+        "ingredients": "Deboned chicken, deboned turkey, chicken meal, turkey meal, salmon, chicken liver, chicken heart, turkey liver, turkey heart, herring, cod, cod liver, whole eggs, peas, chicken fat (preserved with mixed tocopherols), red lentils, sweet potatoes, chickpeas, natural chicken flavor, sun-cured alfalfa meal, freeze-dried chicken, freeze-dried pumpkin, freeze-dried chicken liver, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, salmon oil, herring oil, coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, valerian root, vitamins (vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), salt, choline chloride, taurine, potassium chloride, DL-methionine, L-lysine, chicory root extract, yucca schidigera extract, yeast extract, thyme extract, glucosamine hydrochloride, rosemary extract, chondroitin sulfate, L-carnitine, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, dried Bacillus subtilis fermentation product, dried Bifidobacterium animalis fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus helveticus fermentation product, dried Bifidobacterium longum fermentation product, dried Lactobacillus acidophilus fermentation product.",
         "analysis": [
             "Crude protein min. 42.0%",
             "Crude fat min. 20.0%",
@@ -149,7 +153,10 @@
             "Vitamin E min. 130 IU/kg",
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min. 3.5%",
-            "Omega-3 fatty acids* min. 0.4%"
+            "Omega-3 fatty acids* min. 0.4%",
+            "Glucosamine* min. 800 mg/kg",
+            "Chondroitin sulfate* min. 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "calorie": ""
     },
@@ -164,7 +171,7 @@
             "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
             "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
         ],
-        "ingredients": "",
+        "ingredients": "Deboned beef, deboned lamb, deboned wild boar, beef liver, lamb liver, wild boar liver, deboned bison, pork meal, lamb meal, salmon, herring, cod, cod liver, peas, pork fat (preserved with mixed tocopherols), whole eggs, red lentils, sweet potatoes, chickpeas, natural pork flavor, sun-cured alfalfa meal, freeze-dried beef liver, freeze-dried pumpkin, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, salmon oil, herring oil, coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, valerian root, vitamins (vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), potassium chloride, choline chloride, salt, taurine, DL-methionine, L-lysine, chicory root extract, yucca schidigera extract, yeast extract, thyme extract, glucosamine hydrochloride, rosemary extract, chondroitin sulfate, L-carnitine, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, dried Bacillus subtilis fermentation product, dried Bifidobacterium animalis fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus helveticus fermentation product, dried Bifidobacterium longum fermentation product, dried Lactobacillus acidophilus fermentation product.",
         "analysis": [
             "Crude protein min. 40.0%",
             "Crude fat min. 20.0%",
@@ -179,7 +186,10 @@
             "Vitamin E min. 130 IU/kg",
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min. 3.5%",
-            "Omega-3 fatty acids* min. 0.4%"
+            "Omega-3 fatty acids* min. 0.4%",
+            "Glucosamine* min. 800 mg/kg",
+            "Chondroitin sulfate* min. 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "calorie": ""
     },
@@ -194,7 +204,7 @@
             "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
             "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
         ],
-        "ingredients": "",
+        "ingredients": "Salmon, pollock, cod, haddock, flounder, menhaden, salmon meal, herring meal, menhaden meal, peas, canola oil (preserved with mixed tocopherols), lentils, natural fish flavour, sweet potatoes, sun-cured alfalfa meal, freeze-dried salmon, freeze-dried herring, freeze-dried pumpkin, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, egg product, salmon oil, herring oil, choline chloride, coconut oil, DL-methionine, potassium chloride, lecithin, calcium propionate, L-lysine, taurine, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, ginger, peppermint leaf, licorice root, turmeric, salt, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], Yucca shidigera extract, yeast extract, minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), glucosamine hydrochloride, dried kelp, dried chicory root, chondroitin sulfate, rosemary extract, L-carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
         "analysis": [
             "Crude protein min. 38.0%",
             "Crude fat min. 18.0%",
@@ -234,8 +244,12 @@
             "Vitamin E min 130 IU/kg",
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min 3.0%",
-            "Omega-3 fatty acids* min 1.5%"
-        ]
+            "Omega-3 fatty acids* min 1.5%",
+            "Glucosamine* min 800 mg/kg",
+            "Chondroitin sulfate* min 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
+        ],
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -262,8 +276,12 @@
             "Vitamin E min 130 IU/kg",
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min 3.5%",
-            "Omega-3 fatty acids* min 0.4%"
-        ]
+            "Omega-3 fatty acids* min 0.4%",
+            "Glucosamine* min 800 mg/kg",
+            "Chondroitin sulfate* min 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
+        ],
+        "calorie": null
     },
     {
         "brand": "Nutrience",
@@ -293,7 +311,10 @@
             "Vitamin E. 130 IU/kg",
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min. 3.0%",
-            "Omega-3 fatty acids* min. 0.3%"
+            "Omega-3 fatty acids* min. 0.3%",
+            "Glucosamine* min. 800 mg/kg",
+            "Chondroitin sulfate* min. 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "calorie": null
     },
@@ -361,7 +382,10 @@
             "Vitamin E min. 110 IU/kg",
             "Taurine min. 0.15%",
             "Ascorbic acid* (vitamin C) min. 60 mg/kg",
-            "Omega-6 fatty acids* min. 3.0%"
+            "Omega-6 fatty acids* min. 3.0%",
+            "Omega-3 fatty acids* min. 0.4%",
+            "Glucosamine* min. 200 mg/kg",
+            "Chondroitin* min. 100 mg/kg"
         ],
         "calorie": null
     },
@@ -423,7 +447,8 @@
             "Vitamin E min 110 IU/kg",
             "Taurine min. 0.15%",
             "Omega-6 fatty acids* min 3.8%",
-            "Omega-3 fatty acids* min 0.4%"
+            "Omega-3 fatty acids* min 0.4%",
+            "Docosahexaenoic acid* (DHA) min 0.1%"
         ],
         "calorie": null
     }
