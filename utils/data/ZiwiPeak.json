@@ -3,7 +3,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/air-dried/beef-recipe",
         "title": "ZIWI® Peak Air-Dried Beef Recipe for Cats | Ziwi Pets",
-        "descriptions": "",
+        "descriptions": "Raised simply, with access to fresh grass 365 days a year, New Zealand grass-fed and free-range beef has a reputation of being the best in the world. Just as our beef is raised, our recipe is simple too. Few ingredients but full of flavor, the perfect choice for cats of all breeds and life stages.",
         "key_benefits": [
             "Gently air-dried and handcrafted to lock in nature’s goodness.",
             "A full 96% beef, organs, bone and New Zealand Green Mussels to match a cat’s biological needs for a diet rich in meat.",
@@ -27,8 +27,8 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/air-dried/mackerel-lamb-recipe",
         "title": "ZIWI® Peak Air-Dried Mackerel & Lamb Recipe for Cats | Ziwi Pets",
-        "descriptions": "",
-        "key_benefits": null,
+        "descriptions": "The best of New Zealand’s land and sea. Wild and sustainable blue mackerel from the remote waters of New Zealand’s North Island and grass-fed lamb, ethically raised on a diet of lush grass and clover. A delicious combination to entice even the most selective cats.",
+        "key_benefits": "[\"Gently air-dried and handcrafted to lock in nature’s goodness.\", \"With 96% seafood, grass- fed lamb, organs and bone to match the cat’s biological needs for a diet high in meat.\", \"Whole, wild-caught blue mackerel—a natural powerhouse source of omega-3.\", \"Grass-fed lamb, ethically raised year round on New Zealand’s green pastures.\", \"GMO-free. Raised without added hormones, antibiotics or growth promotants.\", \"No glycerins, grains or high glycemic ingredients such as potato or tapioca starch.\", \"3% NEW ZEALAND GREEN MUSSELS\", \"Natural source of glucosamine and chondroitin for long-term joint health and mobility.\"]",
         "ingredients": "Mackerel, Lamb, Lamb Heart, Lamb Tripe, Lamb Liver, Lamb Lung, New Zealand Green Mussel, Lamb Kidney, Lamb Bone, Lecithin, Inulin from Chicory, Dried Kelp, Minerals (Dipotassium Phosphate, Magnesium Sulfate, Zinc Amino Acid Complex, Copper Amino Acid Complex, Iron Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite), Salt, Preservative (Citric Acid, Mixed Tocopherols), Vitamins (Choline Chloride, Thiamine Mononitrate, Pyridoxine Hydrochloride, Folic Acid, Vitamin D3 Supplement), DL-Methionine, Taurine.",
         "analysis": [
             "Crude Protein min. 43%",
@@ -45,7 +45,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/air-dried/venison-recipe",
         "title": "AIR-DRIED 'Daily-Cat' Food, Venison recipe | Ziwipeak",
-        "descriptions": "",
+        "descriptions": "ZIWI® Peak Venison is novel protein food, ideal for cats of all breeds and life stages. Loaded with free-range venison, ethically raised on pastures of lush and native grasses in the remote valleys of New Zealand’s South Island. A naturally delicious choice to keep your cat happy and healthy.",
         "key_benefits": [
             "Gently air-dried and handcrafted to lock in nature’s goodness.",
             "With 96% venison, organs, bone and New Zealand Green Mussels designed to match the cat’s biological needs for a diet rich in meat.",
@@ -69,7 +69,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/air-dried/lamb-recipe",
         "title": "ZIWI® Peak Air-Dried Lamb Recipe for Cats | Ziwi Pets",
-        "descriptions": "",
+        "descriptions": "Pure and simple, perfectly crafted for cats of all breeds and life stages. Featuring world-class lamb, ethically raised by multi-generational family farmers in the mild and temperate climate of beautiful New Zealand. Gently nourishing, full of nutrition and purr-worthy goodness.",
         "key_benefits": [
             "Gently air-dried and handcrafted to lock in nature’s goodness.",
             "Featuring 96% grass-fed lamb, organs, bone and New Zealand Green Mussels, designed to match the cat’s biological needs for a diet rich in meat.",
@@ -93,7 +93,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/air-dried/free-range-chicken-recipe",
         "title": "ZIWI® Peak Air-Dried Free-Range Chicken Recipe for Cats | Ziwi Pets",
-        "descriptions": "",
+        "descriptions": "Our free-range chickens are ethically raised with room to explore and access to forage New Zealand’s lush pastures — unlike other pet (and human!) foods that use factory farmed, free-run or cage-free chicken. ZIWI® Peak Free-Range Chicken is a delicious recipe that both you and your cat can feel good about.",
         "key_benefits": [
             "Gently air-dried and handcrafted to lock in nature’s goodness.",
             "With 96% chicken, organs, bone and New Zealand Green Mussels to match a cat’s biological needs for a diet rich in meat.",
@@ -117,7 +117,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/mackerel-lamb-recipe",
         "title": "ZIWI® Peak Wet Mackerel & Lamb Recipe for Cats | Ziwi Pets",
-        "descriptions": null,
+        "descriptions": "The best of New Zealand’s land and sea. Wild and sustainable blue mackerel from the remote waters of New Zealand’s North Island and grass-fed lamb, raised on a diet of lush grass and clover. A delicious combination in a moisture rich recipe to entice even the most selective cats.",
         "key_benefits": [
             "With 92% mackerel, grass-fed lamb, organs, bone, and seafood to match the cat’s biological needs for a diet high in meat.",
             "Whole, wild-caught blue mackerel—a natural powerhouse source of omega-3.",
@@ -141,7 +141,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/beef-recipe",
         "title": "ZIWI® Peak Wet Beef Recipe for Cats | Ziwi Pets",
-        "descriptions": null,
+        "descriptions": "Raised simply, with access to fresh grass 365 days a year, New Zealand grass-fed and free-range beef has a reputation of being the best in the world. Just as our beef is raised, our recipe is simple too. Few ingredients but full of flavor, the perfect choice for cats of all breeds and life stages.",
         "key_benefits": [
             "A moisture rich food, with 92% beef, organs, bone and New Zealand Green Mussels designed to match the cat’s biological needs for a diet high in meat.",
             "Free-range beef, ethically-raised year round on New Zealand pastures.",
@@ -165,7 +165,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/lamb-recipe",
         "title": "ZIWI® Peak Wet Lamb Recipe for Cats | Ziwi Pets",
-        "descriptions": null,
+        "descriptions": "Pure and simple, for cats of all breeds and life stages. Featuring world-class lamb, ethically raised by multi- generational family farmers in the mild and temperate climate of beautiful New Zealand. Gently nourishing, full of moisture rich nutrition and purr-worthy goodness.",
         "key_benefits": [
             "With 92% grass- fed lamb, organs, bone, and seafood to match the cat’s biological needs for a diet high in meat.",
             "Grass-fed lamb, ethically raised year round on New Zealand’s green pastures.",
@@ -188,7 +188,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/rabbit-lamb-recipe",
         "title": "CANNED 'Daily-Cat' Food, Rabbit & Lamb recipe | Ziwipeak",
-        "descriptions": null,
+        "descriptions": "The best of New Zealand’s land and sea. Wild and sustainable rabbit and grass-fed lamb, raised on a diet of lush grass and clover. A delicious combination in a moisture rich recipe to entice even the most selective cats.",
         "key_benefits": [
             "With 92% rabbit, seafood, grass-fed lamb, organs and bone to match the cat’s biological needs for a diet high in meat.",
             "Wild rabbit and grass-fed lamb, ethically raised year round on New Zealand’s rolling green pastures.",
@@ -212,7 +212,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/venison-recipe",
         "title": "CANNED Cat Food, Venison recipe | Ziwipeak",
-        "descriptions": null,
+        "descriptions": "ZIWI® Peak Venison is novel protein food, ideal for cats of all breeds and life stages. Loaded with free-range venison, ethically raised on pastures of lush and native grasses in the remote valleys of New Zealand’s South Island. A unique and novel protein, making meal time exciting—your cat is guaranteed to enjoy each and every bite.",
         "key_benefits": [
             "A moisture rich diet, with 92% venison, organs, bone and New Zealand Green Mussels designed to match the cat’s biological needs for a diet high in meat.",
             "Free-range venison, ethically- raised year round on New Zealand pastures.",
@@ -236,7 +236,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/free-range-chicken-recipe",
         "title": "ZIWI® Peak Wet Free-Range Chicken Recipe for Cats | Ziwi Pets",
-        "descriptions": null,
+        "descriptions": "Our free-range chickens are ethically raised with room to explore and access to forage New Zealand’s lush pastures — unlike other pet (and human!) foods that use factory farmed, free-run or cage-free chicken. A food that both you and your cat can feel good about.",
         "key_benefits": [
             "A moisture rich food, with 92% chicken, organs, bone and New Zealand Green Mussels to match a cat’s biological needs for a diet high in meat.",
             "Free-range chicken, ethically and happily raised on New Zealand’s lush pastures.",
@@ -260,7 +260,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/mackerel-recipe",
         "title": "ZIWI® Peak Wet Mackerel Recipe for Cats | Ziwi Pets",
-        "descriptions": null,
+        "descriptions": "Wild-caught and sustainable blue mackerel are found in abundance in the remote and pristine waters surrounding New Zealand’s North Island. A dark and oily fish, loaded with essential omega-3, New Zealand Mackerel recipe is a healthy and delicious choice for your cat.",
         "key_benefits": [
             "A moisture rich food, with 92% whole blue mackerel and New Zealand Green Mussels to match a cat’s biological needs for a diet high in meat.",
             "Whole, wild-caught blue mackerel—a natural powerhouse source of omega-3.",
@@ -283,7 +283,7 @@
         "brand": "ZiwiPeak",
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/hoki-recipe",
         "title": "ZIWI® Peak Wet Hoki Recipe for Cats | Ziwi Pets",
-        "descriptions": null,
+        "descriptions": "Wild-caught and sustainably certified, hoki fish are found in New Zealand’s Cook Straight and the deep sub-Antarctic waters of the Chatham Rise. A white flesh fish with a delicate texture—a delicious option your cat is sure to enjoy.",
         "key_benefits": [
             "A moisture rich food, with 92% hoki fish, organs, bone and New Zealand Green Mussels to match a cat’s biological needs for a diet high in meat.",
             "Wild-caught and sustainably certified hoki—a natural powerhouse source of omega-3.",

@@ -52,7 +52,7 @@
     {
         "brand": "Forza10 USA",
         "url": "https://forza10usa.com/collections/shop-cat/products/weight-control-1",
-        "title": "Forza10 Nutraceutic Active Weight Control Diet Dry Cat Food – Forza10 America",
+        "title": "Forza10 Nutraceutic Active Weight Control Diet Dry Cat Food – Forza10 America",
         "descriptions": "Forza10 Active Weight Control is designed for cats with weight gain tendencies and metabolism problems. Helps stop obesity, diabetes mellitus, constipation, metabolic disorders, and hyperlipidemia. Made with Icelandic wild-caught anchovy, which is rich in omegas for a healthy skin & coat. Rosemary and chitosan are added for weight support. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. ROSEMARY A natural seasoning that enriches the flavor experience and contains phenolic compounds that show high levels of antioxidant activity. L-CARNITINE A powerful amino acid that strengthens muscles and supports weight loss. CHITOSAN A natural substance that regulates the intestinal bacterial flora and stimulates the immune system. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": "Rice, Anchovy Meal, Hydrolyzed Fish Protein, Dried Kelp, Brewer's Yeast, Vegetable Oil, Fish Oil (Preserved With Mixed Tocopherols), Minerals (Dicalcium Phosphate, Calcium Carbonate, Ferrous Sulfate, Zinc Amino Acid Chelate, Zinc Sulfate, Copper Amino Acid Complex, Copper Sulfate, Manganous Oxide, Potassium Iodide, Sodium Selenite), Dried Yeast, Fructooligosaccharides (Fos), Dl-Methionine, Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Thiamine Mononitrate, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin Supplement, Vitamin D3 Supplement, Folic Acid), Choline Chloride, Taurine, L-Carnitine, Bitter Orange Peel, Chitosan, Yucca Schidigera Extract, Rosemary Extract.",
@@ -66,7 +66,14 @@
         "descriptions": "Forza10 Actiwet Renal is designed to help support renal and cardiac health in cats. Made with delicious Icelandic salmon and lamb that cats crave!  Cranberries, dried dandelion, and dried clover are added for kidney support. Free from all the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial preservatives, colors or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. CRANBERRIES A natural and delicious source with disinfectant properties in the urinary tract. DRIED CLOVER EXTRACT A rich source of calcium, which helps purify the urinary system and has shown to have a positive effect in cases of renal failure. DANDELION A powerful source of fiber that helps promote diuretic action, eliminate excess liquids, and maintain a positive gut flora. ROSEMARY A natural seasoning that enriches the flavor experience and contains phenolic compounds that show high levels of antioxidant activity. PASTURE-RAISED LAMB An excellent protein source of amino acids and vitamins, helping support lean muscle, maintenance, and performance.",
         "ingredients": "Water Sufficient For Processing, Salmon, Chicken Liver, Lamb, Rice, Minerals (Dicalcium Phosphate, Calcium Carbonate, Salt, Zinc Sulfate, Manganese Sulfate, Potassium Iodine), Cassia Gum, Starch, Taurine, Guar Gum, Locust Bean Gum, Xanthan Gum, Vitamins (Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Biotin, Folic Acid), Vegetable Oil, Dried Dandelion Root Extract, Dried Clover Extract, Cranberries.",
-        "analysis": "",
+        "analysis": [
+            "CRUDE PROTEIN 5.7% min",
+            "CRUDE FAT 5.0% min",
+            "CRUDE FIBER 0.5% max",
+            "MOISTURE 82.0% max",
+            "PHOSPHORUS 0.13% min",
+            "SODIUM 0.06% min"
+        ],
         "calorie": "806 kcal/kg, 80 kcal/tray"
     },
     {
@@ -76,7 +83,14 @@
         "descriptions": "Forza10 Actiwet Urinary is designed to help support urinary health in cats. Helps stop idiopathic cystitis, lower urinary tract inflammation, and struvite stones formation. Made with delicious Icelandic salmon that cats crave! Cranberries, dried dandelion, and dried clover are added for urinary support. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial preservatives, colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe!",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. CRANBERRIES A natural and delicious source with disinfectant properties in the urinary tract. DRIED CLOVER EXTRACT A rich source of calcium, which helps purify the urinary system and has shown to have a positive effect in cases of renal failure. DANDELION A powerful source of fiber that helps promote diuretic action, eliminate excess liquids, and maintain a positive gut flora. ROSEMARY A natural seasoning that enriches the flavor experience and contains phenolic compounds that show high levels of antioxidant activity. SALMON A clean protein source rich in omega-3 fatty acids.",
         "ingredients": "Water Sufficient For Processing, Salmon, Chicken Liver, Rice, Minerals (Dicalcium Phosphate, Calcium Carbonate, Salt, Zinc Sulfate, Manganese Sulfate, Potassium Iodine), Methionine, Cassia Gum, Starch, Taurine, Guar Gum, Locust Bean Gum, Xanthan Gum, Vitamins (Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Biotin, Folic Acid), Vegetable Oil, Dried Clover Extract, Cranberries, Dried Dandelion Root Extract.",
-        "analysis": "",
+        "analysis": [
+            "CRUDE PROTEIN 6.0% min",
+            "CRUDE FAT 4.5% min",
+            "CRUDE FIBER 0.5% max",
+            "MOISTURE 82% max",
+            "METHIONINE 0.25% min",
+            "MAGNESIUM 0.01% min"
+        ],
         "calorie": "806 kcal/kg"
     },
     {
@@ -86,7 +100,14 @@
         "descriptions": "Forza10 Actiwet Hypoallergenic (Lamb) is designed to help provide physical well-being in cats in all life stages. Made with delicious Icelandic salmon and lamb that cats crave!  Pomegranate, papaya, and turmeric are added to help support daily maintenance and optimal health. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. POMEGRANATE A tasty source of antioxidants, which helps prevent tissue degeneration. PAPAYA A high content of carotenoid, which stimulates the immune system and reduces oxidative stress. TURMERIC One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. PASTURE-RAISED LAMB An excellent protein source of amino acids and vitamins, helping support lean muscle, maintenance, and performance.",
         "ingredients": "Water Sufficient For Processing, Salmon, Chicken Liver, Lamb, Rice, Minerals (Dicalcium Phosphate, Calcium Carbonate, Salt, Zinc Sulfate, Manganese Sulfate, Potassium Iodine), Cassia Gum, Guar Gum, Locust Bean Gum, Xanthan Gum, Vitamins (Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Biotin, Folic Acid), Taurine, Vegetable Oil, Turmeric, Papaya, Pomegranate.",
-        "analysis": "",
+        "analysis": [
+            "CRUDE PROTEIN 7.0% min",
+            "CRUDE FAT 4.5% min",
+            "CRUDE FIBER 0.5% max",
+            "MOISTURE 82% max",
+            "METHIONINE 0.25% min",
+            "MAGNESIUM 0.01% min"
+        ],
         "calorie": "808 kcal/kg, 80 kcal/tray"
     },
     {
@@ -96,17 +117,31 @@
         "descriptions": "Forza10 Actiwet Intestinal is designed for cats with sensitive digestion. Helps stop diarrhea, upset stomach, excessive salivation, vomiting on an empty stomach, and flatulence. Made with delicious Icelandic salmon that cats crave! Rose hips, oregano, and psyllium seed husk are added to help support a healthy digestion. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. DRIED ROSE HIPS A tasty source of antioxidants, which helps prevent tissue degeneration. PSYLLIUM SEED HUSK A plant used since ancient times for its sedative effects. OREGANO One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": "Water Sufficient For Processing, Salmon, Chicken Liver, Rice, Minerals (Dicalcium Phosphate, Calcium Carbonate, Salt, Zinc Sulfate, Manganese Sulfate, Potassium Iodine), Cassia Gum, Guar Gum, Locust Bean Gum, Xanthan Gum, Vitamins (Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Biotin, Folic Acid), Taurine, Vegetable Oil, Dried Rose Hips, Psyllium Seed Husk, Oregano, Cultured Lactic Acid Bacteria.",
-        "analysis": "",
+        "analysis": [
+            "CRUDE PROTEIN 6.0% min",
+            "CRUDE FAT 4.5% min",
+            "CRUDE FIBER 0.5% max",
+            "MOISTURE 82% max",
+            "METHIONINE 0.25% min",
+            "MAGNESIUM 0.01% min"
+        ],
         "calorie": "808 kcal/kg, 80 kcal/tray"
     },
     {
         "brand": "Forza10 USA",
         "url": "https://forza10usa.com/collections/shop-cat/products/hypoallergenic-fish-1",
-        "title": "Forza10 Nutraceutic Actiwet Hypoallergenic Canned Cat Food – Forza10 America",
+        "title": "Forza10 Nutraceutic Actiwet Hypoallergenic Canned Cat Food – Forza10 America",
         "descriptions": "Forza10 Actiwet Hypoallergenic (Fish) is designed to help provide physical well-being in cats in all life stages. Made with delicious Icelandic salmon that cats crave!  Pomegranate, papaya, and turmeric are added to help support daily maintenance and optimal health. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. POMEGRANATE A tasty source of antioxidants, which helps prevent tissue degeneration. PAPAYA A high content of carotenoid, which stimulates the immune system and reduces oxidative stress. TURMERIC One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. SALMON A clean protein source rich in omega-3 fatty acids.",
         "ingredients": "Water Sufficient For Processing, Salmon, Chicken Liver, Rice, Minerals (Dicalcium Phosphate, Calcium Carbonate, Salt, Zinc Sulfate, Manganese Sulfate, Potassium Iodine), Cassia Gum, Guar Gum, Locust Bean Gum, Xanthan Gum, Vitamins (Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Biotin, Folic Acid), Taurine, Vegetable Oil, Turmeric, Papaya, Pomegranate.",
-        "analysis": "",
+        "analysis": [
+            "CRUDE PROTEIN 7.0% min",
+            "CRUDE FAT 4.5% min",
+            "CRUDE FIBER 0.5% max",
+            "MOISTURE 82% max",
+            "METHIONINE 0.25% min",
+            "MAGNESIUM 0.01% min"
+        ],
         "calorie": "807 kcal/kg, 80 kcal/tray"
     },
     {
@@ -122,11 +157,21 @@
     {
         "brand": "Forza10 USA",
         "url": "https://forza10usa.com/collections/shop-cat/products/diabetic",
-        "title": "Forza10 Nutraceutic ActiWet Diabetic Support Icelandic Fish Recipe Can – Forza10 America",
+        "title": "Forza10 Nutraceutic ActiWet Diabetic Support Icelandic Fish Recipe Can – Forza10 America",
         "descriptions": "Forza10 Actiwet Diabetic is designed to help support therapy of insulin-dependent diabetes in cats. Made with delicious Icelandic salmon that cats crave! Dried kelp, orange peel, and chitosan are added to help support a healthy lifestyle. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. DRIED KELP An excellent source of essential minerals, vitamins, and antioxidants. ORANGE PEEL Used in weight loss diets because it helps to positively stimulate the nervous system and encourages lipolytic activity. CHITOSAN A natural substance that regulates the intestinal bacterial flora and stimulates the immune system. SALMON A clean protein source rich in omega-3 fatty acids.",
         "ingredients": "Water Sufficient For Processing, Salmon, Chicken, Chicken Liver, Hydrolyzed Fish Protein, Minerals (Potassium Chloride, Dicalcium Phosphate, Calcium Carbonate, Zinc Amino Acid Chelate, Ferrous Bisglycinate Chelate, Zinc Sulfate, Manganese Sulfate, Potassium Iodide), Guar Gum, Cassia Gum, Locust Bean Gum, Salt, Cysteine, Xantan Gum, Taurine, Vitamins (Vitamin E Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Vitamin D3 Supplement, Biotin, Folic Acid) Dried Kelp, Bitter Orange, Chitosan, Starch.",
-        "analysis": "",
+        "analysis": [
+            "CRUDE PROTEIN 8.5% min",
+            "CRUDE FAT 8.0% min",
+            "CRUDE FIBER 0.6% max",
+            "MOISTURE 80% max",
+            "CRUDE ASH 2.0% max",
+            "OMEGA-3 FATTY ACIDS 0.8% min",
+            "OMEGA-6 FATTY ACIDS 0.5% min",
+            "STARCH 0.05%",
+            "TOTAL SUGAR 0.09%"
+        ],
         "calorie": "1000 kcal/kg, 100 kcal/tray"
     }
 ]
