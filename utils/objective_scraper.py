@@ -11,9 +11,7 @@ class WebScrapper:
     options = Options()
     options.add_argument("--window-size=1545,1047")
     options.add_argument("--window-position=0,0")
-    driver = webdriver.Chrome(executable_path="chromedriver", options=options)
-    driver.implicitly_wait(10)
-    driver.minimize_window()
+    driver = webdriver.Chrome()
     scroll_down = "window.scrollBy(0,2000);"
     index_number = 0
 
@@ -21,6 +19,9 @@ class WebScrapper:
         """
         :param brand_name: BRAND_NAME_FOR_NAME_RESULT
         """
+        driver = webdriver.Chrome(executable_path="chromedriver", options=self.options)
+        driver.implicitly_wait(10)
+        driver.minimize_window()
         self.brand_name = brand_name
         self.url_list = result[brand_name]
         self.type_of_selector = "XPATH"
@@ -119,17 +120,13 @@ class WebScrapper:
         for url in self.url_list:
             product = {'brand': self.brand_name, 'url': url}
             self.driver.get(url)
+            self.execute(JAVASCRIPT)
             time.sleep(2)
-            # if hidden_elements:
-            #     self.execute(f"document.querySelectorAll('{hidden_elements}').forEach(e => e.setAttribute('style',"
-            #                  f"'display:block;'));")
-            # if deactivated_elem:
-            #     self.activate_class_by_selector(deactivated_elem, activate_class)
+            self.execute(JAVASCRIPT)
             if TITLE_PATH:
                 product['title'] = self.extract_text(TITLE_PATH)
             else:
                 product['title'] = self.driver.title
-            self.execute(JAVASCRIPT)
             if DESC_PATH:
                 product['descriptions'] = self.extract_text(DESC_PATH)
             if BENEFIT_PATH:

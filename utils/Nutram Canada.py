@@ -18,7 +18,7 @@ with open("data/Nutram Canada.json", mode="r", encoding="utf8", newline="") as i
 for formula in Nutram:
     if not formula['ingredients']:
         driver.get(formula['url'])
-        scrapper.extract_text('/html/body/div[3]/div/div[1]/p[12]')
+        formula['ingredients'] = scrapper.extract_text('/html/body/div[3]/div/div[1]/p[12]')
 with open("./data/Nutram.json", mode="w", newline="", encoding="utf-8") as output_file:
     json.dump(obj=Nutram, fp=output_file, indent=4, ensure_ascii=False)
     driver.quit()
