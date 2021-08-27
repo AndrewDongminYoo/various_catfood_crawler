@@ -106,10 +106,10 @@ def get_text_by_css(css):
 #         driver = webdriver.Chrome()
 #         driver.implicitly_wait(5)
 # driver.quit()
-# output_file = open("./data/Natural_Balance.json", mode="w", newline="", encoding="utf-8")
+# output_file = open("./data/Natural Balance.json", mode="w", newline="", encoding="utf-8")
 # json.dump(obj=NBalance, fp=output_file, indent=3, ensure_ascii=False)
 # output_file.close()
-input_file = open("./data/Natural_Balance.json", mode="r", encoding="utf-8")
+input_file = open("data/Natural Balance.json", mode="r", encoding="utf-8")
 NBalance = json.load(input_file)
 for formula in NBalance:
 #     driver.get(formula['url'])

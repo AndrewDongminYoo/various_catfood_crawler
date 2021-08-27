@@ -11,7 +11,6 @@ class WebScrapper:
     options = Options()
     options.add_argument("--window-size=1545,1047")
     options.add_argument("--window-position=0,0")
-    driver = webdriver.Chrome()
     scroll_down = "window.scrollBy(0,2000);"
     index_number = 0
 
@@ -19,9 +18,9 @@ class WebScrapper:
         """
         :param brand_name: BRAND_NAME_FOR_NAME_RESULT
         """
-        driver = webdriver.Chrome(executable_path="chromedriver", options=self.options)
-        driver.implicitly_wait(10)
-        driver.minimize_window()
+        self.driver = webdriver.Chrome(executable_path="chromedriver", options=self.options)
+        self.driver.implicitly_wait(10)
+        self.driver.minimize_window()
         self.brand_name = brand_name
         self.url_list = result[brand_name]
         self.type_of_selector = "XPATH"
@@ -29,7 +28,6 @@ class WebScrapper:
         self.result_list = []
 
     def save(self):
-        self.driver.quit()
         with open(f"./data/{str(self.index_number).zfill(4)}_{self.brand_name}.json",
                   mode="w", encoding="utf-8", newline="") as output_file:
             json.dump(obj=self.result_list, fp=output_file, indent=4, ensure_ascii=False)
@@ -141,3 +139,4 @@ class WebScrapper:
                 product['calorie'] = self.extract_text(CALORIE_CONTENT)
             print(product)
             self.result_list.append(product)
+        self.driver.quit()
