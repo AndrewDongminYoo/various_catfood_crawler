@@ -44,20 +44,20 @@ from utils.objective_scraper import WebScrapper
 # )
 # koo_scrapper.save()
 
-meo_scrapper = WebScrapper("MeowMix")
-meo_scrapper.index_number = 4
-meo_script = """
-document.querySelectorAll(".tab-pane").forEach(e=>e.classList.add('active'));
-"""
-meo_scrapper.crawl(
-    DESC_PATH='//*[@id="tab-description-0"]/div/div[1]/p',
-    BENEFIT_PATH='//*[@id="tab-description-0"]/div/div[2]/ul/li',
-    INGREDIENTS='//*[@id="tab-nutrition-collapse-0"]/div/div[1]/p',
-    ANALYSIS='//*[@id="tab-nutrition-collapse-0"]/div/div[2]/div[1]/div/div',
-    CALORIE_CONTENT='//*[@id="tab-nutrition-collapse-0"]/div/div[2]/div[2]/p',
-    JAVASCRIPT=meo_script
-)
-meo_scrapper.save()
+# meo_scrapper = WebScrapper("MeowMix")
+# meo_scrapper.index_number = 4
+# meo_script = """
+# document.querySelectorAll(".tab-pane").forEach(e=>e.classList.add('active'));
+# """
+# meo_scrapper.crawl(
+#     DESC_PATH='//*[@id="tab-description-0"]/div/div[1]/p',
+#     BENEFIT_PATH='//*[@id="tab-description-0"]/div/div[2]/ul/li',
+#     INGREDIENTS='//*[@id="tab-nutrition-collapse-0"]/div/div[1]/p',
+#     ANALYSIS='//*[@id="tab-nutrition-collapse-0"]/div/div[2]/div[1]/div/div',
+#     CALORIE_CONTENT='//*[@id="tab-nutrition-collapse-0"]/div/div[2]/div[2]/p',
+#     JAVASCRIPT=meo_script
+# )
+# meo_scrapper.save()
 
 # # Doesn't Exist
 # tom_scrapper = WebScrapper("Snappy Tom")
@@ -70,17 +70,17 @@ meo_scrapper.save()
 # )
 # tom_scrapper.save()
 
-# zwp_scrapper = WebScrapper("ZiwiPeak")
-# ziwi_script = """
-# document.querySelectorAll("#quickset-tabs_air_dried_and_canned_no_ta > div > div.view.view-pdp-2019-page-elements.view-id-pdp_2019_page_elements.resp-tab-content").forEach(e=> e.style='display:block');
-# """
-# zwp_scrapper.crawl(
-#     DESC_PATH='//*[@id="pdp-panels"]/div[2]/div[2]/div[3]/div/div/p[1]',
-#     BENEFIT_PATH='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[1]/div[2]/div/div/div/div[2]/div/div/div/div/div/div[3]',
-#     INGREDIENTS='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[2]/div/div/div/div/div/div[2]',
-#     ANALYSIS='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[3]/div[2]/div/div/div',
-#     JAVASCRIPT=ziwi_script
-# )
-# zwp_scrapper.save()
+zwp_scrapper = WebScrapper("ZiwiPeak")
+ziwi_script = """
+document.querySelectorAll("#quickset-tabs_air_dried_and_canned_no_ta > div > div.view.view-pdp-2019-page-elements.view-id-pdp_2019_page_elements.resp-tab-content").forEach(e=> e.style='display:block');
+"""
+zwp_scrapper.crawl(
+    DESC_PATH='//*[@id="pdp-panels"]/div[2]/div[2]/div[3]/div/div/p[1]',
+    BENEFIT_PATH='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[1]/div[2]/div/div/div/div[2]/div/div/div/div/div/div[3]',
+    INGREDIENTS='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[2]/div/div/div/div/div/div[2]',
+    ANALYSIS='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[3]/div[2]/div/div/div',
+    JAVASCRIPT=ziwi_script
+)
+zwp_scrapper.save()
 #
 #
