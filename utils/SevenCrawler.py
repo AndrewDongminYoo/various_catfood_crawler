@@ -1,3 +1,7 @@
+import json
+
+from selenium import webdriver
+
 from utils.objective_scraper import WebScrapper
 
 # atg_scrapper = WebScrapper("Against The Grain")
@@ -70,17 +74,27 @@ from utils.objective_scraper import WebScrapper
 # )
 # tom_scrapper.save()
 
-zwp_scrapper = WebScrapper("ZiwiPeak")
-ziwi_script = """
-document.querySelectorAll("#quickset-tabs_air_dried_and_canned_no_ta > div > div.view.view-pdp-2019-page-elements.view-id-pdp_2019_page_elements.resp-tab-content").forEach(e=> e.style='display:block');
-"""
-zwp_scrapper.crawl(
-    DESC_PATH='//*[@id="pdp-panels"]/div[2]/div[2]/div[3]/div/div/p[1]',
-    BENEFIT_PATH='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[1]/div[2]/div/div/div/div[2]/div/div/div/div/div/div[3]',
-    INGREDIENTS='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[2]/div/div/div/div/div/div[2]',
-    ANALYSIS='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[3]/div[2]/div/div/div',
-    JAVASCRIPT=ziwi_script
-)
-zwp_scrapper.save()
-#
-#
+# zwp_scrapper = WebScrapper("ZiwiPeak")
+# ziwi_script = """
+# document.querySelectorAll("#quickset-tabs_air_dried_and_canned_no_ta > div > div.view.view-pdp-2019-page-elements.view-id-pdp_2019_page_elements.resp-tab-content").forEach(e=> e.style='display:block');
+# """
+# zwp_scrapper.crawl(
+#     DESC_PATH='//*[@id="pdp-panels"]/div[2]/div[2]/div[3]/div/div/p[1]',
+#     BENEFIT_PATH='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[1]/div[2]/div/div/div/div[2]/div/div/div/div/div/div[3]',
+#     INGREDIENTS='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[2]/div/div/div/div/div/div[2]',
+#     ANALYSIS='//*[@id="quickset-tabs_air_dried_and_canned_no_ta"]/div/div[3]/div[2]/div/div/div',
+#     JAVASCRIPT=ziwi_script
+# )
+# zwp_scrapper.save()
+
+driver = webdriver.Chrome()
+for brand in ["Against The Grain", "Cardinal Fussie Cat", "Forza10 USA", "KOOKUT", "MeowMix", "ZiwiPeak"]:
+    with open(file=f"./data/{brand}.json", mode="r", encoding="UTF-8", newline="") as input_file:
+        formulas = json.load(input_file)
+        for formula in formulas:
+            for key, value in formula.items():
+                if not value:
+                    driver.get(formula['url'])
+                    formula[key] = input(f'"{key}" => // ')
+    with open(file=f"./data/{brand}_.json", mode="w", encoding="UTF-8", newline="") as output_file:
+        json.dump(formulas, output_file, indent=4, ensure_ascii=False, allow_nan=True)

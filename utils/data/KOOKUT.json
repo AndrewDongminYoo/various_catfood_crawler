@@ -63,26 +63,26 @@
         "brand": "KOOKUT",
         "url": "https://www.kookut.com/products/pacific-tuna-fillet-natural",
         "title": "Pacific Tuna - Natural – Kookut",
-        "descriptions": null,
-        "key_benefits": null,
-        "ingredients": null,
-        "analysis": null,
-        "calorie": null
+        "descriptions": "Our Pacific Tuna - Natural recipe for cat is perfectly cooked with fresh Pacific Tuna fillet. Our Natural range is the most natural & healthy recipe for your cat or kitten. Nothing hidden: no fillers, no gum, no carrageenan. This recipe brings twice more meat and protein than most wet food for cats and is the perfect recipe for your favorite carnivore. This food is complementary and should be served along our complete dry recipes to provide a healthy daily intake of taurine to your cat. ",
+        "key_benefits": "'- Caught Fresh and Steamed', '- High Meat & Protein', '- 100% Natural & Human Grade Ingredients', '- Nothing Artificial. Carrageenan & GMO Free'",
+        "ingredients": "Pacific Tuna 75.3%, tuna broth 23.3%, rice 1.4%",
+        "analysis": "Crude protein 21%, Crude Oil & Fats 0.5%, Crude Ash 2%, Crude Fiber 0.1%, Moisture 76%",
+        "calorie": "Metabolic energy (Kcal/100g): 83"
     },
     {
         "brand": "KOOKUT",
         "url": "https://www.kookut.com/products/free-run-chicken-natural",
         "title": "Free Run Chicken - Natural – Kookut",
-        "descriptions": null,
+        "descriptions": "Our Free Run Chicken - Natural recipe for cat is perfectly cooked with fresh Free Run Chicken fillet. Our Natural range is the most natural & healthy recipe for your cat or kitten. Nothing hidden: no fillers, no gum, no carrageenan. This recipe brings twice more meat and protein than most wet food for cats and is the perfect recipe for your favorite carnivore. This food is complementary and should be served along our complete dry recipes to provide a healthy daily intake of taurine to your cat.",
         "key_benefits": [
             "- Free Run Chicken",
             "- High Meat & Protein",
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": null,
-        "analysis": null,
-        "calorie": null
+        "ingredients": "Free Run Chicken 75.3%, chicken broth 23.3%, rice 1.4%",
+        "analysis": "Crude protein 21%, Crude Oil & Fats 0.8%, Crude Ash 1%, Crude Fiber 0.1%, Moisture 76%",
+        "calorie": "Metabolic energy (Kcal/100g): 90"
     },
     {
         "brand": "KOOKUT",
@@ -165,16 +165,16 @@
         "brand": "KOOKUT",
         "url": "https://www.kookut.com/products/free-run-chicken-pumpkin-natural",
         "title": "Free Run Chicken & Pumpkin - Natural – Kookut",
-        "descriptions": null,
+        "descriptions": "'Our Free Run Chicken & Pumpkin - Natural recipe for cat is perfectly cooked with fresh Free Run Chicken fillet & Pumpkin. Our Natural range is the most natural & healthy recipe for your cat or kitten. Nothing hidden: no fillers, no gum, no carrageenan.', 'This recipe brings twice more meat and protein than most wet food for cats and is the perfect recipe for your favorite carnivore.', 'This food is complementary and should be served along our complete dry recipes to provide a healthy daily intake of taurine to your cat.'",
         "key_benefits": [
             "- Free Run Chicken",
             "- High Meat & Protein",
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": null,
-        "analysis": null,
-        "calorie": null
+        "ingredients": "Free Run chicken 70%, broth 23.6%, pumpkin 5%, rice 1.4%",
+        "analysis": "Crude protein 22%, Crude Oil & Fats 1%, Crude Ash 1%, Crude Fiber 0.1%, Moisture 75%",
+        "calorie": "Metabolic energy (Kcal/100g): 90"
     },
     {
         "brand": "KOOKUT",
