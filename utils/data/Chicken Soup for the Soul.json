@@ -105,7 +105,7 @@
         "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-indoor-cat-dry-food-tuna-brown-rice-recipe",
         "title": "Classic Indoor Cat Dry Food - Tuna & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
-        "key_benefits": null,
+        "key_benefits": "",
         "ingredients": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles.",
         "analysis": [
             "Crude Protein 35.0% Minimum",
@@ -204,9 +204,16 @@
             "Made from the finest, simplest ingredients, our food provides a nutritious, well-balanced base for a happy, healthy wholesome life for your cat.",
             "Lovingly prepared in the USA with the world's finest ingredients"
         ],
-        "ingredients": "",
-        "analysis": [],
-        "calorie": ""
+        "ingredients": "Chicken, chicken liver, chicken broth, turkey broth, salmon, turkey, duck, dried egg product, powdered cellulose, whole grain brown rice, ground flaxseed, pea fiber, oatmeal, carrots, peas, potassium chloride, salt, cassia gum, xanthan gum, taurine, apples, cranberries, dried kelp, vitamins (thiamine mononitrate, vitamin E supplement, niacin supplement, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, vitamin A supplement, biotin, vitamin D3 supplement, vitamin B12 supplement, folic acid), inulin, choline chloride, minerals (ferrous sulfate, zinc oxide, copper proteinate, potassium iodide, manganese sulfate, sodium selenite), yucca schidigera extract, parsley.",
+        "analysis": [
+            "Crude Protein 10.0% Minimum",
+            "Crude Fat 7.0% Minimum",
+            "Crude Fiber 3.0% Maximum",
+            "Moisture 78.0% Maximum",
+            "Magnesium 0.038% Maximum",
+            "Taurine 0.10% Minimum"
+        ],
+        "calorie": "Calculated Metabolizable Energy (ME) 1298 kcal/kg 202 kcal/can 5.5oz (156 g)"
     },
     {
         "brand": "Chicken Soup for the Soul",
@@ -220,11 +227,17 @@
             "Made from the finest, simplest ingredients, our food provides a nutritious, well-balanced base for a happy, healthy wholesome life for your cat.",
             "Lovingly prepared in the USA with the world's finest ingredients"
         ],
-        "ingredients": "",
+        "ingredients": "Ocean fish, chicken broth, turkey broth, chicken, chicken liver, whole grain brown rice, dried egg product, salmon, turkey, duck, pea fiber, carrots, peas, ground flaxseed, powdered cellulose, oatmeal, potassium chloride, cassia gum, xanthan gum, taurine, apples, cranberries, dried kelp, vitamins (thiamine mononitrate, vitamin E supplement, niacin supplement, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, vitamin A supplement, biotin, vitamin D3 supplement, vitamin B12 supplement, folic acid), inulin, minerals (ferrous sulfate, zinc oxide, copper proteinate, potassium iodide, manganese sulfate, sodium selenite), yucca schidigera extract, choline chloride, parsley, salt.",
         "analysis": [
-
+            "Crude Protein 10.0% Minimum",
+            "Crude Fat 4.0% Minimum",
+            "Crude Fiber 2.5% Maximum",
+            "Moisture 78.0% Maximum",
+            "Ash 2.3% Maximum",
+            "Magnesium 0.032% Maximum",
+            "Taurine 0.10% Minimum"
         ],
-        "calorie": ""
+        "calorie": "Calculated Metabolizable Energy (ME) 963 kcal/kg 150 kcal/can 5.5oz (156 g)"
     },
     {
         "brand": "Chicken Soup for the Soul",

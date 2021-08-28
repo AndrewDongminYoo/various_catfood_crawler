@@ -46,7 +46,7 @@
             "Omega-3 fatty acid* (min) 0.30%",
             "Docosahexaenoic acid (DHA) (min) 0.05%"
         ],
-        "calorie": null
+        "calorie": "Calorie Content (me calculated): 3614 kcal/kg, 393 kcal/cup"
     },
     {
         "brand": "Organix",
@@ -93,13 +93,13 @@
             "Ash (max) 2.10%",
             "Taurine (min) 0.10%"
         ],
-        "calorie": ""
+        "calorie": "(Calculated) 1,121 kcal ME/kg or 175 kcal ME/can."
     },
     {
         "brand": "Organix",
         "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-shredded-chicken-recipe?id=69",
         "title": "ORGANIX® Grain Free Organic Shredded Chicken Recipe | Castor & Pollux Natural Petworks",
-        "descriptions": "",
+        "descriptions": "Ask any cat: it doesn't matter how good a cat food is if it doesn't taste good. That's why we've created this grain-free, certified-organic canned food that cats love. This recipe delivers complete nutrition, including omega-6 and 3 fatty acids for healthy skin and fur, plus extra fiber to help control hairballs.",
         "key_benefits": [
             "Cooked with love in an organically certified USA kitchen",
             "Omega-6 and 3 fatty acids help nourish skin and fur",
@@ -118,7 +118,7 @@
             "Ash (max) 2.10%",
             "Taurine (min) 0.10%"
         ],
-        "calorie": ""
+        "calorie": "1113 kcal/kg, 174 kcal per 5.5 oz. can"
     },
     {
         "brand": "Organix",
@@ -142,7 +142,7 @@
             "Ash (max) 2.10%",
             "Taurine (min) 0.10%"
         ],
-        "calorie": ""
+        "calorie": "5.5 oz. can: 1,225 kcal ME/kg or 191 kcal ME/can."
     },
     {
         "brand": "Organix",
@@ -234,13 +234,13 @@
             "Ash (max) 2.10%",
             "Taurine (min) 0.10%"
         ],
-        "calorie": ""
+        "calorie": "5.5 oz. can: 1,241 kcal ME/kg or 194 kcal ME/can."
     },
     {
         "brand": "Organix",
         "url": "https://www.castorpolluxpet.com/cats/recipes/organix-organic-cat-treats-chicken-recipe?id=95",
         "title": "ORGANIX® Organic Cat Treats - Chicken Recipe | Castor & Pollux Natural Petworks",
-        "descriptions": null,
+        "descriptions": "These all-natural treats feature 95% organic ingredients including organic free-range chicken as the #1 ingredient. Each tiny drumstick-shaped cookie contains less than 2 calories, and has great crunch appeal and taste.",
         "key_benefits": [
             "USDA Certified Organic",
             "One calorie per treat",
@@ -256,6 +256,6 @@
             "Crude Fiber (max) 5.00%",
             "Moisture (max) 10.00%"
         ],
-        "calorie": null
+        "calorie": ""
     }
 ]

@@ -42,69 +42,83 @@ from objective_scraper import WebScrapper
 #     CALORIE_CONTENT='//*[@id="feedingGuideContentContainer"]/div/div/label/p[6]',
 # )
 # org_scrapper.save()
+#
+# thr_scrapper = WebScrapper("Thrive complete")
+# print(thr_scrapper.url_list[0])
+# thr_script = """
+# document.querySelectorAll(".proptions").forEach(e => e.classList.add('active'));
+# """
+# thr_scrapper.crawl(
+#     DESC_PATH='//*[@id="po1"]/p',
+#     BENEFIT_PATH='//*[@id="po1"]/ul/li',
+#     INGREDIENTS='//*[@id="po2"]',
+#     ANALYSIS='//*[@id="po3"]',
+#     JAVASCRIPT=thr_script
+# )
+# thr_scrapper.save()
+#
+# wer_scrapper = WebScrapper("Weruva Catfood")
+# print(wer_scrapper.url_list[0])
+# wer_scrapper.crawl(
+#     DESC_PATH='//*[@id="main"]/div[2]/div/div[1]/div[2]/div/div[3]',
+#     INGREDIENTS='//*[@id="nutritionDetailInfo"]/div/div[3]/div[1]/p[2]',
+#     ANALYSIS='//*[@id="nutritionDetailInfo"]/div/div[1]/div[2]/table/tbody/tr',
+#     CALORIE_CONTENT='//*[@id="nutritionDetailInfo"]/div/div[1]/div[1]/table/tbody/tr'
+# )
+# wer_scrapper.save()
+#
+# opt_scrapper = WebScrapper("Optimanova")
+# print(opt_scrapper.url_list[0])
+# opt_script = """
+# document.querySelectorAll('.info').forEach(e => e.setAttribute('style','display:block;'));
+# """
+# opt_scrapper.crawl(
+#     DESC_PATH='//*[@id="bodycontent"]/section[1]/div/div/div[2]/p',
+#     BENEFIT_PATH='//*[@id="contenido-2"]/div/div/div[2]/div[2]/div[1]/ul/li',
+#     INGREDIENTS='//*[@id="contenido-2"]/div/div/div[2]/div[2]/div[2]/div[2]',
+#     ANALYSIS='//*[@id="contenido-2"]/div/div/div[2]/div[2]/div[3]/div[2]',
+#     ADDITIVES='//*[@id="contenido-2"]/div/div/div[2]/div[2]/div[4]/div[2]',
+#     JAVASCRIPT=opt_script
+# )
+# opt_scrapper.save()
+#
+# raw_scrapper = WebScrapper("Rawz")
+# print(raw_scrapper.url_list[0])
+# raw_script = """
+#
+# """
+# raw_scrapper.crawl(
+#     DESC_PATH='//*[@id="product-layout-cta-0"]/div/div[2]',
+#     BENEFIT_PATH='//*[@id="our-recipe"]/div[2]/div[1]/ul/li',
+#     INGREDIENTS='//*[@id="our-recipe"]/div[2]/div[2]/div',
+#     ANALYSIS='//*[@id="guaranteed-analysis"]/div/div/div/table/tbody/tr',
+#     CALORIE_CONTENT='//*[@id="transitioning-to-rawz"]/div/div[2]/p[3]',
+#     JAVASCRIPT=raw_script
+# )
+# raw_scrapper.save()
+#
+# tro_scrapper = WebScrapper("TROVET")
+# print(tro_scrapper.url_list[0])
+# tro_scrapper.crawl(
+#     DESC_PATH='/html/body/div[5]/div/div[1]/div[5]/p',
+#     BENEFIT_PATH='/html/body/div[5]/div/div[1]/ul[2]/li',
+#     INGREDIENTS='/html/body/div[5]/div/div[1]/div[19]/p',
+#     ANALYSIS='//*[@id="productvorm-Dry"]/div[4]/div',
+#     CALORIE_CONTENT='/html/body/div[5]/div/div[1]/div[19]'
+# )
+# tro_scrapper.save()
 
-thr_scrapper = WebScrapper("Thrive complete")
-print(thr_scrapper.url_list[0])
-thr_script = """
-document.querySelectorAll(".proptions").forEach(e => e.classList.add('active'));
-"""
-thr_scrapper.crawl(
-    DESC_PATH='//*[@id="po1"]/p',
-    BENEFIT_PATH='//*[@id="po1"]/ul/li',
-    INGREDIENTS='//*[@id="po2"]',
-    ANALYSIS='//*[@id="po3"]',
-    JAVASCRIPT=thr_script
-)
-thr_scrapper.save()
+import json
+from selenium import webdriver
 
-
-wer_scrapper = WebScrapper("Weruva Catfood")
-print(wer_scrapper.url_list[0])
-wer_scrapper.crawl(
-    DESC_PATH='//*[@id="main"]/div[2]/div/div[1]/div[2]/div/div[3]',
-    INGREDIENTS='//*[@id="nutritionDetailInfo"]/div/div[3]/div[1]/p[2]',
-    ANALYSIS='//*[@id="nutritionDetailInfo"]/div/div[1]/div[2]/table/tbody/tr',
-    CALORIE_CONTENT='//*[@id="nutritionDetailInfo"]/div/div[1]/div[1]/table/tbody/tr'
-)
-wer_scrapper.save()
-
-opt_scrapper = WebScrapper("Optimanova")
-print(opt_scrapper.url_list[0])
-opt_script = """
-document.querySelectorAll('.info').forEach(e => e.setAttribute('style','display:block;'));
-"""
-opt_scrapper.crawl(
-    DESC_PATH='//*[@id="bodycontent"]/section[1]/div/div/div[2]/p',
-    BENEFIT_PATH='//*[@id="contenido-2"]/div/div/div[2]/div[2]/div[1]/ul/li',
-    INGREDIENTS='//*[@id="contenido-2"]/div/div/div[2]/div[2]/div[2]/div[2]',
-    ANALYSIS='//*[@id="contenido-2"]/div/div/div[2]/div[2]/div[3]/div[2]',
-    ADDITIVES='//*[@id="contenido-2"]/div/div/div[2]/div[2]/div[4]/div[2]',
-    JAVASCRIPT=opt_script
-)
-opt_scrapper.save()
-
-raw_scrapper = WebScrapper("Rawz")
-print(raw_scrapper.url_list[0])
-raw_script = """
-
-"""
-raw_scrapper.crawl(
-    DESC_PATH='//*[@id="product-layout-cta-0"]/div/div[2]',
-    BENEFIT_PATH='//*[@id="our-recipe"]/div[2]/div[1]/ul/li',
-    INGREDIENTS='//*[@id="our-recipe"]/div[2]/div[2]/div',
-    ANALYSIS='//*[@id="guaranteed-analysis"]/div/div/div/table/tbody/tr',
-    CALORIE_CONTENT='//*[@id="transitioning-to-rawz"]/div/div[2]/p[3]',
-    JAVASCRIPT=raw_script
-)
-raw_scrapper.save()
-
-tro_scrapper = WebScrapper("TROVET")
-print(tro_scrapper.url_list[0])
-tro_scrapper.crawl(
-    DESC_PATH='/html/body/div[5]/div/div[1]/div[5]/p',
-    BENEFIT_PATH='/html/body/div[5]/div/div[1]/ul[2]/li',
-    INGREDIENTS='/html/body/div[5]/div/div[1]/div[19]/p',
-    ANALYSIS='//*[@id="productvorm-Dry"]/div[4]/div',
-    CALORIE_CONTENT='/html/body/div[5]/div/div[1]/div[19]'
-)
-tro_scrapper.save()
+driver = webdriver.Chrome()
+for brand in ["Trovet"]:
+    with open(file=f"./data/{brand}.json", mode="r", encoding="UTF-8", newline="") as input_file:
+        formulas = json.load(input_file)
+        for formula in formulas:
+            for key, value in formula.items():
+                if not value:
+                    driver.get(formula['url'])
+                    formula[key] = input(f'"{key}" => // ')
+    with open(file=f"./data/{brand}_.json", mode="w", encoding="UTF-8", newline="") as output_file:
+        json.dump(formulas, output_file, indent=4, ensure_ascii=False, allow_nan=True)
