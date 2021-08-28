@@ -1,6 +1,54 @@
 [
     {
         "brand": "Organix",
+        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-chicken-liver-recipe?id=202",
+        "title": "ORGANIX® Grain Free Organic Chicken & Chicken Liver Recipe | Castor & Pollux Natural Petworks",
+        "descriptions": "5.5 oz. can: Feed your adult cat about 1 can per 5.5 lbs of body weight per day.",
+        "key_benefits": [
+            "Cooked with love in an organically certified USA kitchen",
+            "Omega-6 and 3 fatty acids help nourish skin and fur",
+            "With a blend of superfoods - organic flaxseed, organic coconut flour, organic dried egg and organic cranberries",
+            "Added fiber helps control hairballs",
+            "Tested throughout the production process to ensure quality and safety",
+            "No chemical pesticides, synthetic fertilizers, artificial preservatives, growth hormones or antibiotics in organic ingredients ever!"
+        ],
+        "ingredients": "Organic Chicken, Water Sufficient for Processing, Organic Chicken Liver, Organic Peas, Organic Coconut Flour, Organic Dried Egg Product, Organic Pea Protein, Organic Flaxseed, Organic Cranberries, Organic Dehydrated Alfalfa Meal, Calcium Carbonate, Sodium Phosphate, Salt, Potassium Chloride, Salmon Oil, Taurine, Choline Chloride, Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate), Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)",
+        "analysis": [
+            "Crude Protein (min) 9.00%",
+            "Crude Fat (min) 5.00%",
+            "Crude Fiber (max) 1.00%",
+            "Moisture (max.) 78.00%",
+            "Ash (max) 2.10%",
+            "Taurine (min) 0.10%"
+        ],
+        "calorie": "Kittens and pregnant or nursing females may consume two to three timesthe recommended amount."
+    },
+    {
+        "brand": "Organix",
+        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-recipe?id=201",
+        "title": "ORGANIX® Grain Free Organic Chicken Recipe | Castor & Pollux Natural Petworks",
+        "descriptions": "5.5 oz. can: Feed your adult cat about 1 can per 6.5 lbs of body weight per day.",
+        "key_benefits": [
+            "Cooked with love in an organically certified USA kitchen",
+            "Omega-6 and 3 fatty acids help nourish skin and fur",
+            "With a blend of superfoods - organic flaxseed, organic coconut flour, organic dried egg and organic cranberries",
+            "Added fiber helps control hairballs",
+            "Tested throughout the production process to ensure quality and safety",
+            "No chemical pesticides, synthetic fertilizers, artificial preservatives, growth hormones or antibiotics in organic ingredients ever!"
+        ],
+        "ingredients": "Organic Chicken, Water Sufficient for Processing, Organic Chicken Liver, Organic Dried Peas, Organic Coconut Flour, Organic Dried Egg Product, Organic Pea Protein, Organic Flaxseed, Organic Carrots, Organic Cranberries, Organic Dried Alfalfa Meal, Calcium Carbonate, Sodium Phosphate, Salt, Potassium Chloride, Salmon Oil, Taurine, Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate), Choline Chloride, Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)",
+        "analysis": [
+            "Crude Protein (min) 9.00%",
+            "Crude Fat (min) 5.00%",
+            "Crude Fiber (max) 1.00%",
+            "Moisture (max.) 78.00%",
+            "Ash (max) 2.10%",
+            "Taurine (min) 0.10%"
+        ],
+        "calorie": "Kittens and pregnant or nursing females may consume two to three times the recommended amount."
+    },
+    {
+        "brand": "Organix",
         "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-sweet-potato-recipe?id=114",
         "title": "ORGANIX® Grain Free Organic Chicken & Sweet Potato Recipe | Castor & Pollux Natural Petworks",
         "descriptions": "ORGANIX Grain Free Organic Chicken & Sweet Potato Recipe Cat Food provides 100% complete and balanced nutrition for cats & kittens. Using the chart above, divide the total cups per day by the total number of times you feed your cat per day to determine the portion size for each meal. Use the information above as an initial recommendation only and adjust when needed. Kittens and pregnant or nursing females may consume two to three times the recommended amount; allow access to dry food at all times. Keep a clean bowl of fresh water available at all times. Help your cat maintain good body condition by monitoring food intake, providing exercise and visiting your veterinarian on a regular basis.",
@@ -22,6 +70,30 @@
             "Omega-3 fatty acid* (min) 0.30%"
         ],
         "calorie": "Calorie Content (me calculated): 3739 kcal/kg, 412 kcal/cup"
+    },
+    {
+        "brand": "Organix",
+        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-kitten-recipe-pate?id=181",
+        "title": "ORGANIX® Grain Free Organic Kitten Recipe Pâté | Castor & Pollux Natural Petworks",
+        "descriptions": "For combination feeding, reduce 1/4 cup dry for every 1/2 can wet.",
+        "key_benefits": [
+            "Cooked with love in an organically certified USA kitchen",
+            "With a blend of superfoods - organic flaxseed, organic coconut flour, organic dried egg and organic cranberries",
+            "Tested throughout the production process to ensure quality and safety",
+            "No chemical pesticides, synthetic fertilizers, artificial preservatives, growth hormones or antibiotics in organic ingredients ever!",
+            "Available in 5.5 oz can"
+        ],
+        "ingredients": "Organic Chicken, Water Sufficient for Processing, Organic Chicken Liver, Organic Pea Protein, Organic Coconut Flour, Organic Dried Egg Product, Organic Dried Peas, Organic Flaxseed, Salmon Oil, Organic Carrots, Organic Cranberries, Organic Dried Alfalfa Meal, Calcium Carbonate, Sodium Phosphate, Taurine, Salt, Potassium Chloride, Choline Chloride, Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate), Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)",
+        "analysis": [
+            "Crude Protein (min) 9.00%",
+            "Crude Fat (min) 7.00%",
+            "Crude Fiber (max) 1.00%",
+            "Moisture (max.) 78.00%",
+            "Ash (max) 2.10%",
+            "Taurine (min) 0.20%",
+            "DHA* (min.) 0.10%"
+        ],
+        "calorie": "5.5 oz. cans 1327 kcal/kg, 207 kcal per 5.5 oz. can"
     },
     {
         "brand": "Organix",
@@ -47,29 +119,6 @@
             "Docosahexaenoic acid (DHA) (min) 0.05%"
         ],
         "calorie": "Calorie Content (me calculated): 3614 kcal/kg, 393 kcal/cup"
-    },
-    {
-        "brand": "Organix",
-        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-organic-chicken-brown-rice-recipe?id=115",
-        "title": "ORGANIX® Organic Chicken & Brown Rice Recipe | Castor & Pollux Natural Petworks",
-        "descriptions": "ORGANIX Organic Chicken & Brown Rice Recipe Cat Food provides 100% complete and balanced nutrition for cats & kittens. Using the chart above, divide the total cups per day by the total number of times you feed your cat per day to determine the portion size for each meal. Use the information above as an initial recommendation only and adjust when needed. Kittens and pregnant or nursing females may consume two to three times the recommended amount; allow access to dry food at all times. Keep a clean bowl of fresh water available at all times. Help your cat maintain good body condition by monitoring food intake, providing exercise and visiting your veterinarian on a regular basis.",
-        "key_benefits": [
-            "USDA Organic",
-            "With grains to help support healthy digestion",
-            "With a blend of superfoods - organic flaxseed, organic cranberries and organic coconut oil",
-            "Cooked with love in an organically certified USA kitchen"
-        ],
-        "ingredients": "Organic Chicken, Organic Chicken Meal, Organic Pea Protein, Organic Oatmeal, Organic Peas, Organic Brown Rice, Organic Barley, Organic Sunflower Seed Meal, Organic Coconut Oil, Organic Chicken Fat (preserved with mixed tocopherols), Natural Flavor, Organic Flaxseed, Organic Chicken Liver, Organic Dried Alfalfa Meal, Salt, Choline Chloride, Salmon Oil, Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate), Taurine, Organic Cranberries, Potassium Chloride, Rosemary Extract, Dried Bacillus coagulans Fermentation Product",
-        "analysis": [
-            "Crude Protein (min.) 32%",
-            "Crude Fat (min.) 14%",
-            "Crude Fiber (max.) 3.5%",
-            "Moisture (max.) 11%",
-            "Taurine (min) 0.10%",
-            "Omega-6 fatty acid* (min) 2.50%",
-            "Omega-3 fatty acid* (min) 0.30%"
-        ],
-        "calorie": "Calorie Content (me calculated): 3726 kcal/kg, 411 kcal/cup"
     },
     {
         "brand": "Organix",
@@ -146,75 +195,48 @@
     },
     {
         "brand": "Organix",
-        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-chicken-liver-recipe?id=202",
-        "title": "ORGANIX® Grain Free Organic Chicken & Chicken Liver Recipe | Castor & Pollux Natural Petworks",
-        "descriptions": "5.5 oz. can: Feed your adult cat about 1 can per 5.5 lbs of body weight per day.",
+        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-organic-cat-treats-chicken-recipe?id=95",
+        "title": "ORGANIX® Organic Cat Treats - Chicken Recipe | Castor & Pollux Natural Petworks",
+        "descriptions": "These all-natural treats feature 95% organic ingredients including organic free-range chicken as the #1 ingredient. Each tiny drumstick-shaped cookie contains less than 2 calories, and has great crunch appeal and taste.",
         "key_benefits": [
+            "USDA Certified Organic",
+            "One calorie per treat",
+            "All natural",
+            "No corn, wheat or soy",
             "Cooked with love in an organically certified USA kitchen",
-            "Omega-6 and 3 fatty acids help nourish skin and fur",
-            "With a blend of superfoods - organic flaxseed, organic coconut flour, organic dried egg and organic cranberries",
-            "Added fiber helps control hairballs",
-            "Tested throughout the production process to ensure quality and safety",
-            "No chemical pesticides, synthetic fertilizers, artificial preservatives, growth hormones or antibiotics in organic ingredients ever!"
+            "Available in 2 oz"
         ],
-        "ingredients": "Organic Chicken, Water Sufficient for Processing, Organic Chicken Liver, Organic Peas, Organic Coconut Flour, Organic Dried Egg Product, Organic Pea Protein, Organic Flaxseed, Organic Cranberries, Organic Dehydrated Alfalfa Meal, Calcium Carbonate, Sodium Phosphate, Salt, Potassium Chloride, Salmon Oil, Taurine, Choline Chloride, Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate), Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)",
+        "ingredients": "Organic Chicken, Organic Peas, Organic Brown Rice, Organic Oats, Organic Barley, Organic Chicken Fat [Preserved With Mixed Tocopherols], Natural Chicken Liver Flavor, Organic Flaxseed, Rosemary Extract",
         "analysis": [
-            "Crude Protein (min) 9.00%",
-            "Crude Fat (min) 5.00%",
-            "Crude Fiber (max) 1.00%",
-            "Moisture (max.) 78.00%",
-            "Ash (max) 2.10%",
-            "Taurine (min) 0.10%"
+            "Crude Protein (min) 14.50%",
+            "Crude Fat (min) 13.00%",
+            "Crude Fiber (max) 5.00%",
+            "Moisture (max) 10.00%"
         ],
-        "calorie": "Kittens and pregnant or nursing females may consume two to three timesthe recommended amount."
+        "calorie": "Threonine\t1.49 %"
     },
     {
         "brand": "Organix",
-        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-recipe?id=201",
-        "title": "ORGANIX® Grain Free Organic Chicken Recipe | Castor & Pollux Natural Petworks",
-        "descriptions": "5.5 oz. can: Feed your adult cat about 1 can per 6.5 lbs of body weight per day.",
+        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-organic-chicken-brown-rice-recipe?id=115",
+        "title": "ORGANIX® Organic Chicken & Brown Rice Recipe | Castor & Pollux Natural Petworks",
+        "descriptions": "ORGANIX Organic Chicken & Brown Rice Recipe Cat Food provides 100% complete and balanced nutrition for cats & kittens. Using the chart above, divide the total cups per day by the total number of times you feed your cat per day to determine the portion size for each meal. Use the information above as an initial recommendation only and adjust when needed. Kittens and pregnant or nursing females may consume two to three times the recommended amount; allow access to dry food at all times. Keep a clean bowl of fresh water available at all times. Help your cat maintain good body condition by monitoring food intake, providing exercise and visiting your veterinarian on a regular basis.",
         "key_benefits": [
-            "Cooked with love in an organically certified USA kitchen",
-            "Omega-6 and 3 fatty acids help nourish skin and fur",
-            "With a blend of superfoods - organic flaxseed, organic coconut flour, organic dried egg and organic cranberries",
-            "Added fiber helps control hairballs",
-            "Tested throughout the production process to ensure quality and safety",
-            "No chemical pesticides, synthetic fertilizers, artificial preservatives, growth hormones or antibiotics in organic ingredients ever!"
+            "USDA Organic",
+            "With grains to help support healthy digestion",
+            "With a blend of superfoods - organic flaxseed, organic cranberries and organic coconut oil",
+            "Cooked with love in an organically certified USA kitchen"
         ],
-        "ingredients": "Organic Chicken, Water Sufficient for Processing, Organic Chicken Liver, Organic Dried Peas, Organic Coconut Flour, Organic Dried Egg Product, Organic Pea Protein, Organic Flaxseed, Organic Carrots, Organic Cranberries, Organic Dried Alfalfa Meal, Calcium Carbonate, Sodium Phosphate, Salt, Potassium Chloride, Salmon Oil, Taurine, Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate), Choline Chloride, Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)",
+        "ingredients": "Organic Chicken, Organic Chicken Meal, Organic Pea Protein, Organic Oatmeal, Organic Peas, Organic Brown Rice, Organic Barley, Organic Sunflower Seed Meal, Organic Coconut Oil, Organic Chicken Fat (preserved with mixed tocopherols), Natural Flavor, Organic Flaxseed, Organic Chicken Liver, Organic Dried Alfalfa Meal, Salt, Choline Chloride, Salmon Oil, Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate), Taurine, Organic Cranberries, Potassium Chloride, Rosemary Extract, Dried Bacillus coagulans Fermentation Product",
         "analysis": [
-            "Crude Protein (min) 9.00%",
-            "Crude Fat (min) 5.00%",
-            "Crude Fiber (max) 1.00%",
-            "Moisture (max.) 78.00%",
-            "Ash (max) 2.10%",
-            "Taurine (min) 0.10%"
+            "Crude Protein (min.) 32%",
+            "Crude Fat (min.) 14%",
+            "Crude Fiber (max.) 3.5%",
+            "Moisture (max.) 11%",
+            "Taurine (min) 0.10%",
+            "Omega-6 fatty acid* (min) 2.50%",
+            "Omega-3 fatty acid* (min) 0.30%"
         ],
-        "calorie": "Kittens and pregnant or nursing females may consume two to three times the recommended amount."
-    },
-    {
-        "brand": "Organix",
-        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-kitten-recipe-pate?id=181",
-        "title": "ORGANIX® Grain Free Organic Kitten Recipe Pâté | Castor & Pollux Natural Petworks",
-        "descriptions": "For combination feeding, reduce 1/4 cup dry for every 1/2 can wet.",
-        "key_benefits": [
-            "Cooked with love in an organically certified USA kitchen",
-            "With a blend of superfoods - organic flaxseed, organic coconut flour, organic dried egg and organic cranberries",
-            "Tested throughout the production process to ensure quality and safety",
-            "No chemical pesticides, synthetic fertilizers, artificial preservatives, growth hormones or antibiotics in organic ingredients ever!",
-            "Available in 5.5 oz can"
-        ],
-        "ingredients": "Organic Chicken, Water Sufficient for Processing, Organic Chicken Liver, Organic Pea Protein, Organic Coconut Flour, Organic Dried Egg Product, Organic Dried Peas, Organic Flaxseed, Salmon Oil, Organic Carrots, Organic Cranberries, Organic Dried Alfalfa Meal, Calcium Carbonate, Sodium Phosphate, Taurine, Salt, Potassium Chloride, Choline Chloride, Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate), Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)",
-        "analysis": [
-            "Crude Protein (min) 9.00%",
-            "Crude Fat (min) 7.00%",
-            "Crude Fiber (max) 1.00%",
-            "Moisture (max.) 78.00%",
-            "Ash (max) 2.10%",
-            "Taurine (min) 0.20%",
-            "DHA* (min.) 0.10%"
-        ],
-        "calorie": "5.5 oz. cans 1327 kcal/kg, 207 kcal per 5.5 oz. can"
+        "calorie": "Calorie Content (me calculated): 3726 kcal/kg, 411 kcal/cup"
     },
     {
         "brand": "Organix",
@@ -235,27 +257,5 @@
             "Taurine (min) 0.10%"
         ],
         "calorie": "5.5 oz. can: 1,241 kcal ME/kg or 194 kcal ME/can."
-    },
-    {
-        "brand": "Organix",
-        "url": "https://www.castorpolluxpet.com/cats/recipes/organix-organic-cat-treats-chicken-recipe?id=95",
-        "title": "ORGANIX® Organic Cat Treats - Chicken Recipe | Castor & Pollux Natural Petworks",
-        "descriptions": "These all-natural treats feature 95% organic ingredients including organic free-range chicken as the #1 ingredient. Each tiny drumstick-shaped cookie contains less than 2 calories, and has great crunch appeal and taste.",
-        "key_benefits": [
-            "USDA Certified Organic",
-            "One calorie per treat",
-            "All natural",
-            "No corn, wheat or soy",
-            "Cooked with love in an organically certified USA kitchen",
-            "Available in 2 oz"
-        ],
-        "ingredients": "Organic Chicken, Organic Peas, Organic Brown Rice, Organic Oats, Organic Barley, Organic Chicken Fat [Preserved With Mixed Tocopherols], Natural Chicken Liver Flavor, Organic Flaxseed, Rosemary Extract",
-        "analysis": [
-            "Crude Protein (min) 14.50%",
-            "Crude Fat (min) 13.00%",
-            "Crude Fiber (max) 5.00%",
-            "Moisture (max) 10.00%"
-        ],
-        "calorie": ""
     }
 ]

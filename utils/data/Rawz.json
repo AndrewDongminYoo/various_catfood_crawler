@@ -1,95 +1,6 @@
 [
     {
         "brand": "Rawz",
-        "url": "https://rawznaturalpetfood.com/product/meal-free-turkey-and-chicken-cat-food/",
-        "title": "Dehydrated Chicken, Turkey & Chicken Recipe | RAWZ",
-        "descriptions": [
-            "RAWZ® IS A 100% NUTRITIONALLY COMPLETE & BALANCED DIET FOR ALL LIFE STAGES. RAWZ® Dehydrated Chicken, Turkey & Chicken Recipe Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for All Life Stages.",
-            "DO YOU KNOW WHAT YOUR PETS ARE ACTUALLY EATING? Don’t be fooled by marketing jargon — “grain-free” and “organic” may not mean what you think. Download our guide to learn How to Read and Decode a Pet Food Label. Get the Guide"
-        ],
-        "key_benefits": [
-            "DEHYDRATED CHICKEN IS OUR CONCENTRATED PROTEIN SOURCE",
-            "HEALTHY LEVELS OF HIGHLY DIGESTIBLE PROTEIN",
-            "REDUCED CARBOHYDRATES",
-            "NATURALLY OCCURRING FAT IN MODERATE LEVELS",
-            "GENTLY COOKED IN SMALLER BATCHES",
-            "COOKED TO A LEVEL TO ENSURE FOOD SAFETY, AND NOTHING MORE"
-        ],
-        "ingredients": "Dehydrated Chicken, Dehydrated Deboned Chicken, Chicken, Turkey, Chicken Liver, Turkey Liver, Turkey Hearts, Pea Starch, Tapioca Starch, Dried Peas, Natural Chicken Flavor, Dried Egg Product, Flaxseeds, Dried Tomato Pomace, Salt, Choline Chloride, Potassium Chloride, DL-Methionine, Vitamins (Vitamin E Supplement, Niacin Supplement, D-Calcium Pantothenate, Vitamin A Acetate, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Minerals (Ferrous Sulfate, Zinc Oxide, Calcium Carbonate, Manganous Oxide, Copper Sulfate, Iron Amino Acid Chelate, Manganese Amino Acid Chelate, Zinc Amino Acid Chelate, Copper Amino Acid Chelate, Sodium Selenite, Cobalt Carbonate, Calcium Iodate), Mixed Tocopherols (Preservative), Taurine, Citric Acid (Preservative), Rosemary Extract.",
-        "analysis": [
-            "PROTEIN min 40.00%",
-            "FAT min 12.00%",
-            "FIBER max 4.00%",
-            "MOISTURE max 10.00%",
-            "CALCIUM min 1.50%",
-            "PHOSPHORUS min 1.00%",
-            "MAGNESIUM max 0.12%",
-            "VITAMIN E min 100 IU/kg",
-            "TAURINE min 1500 mg/kg",
-            "OMEGA-6 FATTY ACIDS* min 2.50%",
-            "OMEGA-3 FATTY ACIDS* min 0.80%"
-        ],
-        "calorie": "CALORIE CONTENT (calculated): ME = 3,710 kcal/kg; 460 kcal/cup."
-    },
-    {
-        "brand": "Rawz",
-        "url": "https://rawznaturalpetfood.com/product/meal-free-salmon-chicken-and-whitefish-cat-food/",
-        "title": "Salmon, Dehydrated Chicken & Whitefish Recipe | RAWZ",
-        "descriptions": [
-            "RAWZ® IS A 100% NUTRITIONALLY COMPLETE & BALANCED DIET FOR ALL LIFE STAGES. RAWZ® Salmon, Dehydrated Chicken & Whitefish Recipe Cat Food has been formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for All Life Stages.",
-            "DO YOU KNOW WHAT YOUR PETS ARE ACTUALLY EATING? Don’t be fooled by marketing jargon — “grain-free” and “organic” may not mean what you think. Download our guide to learn How to Read and Decode a Pet Food Label. Get the Guide"
-        ],
-        "key_benefits": [
-            "DEHYDRATED CHICKEN IS OUR CONCENTRATED PROTEIN SOURCE",
-            "HEALTHY LEVELS OF HIGHLY DIGESTIBLE PROTEIN",
-            "REDUCED CARBOHYDRATES",
-            "NATURALLY OCCURRING FAT IN MODERATE LEVELS",
-            "GENTLY COOKED IN SMALLER BATCHES",
-            "COOKED TO A LEVEL TO ENSURE FOOD SAFTY, AND NOTHING MORE"
-        ],
-        "ingredients": "Salmon, Dehydrated Deboned Chicken, Dehydrated Chicken, (Source of Glucosamine and Chondroitin Sulfate), Whitefish, Turkey, Turkey Liver, Pea Starch, Dried Peas, Tapioca Starch, Dried Egg Product, Flaxseeds, Natural Chicken Flavor, Dried Tomato Pomace, Salt, Choline Chloride, Potassium Chloride, DL-Methionine, Vitamins (Vitamin E Supplement, Niacin Supplement, D-Calcium Pantothenate, Vitamin A Acetate, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Minerals (Ferrous Sulfate, Zinc Oxide, Calcium Carbonate, Manganous Oxide, Copper Sulfate, Iron Amino Acid Chelate, Manganese Amino Acid Chelate, Zinc Amino Acid Chelate, Copper Amino Acid Chelate, Sodium Selenite, Cobalt Carbonate, Calcium Iodate), Mixed Tocopherols (Preservative), Taurine, Citric Acid (Preservative), Rosemary Extract.",
-        "analysis": [
-            "PROTEIN min 40.00%",
-            "FAT min 12.00%",
-            "FIBER max 4.00%",
-            "MOISTURE max 10.00%",
-            "CALCIUM min 1.50%",
-            "PHOSPHORUS min 1.00%",
-            "MAGNESIUM max 0.12%",
-            "VITAMIN E min 100 IU/kg",
-            "TAURINE* min 1500 mg/kg",
-            "OMEGA-6 FATTY ACIDS* min 2.50%",
-            "OMEGA-3 FATTY ACIDS* min 0.80%"
-        ],
-        "calorie": "CALORIE CONTENT (calculated): ME = 3,710 kcal/kg; 460 kcal/cup."
-    },
-    {
-        "brand": "Rawz",
-        "url": "https://rawznaturalpetfood.com/product/beef-and-beef-liver-cat-food/",
-        "title": "Beef Pate Cat Food | Rawz",
-        "descriptions": [
-            "RAWZ® IS A 100% NUTRITIONALLY COMPLETE & BALANCED DIET FOR ALL LIFE STAGES. RAWZ® STEAM COOKED 96% Chicken & Chicken Liver Pâté Cat Food has been formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for All Life Stages.",
-            "DO YOU KNOW WHAT YOUR PETS ARE ACTUALLY EATING? Don’t be fooled by marketing jargon — “grain-free” and “organic” may not mean what you think. Download our guide to learn How to Read and Decode a Pet Food Label. Get the Guide"
-        ],
-        "key_benefits": [
-            "Naturally rich in vitamins and minerals.",
-            "Contain polysaccharides which lower bad cholesterol.",
-            "Contain an amino acid that lowers glucose absorption.",
-            "Contain powerful phytonutrients which aid in multiple digestive and neurological functions."
-        ],
-        "ingredients": "Beef, Beef Liver, Beef Broth, Tricalcium Phosphate, Calcium Carbonate, Fenugreek Seeds, Natural Flavor, Choline Chloride, Salt, Vegetable Broth, Dandelion Greens, Taurine, Potassium Chloride, Zinc Proteinate, Iron Proteinate, Niacin Supplement, Vitamin E Supplement, Copper Proteinate, Sodium Selenite, Thiamine Mononitrate, Manganese Proteinate, Vitamin A Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Vitamin D3 Supplement, Vitamin B12 Supplement, Calcium Iodate*, Folic Acid.",
-        "analysis": [
-            "CRUDE PROTEIN min 10.50%",
-            "CRUDE FAT min 6.00%",
-            "CRUDE FIBER max 1.00%",
-            "MOISTURE max 78.00%",
-            "MAGNESIUM max 0.03%",
-            "TAURINE min 0.10%"
-        ],
-        "calorie": "(ME calculated as shown): 1,131 kcal/kg; 176 kcal/can."
-    },
-    {
-        "brand": "Rawz",
         "url": "https://rawznaturalpetfood.com/product/96-chicken-chicken-liver-pate/",
         "title": "96% Chicken & Chicken Liver Pate | RAWZ",
         "descriptions": [
@@ -287,5 +198,94 @@
             "TAURINE min 0.10%"
         ],
         "calorie": "(ME calculated as shown): 1,286 kcal/kg; 199 kcal/5.5 oz. can or 109 kcal/3 oz. can."
+    },
+    {
+        "brand": "Rawz",
+        "url": "https://rawznaturalpetfood.com/product/beef-and-beef-liver-cat-food/",
+        "title": "Beef Pate Cat Food | Rawz",
+        "descriptions": [
+            "RAWZ® IS A 100% NUTRITIONALLY COMPLETE & BALANCED DIET FOR ALL LIFE STAGES. RAWZ® STEAM COOKED 96% Chicken & Chicken Liver Pâté Cat Food has been formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for All Life Stages.",
+            "DO YOU KNOW WHAT YOUR PETS ARE ACTUALLY EATING? Don’t be fooled by marketing jargon — “grain-free” and “organic” may not mean what you think. Download our guide to learn How to Read and Decode a Pet Food Label. Get the Guide"
+        ],
+        "key_benefits": [
+            "Naturally rich in vitamins and minerals.",
+            "Contain polysaccharides which lower bad cholesterol.",
+            "Contain an amino acid that lowers glucose absorption.",
+            "Contain powerful phytonutrients which aid in multiple digestive and neurological functions."
+        ],
+        "ingredients": "Beef, Beef Liver, Beef Broth, Tricalcium Phosphate, Calcium Carbonate, Fenugreek Seeds, Natural Flavor, Choline Chloride, Salt, Vegetable Broth, Dandelion Greens, Taurine, Potassium Chloride, Zinc Proteinate, Iron Proteinate, Niacin Supplement, Vitamin E Supplement, Copper Proteinate, Sodium Selenite, Thiamine Mononitrate, Manganese Proteinate, Vitamin A Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Vitamin D3 Supplement, Vitamin B12 Supplement, Calcium Iodate*, Folic Acid.",
+        "analysis": [
+            "CRUDE PROTEIN min 10.50%",
+            "CRUDE FAT min 6.00%",
+            "CRUDE FIBER max 1.00%",
+            "MOISTURE max 78.00%",
+            "MAGNESIUM max 0.03%",
+            "TAURINE min 0.10%"
+        ],
+        "calorie": "(ME calculated as shown): 1,131 kcal/kg; 176 kcal/can."
+    },
+    {
+        "brand": "Rawz",
+        "url": "https://rawznaturalpetfood.com/product/meal-free-salmon-chicken-and-whitefish-cat-food/",
+        "title": "Salmon, Dehydrated Chicken & Whitefish Recipe | RAWZ",
+        "descriptions": [
+            "RAWZ® IS A 100% NUTRITIONALLY COMPLETE & BALANCED DIET FOR ALL LIFE STAGES. RAWZ® Salmon, Dehydrated Chicken & Whitefish Recipe Cat Food has been formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for All Life Stages.",
+            "DO YOU KNOW WHAT YOUR PETS ARE ACTUALLY EATING? Don’t be fooled by marketing jargon — “grain-free” and “organic” may not mean what you think. Download our guide to learn How to Read and Decode a Pet Food Label. Get the Guide"
+        ],
+        "key_benefits": [
+            "DEHYDRATED CHICKEN IS OUR CONCENTRATED PROTEIN SOURCE",
+            "HEALTHY LEVELS OF HIGHLY DIGESTIBLE PROTEIN",
+            "REDUCED CARBOHYDRATES",
+            "NATURALLY OCCURRING FAT IN MODERATE LEVELS",
+            "GENTLY COOKED IN SMALLER BATCHES",
+            "COOKED TO A LEVEL TO ENSURE FOOD SAFTY, AND NOTHING MORE"
+        ],
+        "ingredients": "Salmon, Dehydrated Deboned Chicken, Dehydrated Chicken, (Source of Glucosamine and Chondroitin Sulfate), Whitefish, Turkey, Turkey Liver, Pea Starch, Dried Peas, Tapioca Starch, Dried Egg Product, Flaxseeds, Natural Chicken Flavor, Dried Tomato Pomace, Salt, Choline Chloride, Potassium Chloride, DL-Methionine, Vitamins (Vitamin E Supplement, Niacin Supplement, D-Calcium Pantothenate, Vitamin A Acetate, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Minerals (Ferrous Sulfate, Zinc Oxide, Calcium Carbonate, Manganous Oxide, Copper Sulfate, Iron Amino Acid Chelate, Manganese Amino Acid Chelate, Zinc Amino Acid Chelate, Copper Amino Acid Chelate, Sodium Selenite, Cobalt Carbonate, Calcium Iodate), Mixed Tocopherols (Preservative), Taurine, Citric Acid (Preservative), Rosemary Extract.",
+        "analysis": [
+            "PROTEIN min 40.00%",
+            "FAT min 12.00%",
+            "FIBER max 4.00%",
+            "MOISTURE max 10.00%",
+            "CALCIUM min 1.50%",
+            "PHOSPHORUS min 1.00%",
+            "MAGNESIUM max 0.12%",
+            "VITAMIN E min 100 IU/kg",
+            "TAURINE* min 1500 mg/kg",
+            "OMEGA-6 FATTY ACIDS* min 2.50%",
+            "OMEGA-3 FATTY ACIDS* min 0.80%"
+        ],
+        "calorie": "CALORIE CONTENT (calculated): ME = 3,710 kcal/kg; 460 kcal/cup."
+    },
+    {
+        "brand": "Rawz",
+        "url": "https://rawznaturalpetfood.com/product/meal-free-turkey-and-chicken-cat-food/",
+        "title": "Dehydrated Chicken, Turkey & Chicken Recipe | RAWZ",
+        "descriptions": [
+            "RAWZ® IS A 100% NUTRITIONALLY COMPLETE & BALANCED DIET FOR ALL LIFE STAGES. RAWZ® Dehydrated Chicken, Turkey & Chicken Recipe Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for All Life Stages.",
+            "DO YOU KNOW WHAT YOUR PETS ARE ACTUALLY EATING? Don’t be fooled by marketing jargon — “grain-free” and “organic” may not mean what you think. Download our guide to learn How to Read and Decode a Pet Food Label. Get the Guide"
+        ],
+        "key_benefits": [
+            "DEHYDRATED CHICKEN IS OUR CONCENTRATED PROTEIN SOURCE",
+            "HEALTHY LEVELS OF HIGHLY DIGESTIBLE PROTEIN",
+            "REDUCED CARBOHYDRATES",
+            "NATURALLY OCCURRING FAT IN MODERATE LEVELS",
+            "GENTLY COOKED IN SMALLER BATCHES",
+            "COOKED TO A LEVEL TO ENSURE FOOD SAFETY, AND NOTHING MORE"
+        ],
+        "ingredients": "Dehydrated Chicken, Dehydrated Deboned Chicken, Chicken, Turkey, Chicken Liver, Turkey Liver, Turkey Hearts, Pea Starch, Tapioca Starch, Dried Peas, Natural Chicken Flavor, Dried Egg Product, Flaxseeds, Dried Tomato Pomace, Salt, Choline Chloride, Potassium Chloride, DL-Methionine, Vitamins (Vitamin E Supplement, Niacin Supplement, D-Calcium Pantothenate, Vitamin A Acetate, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Minerals (Ferrous Sulfate, Zinc Oxide, Calcium Carbonate, Manganous Oxide, Copper Sulfate, Iron Amino Acid Chelate, Manganese Amino Acid Chelate, Zinc Amino Acid Chelate, Copper Amino Acid Chelate, Sodium Selenite, Cobalt Carbonate, Calcium Iodate), Mixed Tocopherols (Preservative), Taurine, Citric Acid (Preservative), Rosemary Extract.",
+        "analysis": [
+            "PROTEIN min 40.00%",
+            "FAT min 12.00%",
+            "FIBER max 4.00%",
+            "MOISTURE max 10.00%",
+            "CALCIUM min 1.50%",
+            "PHOSPHORUS min 1.00%",
+            "MAGNESIUM max 0.12%",
+            "VITAMIN E min 100 IU/kg",
+            "TAURINE min 1500 mg/kg",
+            "OMEGA-6 FATTY ACIDS* min 2.50%",
+            "OMEGA-3 FATTY ACIDS* min 0.80%"
+        ],
+        "calorie": "CALORIE CONTENT (calculated): ME = 3,710 kcal/kg; 460 kcal/cup."
     }
 ]

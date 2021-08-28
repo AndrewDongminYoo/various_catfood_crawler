@@ -1,6 +1,80 @@
 [
     {
         "brand": "Instinct Pet Food",
+        "title": "Instinct® Limited Ingredient Diet Grain-Free Recipe with Real Rabbit | Instinct Pet Food",
+        "descriptions": "When your cat has food sensitivities, knowing exactly what’s in their food is important. That’s why our ingredient lists are purposefully short, made with ONE ANIMAL PROTEIN and ONE VEGETABLE, versus the mix of each you’ll find in most other cat foods. Guided by the purity and simplicity of raw, Instinct Limited Ingredient Diet Grain-Free Recipe with Real Rabbit is simple and essential nutrition your cat needs to thrive.",
+        "key_benefits": [
+            "Purposefully simple ingredient list for pets with food sensitivities - ONE ANIMAL PROTEIN and ONE VEGETABLE",
+            "Made with farm-raised rabbit – a nutrient rich, easily digestible protein that provides all of the essential amino acids",
+            "Made without - grain, dairy, eggs, chicken, beef, fish, sweet potato, potato, chickpeas, corn, wheat, soy, artificial colors or preservatives",
+            "Guaranteed levels of natural Omegas and antioxidants for healthy skin & coat, and immune health",
+            "The only limited ingredient diet kibble with the pure, real nutrition of raw on every piece"
+        ],
+        "ingredients": "Rabbit Meal, Peas, Tapioca, Canola Oil (preserved with Mixed Tocopherols and Citric Acid), Rabbit, Natural Flavor, Coconut Oil, Montmorillonite Clay, Taurine, Choline Chloride, Potassium Chloride, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), DL-Methionine, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Freeze Dried Rabbit, Salt, Pumpkinseeds, Rosemary Extract",
+        "analysis": [
+            "Crude Protein (min) 35 %",
+            "Crude Fat (min) 19 %",
+            "Crude Fiber (max) 5.50 %",
+            "Moisture (max) 9 %",
+            "Vitamin E (min) 100 IU/kg",
+            "*Ascorbic Acid (Vitamin C) (min) 85 mg/kg",
+            "*Omega 3 Fatty Acids (min) 0.70 %",
+            "*Omega 6 Fatty Acids (min) 3.40 %"
+        ],
+        "calorie": "Metabolizable Energy 3,890 kcal/kg; 457 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/limited-ingredient-diet/instinct-limited-ingredient-diet-grain-free-recipe-real-rabbit"
+    },
+    {
+        "brand": "Instinct Pet Food",
+        "title": "Instinct® Limited Ingredient Diet Grain-Free Recipe with Real Salmon | Instinct Pet Food",
+        "descriptions": "When your cat has food sensitivities, knowing exactly what’s in their food is important. That’s why our ingredient lists are purposefully short, made with one animal protein and one vegetable, versus the mix of each you’ll find in most other cat foods. Guided by the purity and simplicity of raw, Instinct® Limited Ingredient Diet Grain-Free Recipe with Real Salmon is simple and essential nutrition your cat needs to thrive.",
+        "key_benefits": [
+            "Purposefully simple ingredient list for pets with food sensitivities - one animal protein and one vegetable",
+            "Made with wild-caught salmon – an easily digestible protein rich in Omega 3's, that provides all of the essential amino acids",
+            "Made without - grain, dairy, eggs, chicken, beef, sweet potato, potato, chickpeas, corn, wheat, soy, artificial colors or preservatives",
+            "Guaranteed levels of natural Omegas and antioxidants for healthy skin & coat, and immune health",
+            "The only limited ingredient diet kibble with the pure, real nutrition of raw on every piece",
+            "Made in the USA with the finest ingredients from around the world"
+        ],
+        "ingredients": "Salmon Meal, Peas, Tapioca, Canola Oil (preserved with Mixed Tocopherols and Citric Acid), Salmon, Natural Flavor, Coconut Oil, Montmorillonite Clay, Salt, Potassium Chloride, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Menadione Sodium Bisulfite Complex, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Choline Chloride, Freeze Dried Cod, Taurine, Rosemary Extract.",
+        "analysis": [
+            "Crude Protein (min) 37.50 %",
+            "Crude Fat (min) 17 %",
+            "Crude Fiber (max) 3 %",
+            "Moisture (max) 9 %",
+            "*Omega 6 Fatty Acids (min) 2.50 %",
+            "*Omega 3 Fatty Acids (min) 1 %"
+        ],
+        "calorie": "Metabolizable Energy 4,400 kcal/kg; 517 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/limited-ingredient-diet/instinct-limited-ingredient-diet-grain-free-recipe-real-salmon"
+    },
+    {
+        "brand": "Instinct Pet Food",
+        "title": "Instinct® Limited Ingredient Diet Grain-Free Recipe with Real Turkey | Instinct Pet Food",
+        "descriptions": "When your cat has food sensitivities, knowing exactly what’s in their food is important. That’s why our ingredient lists are purposefully short, made with ONE ANIMAL PROTEIN and ONE VEGETABLE, versus the mix of each you’ll find in most other cat foods. Guided by the purity and simplicity of raw, Instinct Limited Ingredient Diet Grain-Free Recipe with Real Turkey is simple and essential nutrition your cat needs to thrive.",
+        "key_benefits": [
+            "Purposefully simple ingredient list for pets with food sensitivities - ONE ANIMAL PROTEIN and ONE VEGETABLE",
+            "Made with cage-free turkey – a healthy, easily digestible protein that provides all the essential amino acids",
+            "Made without - grain, dairy, eggs, chicken, beef, fish, sweet potato, potato, chickpeas, corn, wheat, soy, artificial colors or preservatives",
+            "Guaranteed levels of natural Omegas and antioxidants for healthy skin & coat, and immune health",
+            "The only limited ingredient diet kibble with the pure, real nutrition of raw on every piece"
+        ],
+        "ingredients": "Turkey Meal, Peas, Turkey, Tapioca, Canola Oil (preserved with Mixed Tocopherols and Citric Acid), Natural Flavor, Coconut Oil, Salt, Montmorillonite Clay, Choline Chloride, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Potassium Chloride, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Taurine, DL-Methionine, Freeze Dried Turkey, Freeze Dried Turkey Liver, Pumpkinseeds, Freeze Dried Turkey Heart, Rosemary Extract. ",
+        "analysis": [
+            "Crude Protein (min) 35.50 %",
+            "Crude Fat (min) 16.50 %",
+            "Crude Fiber (max) 4 %",
+            "Moisture (max) 9 %",
+            "Vitamin E (min) 100 IU/kg",
+            "*Ascorbic Acid (Vitamin C) (min) 85 mg/kg",
+            "*Omega 3 Fatty Acids (min) 0.60 %",
+            "*Omega 6 Fatty Acids (min) 2.50 %"
+        ],
+        "calorie": "Metabolizable Energy 4,070 kcal/kg; 463 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/limited-ingredient-diet/instinct-limited-ingredient-diet-grain-free-recipe-real-turkey"
+    },
+    {
+        "brand": "Instinct Pet Food",
         "title": "Instinct® Original Grain-Free Recipe with Real Chicken | Instinct Pet Food",
         "descriptions": "High animal protein, grain-free recipe guided by our belief in raw, Instinct Original Grain-Free Recipe with Real Chicken unlocks your cat’s potential to thrive.",
         "key_benefits": [
@@ -105,77 +179,168 @@
     },
     {
         "brand": "Instinct Pet Food",
-        "title": "Instinct® Limited Ingredient Diet Grain-Free Recipe with Real Rabbit | Instinct Pet Food",
-        "descriptions": "When your cat has food sensitivities, knowing exactly what’s in their food is important. That’s why our ingredient lists are purposefully short, made with ONE ANIMAL PROTEIN and ONE VEGETABLE, versus the mix of each you’ll find in most other cat foods. Guided by the purity and simplicity of raw, Instinct Limited Ingredient Diet Grain-Free Recipe with Real Rabbit is simple and essential nutrition your cat needs to thrive.",
+        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Chicken | Instinct Pet Food",
+        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Chicken is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
         "key_benefits": [
-            "Purposefully simple ingredient list for pets with food sensitivities - ONE ANIMAL PROTEIN and ONE VEGETABLE",
-            "Made with farm-raised rabbit – a nutrient rich, easily digestible protein that provides all of the essential amino acids",
-            "Made without - grain, dairy, eggs, chicken, beef, fish, sweet potato, potato, chickpeas, corn, wheat, soy, artificial colors or preservatives",
-            "Guaranteed levels of natural Omegas and antioxidants for healthy skin & coat, and immune health",
-            "The only limited ingredient diet kibble with the pure, real nutrition of raw on every piece"
+            "Boosted Nutrition - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
+            "Cage-free chicken is the first ingredient - packed with animal protein for strong, lean muscles",
+            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real chicken",
+            "Probiotic boost, higher Omegas* and more antioxidants* for digestive health, healthy skin & coat, and immune health (*compared to Instinct Original)",
+            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
         ],
-        "ingredients": "Rabbit Meal, Peas, Tapioca, Canola Oil (preserved with Mixed Tocopherols and Citric Acid), Rabbit, Natural Flavor, Coconut Oil, Montmorillonite Clay, Taurine, Choline Chloride, Potassium Chloride, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), DL-Methionine, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Freeze Dried Rabbit, Salt, Pumpkinseeds, Rosemary Extract",
+        "ingredients": "Chicken, Chicken Meal, Turkey Meal, Menhaden Fish Meal, Peas, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), Tapioca, Freeze Dried Chicken, Natural Flavor, Freeze Dried Chicken Liver, Dried Tomato Pomace, Pumpkinseeds, Freeze Dried Chicken Heart, Montmorillonite Clay, Carrots, Apples, Cranberries, Choline Chloride, Salt, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Vitamin A Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Taurine, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract. ",
         "analysis": [
-            "Crude Protein (min) 35 %",
-            "Crude Fat (min) 19 %",
-            "Crude Fiber (max) 5.50 %",
+            "Crude Protein (min) 41 %",
+            "Crude Fat (min) 22 %",
+            "Crude Fiber (max) 3.50 %",
             "Moisture (max) 9 %",
-            "Vitamin E (min) 100 IU/kg",
-            "*Ascorbic Acid (Vitamin C) (min) 85 mg/kg",
-            "*Omega 3 Fatty Acids (min) 0.70 %",
-            "*Omega 6 Fatty Acids (min) 3.40 %"
+            "Zinc 120 mg/kg",
+            "Selenium 0.60 mg/kg",
+            "Vitamin A 18,000 IU/kg",
+            "Vitamin E (min) 120 IU/kg",
+            "*Ascorbic Acid (Vitamin C) (min) 100 mg/kg",
+            "*Omega 3 Fatty Acids (min) 0.50 %",
+            "*Omega 6 Fatty Acids (min) 3.50 %",
+            "Bacillus coagulans (min) 60,000,000 CFU/lb"
         ],
-        "calorie": "Metabolizable Energy 3,890 kcal/kg; 457 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/limited-ingredient-diet/instinct-limited-ingredient-diet-grain-free-recipe-real-rabbit"
+        "calorie": "Metabolizable Energy 4,327 kcal/kg; 496 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-chicken"
     },
     {
         "brand": "Instinct Pet Food",
-        "title": "Instinct® Limited Ingredient Diet Grain-Free Recipe with Real Turkey | Instinct Pet Food",
-        "descriptions": "When your cat has food sensitivities, knowing exactly what’s in their food is important. That’s why our ingredient lists are purposefully short, made with ONE ANIMAL PROTEIN and ONE VEGETABLE, versus the mix of each you’ll find in most other cat foods. Guided by the purity and simplicity of raw, Instinct Limited Ingredient Diet Grain-Free Recipe with Real Turkey is simple and essential nutrition your cat needs to thrive.",
+        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Chicken for Healthy Weight | Instinct Pet Food",
+        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Chicken for Healthy Weight is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
         "key_benefits": [
-            "Purposefully simple ingredient list for pets with food sensitivities - ONE ANIMAL PROTEIN and ONE VEGETABLE",
-            "Made with cage-free turkey – a healthy, easily digestible protein that provides all the essential amino acids",
-            "Made without - grain, dairy, eggs, chicken, beef, fish, sweet potato, potato, chickpeas, corn, wheat, soy, artificial colors or preservatives",
-            "Guaranteed levels of natural Omegas and antioxidants for healthy skin & coat, and immune health",
-            "The only limited ingredient diet kibble with the pure, real nutrition of raw on every piece"
+            "Boosted Nutrition for Healthy Weight - Grain-Free, High Protein Kibble + Freeze-Dried Raw; 25% less fat, 10% fewer calories than Instinct Raw Boost",
+            "Cage-free chicken is the first ingredient - packed with animal protein for strong, lean muscles",
+            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real chicken",
+            "L-Carnitine to help burn fat to support healthy metabolism plus the ideal fiber level to help your cat feel fuller, longer",
+            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
         ],
-        "ingredients": "Turkey Meal, Peas, Turkey, Tapioca, Canola Oil (preserved with Mixed Tocopherols and Citric Acid), Natural Flavor, Coconut Oil, Salt, Montmorillonite Clay, Choline Chloride, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Potassium Chloride, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Taurine, DL-Methionine, Freeze Dried Turkey, Freeze Dried Turkey Liver, Pumpkinseeds, Freeze Dried Turkey Heart, Rosemary Extract. ",
-        "analysis": [
-            "Crude Protein (min) 35.50 %",
-            "Crude Fat (min) 16.50 %",
-            "Crude Fiber (max) 4 %",
-            "Moisture (max) 9 %",
-            "Vitamin E (min) 100 IU/kg",
-            "*Ascorbic Acid (Vitamin C) (min) 85 mg/kg",
-            "*Omega 3 Fatty Acids (min) 0.60 %",
-            "*Omega 6 Fatty Acids (min) 2.50 %"
-        ],
-        "calorie": "Metabolizable Energy 4,070 kcal/kg; 463 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/limited-ingredient-diet/instinct-limited-ingredient-diet-grain-free-recipe-real-turkey"
-    },
-    {
-        "brand": "Instinct Pet Food",
-        "title": "Instinct® Limited Ingredient Diet Grain-Free Recipe with Real Salmon | Instinct Pet Food",
-        "descriptions": "When your cat has food sensitivities, knowing exactly what’s in their food is important. That’s why our ingredient lists are purposefully short, made with one animal protein and one vegetable, versus the mix of each you’ll find in most other cat foods. Guided by the purity and simplicity of raw, Instinct® Limited Ingredient Diet Grain-Free Recipe with Real Salmon is simple and essential nutrition your cat needs to thrive.",
-        "key_benefits": [
-            "Purposefully simple ingredient list for pets with food sensitivities - one animal protein and one vegetable",
-            "Made with wild-caught salmon – an easily digestible protein rich in Omega 3's, that provides all of the essential amino acids",
-            "Made without - grain, dairy, eggs, chicken, beef, sweet potato, potato, chickpeas, corn, wheat, soy, artificial colors or preservatives",
-            "Guaranteed levels of natural Omegas and antioxidants for healthy skin & coat, and immune health",
-            "The only limited ingredient diet kibble with the pure, real nutrition of raw on every piece",
-            "Made in the USA with the finest ingredients from around the world"
-        ],
-        "ingredients": "Salmon Meal, Peas, Tapioca, Canola Oil (preserved with Mixed Tocopherols and Citric Acid), Salmon, Natural Flavor, Coconut Oil, Montmorillonite Clay, Salt, Potassium Chloride, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Menadione Sodium Bisulfite Complex, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Choline Chloride, Freeze Dried Cod, Taurine, Rosemary Extract.",
+        "ingredients": "Chicken, Chicken Meal, Chickpeas, Salmon Meal, Menhaden Fish Meal, Tapioca, Suncured Alfalfa Meal, Peas, Dried Tomato Pomace, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), Freeze Dried Chicken, Montmorillonite Clay, Natural Flavor, Freeze Dried Chicken Liver, Pumpkinseeds, Freeze Dried Chicken Heart, Potassium Chloride, Salt, Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2-Polyphosphate, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Menadione Sodium Bisulfite Complex, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Carrots, Apples, Cranberries, Choline Chloride, DL-Methionine, L-Carnitine, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Taurine, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract.",
         "analysis": [
             "Crude Protein (min) 37.50 %",
-            "Crude Fat (min) 17 %",
-            "Crude Fiber (max) 3 %",
+            "Crude Fat (min) 12 %",
+            "Crude Fiber (max) 5.50 %",
             "Moisture (max) 9 %",
+            "Zinc 120 mg/kg",
+            "Vitamin E (min) 120 IU/kg",
+            "*Ascorbic Acid (Vitamin C) (min) 100 mg/kg",
             "*Omega 6 Fatty Acids (min) 2.50 %",
-            "*Omega 3 Fatty Acids (min) 1 %"
+            "*Omega 3 Fatty Acids (min) 0.50 %",
+            "L-Carnitine (min) 550 mg/kg",
+            "Bacillus coagulans (min) 60,000,000 CFU/lb"
         ],
-        "calorie": "Metabolizable Energy 4,400 kcal/kg; 517 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/limited-ingredient-diet/instinct-limited-ingredient-diet-grain-free-recipe-real-salmon"
+        "calorie": "Metabolizable Energy 3,709 kcal/kg; 385 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-chicken-healthy-weight"
+    },
+    {
+        "brand": "Instinct Pet Food",
+        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Chicken for Indoor Health | Instinct Pet Food",
+        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Chicken for Indoor Health is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
+        "key_benefits": [
+            "Boosted Nutrition for Indoor Health - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
+            "Cage-free chicken is the first ingredient - packed with animal protein for strong, lean muscles",
+            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real chicken",
+            "Highly digestible protein plus prebiotics for stool odor control; fewer calories for a less, active indoor lifestyle",
+            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
+        ],
+        "ingredients": "Chicken, Chicken Meal, Salmon Meal, Peas, Menhaden Fish Meal, Tapioca, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), Suncured Alfalfa Meal, Freeze Dried Chicken, Dried Tomato Pomace, Natural Flavor, Freeze Dried Chicken Liver, Fructooligosaccharides, Pumpkinseeds, Dried Chicory Root, Montmorillonite Clay, Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2-Polyphosphate, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Menadione Sodium Bisulfite Complex, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Freeze Dried Chicken Heart, Salt, Carrots, Apples, Cranberries, Choline Chloride, Potassium Chloride, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), DL-Methionine, Yucca Schidigera Extract, Taurine, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract.",
+        "analysis": [
+            "Crude Protein (min) 37.50 %",
+            "Crude Fat (min) 13 %",
+            "Crude Fiber (max) 5 %",
+            "Moisture (max) 9 %",
+            "Zinc 120 mg/kg",
+            "Vitamin E (min) 400 IU/kg",
+            "*Ascorbic Acid (Vitamin C) (min) 150 mg/kg",
+            "*Omega 3 Fatty Acids (min) 0.50 %",
+            "*Omega 6 Fatty Acids (min) 2.30 %",
+            "Bacillus coagulans (min) 60,000,000 CFU/lb"
+        ],
+        "calorie": "Metabolizable Energy 3,861 kcal/kg; 429 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-chicken-indoor-health"
+    },
+    {
+        "brand": "Instinct Pet Food",
+        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Duck | Instinct Pet Food",
+        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Duck is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
+        "key_benefits": [
+            "Boosted Nutrition - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
+            "Cage-free duck is the first ingredient - packed with animal protein for strong, lean muscles",
+            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real duck",
+            "Probiotic boost, higher Omegas* and more antioxidants* for digestive health, healthy skin & coat, and immune health (*compared to Instinct Original)",
+            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
+        ],
+        "ingredients": "Duck, Turkey Meal, Chicken Meal, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), White Fish Meal, Peas, Tapioca, Natural Flavor, Freeze Dried Duck (Including Freeze Dried Ground Duck Bone), Freeze Dried Chicken, Freeze Dried Chicken Liver, Herring Meal, Duck Meal, Pumpkinseeds, Dried Tomato Pomace, Freeze Dried Chicken Heart, Dehydrated Alfalfa Meal, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Vitamin A Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Montmorillonite Clay, Carrots, Apples, Cranberries, Salt, Choline Chloride, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Potassium Chloride, Taurine, DL-Methionine, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract. ",
+        "analysis": [
+            "Crude Protein (min) 40 %",
+            "Crude Fat (min) 23.50 %",
+            "Crude Fiber (max) 3.50 %",
+            "Moisture (max) 9 %",
+            "Zinc 120 mg/kg",
+            "Selenium 0.60 mg/kg",
+            "Vitamin A 18,000 IU/kg",
+            "Vitamin E (min) 120 IU/kg",
+            "*Ascorbic Acid (Vitamin C) (min) 100 mg/kg",
+            "*Omega 3 Fatty Acids (min) 0.45 %",
+            "*Omega 6 Fatty Acids (min) 3.80 %",
+            "Bacillus coagulans (min) 60,000,000 CFU/lb"
+        ],
+        "calorie": "Metabolizable Energy 4,387 kcal/kg; 503 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-duck"
+    },
+    {
+        "brand": "Instinct Pet Food",
+        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Rabbit for Indoor Health | Instinct Pet Food",
+        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Rabbit for Indoor Health is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
+        "key_benefits": [
+            "Boosted Nutrition for Indoor Health - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
+            "Farm-raised rabbit is the first ingredient - packed with animal protein for strong, lean muscles",
+            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real rabbit",
+            "Highly digestible protein plus prebiotics for stool odor control; fewer calories for a less, active indoor lifestyle",
+            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
+        ],
+        "ingredients": "Rabbit, Turkey Meal, Salmon Meal, Menhaden Fish Meal, Chickpeas, Tapioca, White Fish Meal (Pacific Whiting, Pacific Sole, Pacific Rockfish), Peas, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), Dried Tomato Pomace, Natural Flavor, Freeze Dried Rabbit (including Freeze Dried Ground Rabbit Bone), Fructooligosaccharides, Freeze Dried Pork Liver, Rabbit Meal, Pumpkinseeds, Freeze Dried Pork Heart, Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2-Polyphosphate, Menadione Sodium Bisulfite Complex, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Suncured Alfalfa Meal, Dried Chicory Root, Freeze Dried Pork Fat, Montmorillonite Clay, Choline Chloride, Carrots, Apples, Cranberries, Freeze Dried Rabbit Liver, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Freeze Dried Rabbit Lung, Freeze Dried Rabbit Kidney, DL-Methionine, Taurine, Potassium Chloride, Yucca Schidigera Extract, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract. ",
+        "analysis": [
+            "Crude Protein (min) 39 %",
+            "Crude Fat (min) 14.50 %",
+            "Crude Fiber (max) 4.50 %",
+            "Moisture (max) 9 %",
+            "Zinc 120 mg/kg",
+            "Vitamin E (min) 400 IU/kg",
+            "*Ascorbic Acid (Vitamin C) (min) 150 mg/kg",
+            "*Omega 3 Fatty Acids (min) 0.50 %",
+            "*Omega 6 Fatty Acids (min) 2.20 %",
+            "Bacillus coagulans (min) 60,000,000 CFU/lb"
+        ],
+        "calorie": "Metabolizable Energy 3,913 kcal/kg; 435 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-rabbit-indoor-health"
+    },
+    {
+        "brand": "Instinct Pet Food",
+        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Salmon | Instinct Pet Food",
+        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct® Raw Boost® Grain-Free Recipe with Real Salmon is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
+        "key_benefits": [
+            "Boosted Nutrition - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
+            "Wild-caught salmon is the first ingredient - packed with animal protein for strong, lean muscles",
+            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real salmon",
+            "Probiotic boost, higher Omegas* and more antioxidants* for digestive health, healthy skin & coat, and immune health (*compared to Instinct® Original)",
+            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives",
+            "Made in the USA with the finest ingredients from around the world"
+        ],
+        "ingredients": "Salmon, Menhaden Fish Meal, White Fish Meal (Pacific Whiting, Pacific Sole, Pacific Rockfish), Peas, Herring Meal, Canola Oil (preserved with Mixed Tocopherols and Citric Acid), Tapioca, Salmon Meal, Natural Flavor, Freeze Dried Beef, Suncured Alfalfa Meal, Salt, Freeze Dried Beef Liver, Pumpkinseeds, Freeze Dried Beef Heart, Montmorillonite Clay, Freeze Dried Beef Kidney, Freeze Dried Beef Spleen, Carrots, Apples, Cranberries, Vitamins (L-Ascorbyl-2-Polyphosphate, Vitamin E Supplement, Menadione Sodium Bisulfite Complex, Niacin Supplement, Vitamin A Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Choline Chloride, Taurine, Freeze Dried Cod, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract.",
+        "analysis": [
+            "Bacillus coagulans (min) 60,000,000 CFU/lb",
+            "Crude Protein (min) 42 %",
+            "Crude Fat (min) 18.50 %",
+            "Crude Fiber (max) 3.50 %",
+            "Moisture (max) 9 %",
+            "*Omega 6 Fatty Acids (min) 1.90 %",
+            "*Omega 3 Fatty Acids (min) 1.70 %"
+        ],
+        "calorie": "Metabolizable Energy 4,488 kcal/kg; 515 kcal/cup",
+        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-salmon"
     },
     {
         "brand": "Instinct Pet Food",
@@ -228,170 +393,5 @@
         ],
         "calorie": "Metabolizable Energy 4,510 kcal/kg; 496 kcal/cup",
         "url": "https://www.instinctpetfood.com/cats/ultimate-protein/instinct-ultimate-protein-grain-free-cage-free-duck-recipe"
-    },
-    {
-        "brand": "Instinct Pet Food",
-        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Chicken | Instinct Pet Food",
-        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Chicken is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
-        "key_benefits": [
-            "Boosted Nutrition - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
-            "Cage-free chicken is the first ingredient - packed with animal protein for strong, lean muscles",
-            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real chicken",
-            "Probiotic boost, higher Omegas* and more antioxidants* for digestive health, healthy skin & coat, and immune health (*compared to Instinct Original)",
-            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
-        ],
-        "ingredients": "Chicken, Chicken Meal, Turkey Meal, Menhaden Fish Meal, Peas, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), Tapioca, Freeze Dried Chicken, Natural Flavor, Freeze Dried Chicken Liver, Dried Tomato Pomace, Pumpkinseeds, Freeze Dried Chicken Heart, Montmorillonite Clay, Carrots, Apples, Cranberries, Choline Chloride, Salt, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Vitamin A Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Taurine, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract. ",
-        "analysis": [
-            "Crude Protein (min) 41 %",
-            "Crude Fat (min) 22 %",
-            "Crude Fiber (max) 3.50 %",
-            "Moisture (max) 9 %",
-            "Zinc 120 mg/kg",
-            "Selenium 0.60 mg/kg",
-            "Vitamin A 18,000 IU/kg",
-            "Vitamin E (min) 120 IU/kg",
-            "*Ascorbic Acid (Vitamin C) (min) 100 mg/kg",
-            "*Omega 3 Fatty Acids (min) 0.50 %",
-            "*Omega 6 Fatty Acids (min) 3.50 %",
-            "Bacillus coagulans (min) 60,000,000 CFU/lb"
-        ],
-        "calorie": "Metabolizable Energy 4,327 kcal/kg; 496 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-chicken"
-    },
-    {
-        "brand": "Instinct Pet Food",
-        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Duck | Instinct Pet Food",
-        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Duck is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
-        "key_benefits": [
-            "Boosted Nutrition - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
-            "Cage-free duck is the first ingredient - packed with animal protein for strong, lean muscles",
-            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real duck",
-            "Probiotic boost, higher Omegas* and more antioxidants* for digestive health, healthy skin & coat, and immune health (*compared to Instinct Original)",
-            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
-        ],
-        "ingredients": "Duck, Turkey Meal, Chicken Meal, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), White Fish Meal, Peas, Tapioca, Natural Flavor, Freeze Dried Duck (Including Freeze Dried Ground Duck Bone), Freeze Dried Chicken, Freeze Dried Chicken Liver, Herring Meal, Duck Meal, Pumpkinseeds, Dried Tomato Pomace, Freeze Dried Chicken Heart, Dehydrated Alfalfa Meal, Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, Niacin Supplement, Vitamin A Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Montmorillonite Clay, Carrots, Apples, Cranberries, Salt, Choline Chloride, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Potassium Chloride, Taurine, DL-Methionine, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract. ",
-        "analysis": [
-            "Crude Protein (min) 40 %",
-            "Crude Fat (min) 23.50 %",
-            "Crude Fiber (max) 3.50 %",
-            "Moisture (max) 9 %",
-            "Zinc 120 mg/kg",
-            "Selenium 0.60 mg/kg",
-            "Vitamin A 18,000 IU/kg",
-            "Vitamin E (min) 120 IU/kg",
-            "*Ascorbic Acid (Vitamin C) (min) 100 mg/kg",
-            "*Omega 3 Fatty Acids (min) 0.45 %",
-            "*Omega 6 Fatty Acids (min) 3.80 %",
-            "Bacillus coagulans (min) 60,000,000 CFU/lb"
-        ],
-        "calorie": "Metabolizable Energy 4,387 kcal/kg; 503 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-duck"
-    },
-    {
-        "brand": "Instinct Pet Food",
-        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Salmon | Instinct Pet Food",
-        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct® Raw Boost® Grain-Free Recipe with Real Salmon is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
-        "key_benefits": [
-            "Boosted Nutrition - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
-            "Wild-caught salmon is the first ingredient - packed with animal protein for strong, lean muscles",
-            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real salmon",
-            "Probiotic boost, higher Omegas* and more antioxidants* for digestive health, healthy skin & coat, and immune health (*compared to Instinct® Original)",
-            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives",
-            "Made in the USA with the finest ingredients from around the world"
-        ],
-        "ingredients": "Salmon, Menhaden Fish Meal, White Fish Meal (Pacific Whiting, Pacific Sole, Pacific Rockfish), Peas, Herring Meal, Canola Oil (preserved with Mixed Tocopherols and Citric Acid), Tapioca, Salmon Meal, Natural Flavor, Freeze Dried Beef, Suncured Alfalfa Meal, Salt, Freeze Dried Beef Liver, Pumpkinseeds, Freeze Dried Beef Heart, Montmorillonite Clay, Freeze Dried Beef Kidney, Freeze Dried Beef Spleen, Carrots, Apples, Cranberries, Vitamins (L-Ascorbyl-2-Polyphosphate, Vitamin E Supplement, Menadione Sodium Bisulfite Complex, Niacin Supplement, Vitamin A Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Choline Chloride, Taurine, Freeze Dried Cod, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract.",
-        "analysis": [
-            "Bacillus coagulans (min) 60,000,000 CFU/lb",
-            "Crude Protein (min) 42 %",
-            "Crude Fat (min) 18.50 %",
-            "Crude Fiber (max) 3.50 %",
-            "Moisture (max) 9 %",
-            "*Omega 6 Fatty Acids (min) 1.90 %",
-            "*Omega 3 Fatty Acids (min) 1.70 %"
-        ],
-        "calorie": "Metabolizable Energy 4,488 kcal/kg; 515 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-salmon"
-    },
-    {
-        "brand": "Instinct Pet Food",
-        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Chicken for Indoor Health | Instinct Pet Food",
-        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Chicken for Indoor Health is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
-        "key_benefits": [
-            "Boosted Nutrition for Indoor Health - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
-            "Cage-free chicken is the first ingredient - packed with animal protein for strong, lean muscles",
-            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real chicken",
-            "Highly digestible protein plus prebiotics for stool odor control; fewer calories for a less, active indoor lifestyle",
-            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
-        ],
-        "ingredients": "Chicken, Chicken Meal, Salmon Meal, Peas, Menhaden Fish Meal, Tapioca, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), Suncured Alfalfa Meal, Freeze Dried Chicken, Dried Tomato Pomace, Natural Flavor, Freeze Dried Chicken Liver, Fructooligosaccharides, Pumpkinseeds, Dried Chicory Root, Montmorillonite Clay, Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2-Polyphosphate, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Menadione Sodium Bisulfite Complex, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Freeze Dried Chicken Heart, Salt, Carrots, Apples, Cranberries, Choline Chloride, Potassium Chloride, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), DL-Methionine, Yucca Schidigera Extract, Taurine, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract.",
-        "analysis": [
-            "Crude Protein (min) 37.50 %",
-            "Crude Fat (min) 13 %",
-            "Crude Fiber (max) 5 %",
-            "Moisture (max) 9 %",
-            "Zinc 120 mg/kg",
-            "Vitamin E (min) 400 IU/kg",
-            "*Ascorbic Acid (Vitamin C) (min) 150 mg/kg",
-            "*Omega 3 Fatty Acids (min) 0.50 %",
-            "*Omega 6 Fatty Acids (min) 2.30 %",
-            "Bacillus coagulans (min) 60,000,000 CFU/lb"
-        ],
-        "calorie": "Metabolizable Energy 3,861 kcal/kg; 429 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-chicken-indoor-health"
-    },
-    {
-        "brand": "Instinct Pet Food",
-        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Rabbit for Indoor Health | Instinct Pet Food",
-        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Rabbit for Indoor Health is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
-        "key_benefits": [
-            "Boosted Nutrition for Indoor Health - Grain-Free, High Protein Kibble + Freeze-Dried Raw",
-            "Farm-raised rabbit is the first ingredient - packed with animal protein for strong, lean muscles",
-            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real rabbit",
-            "Highly digestible protein plus prebiotics for stool odor control; fewer calories for a less, active indoor lifestyle",
-            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
-        ],
-        "ingredients": "Rabbit, Turkey Meal, Salmon Meal, Menhaden Fish Meal, Chickpeas, Tapioca, White Fish Meal (Pacific Whiting, Pacific Sole, Pacific Rockfish), Peas, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), Dried Tomato Pomace, Natural Flavor, Freeze Dried Rabbit (including Freeze Dried Ground Rabbit Bone), Fructooligosaccharides, Freeze Dried Pork Liver, Rabbit Meal, Pumpkinseeds, Freeze Dried Pork Heart, Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2-Polyphosphate, Menadione Sodium Bisulfite Complex, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Suncured Alfalfa Meal, Dried Chicory Root, Freeze Dried Pork Fat, Montmorillonite Clay, Choline Chloride, Carrots, Apples, Cranberries, Freeze Dried Rabbit Liver, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Freeze Dried Rabbit Lung, Freeze Dried Rabbit Kidney, DL-Methionine, Taurine, Potassium Chloride, Yucca Schidigera Extract, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract. ",
-        "analysis": [
-            "Crude Protein (min) 39 %",
-            "Crude Fat (min) 14.50 %",
-            "Crude Fiber (max) 4.50 %",
-            "Moisture (max) 9 %",
-            "Zinc 120 mg/kg",
-            "Vitamin E (min) 400 IU/kg",
-            "*Ascorbic Acid (Vitamin C) (min) 150 mg/kg",
-            "*Omega 3 Fatty Acids (min) 0.50 %",
-            "*Omega 6 Fatty Acids (min) 2.20 %",
-            "Bacillus coagulans (min) 60,000,000 CFU/lb"
-        ],
-        "calorie": "Metabolizable Energy 3,913 kcal/kg; 435 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-rabbit-indoor-health"
-    },
-    {
-        "brand": "Instinct Pet Food",
-        "title": "Instinct® Raw Boost® Grain-Free Recipe with Real Chicken for Healthy Weight | Instinct Pet Food",
-        "descriptions": "High animal-protein, grain-free, boosted nutrition with bites of freeze-dried raw meat, Instinct Raw Boost Grain-Free Recipe with Real Chicken for Healthy Weight is a better way to feed kibble. Unlock your cat’s potential to thrive and put more of the pure, real nutrition of raw into every bowl.",
-        "key_benefits": [
-            "Boosted Nutrition for Healthy Weight - Grain-Free, High Protein Kibble + Freeze-Dried Raw; 25% less fat, 10% fewer calories than Instinct Raw Boost",
-            "Cage-free chicken is the first ingredient - packed with animal protein for strong, lean muscles",
-            "Freeze-Dried Raw - All natural, protein packed, minimally processed bites of real chicken",
-            "L-Carnitine to help burn fat to support healthy metabolism plus the ideal fiber level to help your cat feel fuller, longer",
-            "Made without - grain, potato, corn, wheat, soy, by-product meal, artificial colors or preservatives"
-        ],
-        "ingredients": "Chicken, Chicken Meal, Chickpeas, Salmon Meal, Menhaden Fish Meal, Tapioca, Suncured Alfalfa Meal, Peas, Dried Tomato Pomace, Chicken Fat (preserved with Mixed Tocopherols and Citric Acid), Freeze Dried Chicken, Montmorillonite Clay, Natural Flavor, Freeze Dried Chicken Liver, Pumpkinseeds, Freeze Dried Chicken Heart, Potassium Chloride, Salt, Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2-Polyphosphate, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Riboflavin Supplement, Menadione Sodium Bisulfite Complex, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Folic Acid, Vitamin D3 Supplement, Biotin), Carrots, Apples, Cranberries, Choline Chloride, DL-Methionine, L-Carnitine, Minerals (Zinc Proteinate, Iron Proteinate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Ethylenediamine Dihydriodide), Taurine, Dried Kelp, Salmon Oil, Blueberries, Dried Bacillus coagulans Fermentation Product, Rosemary Extract.",
-        "analysis": [
-            "Crude Protein (min) 37.50 %",
-            "Crude Fat (min) 12 %",
-            "Crude Fiber (max) 5.50 %",
-            "Moisture (max) 9 %",
-            "Zinc 120 mg/kg",
-            "Vitamin E (min) 120 IU/kg",
-            "*Ascorbic Acid (Vitamin C) (min) 100 mg/kg",
-            "*Omega 6 Fatty Acids (min) 2.50 %",
-            "*Omega 3 Fatty Acids (min) 0.50 %",
-            "L-Carnitine (min) 550 mg/kg",
-            "Bacillus coagulans (min) 60,000,000 CFU/lb"
-        ],
-        "calorie": "Metabolizable Energy 3,709 kcal/kg; 385 kcal/cup",
-        "url": "https://www.instinctpetfood.com/cats/raw-boost/instinct-raw-boost-grain-free-recipe-real-chicken-healthy-weight"
     }
 ]

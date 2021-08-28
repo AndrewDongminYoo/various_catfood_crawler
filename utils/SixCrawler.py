@@ -107,18 +107,3 @@ from objective_scraper import WebScrapper
 #     CALORIE_CONTENT='/html/body/div[5]/div/div[1]/div[19]'
 # )
 # tro_scrapper.save()
-
-import json
-from selenium import webdriver
-
-driver = webdriver.Chrome()
-for brand in ["Trovet"]:
-    with open(file=f"./data/{brand}.json", mode="r", encoding="UTF-8", newline="") as input_file:
-        formulas = json.load(input_file)
-        for formula in formulas:
-            for key, value in formula.items():
-                if not value:
-                    driver.get(formula['url'])
-                    formula[key] = input(f'"{key}" => // ')
-    with open(file=f"./data/{brand}_.json", mode="w", encoding="UTF-8", newline="") as output_file:
-        json.dump(formulas, output_file, indent=4, ensure_ascii=False, allow_nan=True)

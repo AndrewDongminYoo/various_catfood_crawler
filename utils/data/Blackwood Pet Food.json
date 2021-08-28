@@ -1,6 +1,36 @@
 [
     {
         "brand": "Blackwood Pet Food",
+        "url": "https://blackwoodpetfood.com/recipes/adult-cat-food-chicken-meal-brown-rice-recipe/#/",
+        "title": "Adult Cat Food | Blackwood",
+        "descriptions": [
+            "Our slow cooked, grain free cat food is handcrafted with the natural goodness of chicken, Whitefish, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
+            "With 30% protein, 17% fat, and 3% fiber, this cat food is ideal for adult cats",
+            "We add prebiotics and probiotics to our cat food to promote healthy digestion and happy tummies",
+            "Completed and balanced for adult cats"
+        ],
+        "key_benefits": [
+            "Adult Cat Formula",
+            "Any Cat Breed",
+            "No Corn",
+            "No Wheat",
+            "No Soy"
+        ],
+        "ingredients": "Chicken Meal, Brown Rice, Ground Grain Sorghum, Millet, Chicken Fat (Preserved with Mixed Tocopherols), Whitefish Meal, Egg Product, Pea Protein, Brewers Dried Yeast, Dried Plain Beet Pulp, Natural Flavor, Whole Ground Flaxseed, Menhaden Fish Oil (Preserved with Mixed Tocopherols), Lecithin, DL-Methionine, Potassium Chloride, L-Lysine, Choline Chloride, Taurine, Dried Cranberries, Dried Blueberries, Salt, Monosodium Phosphate, Yucca Schidigera Extract, Calcium Carbonate, Vitamin E Supplemet, Niacin Supplement, Mixed Tocopherols, Dried Seaweed Meal, Thiamine Nitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2-Polyphosphate, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Ferrous Sulphate, Zinc Sulphate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
+        "analysis": [
+            "Crude Protein MIN 30.0%",
+            "Crude Fat MIN 17.0%",
+            "Crude Fiber MAX 3.0%",
+            "Moisture MAX 10.0%",
+            "Calorie Content 3733 kcal/kg • 424 kcal/cup • 4 kcal/g (ME – calculated)",
+            "Omega 6 (Linoleic Acid) MIN 3.3%",
+            "Omega 3 (Linolenic Acid) MIN 0.65%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil. CFu/lb"
+        ],
+        "calorie": "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil. CFu/lb"
+    },
+    {
+        "brand": "Blackwood Pet Food",
         "url": "https://blackwoodpetfood.com/recipes/adult-cat-food-chicken-salmon-with-pumpkin-new-zealand-mussels/#/",
         "title": "Wet Cat Food | Blackwood Pet Food",
         "descriptions": [
@@ -31,30 +61,24 @@
     },
     {
         "brand": "Blackwood Pet Food",
-        "url": "https://blackwoodpetfood.com/recipes/bounty-kitten-food-grain-free-chicken-herring/#/",
-        "title": "Kitten Food | Blackwood",
-        "descriptions": null,
-        "key_benefits": "SHOP NOW",
-        "ingredients": "Deboned Chicken, Herring, Egg Product, Duck Meal, Turkey Meal, Whitefish Meal, Lentils, Chicken Meal, Herring Meal, Tapioca Starch, Chicken Fat (Preserved with Mixed Tocopherols), Field Peas, Brewers Dried Yeast, Natural Flavor, Whole Ground Flaxseed, Dried Tomato pomace, Sunflower Lecithin, Potassium Chloride, Dried Cranberries, Dried Blueberries, Dried Sweet Potato, Taurine, Inulin, Green Mussels, Potato, Pumpkin Meal, Dried Carrots, Turmeric Powder, Pomegranate, Broccoli Powder, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Natural Mixed Tocopherols, Dried Seaweed Meal, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2- Polyphosphate, d-Calcium-Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Ferrous Sulfate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacilluscasei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
-        "analysis": [
-            "Crude Protein 43%",
-            "Crude Fat 19%",
-            "Crude Fiber 3.5%",
-            "Moisture 10%",
-            "Ash 9.5%",
-            "Calorie Content 3,708 kcal/kg • 464 kcal/cup • 4 kcal/g (ME – calculated)",
-            "Omega 6 (Linoleic Acid) 4%",
-            "Omega 3 (Linolenic Acid) 0.8%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
-        ],
-        "calorie": "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
-    },
-    {
-        "brand": "Blackwood Pet Food",
         "url": "https://blackwoodpetfood.com/recipes/bounty-cat-food-grain-free-chicken-turkey-recipe-2/#/",
         "title": "Grain Free Cat Food | Blackwood",
-        "descriptions": null,
-        "key_benefits": "SHOP NOW",
+        "descriptions": [
+            "Real Chicken as #1 Ingredient",
+            "42% Protein, 82% from Animal Sources",
+            "Natural Cat Food with Added Vitamins, Minerals & Taurine",
+            "Complete & Balanced for All Life Stages",
+            "Made in the U.S.A. from the World’s Finest Ingredients",
+            "Available this spring in the USA!"
+        ],
+        "key_benefits": [
+            "Any Cat Breed",
+            " Grain Free",
+            " Everyday Diet",
+            " No Wheat",
+            " No Soy",
+            " No Corn"
+        ],
         "ingredients": "Deboned Chicken, Deboned Turkey, Egg Product, Duck Meal, Whitefish Meal, Herring Meal, Salmon Meal, Field Peas, Lentils, Tapioca Starch, Turkey Meal, Chicken Fat (Preserved with Mixed Tocopherols), Brewers Dried Yeast, Whole Ground Flaxseed, Dried Sweet Potato, Natural FLavor, Sunflower Lecithin, Dried Tomato Pomace, Potassium Chloride, Dried Cranberries, Dried Blueberries, Taurine, lnulin, Green Mussels, Potato, Pumpkin Meal, Dried Carrots, Turmeric Powder, Pomegranate, Broccoli Powder, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Natural Mixed Tocopherols, Dried Seaweed Meal, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2- Polyphosphate, d-Calcium-Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Ferrous Sulfate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalisFermentation Product, Dried Lactobacillus reuteri Fermentation Product",
         "analysis": [
             "Crude Protein 42%",
@@ -73,8 +97,22 @@
         "brand": "Blackwood Pet Food",
         "url": "https://blackwoodpetfood.com/recipes/bounty-cat-food-grain-free-salmon-rainbow-trout/#/",
         "title": "Dry Cat Food | Blackwood",
-        "descriptions": null,
-        "key_benefits": "SHOP NOW",
+        "descriptions": [
+            "Real Salmon as #1 Ingredient",
+            "42% Protein, 84% from Animal Sources",
+            "Natural Cat Food with Added Vitamins, Minerals & Taurine",
+            "Complete & Balanced for All Life Stages",
+            "Made in the U.S.A. from the World’s Finest Ingredients",
+            "Available this spring in the USA!"
+        ],
+        "key_benefits": [
+            "Everyday Diet",
+            " All Life Stages",
+            " Any Cat Breed",
+            " No Artificial Colors or Flavors",
+            " No Soy",
+            " No Corn"
+        ],
         "ingredients": "Salmon, Rainbow Trout, Egg Product, Catfish Meal, Whitefish Meal, Herring Meal, Salmon Meal, Field Peas, Lentils, Tapioca Starch, Canola oil (Preserved with Mixed Tocopherols), Menhaden Fish Meal, Brewers Dried Yeast, Natural Flavor, Dried Sweet Potato, Whole Ground Flaxseed, Sunflower Lecithin, Dried Tomato Pomace, Potassium Chloride, Dried Cranberries, Dried Blueberries, Potato, Pumpkin Meal, Taurine, Green Mussels, Dried Carrots, Turmeric Powder, Pomegranate, Broccoli Powder, Inulin, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Natural Mixed Tocopherols, Dried Seaweed Meal, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2- Polyphosphate, d-Calcium-Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Ferrous Sulfate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
         "analysis": [
             "Crude Protein 42%",
@@ -91,62 +129,64 @@
     },
     {
         "brand": "Blackwood Pet Food",
-        "url": "https://blackwoodpetfood.com/recipes/special-diet-cat-food-duck-meal-salmon-meal-field-pea-recipe/#/",
-        "title": "Diet Cat Food | Blackwood",
+        "url": "https://blackwoodpetfood.com/recipes/bounty-kitten-food-grain-free-chicken-herring/#/",
+        "title": "Kitten Food | Blackwood",
         "descriptions": [
-            "Our slow cooked, grain free cat food is handcrafted with the natural goodness of duck, salmon, field peas, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
-            "With 38% protein, 18% fat, and 4% fiber, Blackwood cat food is ideal for all breeds and is nutritionally complete for all life stages",
-            "We add prebiotics and probiotics to our grain free cat food to promote healthy digestion and happy tummies",
-            "Completed and balanced for all life stages"
+            "Real Chicken as #1 Ingredient",
+            "42% Protein, 82% from Animal Sources",
+            "Natural Cat Food with Added Vitamins, Minerals & Taurine",
+            "Complete & Balanced for All Life Stages",
+            "Made in the U.S.A. from the World’s Finest Ingredients",
+            "Available this spring in the USA!"
         ],
         "key_benefits": [
-            "All Life Stages",
-            "Any Cat Breed",
             "Grain Free",
-            "No Corn",
-            "No Wheat",
-            "No Soy"
+            " Kitten Formula",
+            " Everyday Diet",
+            " No Artificial Colors or Flavors",
+            " No Soy",
+            " No Corn"
         ],
-        "ingredients": "Duck Meal, Salmon Meal, Field Peas, Lentils, Chickpeas, Chicken Fat (Preserved with Mixed Tocopherols), Turkey Meal, Egg Product, Pea Protein, Tapioca Starch, Brewers Dried Yeast, Spray Dried Porcine Plasma, Natural Flavor, Menhaden Fish Oil (Preserved with Mixed Tocopherols), Lecithin, DL-Methionine, Choline Chloride, Taurine, Dried Cranberries, Dried Blueberries,Yucca Schidigera Extract, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Mixed Tocopherols, Dried Seaweed Meal, Thiamine Monoitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2-Polyphosphate, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Potassium Chloride, Ferrous Sulfate, Zinc Sulfate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
+        "ingredients": "Deboned Chicken, Herring, Egg Product, Duck Meal, Turkey Meal, Whitefish Meal, Lentils, Chicken Meal, Herring Meal, Tapioca Starch, Chicken Fat (Preserved with Mixed Tocopherols), Field Peas, Brewers Dried Yeast, Natural Flavor, Whole Ground Flaxseed, Dried Tomato pomace, Sunflower Lecithin, Potassium Chloride, Dried Cranberries, Dried Blueberries, Dried Sweet Potato, Taurine, Inulin, Green Mussels, Potato, Pumpkin Meal, Dried Carrots, Turmeric Powder, Pomegranate, Broccoli Powder, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Natural Mixed Tocopherols, Dried Seaweed Meal, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2- Polyphosphate, d-Calcium-Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Ferrous Sulfate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacilluscasei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
         "analysis": [
-            "Crude Protein MIN 38.0%",
-            "Crude Fat MIN 18.0%",
-            "Crude Fiber MAX 4.0%",
-            "Moisture MAX 10.0%",
-            "Calorie Content 3785 kcal/kg • 473 kcal/cup • 4 kcal/g (ME – calculated)",
-            "Omega 6 (Linoleic Acid) MIN 3.0%",
-            "Omega 3 (Linolenic Acid) MIN 0.4%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil CFU / lb"
+            "Crude Protein 43%",
+            "Crude Fat 19%",
+            "Crude Fiber 3.5%",
+            "Moisture 10%",
+            "Ash 9.5%",
+            "Calorie Content 3,708 kcal/kg • 464 kcal/cup • 4 kcal/g (ME – calculated)",
+            "Omega 6 (Linoleic Acid) 4%",
+            "Omega 3 (Linolenic Acid) 0.8%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
         ],
-        "calorie": "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil CFU / lb"
+        "calorie": "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
     },
     {
         "brand": "Blackwood Pet Food",
-        "url": "https://blackwoodpetfood.com/recipes/special-diet-cat-food-chicken-meal-field-pea-recipe/#/",
-        "title": "Special Dry Cat Food | Blackwood",
+        "url": "https://blackwoodpetfood.com/recipes/indoor-formula-cat-food-chicken-meal-brown-rice-recipe/#/",
+        "title": "Indoor Cat Food Formula | Blackwood",
         "descriptions": [
-            "Our slow cooked, grain free cat food is handcrafted with the natural goodness of chicken, whitefish, field peas, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
-            "With 40% protein, 18% fat, and 4% fiber, Blackwood cat food is ideal for all breeds and is nutritionally complete for all life stages",
-            "We add prebiotics and probiotics to our grain free cat food to promote healthy digestion and happy tummies",
-            "Completed and balanced for all life stages"
+            "Our slow cooked cat food is handcrafted with the natural goodness of chicken, Whitefish, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
+            "With 30% protein, 12% fat, and 3% fiber, this cat food is ideal for indoor cats",
+            "We add prebiotics and probiotics to our cat food to promote healthy digestion and happy tummies",
+            "Completed and balanced for adult cats"
         ],
         "key_benefits": [
-            "All Life Stages",
+            "Indoor Cat Diet",
             "Any Cat Breed",
-            "Grain Free",
             "No Corn",
             "No Wheat",
             "No Soy"
         ],
-        "ingredients": "Chicken Meal, Whitefish Meal, Chicken Fat (Preserved with Mixed Tocopherols), Field Peas, Lentils, Egg Product, Chickpeas, Tapioca Starch, Brewers Dried Yeast, Pea Protein, Spray Dried Porcine Plasma, Natural Flavor, Menhaden Fish Oil (Preserved with Mixed Tocopherols), Dried Tomato Pomace, Canola Oil, Lecithin, DL-Methionine, Choline Chloride, Taurine, Dried Cranberries, Dried Blueberries, Yucca Schidigera Extract, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Mixed Tocopherols, Dried Seaweed Meal, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2-Polyphosphate, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Potassium Chloride, Ferrous Sulphate, Zinc Sulphate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
+        "ingredients": "Chicken Meal, Brown Rice, Millet, Ground Grain Sorghum, Whitefish Meal, Chicken Fat (Preserved with Mixed Tocopherols), Egg Product, Pea Protein, Brewers Dried Yeast, Natural Flavor, Dried Plain Beet Pulp, Menhaden Fish Oil (Preserved with Mixed Tocopherols), DL-Methionine, Potassium Chloride, L-Lysine, Taurine, Dried Cranberries, Dried Blueberries, Salt, L-Ascorbyl2-Polyphosphate, Yucca Schidigera Extract, Vitamin D3 Supplement, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Mixed Tocopherols, Dried Seaweed Meal, Thiamine Nitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Ferrous Sulphate, Zinc Sulphate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
         "analysis": [
-            "Crude Protein MIN 40.0%",
-            "Crude Fat MIN 18.0%",
-            "Crude Fiber MAX 4.0%",
+            "Crude Protein MIN 30.0%",
+            "Crude Fat MIN 12.0%",
+            "Crude Fiber MAX 3.0%",
             "Moisture MAX 10.0%",
-            "Calorie Content 3771 kcal/kg • 471 kcal/cup • 4 kcal/g (ME – calculated)",
-            "Omega 6 (Linoleic Acid) MIN 3.25%",
-            "Omega 3 (Linolenic Acid) MIN 0.5%",
+            "Calorie Content 3493 kcal/kg • 384 kcal/cup • 3 kcal/g (ME – calculated)",
+            "Omega 6 (Linoleic Acid) MIN 2.2%",
+            "Omega 3 (Linolenic Acid) MIN 0.4%",
             "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
         ],
         "calorie": "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
@@ -214,62 +254,64 @@
     },
     {
         "brand": "Blackwood Pet Food",
-        "url": "https://blackwoodpetfood.com/recipes/indoor-formula-cat-food-chicken-meal-brown-rice-recipe/#/",
-        "title": "Indoor Cat Food Formula | Blackwood",
+        "url": "https://blackwoodpetfood.com/recipes/special-diet-cat-food-chicken-meal-field-pea-recipe/#/",
+        "title": "Special Dry Cat Food | Blackwood",
         "descriptions": [
-            "Our slow cooked cat food is handcrafted with the natural goodness of chicken, Whitefish, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
-            "With 30% protein, 12% fat, and 3% fiber, this cat food is ideal for indoor cats",
-            "We add prebiotics and probiotics to our cat food to promote healthy digestion and happy tummies",
-            "Completed and balanced for adult cats"
+            "Our slow cooked, grain free cat food is handcrafted with the natural goodness of chicken, whitefish, field peas, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
+            "With 40% protein, 18% fat, and 4% fiber, Blackwood cat food is ideal for all breeds and is nutritionally complete for all life stages",
+            "We add prebiotics and probiotics to our grain free cat food to promote healthy digestion and happy tummies",
+            "Completed and balanced for all life stages"
         ],
         "key_benefits": [
-            "Indoor Cat Diet",
+            "All Life Stages",
             "Any Cat Breed",
+            "Grain Free",
             "No Corn",
             "No Wheat",
             "No Soy"
         ],
-        "ingredients": "Chicken Meal, Brown Rice, Millet, Ground Grain Sorghum, Whitefish Meal, Chicken Fat (Preserved with Mixed Tocopherols), Egg Product, Pea Protein, Brewers Dried Yeast, Natural Flavor, Dried Plain Beet Pulp, Menhaden Fish Oil (Preserved with Mixed Tocopherols), DL-Methionine, Potassium Chloride, L-Lysine, Taurine, Dried Cranberries, Dried Blueberries, Salt, L-Ascorbyl2-Polyphosphate, Yucca Schidigera Extract, Vitamin D3 Supplement, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Mixed Tocopherols, Dried Seaweed Meal, Thiamine Nitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Ferrous Sulphate, Zinc Sulphate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
+        "ingredients": "Chicken Meal, Whitefish Meal, Chicken Fat (Preserved with Mixed Tocopherols), Field Peas, Lentils, Egg Product, Chickpeas, Tapioca Starch, Brewers Dried Yeast, Pea Protein, Spray Dried Porcine Plasma, Natural Flavor, Menhaden Fish Oil (Preserved with Mixed Tocopherols), Dried Tomato Pomace, Canola Oil, Lecithin, DL-Methionine, Choline Chloride, Taurine, Dried Cranberries, Dried Blueberries, Yucca Schidigera Extract, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Mixed Tocopherols, Dried Seaweed Meal, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2-Polyphosphate, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Potassium Chloride, Ferrous Sulphate, Zinc Sulphate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
         "analysis": [
-            "Crude Protein MIN 30.0%",
-            "Crude Fat MIN 12.0%",
-            "Crude Fiber MAX 3.0%",
+            "Crude Protein MIN 40.0%",
+            "Crude Fat MIN 18.0%",
+            "Crude Fiber MAX 4.0%",
             "Moisture MAX 10.0%",
-            "Calorie Content 3493 kcal/kg • 384 kcal/cup • 3 kcal/g (ME – calculated)",
-            "Omega 6 (Linoleic Acid) MIN 2.2%",
-            "Omega 3 (Linolenic Acid) MIN 0.4%",
+            "Calorie Content 3771 kcal/kg • 471 kcal/cup • 4 kcal/g (ME – calculated)",
+            "Omega 6 (Linoleic Acid) MIN 3.25%",
+            "Omega 3 (Linolenic Acid) MIN 0.5%",
             "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
         ],
         "calorie": "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
     },
     {
         "brand": "Blackwood Pet Food",
-        "url": "https://blackwoodpetfood.com/recipes/adult-cat-food-chicken-meal-brown-rice-recipe/#/",
-        "title": "Adult Cat Food | Blackwood",
+        "url": "https://blackwoodpetfood.com/recipes/special-diet-cat-food-duck-meal-salmon-meal-field-pea-recipe/#/",
+        "title": "Diet Cat Food | Blackwood",
         "descriptions": [
-            "Our slow cooked, grain free cat food is handcrafted with the natural goodness of chicken, Whitefish, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
-            "With 30% protein, 17% fat, and 3% fiber, this cat food is ideal for adult cats",
-            "We add prebiotics and probiotics to our cat food to promote healthy digestion and happy tummies",
-            "Completed and balanced for adult cats"
+            "Our slow cooked, grain free cat food is handcrafted with the natural goodness of duck, salmon, field peas, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
+            "With 38% protein, 18% fat, and 4% fiber, Blackwood cat food is ideal for all breeds and is nutritionally complete for all life stages",
+            "We add prebiotics and probiotics to our grain free cat food to promote healthy digestion and happy tummies",
+            "Completed and balanced for all life stages"
         ],
         "key_benefits": [
-            "Adult Cat Formula",
+            "All Life Stages",
             "Any Cat Breed",
+            "Grain Free",
             "No Corn",
             "No Wheat",
             "No Soy"
         ],
-        "ingredients": "Chicken Meal, Brown Rice, Ground Grain Sorghum, Millet, Chicken Fat (Preserved with Mixed Tocopherols), Whitefish Meal, Egg Product, Pea Protein, Brewers Dried Yeast, Dried Plain Beet Pulp, Natural Flavor, Whole Ground Flaxseed, Menhaden Fish Oil (Preserved with Mixed Tocopherols), Lecithin, DL-Methionine, Potassium Chloride, L-Lysine, Choline Chloride, Taurine, Dried Cranberries, Dried Blueberries, Salt, Monosodium Phosphate, Yucca Schidigera Extract, Calcium Carbonate, Vitamin E Supplemet, Niacin Supplement, Mixed Tocopherols, Dried Seaweed Meal, Thiamine Nitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2-Polyphosphate, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Ferrous Sulphate, Zinc Sulphate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
+        "ingredients": "Duck Meal, Salmon Meal, Field Peas, Lentils, Chickpeas, Chicken Fat (Preserved with Mixed Tocopherols), Turkey Meal, Egg Product, Pea Protein, Tapioca Starch, Brewers Dried Yeast, Spray Dried Porcine Plasma, Natural Flavor, Menhaden Fish Oil (Preserved with Mixed Tocopherols), Lecithin, DL-Methionine, Choline Chloride, Taurine, Dried Cranberries, Dried Blueberries,Yucca Schidigera Extract, Calcium Carbonate, Vitamin E Supplement, Niacin Supplement, Mixed Tocopherols, Dried Seaweed Meal, Thiamine Monoitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, L-Ascorbyl-2-Polyphosphate, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin A Acetate, Vitamin D3 Supplement, Citric Acid, Biotin, Folic Acid, Potassium Chloride, Ferrous Sulfate, Zinc Sulfate, Zinc Proteinate, Iron Proteinate, Copper Sulfate, Zinc Oxide, Manganese Sulfate, Manganese Proteinate, Copper Proteinate, Manganous Oxide, Calcium Iodate, Sodium Selenite, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bifidobacterium animalis Fermentation Product, Dried Lactobacillus reuteri Fermentation Product",
         "analysis": [
-            "Crude Protein MIN 30.0%",
-            "Crude Fat MIN 17.0%",
-            "Crude Fiber MAX 3.0%",
+            "Crude Protein MIN 38.0%",
+            "Crude Fat MIN 18.0%",
+            "Crude Fiber MAX 4.0%",
             "Moisture MAX 10.0%",
-            "Calorie Content 3733 kcal/kg • 424 kcal/cup • 4 kcal/g (ME – calculated)",
-            "Omega 6 (Linoleic Acid) MIN 3.3%",
-            "Omega 3 (Linolenic Acid) MIN 0.65%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil. CFu/lb"
+            "Calorie Content 3785 kcal/kg • 473 kcal/cup • 4 kcal/g (ME – calculated)",
+            "Omega 6 (Linoleic Acid) MIN 3.0%",
+            "Omega 3 (Linolenic Acid) MIN 0.4%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil CFU / lb"
         ],
-        "calorie": "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil. CFu/lb"
+        "calorie": "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil CFU / lb"
     }
 ]

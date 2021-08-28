@@ -1,23 +1,20 @@
 [
     {
         "brand": "Nutrience",
-        "url": "https://nutrience.com/products/healthy-kitten/",
-        "title": "Canadian made Healthy Kitten, Chicken food - Nutrience -kitten formula",
-        "descriptions": "Nutrience Infusion kibble for kittens is a Canadian made kitten food, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals. Whole vegetables and fruits are included for their antioxidant and phytonutrient properties to help kittens develop a strong immune system. Additionally, this formula is made with natural sources of DHA to help support brain and eye development. Plus, this kitten food is rich in Canadian-sourced protein and freeze-dried infused for a superior flavor that even the finickiest kittens will crave. On top of being delicious, this kibble is also fortified with prebiotics and probiotics that provide greater absorption of nutrients and help support your kitten’s healthy gut flora.",
+        "url": "https://nutrience.com/products/adult-weight-control/",
+        "title": "Adult Weight Control - Nutrience - Cat Food Made in Canada",
+        "descriptions": "Nutrience Infusion is a Canadian made cat food, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals.",
         "key_benefits": [
-            "Supports Brain Development Contains DHA to help support brain and eye development.",
-            "Helps Develop a Strong Immune System Made with whole fruits and vegetables containing rich antioxidant and phytonutrient properties to help develop a strong immune system.",
-            "Rich in Omega-3 Fatty Acids Salmon oil, herring oil, and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure healthy skin and a shiny coat for your kitten.",
-            "Fortified with Prebiotics & Probiotics Fortified with prebiotics and probiotics that provide greater absorption of nutrients and help support healthy gut flora.",
-            "Made with Fresh Canadian Sourced Protein Made with fresh Canadian sourced proteins to support lean muscle growth and energy levels.",
-            "Protects Joints During Growth Includes glucosamine and chondroitin to help protect their joints during growth spurts.",
-            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits."
+            "Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
+            "A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
+            "Salmon oil is used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat.",
+            "Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
         ],
-        "ingredients": "Deboned chicken, chicken meal, steel cut oats, pearl barley, green peas, red lentils, chicken fat (preserved with mixed tocopherols), natural chicken flavour, sun-cured alfalfa, freeze-dried chicken liver, salmon oil (natural source of DHA), coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, vitamins (vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc sulfate, zinc proteinate, iron proteinate, ferrous sulphate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), lecithin, salt, choline chloride, potassium chloride, chicory root extract, yeast extract, calcium carbonate, DL-methionine, L-lysine, taurine, rosemary extract, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
+        "ingredients": "Deboned chicken, chicken meal, red lentils, pearled barley, steel cut oats, green peas, chicken fat (preserved with mixed tocopherols), sun-cured alfalfa meal, natural chicken flavour, freeze-dried chicken liver, salmon oil, coconut oil, pumpkin, butternut squash, carrots, broccoli, spinach, pomegranate, apples, cranberries, blueberries, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, vitamins (vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc sulfate, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), lecithin, salt, choline chloride, potassium chloride, chicory root extract, yeast extract, calcium carbonate, DL-methionine, L-lysine, taurine, glucosamine hydrochloride, chondroitin sulfate, rosemary extract, L-carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
         "analysis": [
-            "Crude protein min. 36.0%",
-            "Crude fat min. 20.0%",
-            "Crude fiber max. 3.5%",
+            "Crude protein min. 30.0%",
+            "Crude fat min. 14.0%",
+            "Crude fiber max. 4.5%",
             "Moisture max. 10.0%",
             "Calcium min. 1.2%",
             "Phosphorus min. 0.9%",
@@ -26,11 +23,138 @@
             "Vitamin D3 min. 1,300 IU/kg",
             "Vitamin E min. 130 IU/kg",
             "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min. 3.8%",
+            "L-carnitine* min. 100mg/kg",
+            "Omega-6 fatty acids* min. 3.0%",
             "Omega-3 fatty acids* min. 0.3%",
+            "Glucosamine* min. 400mg/kg",
+            "Chondroitin Sulfate* min. 200mg/kg",
             "Total microorganisms* min. 120M CFU/lb"
         ],
-        "calorie": "Calorie Content (calculated): 3,935 kcal/kg or 472 kcal/cup ME"
+        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 456 kcal/cup ME"
+    },
+    {
+        "brand": "Nutrience",
+        "url": "https://nutrience.com/products/canadian-pacific-formula/",
+        "title": "Canadian Pacific | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
+        "descriptions": "Our Canadian Pacific food for cats is prepared with fresh wild-caught fish as well as real freeze-dried fish for a superior flavor that even the finickiest cats will crave. Made with chunks of Nutriboost for optimal nutrition.",
+        "key_benefits": [
+            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
+            "Salmon Oil & Coconut Oil A special botanical blend including coconut oil and salmon oil help to maintain a healthy skin and coat.",
+            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
+            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
+        ],
+        "ingredients": "Salmon, pollock, cod, haddock, flounder, menhaden, salmon meal, herring meal, menhaden meal, peas, canola oil (preserved with mixed tocopherols), lentils, natural fish flavour, sweet potatoes, sun-cured alfalfa meal, freeze-dried salmon, freeze-dried herring, freeze-dried pumpkin, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, egg product, salmon oil, herring oil, choline chloride, coconut oil, DL-methionine, potassium chloride, lecithin, calcium propionate, L-lysine, taurine, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, ginger, peppermint leaf, licorice root, turmeric, salt, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], Yucca shidigera extract, yeast extract, minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), glucosamine hydrochloride, dried kelp, dried chicory root, chondroitin sulfate, rosemary extract, L-carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
+        "analysis": [
+            "Crude protein min. 38.0%",
+            "Crude fat min. 18.0%",
+            "Crude fiber max. 3.5%",
+            "Moisture max. 10.0%",
+            "Omega-6 fatty acids* min. 2.5%",
+            "Omega-3 fatty acids* min. 1.7%",
+            "Glucosamine* min. 800 mg/kg",
+            "Chondroitin sulfate* min. 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
+        ],
+        "calorie": "Calorie Content (calculated): 3,855 kcal/kg or 462 kcal/cup ME"
+    },
+    {
+        "brand": "Nutrience",
+        "url": "https://nutrience.com/products/fraser-valley-formula-2/",
+        "title": "Fraser Valley | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
+        "descriptions": "Our Nutrience SubZero Fraser Valley food for cats is prepared right here in Canada with fresh, never frozen Canadian sources of poultry, Pacific wild-caught fish and real freeze-dried chicken for a superior flavor that even the finickiest cats will crave. This cat food is grain-free and contains chunks of freeze-dried Nutriboost for optimal nutrition.",
+        "key_benefits": [
+            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
+            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
+            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
+            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
+        ],
+        "ingredients": "Deboned chicken, deboned turkey, chicken meal, turkey meal, salmon, chicken liver, chicken heart, turkey liver, turkey heart, herring, cod, cod liver, whole eggs, peas, chicken fat (preserved with mixed tocopherols), red lentils, sweet potatoes, chickpeas, natural chicken flavor, sun-cured alfalfa meal, freeze-dried chicken, freeze-dried pumpkin, freeze-dried chicken liver, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, salmon oil, herring oil, coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, valerian root, vitamins (vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), salt, choline chloride, taurine, potassium chloride, DL-methionine, L-lysine, chicory root extract, yucca schidigera extract, yeast extract, thyme extract, glucosamine hydrochloride, rosemary extract, chondroitin sulfate, L-carnitine, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, dried Bacillus subtilis fermentation product, dried Bifidobacterium animalis fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus helveticus fermentation product, dried Bifidobacterium longum fermentation product, dried Lactobacillus acidophilus fermentation product.",
+        "analysis": [
+            "Crude protein min. 42.0%",
+            "Crude fat min. 20.0%",
+            "Crude fiber max. 3.5%",
+            "Moisture max. 10.0%",
+            "Ash max. 7.5%",
+            "Calcium min. 1.1%",
+            "Phosphorus min. 0.9%",
+            "Magnesium max. 0.1%",
+            "Vitamin A min. 25,000 IU/kg",
+            "Vitamin D3 min. 1,600 IU/kg",
+            "Vitamin E min. 130 IU/kg",
+            "Taurine min. 0.15%",
+            "Omega-6 fatty acids* min. 3.5%",
+            "Omega-3 fatty acids* min. 0.4%",
+            "Glucosamine* min. 800 mg/kg",
+            "Chondroitin sulfate* min. 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
+        ],
+        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 455 kcal/cup ME"
+    },
+    {
+        "brand": "Nutrience",
+        "url": "https://nutrience.com/products/healthy-adult-chicken-meal-with-brown-rice-recipe/",
+        "title": "Healthy Adult – Chicken Meal with Brown Rice Recipe - Nutrience",
+        "descriptions": "Quality chicken as the #1 ingredient in our Nutrience Original Healthy Adult cat food supports your cat’s strong, active body in the form of a delicious kibble.",
+        "key_benefits": [
+            "Cats require a diet rich in protein. We use high quality chicken as our first ingredient to ensure your cat maintains a lean muscle mass. Lesser quality meat by-products or plant glutens are never used to increase protein levels.",
+            "We’ve included key sources of antioxidants (blueberries, cranberries and carrots along with vitamin C and vitamin E) that work together to support your cat’s immune system and maintain a healthy heart.",
+            "Digestive health has a direct link to your pet’s overall well-being. Our formulas include a combination of whole grains, natural fiber and prebiotics to help your cat maintain a healthy intestinal tract.",
+            "Our fish & flaxseed omega-3 and omega-6 fatty acids will help your cat maintain a healthy skin and coat, therefore reducing any excess shedding and minimizing hairballs.",
+            "Nutrience delivers an optimal level of taurine to help maintain normal feline heart function and good vision."
+        ],
+        "ingredients": "Chicken meal, brown rice, oatmeal, green peas, chicken fat (preserved with mixed tocopherols), dried beet pulp, natural chicken flavour, egg product, flaxseed, calcium carbonate, brewer’s yeast, salmon oil (source of DHA), blueberries, cranberries, carrots, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganese oxide, calcium iodate, sodium selenite], potassium chloride, DL-methionine, lecithin, taurine, chicory root extract, choline chloride, salt, yeast extract, L-lysine, yucca schidigera extract.",
+        "analysis": [
+            "Crude protein min 28.0%",
+            "Crude fat min 18.0%",
+            "Crude fiber max 3.5%",
+            "Moisture max 10.0%",
+            "Ash max 7.5%",
+            "Calcium min 1.1%",
+            "Phosphorus min 0.9%",
+            "Magnesium max 0.1%",
+            "Vitamin A min 20,000 IU/kg",
+            "Vitamin D3 min 1,100 IU/kg",
+            "Vitamin E min 110 IU/kg",
+            "Taurine min. 0.15%",
+            "Omega-6 fatty acids* min 3.5%",
+            "Omega-3 fatty acids* min 0.3%"
+        ],
+        "calorie": "Calorie Content (calculated): 3,880 kcal/kg or 465 kcal/cup ME"
+    },
+    {
+        "brand": "Nutrience",
+        "url": "https://nutrience.com/products/healthy-adult-indoor-chicken-meal-with-brown-rice-recipe/",
+        "title": "Healthy Adult Indoor – Chicken Meal with Brown Rice Recipe - Nutrience",
+        "descriptions": "Specifically formulated for indoor cats, our Nutrience Original Healthy Adult Indoor formula helps conquer weight and hairball challenges with healthy, wholesome ingredients.",
+        "key_benefits": [
+            "Indoor cats love to lounge and have a less active lifestyle than that of an outdoor cat. Providing them a diet rich in quality meat protein and moderate levels of fat will help them maintain a healthy weight and lean muscle mass. Quality chicken is always the first ingredient in our Nutrience Original formulas.",
+            "Indoor cats tend to spend more time grooming and shed more than other cats. Our fish & flaxseed omega-3 and omega-6 fatty acids will help your cat maintain a healthy skin and coat and reduce excess shedding. In addition, we’ve included a multi-fiber blend and pineapple to minimize the formation of hairballs.",
+            "We’ve included key sources of antioxidants in our formulas (blueberries, cranberries and carrots along with vitamin C and vitamin E) that work together to support your cat’s immune system and maintain a healthy heart.",
+            "A cat with an inactive lifestyle can benefit from joint and mobility protection. We guarantee specific amounts of glucosamine and chondroitin in this formula to help support joints and maintain mobility.",
+            "Our formulas include a combination of whole grains, natural fiber and prebiotics to help your cat maintain a healthy intestinal tract, as well as yucca schidigera extract to minimize litter box odors.",
+            "Nutrience delivers an optimal level of taurine to help maintain normal feline heart function and good vision."
+        ],
+        "ingredients": "Chicken meal, brown rice, oatmeal, green peas, chicken fat (preserved with mixed tocopherols), dried beet pulp, natural chicken flavor, egg product, flaxseed, brewer’s yeast, salmon oil (source of DHA), blueberries, cranberries, carrots, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc sulfate, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganese oxide, calcium iodate, sodium selenite], potassium chloride, calcium carbonate, salt, lecithin, choline chloride, DL-methionine, L-lysine, yeast extract, chicory root extract, yucca schidigera extract, taurine, glucosamine hydrochloride, chondroitin sulfate, rosemary extract.",
+        "analysis": [
+            "Crude protein min. 27.0%",
+            "Crude fat min. 14.0%",
+            "Crude fiber max. 4.5%",
+            "Moisture max. 10.0%",
+            "Ash max. 7.0%",
+            "Calcium min. 1.1%",
+            "Phosphorus min. 0.9%",
+            "Magnesium max. 0.1%",
+            "Vitamin A min. 20,000 IU/kg",
+            "Vitamin D3 min. 1,100 IU/kg",
+            "Vitamin E min. 110 IU/kg",
+            "Taurine min. 0.15%",
+            "Ascorbic acid* (vitamin C) min. 60 mg/kg",
+            "Omega-6 fatty acids* min. 3.0%",
+            "Omega-3 fatty acids* min. 0.4%",
+            "Glucosamine* min. 200 mg/kg",
+            "Chondroitin* min. 100 mg/kg"
+        ],
+        "calorie": "Calorie Content (calculated): 3,685 kcal/kg or 442 kcal/cup ME"
     },
     {
         "brand": "Nutrience",
@@ -96,20 +220,55 @@
     },
     {
         "brand": "Nutrience",
-        "url": "https://nutrience.com/products/adult-weight-control/",
-        "title": "Adult Weight Control - Nutrience - Cat Food Made in Canada",
-        "descriptions": "Nutrience Infusion is a Canadian made cat food, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals.",
+        "url": "https://nutrience.com/products/healthy-kitten-chicken-meal-with-brown-rice-recipe/",
+        "title": "Healthy Kitten – Chicken Meal with Brown Rice Recipe - Nutrience",
+        "descriptions": "Made with quality chicken meal, Nutrience Original Healthy Kitten formula helps ensure your kitten’s optimal growth. For a complete guide on how to care for your new kitten, check out our Kitten Care Guide.",
         "key_benefits": [
-            "Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
-            "A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
-            "Salmon oil is used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat.",
-            "Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
+            "Growing kittens require more protein in their diet. We use quality chicken as our first ingredient and do not add by-products or plant glutens, to ensure your kitten builds strong, lean muscles",
+            "Digestive health has a direct link to your pet’s overall well-being. Our formulas include a combinationof whole grains, natural fiber and prebiotics to help your kitten maintain a healthy intestinal tract.",
+            "Flaxseed and salmon oil are natural sources of DHA which play a vital role in the development of your kitten’s brain and nervous system. We guarantee levels in every bag to help support both learning and training.",
+            "Land (flaxseed) and sea (salmon oil) sourced omega-3 fatty acids, as well as omega-6 fatty acids, provide your kitten a more diverse and balanced ratio of healthy fats to help him develop a healthy skin and a shiny coat.",
+            "We’ve included key sources of antioxidants in our formulas (blueberries, cranberries & carrots along with vitamin C, vitamin E and taurine) that work together to support your kitten’s developing immune system."
         ],
-        "ingredients": "Deboned chicken, chicken meal, red lentils, pearled barley, steel cut oats, green peas, chicken fat (preserved with mixed tocopherols), sun-cured alfalfa meal, natural chicken flavour, freeze-dried chicken liver, salmon oil, coconut oil, pumpkin, butternut squash, carrots, broccoli, spinach, pomegranate, apples, cranberries, blueberries, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, vitamins (vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc sulfate, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), lecithin, salt, choline chloride, potassium chloride, chicory root extract, yeast extract, calcium carbonate, DL-methionine, L-lysine, taurine, glucosamine hydrochloride, chondroitin sulfate, rosemary extract, L-carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
+        "ingredients": "Chicken meal, brown rice, oatmeal, green peas, chicken fat (preserved with mixed tocopherols), dried beet pulp, egg product, natural chicken flavor, flaxseed, brewer’s yeast, calcium carbonate, salmon oil (source of DHA), blueberries, cranberries, carrots, vitamins [vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganese oxide, calcium iodate, sodium selenite], potassium chloride, DL-methionine, lecithin, taurine, chicory root extract, choline chloride, yeast extract, L-lysine, salt, yucca schidigera extract.",
         "analysis": [
-            "Crude protein min. 30.0%",
-            "Crude fat min. 14.0%",
-            "Crude fiber max. 4.5%",
+            "Crude protein min 31.0%",
+            "Crude fat min 19.0%",
+            "Crude fiber max 3.5%",
+            "Moisture max 10.0%",
+            "Ash max 7.5%",
+            "Calcium min 1.2%",
+            "Phosphorus min 1.0%",
+            "Magnesium max 0.1%",
+            "Vitamin A min 20,000 IU/kg",
+            "Vitamin D3 min 1,100 IU/kg",
+            "Vitamin E min 110 IU/kg",
+            "Taurine min. 0.15%",
+            "Omega-6 fatty acids* min 3.8%",
+            "Omega-3 fatty acids* min 0.4%",
+            "Docosahexaenoic acid* (DHA) min 0.1%"
+        ],
+        "calorie": "Calorie Content (calculated): 3,930 kcal/kg or 472 kcal/cup ME"
+    },
+    {
+        "brand": "Nutrience",
+        "url": "https://nutrience.com/products/healthy-kitten/",
+        "title": "Canadian made Healthy Kitten, Chicken food - Nutrience -kitten formula",
+        "descriptions": "Nutrience Infusion kibble for kittens is a Canadian made kitten food, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals. Whole vegetables and fruits are included for their antioxidant and phytonutrient properties to help kittens develop a strong immune system. Additionally, this formula is made with natural sources of DHA to help support brain and eye development. Plus, this kitten food is rich in Canadian-sourced protein and freeze-dried infused for a superior flavor that even the finickiest kittens will crave. On top of being delicious, this kibble is also fortified with prebiotics and probiotics that provide greater absorption of nutrients and help support your kitten’s healthy gut flora.",
+        "key_benefits": [
+            "Supports Brain Development Contains DHA to help support brain and eye development.",
+            "Helps Develop a Strong Immune System Made with whole fruits and vegetables containing rich antioxidant and phytonutrient properties to help develop a strong immune system.",
+            "Rich in Omega-3 Fatty Acids Salmon oil, herring oil, and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure healthy skin and a shiny coat for your kitten.",
+            "Fortified with Prebiotics & Probiotics Fortified with prebiotics and probiotics that provide greater absorption of nutrients and help support healthy gut flora.",
+            "Made with Fresh Canadian Sourced Protein Made with fresh Canadian sourced proteins to support lean muscle growth and energy levels.",
+            "Protects Joints During Growth Includes glucosamine and chondroitin to help protect their joints during growth spurts.",
+            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits."
+        ],
+        "ingredients": "Deboned chicken, chicken meal, steel cut oats, pearl barley, green peas, red lentils, chicken fat (preserved with mixed tocopherols), natural chicken flavour, sun-cured alfalfa, freeze-dried chicken liver, salmon oil (natural source of DHA), coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, vitamins (vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc sulfate, zinc proteinate, iron proteinate, ferrous sulphate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), lecithin, salt, choline chloride, potassium chloride, chicory root extract, yeast extract, calcium carbonate, DL-methionine, L-lysine, taurine, rosemary extract, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
+        "analysis": [
+            "Crude protein min. 36.0%",
+            "Crude fat min. 20.0%",
+            "Crude fiber max. 3.5%",
             "Moisture max. 10.0%",
             "Calcium min. 1.2%",
             "Phosphorus min. 0.9%",
@@ -118,170 +277,11 @@
             "Vitamin D3 min. 1,300 IU/kg",
             "Vitamin E min. 130 IU/kg",
             "Taurine min. 0.15%",
-            "L-carnitine* min. 100mg/kg",
-            "Omega-6 fatty acids* min. 3.0%",
+            "Omega-6 fatty acids* min. 3.8%",
             "Omega-3 fatty acids* min. 0.3%",
-            "Glucosamine* min. 400mg/kg",
-            "Chondroitin Sulfate* min. 200mg/kg",
             "Total microorganisms* min. 120M CFU/lb"
         ],
-        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 456 kcal/cup ME"
-    },
-    {
-        "brand": "Nutrience",
-        "url": "https://nutrience.com/products/fraser-valley-formula-2/",
-        "title": "Fraser Valley | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
-        "descriptions": "Our Nutrience SubZero Fraser Valley food for cats is prepared right here in Canada with fresh, never frozen Canadian sources of poultry, Pacific wild-caught fish and real freeze-dried chicken for a superior flavor that even the finickiest cats will crave. This cat food is grain-free and contains chunks of freeze-dried Nutriboost for optimal nutrition.",
-        "key_benefits": [
-            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
-            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
-            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
-            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
-        ],
-        "ingredients": "Deboned chicken, deboned turkey, chicken meal, turkey meal, salmon, chicken liver, chicken heart, turkey liver, turkey heart, herring, cod, cod liver, whole eggs, peas, chicken fat (preserved with mixed tocopherols), red lentils, sweet potatoes, chickpeas, natural chicken flavor, sun-cured alfalfa meal, freeze-dried chicken, freeze-dried pumpkin, freeze-dried chicken liver, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, salmon oil, herring oil, coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, valerian root, vitamins (vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), salt, choline chloride, taurine, potassium chloride, DL-methionine, L-lysine, chicory root extract, yucca schidigera extract, yeast extract, thyme extract, glucosamine hydrochloride, rosemary extract, chondroitin sulfate, L-carnitine, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, dried Bacillus subtilis fermentation product, dried Bifidobacterium animalis fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus helveticus fermentation product, dried Bifidobacterium longum fermentation product, dried Lactobacillus acidophilus fermentation product.",
-        "analysis": [
-            "Crude protein min. 42.0%",
-            "Crude fat min. 20.0%",
-            "Crude fiber max. 3.5%",
-            "Moisture max. 10.0%",
-            "Ash max. 7.5%",
-            "Calcium min. 1.1%",
-            "Phosphorus min. 0.9%",
-            "Magnesium max. 0.1%",
-            "Vitamin A min. 25,000 IU/kg",
-            "Vitamin D3 min. 1,600 IU/kg",
-            "Vitamin E min. 130 IU/kg",
-            "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min. 3.5%",
-            "Omega-3 fatty acids* min. 0.4%",
-            "Glucosamine* min. 800 mg/kg",
-            "Chondroitin sulfate* min. 400 mg/kg",
-            "Total microorganisms* min. 225,000,000 CFU/lb"
-        ],
-        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 455 kcal/cup ME"
-    },
-    {
-        "brand": "Nutrience",
-        "url": "https://nutrience.com/products/prairie-red-formula-cat/",
-        "title": "Prairie Red | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
-        "descriptions": "Our Prairie Red formula is prepared right here in Canada with fresh, never frozen Canadian sources of beef, bison, wild boar, Pacific wild-caught fish and real freeze-dried beef liver for a superior flavor that even the finickiest cats will crave. This formula is grain-free, poultry-free and contains freeze-dried chunks of Nutriboost for optimal nutrition.",
-        "key_benefits": [
-            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
-            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
-            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
-            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
-        ],
-        "ingredients": "Deboned beef, deboned lamb, deboned wild boar, beef liver, lamb liver, wild boar liver, deboned bison, pork meal, lamb meal, salmon, herring, cod, cod liver, peas, pork fat (preserved with mixed tocopherols), whole eggs, red lentils, sweet potatoes, chickpeas, natural pork flavor, sun-cured alfalfa meal, freeze-dried beef liver, freeze-dried pumpkin, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, salmon oil, herring oil, coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, valerian root, vitamins (vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), potassium chloride, choline chloride, salt, taurine, DL-methionine, L-lysine, chicory root extract, yucca schidigera extract, yeast extract, thyme extract, glucosamine hydrochloride, rosemary extract, chondroitin sulfate, L-carnitine, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, dried Bacillus subtilis fermentation product, dried Bifidobacterium animalis fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus helveticus fermentation product, dried Bifidobacterium longum fermentation product, dried Lactobacillus acidophilus fermentation product.",
-        "analysis": [
-            "Crude protein min. 40.0%",
-            "Crude fat min. 20.0%",
-            "Crude fiber max. 3.5%",
-            "Moisture max. 10.0%",
-            "Ash max. 7.5%",
-            "Calcium min. 1.1%",
-            "Phosphorus min. 0.9%",
-            "Magnesium max. 0.1%",
-            "Vitamin A min. 25,000 IU/kg",
-            "Vitamin D3 min. 1,600 IU/kg",
-            "Vitamin E min. 130 IU/kg",
-            "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min. 3.5%",
-            "Omega-3 fatty acids* min. 0.4%",
-            "Glucosamine* min. 800 mg/kg",
-            "Chondroitin sulfate* min. 400 mg/kg",
-            "Total microorganisms* min. 225,000,000 CFU/lb"
-        ],
-        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 455 kcal/cup ME"
-    },
-    {
-        "brand": "Nutrience",
-        "url": "https://nutrience.com/products/canadian-pacific-formula/",
-        "title": "Canadian Pacific | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
-        "descriptions": "Our Canadian Pacific food for cats is prepared with fresh wild-caught fish as well as real freeze-dried fish for a superior flavor that even the finickiest cats will crave. Made with chunks of Nutriboost for optimal nutrition.",
-        "key_benefits": [
-            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
-            "Salmon Oil & Coconut Oil A special botanical blend including coconut oil and salmon oil help to maintain a healthy skin and coat.",
-            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
-            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
-        ],
-        "ingredients": "Salmon, pollock, cod, haddock, flounder, menhaden, salmon meal, herring meal, menhaden meal, peas, canola oil (preserved with mixed tocopherols), lentils, natural fish flavour, sweet potatoes, sun-cured alfalfa meal, freeze-dried salmon, freeze-dried herring, freeze-dried pumpkin, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, egg product, salmon oil, herring oil, choline chloride, coconut oil, DL-methionine, potassium chloride, lecithin, calcium propionate, L-lysine, taurine, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, ginger, peppermint leaf, licorice root, turmeric, salt, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], Yucca shidigera extract, yeast extract, minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), glucosamine hydrochloride, dried kelp, dried chicory root, chondroitin sulfate, rosemary extract, L-carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
-        "analysis": [
-            "Crude protein min. 38.0%",
-            "Crude fat min. 18.0%",
-            "Crude fiber max. 3.5%",
-            "Moisture max. 10.0%",
-            "Omega-6 fatty acids* min. 2.5%",
-            "Omega-3 fatty acids* min. 1.7%",
-            "Glucosamine* min. 800 mg/kg",
-            "Chondroitin sulfate* min. 400 mg/kg",
-            "Total microorganisms* min. 225,000,000 CFU/lb"
-        ],
-        "calorie": "Calorie Content (calculated): 3,855 kcal/kg or 462 kcal/cup ME"
-    },
-    {
-        "brand": "Nutrience",
-        "url": "https://nutrience.com/products/ocean-fish-formula/",
-        "title": "Ocean Fish Formula - Nutrience - Cat Food Made in Canada",
-        "descriptions": "The Grain Free Ocean Fish Formula is a great diet for cats sensitive to land-based proteins, eggs and poultry. This gluten-free formula is perfectly suited for cats of all life stages.",
-        "key_benefits": [
-            "Premium lean protein sources provide a complete essential amino acid profile for overall health and growth of your cat, while keeping them trim & fit.",
-            "Grains have been replaced by lentils and sweet potatoes, selected for their nutritional value and low-glycemic properties. Low-glycemic carbohydrates, which slow or lower glucose release into the bloodstream, may lower the risk of diabetes and help prevent obesity.",
-            "Coconut oil is used for its ability to provide multiple health benefits, while pineapple extract and psyllium fiber reduces the formation of hairballs & eases their intestinal transit.",
-            "Whole fruits and vegetables contain rich antioxidant and phytonutrient properties."
-        ],
-        "ingredients": "Salmon, herring, hake, sole, cod, flounder, sebastes, ocean whitefish meal, green peas, canola oil (preserved with mixed tocopherols), lentils, sweet potatoes, sun-cured alfalfa meal, natural fish flavor, salmon oil (source of DHA), coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc sulfate, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite], salt, DL-methionine, choline chloride, potassium chloride, lecithin, taurine, L-lysine, yeast extract, dried kelp, yucca schidigera extract, chicory root extract, glucosamine hydrochloride, chondroitin sulfate, rosemary extract, L carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
-        "analysis": [
-            "Crude protein min 38.0%",
-            "Crude fat min 18.0%",
-            "Crude fiber max 3.5%",
-            "Moisture max 10.0%",
-            "Ash max 7.5%",
-            "Calcium min 1.1%",
-            "Phosphorus min 0.9%",
-            "Magnesium max 0.1%",
-            "Vitamin A min 25,000 IU/kg",
-            "Vitamin D3 min 1,300 IU/kg",
-            "Vitamin E min 130 IU/kg",
-            "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min 3.0%",
-            "Omega-3 fatty acids* min 1.5%",
-            "Glucosamine* min 800 mg/kg",
-            "Chondroitin sulfate* min 400 mg/kg",
-            "Total microorganisms* min. 225,000,000 CFU/lb"
-        ],
-        "calorie": "Calorie Content (calculated): 3,950 kcal/kg or 474 kcal/cup ME"
-    },
-    {
-        "brand": "Nutrience",
-        "url": "https://nutrience.com/products/turkey-chicken-herring-formula/",
-        "title": "Turkey, Chicken & Herring Formula - Nutrience - Cat Food Made in Canada",
-        "descriptions": "A great everyday diet created for cats of all breeds and life stages. Nutrience Grain Free Turkey, Chicken & Herring formula is both grain-free and gluten-free, making it perfectly suited for active or sensitive cats.",
-        "key_benefits": [
-            "Multiple sources of animal ingredients provide protein and essential amino acids for overall health and growth.",
-            "A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
-            "Whole fruits and vegetables contain rich antioxidant and phytonutrient properties."
-        ],
-        "ingredients": "Deboned turkey, chicken meal, turkey meal, green peas, sweet potatoes, lentils, tapioca, chicken fat (preserved with mixed tocopherols), deboned chicken, deboned herring, whole eggs, sun-cured alfalfa meal, natural chicken flavor, chicken liver, salmon oil (source of DHA), coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, pears, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, peppermint leaf, licorice root, turmeric, vitamins [vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganese oxide, calcium iodate, sodium selenite], potassium chloride, choline chloride, lecithin, DL-methionine, salt, chicory root extract, taurine, dried kelp, yeast extract, glucosamine hydrochloride, rosemary extract, yucca schidigera extract, L-lysine, chondroitin sulfate, L-carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
-        "analysis": [
-            "Crude protein min 40.0%",
-            "Crude fat min 18.0%",
-            "Crude fiber max 3.5%",
-            "Moisture max 10.0%",
-            "Ash max 7.5%",
-            "Calcium min 1.1%",
-            "Phosphorus min 0.9%",
-            "Magnesium max 0.1%",
-            "Vitamin A min 25,000 IU/kg",
-            "Vitamin D3 min 1,300 IU/kg",
-            "Vitamin E min 130 IU/kg",
-            "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min 3.5%",
-            "Omega-3 fatty acids* min 0.4%",
-            "Glucosamine* min 800 mg/kg",
-            "Chondroitin sulfate* min 400 mg/kg",
-            "Total microorganisms* min. 225,000,000 CFU/lb"
-        ],
-        "calorie": "Calorie Content (calculated): 3,955 kcal/kg or 475 kcal/cup ME"
+        "calorie": "Calorie Content (calculated): 3,935 kcal/kg or 472 kcal/cup ME"
     },
     {
         "brand": "Nutrience",
@@ -333,7 +333,15 @@
             "All our air-dried meat, poultry and fish are completely free from hormones and antibiotics."
         ],
         "ingredients": "Beef lung, beef liver, beef spleen, salmon, beef, pork, natural flavour, apple, dicalcium phosphate, blueberry, cranberry, yeast extract, coconut oil, calcium carbonate, fish oil, pumpkin, parsley, Yucca schidigera extract, rosemary extract, magnesium sulfate, choline bitartrate, sodium selenite, salt, zinc proteinate, potassium chloride, taurine, manganese proteinate, copper proteinate, vitamin E supplement, vitamin D3 supplement, vitamin A supplement, thiamine mononitrate, riboflavin supplement, d-calcium pantothenate, niacin supplement, folic acid, vitamin  B12 supplement, pyridoxine hydrochloride, Lactobacillus casei, Lactobacillus fermentum.",
-        "analysis": ["Crude protein min 40.0 %", "Crude fat min 25.0 %", "Crude fiber max 5.0 %", "Moisture max 14.0 %", "Omega-6 fatty acids* min 1.2 %", "Omega-3 fatty acids* min 0.4 %", "Total microorganisms* min  3,000,000,000 CFU/lb"],
+        "analysis": [
+            "Crude protein min 40.0 %",
+            "Crude fat min 25.0 %",
+            "Crude fiber max 5.0 %",
+            "Moisture max 14.0 %",
+            "Omega-6 fatty acids* min 1.2 %",
+            "Omega-3 fatty acids* min 0.4 %",
+            "Total microorganisms* min  3,000,000,000 CFU/lb"
+        ],
         "calorie": "CALORIE CONTENT (calculated): 4,285 kcal/kg or 486 kcal/cup ME"
     },
     {
@@ -351,59 +359,31 @@
             "All our air-dried meat, poultry and fish are completely free from hormones and antibiotics."
         ],
         "ingredients": "Chicken, turkey, chicken liver, turkey liver, turkey heart, salmon, natural flavour, apple, dicalcium phosphate, blueberry, cranberry, yeast extract, coconut oil, calcium carbonate, fish oil, pumpkin, parsley, magnesium sulfate, Yucca schidigera extract, rosemary extract, choline bitartrate, sodium selenite, salt, zinc proteinate, taurine, manganese proteinate, copper proteinate, potassium chloride, vitamin E supplement, vitamin D3 supplement, vitamin A supplement, thiamine mononitrate, riboflavin supplement, d-calcium pantothenate, niacin supplement, folic acid, vitamin B12 supplement, pyridoxine hydrochloride, Lactobacillus casei, Lactobacillus fermentum, calcium iodate.",
-        "analysis": ["Crude protein min 38.0 %", "Crude fat min 25.0 %", "Crude fiber max 5.0 %", "Moisture max 14.0 %", "Omega-6 fatty acids* min 3.5 %", "Omega-3 fatty acids* min 0.6 %", "Total microorganisms* min  3,000,000,000 CFU/lb"],
+        "analysis": [
+            "Crude protein min 38.0 %",
+            "Crude fat min 25.0 %",
+            "Crude fiber max 5.0 %",
+            "Moisture max 14.0 %",
+            "Omega-6 fatty acids* min 3.5 %",
+            "Omega-3 fatty acids* min 0.6 %",
+            "Total microorganisms* min  3,000,000,000 CFU/lb"
+        ],
         "calorie": "CALORIE CONTENT (calculated): 4,455 kcal/kg or 506 kcal/cup ME"
     },
     {
         "brand": "Nutrience",
-        "url": "https://nutrience.com/products/healthy-adult-indoor-chicken-meal-with-brown-rice-recipe/",
-        "title": "Healthy Adult Indoor – Chicken Meal with Brown Rice Recipe - Nutrience",
-        "descriptions": "Specifically formulated for indoor cats, our Nutrience Original Healthy Adult Indoor formula helps conquer weight and hairball challenges with healthy, wholesome ingredients.",
+        "url": "https://nutrience.com/products/ocean-fish-formula/",
+        "title": "Ocean Fish Formula - Nutrience - Cat Food Made in Canada",
+        "descriptions": "The Grain Free Ocean Fish Formula is a great diet for cats sensitive to land-based proteins, eggs and poultry. This gluten-free formula is perfectly suited for cats of all life stages.",
         "key_benefits": [
-            "Indoor cats love to lounge and have a less active lifestyle than that of an outdoor cat. Providing them a diet rich in quality meat protein and moderate levels of fat will help them maintain a healthy weight and lean muscle mass. Quality chicken is always the first ingredient in our Nutrience Original formulas.",
-            "Indoor cats tend to spend more time grooming and shed more than other cats. Our fish & flaxseed omega-3 and omega-6 fatty acids will help your cat maintain a healthy skin and coat and reduce excess shedding. In addition, we’ve included a multi-fiber blend and pineapple to minimize the formation of hairballs.",
-            "We’ve included key sources of antioxidants in our formulas (blueberries, cranberries and carrots along with vitamin C and vitamin E) that work together to support your cat’s immune system and maintain a healthy heart.",
-            "A cat with an inactive lifestyle can benefit from joint and mobility protection. We guarantee specific amounts of glucosamine and chondroitin in this formula to help support joints and maintain mobility.",
-            "Our formulas include a combination of whole grains, natural fiber and prebiotics to help your cat maintain a healthy intestinal tract, as well as yucca schidigera extract to minimize litter box odors.",
-            "Nutrience delivers an optimal level of taurine to help maintain normal feline heart function and good vision."
+            "Premium lean protein sources provide a complete essential amino acid profile for overall health and growth of your cat, while keeping them trim & fit.",
+            "Grains have been replaced by lentils and sweet potatoes, selected for their nutritional value and low-glycemic properties. Low-glycemic carbohydrates, which slow or lower glucose release into the bloodstream, may lower the risk of diabetes and help prevent obesity.",
+            "Coconut oil is used for its ability to provide multiple health benefits, while pineapple extract and psyllium fiber reduces the formation of hairballs & eases their intestinal transit.",
+            "Whole fruits and vegetables contain rich antioxidant and phytonutrient properties."
         ],
-        "ingredients": "Chicken meal, brown rice, oatmeal, green peas, chicken fat (preserved with mixed tocopherols), dried beet pulp, natural chicken flavor, egg product, flaxseed, brewer’s yeast, salmon oil (source of DHA), blueberries, cranberries, carrots, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc sulfate, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganese oxide, calcium iodate, sodium selenite], potassium chloride, calcium carbonate, salt, lecithin, choline chloride, DL-methionine, L-lysine, yeast extract, chicory root extract, yucca schidigera extract, taurine, glucosamine hydrochloride, chondroitin sulfate, rosemary extract.",
+        "ingredients": "Salmon, herring, hake, sole, cod, flounder, sebastes, ocean whitefish meal, green peas, canola oil (preserved with mixed tocopherols), lentils, sweet potatoes, sun-cured alfalfa meal, natural fish flavor, salmon oil (source of DHA), coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc sulfate, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite], salt, DL-methionine, choline chloride, potassium chloride, lecithin, taurine, L-lysine, yeast extract, dried kelp, yucca schidigera extract, chicory root extract, glucosamine hydrochloride, chondroitin sulfate, rosemary extract, L carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
         "analysis": [
-            "Crude protein min. 27.0%",
-            "Crude fat min. 14.0%",
-            "Crude fiber max. 4.5%",
-            "Moisture max. 10.0%",
-            "Ash max. 7.0%",
-            "Calcium min. 1.1%",
-            "Phosphorus min. 0.9%",
-            "Magnesium max. 0.1%",
-            "Vitamin A min. 20,000 IU/kg",
-            "Vitamin D3 min. 1,100 IU/kg",
-            "Vitamin E min. 110 IU/kg",
-            "Taurine min. 0.15%",
-            "Ascorbic acid* (vitamin C) min. 60 mg/kg",
-            "Omega-6 fatty acids* min. 3.0%",
-            "Omega-3 fatty acids* min. 0.4%",
-            "Glucosamine* min. 200 mg/kg",
-            "Chondroitin* min. 100 mg/kg"
-        ],
-        "calorie": "Calorie Content (calculated): 3,685 kcal/kg or 442 kcal/cup ME"
-    },
-    {
-        "brand": "Nutrience",
-        "url": "https://nutrience.com/products/healthy-adult-chicken-meal-with-brown-rice-recipe/",
-        "title": "Healthy Adult – Chicken Meal with Brown Rice Recipe - Nutrience",
-        "descriptions": "Quality chicken as the #1 ingredient in our Nutrience Original Healthy Adult cat food supports your cat’s strong, active body in the form of a delicious kibble.",
-        "key_benefits": [
-            "Cats require a diet rich in protein. We use high quality chicken as our first ingredient to ensure your cat maintains a lean muscle mass. Lesser quality meat by-products or plant glutens are never used to increase protein levels.",
-            "We’ve included key sources of antioxidants (blueberries, cranberries and carrots along with vitamin C and vitamin E) that work together to support your cat’s immune system and maintain a healthy heart.",
-            "Digestive health has a direct link to your pet’s overall well-being. Our formulas include a combination of whole grains, natural fiber and prebiotics to help your cat maintain a healthy intestinal tract.",
-            "Our fish & flaxseed omega-3 and omega-6 fatty acids will help your cat maintain a healthy skin and coat, therefore reducing any excess shedding and minimizing hairballs.",
-            "Nutrience delivers an optimal level of taurine to help maintain normal feline heart function and good vision."
-        ],
-        "ingredients": "Chicken meal, brown rice, oatmeal, green peas, chicken fat (preserved with mixed tocopherols), dried beet pulp, natural chicken flavour, egg product, flaxseed, calcium carbonate, brewer’s yeast, salmon oil (source of DHA), blueberries, cranberries, carrots, vitamins [vitamin E supplement, vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganese oxide, calcium iodate, sodium selenite], potassium chloride, DL-methionine, lecithin, taurine, chicory root extract, choline chloride, salt, yeast extract, L-lysine, yucca schidigera extract.",
-        "analysis": [
-            "Crude protein min 28.0%",
+            "Crude protein min 38.0%",
             "Crude fat min 18.0%",
             "Crude fiber max 3.5%",
             "Moisture max 10.0%",
@@ -411,45 +391,81 @@
             "Calcium min 1.1%",
             "Phosphorus min 0.9%",
             "Magnesium max 0.1%",
-            "Vitamin A min 20,000 IU/kg",
-            "Vitamin D3 min 1,100 IU/kg",
-            "Vitamin E min 110 IU/kg",
+            "Vitamin A min 25,000 IU/kg",
+            "Vitamin D3 min 1,300 IU/kg",
+            "Vitamin E min 130 IU/kg",
             "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min 3.5%",
-            "Omega-3 fatty acids* min 0.3%"
+            "Omega-6 fatty acids* min 3.0%",
+            "Omega-3 fatty acids* min 1.5%",
+            "Glucosamine* min 800 mg/kg",
+            "Chondroitin sulfate* min 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
-        "calorie": "Calorie Content (calculated): 3,880 kcal/kg or 465 kcal/cup ME"
+        "calorie": "Calorie Content (calculated): 3,950 kcal/kg or 474 kcal/cup ME"
     },
     {
         "brand": "Nutrience",
-        "url": "https://nutrience.com/products/healthy-kitten-chicken-meal-with-brown-rice-recipe/",
-        "title": "Healthy Kitten – Chicken Meal with Brown Rice Recipe - Nutrience",
-        "descriptions": "Made with quality chicken meal, Nutrience Original Healthy Kitten formula helps ensure your kitten’s optimal growth. For a complete guide on how to care for your new kitten, check out our Kitten Care Guide.",
+        "url": "https://nutrience.com/products/prairie-red-formula-cat/",
+        "title": "Prairie Red | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
+        "descriptions": "Our Prairie Red formula is prepared right here in Canada with fresh, never frozen Canadian sources of beef, bison, wild boar, Pacific wild-caught fish and real freeze-dried beef liver for a superior flavor that even the finickiest cats will crave. This formula is grain-free, poultry-free and contains freeze-dried chunks of Nutriboost for optimal nutrition.",
         "key_benefits": [
-            "Growing kittens require more protein in their diet. We use quality chicken as our first ingredient and do not add by-products or plant glutens, to ensure your kitten builds strong, lean muscles",
-            "Digestive health has a direct link to your pet’s overall well-being. Our formulas include a combinationof whole grains, natural fiber and prebiotics to help your kitten maintain a healthy intestinal tract.",
-            "Flaxseed and salmon oil are natural sources of DHA which play a vital role in the development of your kitten’s brain and nervous system. We guarantee levels in every bag to help support both learning and training.",
-            "Land (flaxseed) and sea (salmon oil) sourced omega-3 fatty acids, as well as omega-6 fatty acids, provide your kitten a more diverse and balanced ratio of healthy fats to help him develop a healthy skin and a shiny coat.",
-            "We’ve included key sources of antioxidants in our formulas (blueberries, cranberries & carrots along with vitamin C, vitamin E and taurine) that work together to support your kitten’s developing immune system."
+            "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
+            "Coconut Oil & Botanicals A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
+            "Marine Source Omega-3 Salmon oil, herring oil and cod liver are used as the primary sources of DHA and EPA omega-3 fatty acids to ensure a healthy skin and coat, as well as cognitive development and support.",
+            "Nutritional Supplements Powerful prebiotics & probiotics provide a greater absorption of nutrients and promote a healthier digestive tract, while increased levels of glucosamine and chondroitin offer advanced hip & joint protection."
         ],
-        "ingredients": "Chicken meal, brown rice, oatmeal, green peas, chicken fat (preserved with mixed tocopherols), dried beet pulp, egg product, natural chicken flavor, flaxseed, brewer’s yeast, calcium carbonate, salmon oil (source of DHA), blueberries, cranberries, carrots, vitamins [vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganese oxide, calcium iodate, sodium selenite], potassium chloride, DL-methionine, lecithin, taurine, chicory root extract, choline chloride, yeast extract, L-lysine, salt, yucca schidigera extract.",
+        "ingredients": "Deboned beef, deboned lamb, deboned wild boar, beef liver, lamb liver, wild boar liver, deboned bison, pork meal, lamb meal, salmon, herring, cod, cod liver, peas, pork fat (preserved with mixed tocopherols), whole eggs, red lentils, sweet potatoes, chickpeas, natural pork flavor, sun-cured alfalfa meal, freeze-dried beef liver, freeze-dried pumpkin, freeze-dried green mussels, freeze-dried cod liver, freeze-dried kelp, salmon oil, herring oil, coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, chamomile, peppermint leaf, licorice root, turmeric, valerian root, vitamins (vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid), minerals (zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganous oxide, calcium iodate, sodium selenite), potassium chloride, choline chloride, salt, taurine, DL-methionine, L-lysine, chicory root extract, yucca schidigera extract, yeast extract, thyme extract, glucosamine hydrochloride, rosemary extract, chondroitin sulfate, L-carnitine, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, dried Bacillus subtilis fermentation product, dried Bifidobacterium animalis fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus helveticus fermentation product, dried Bifidobacterium longum fermentation product, dried Lactobacillus acidophilus fermentation product.",
         "analysis": [
-            "Crude protein min 31.0%",
-            "Crude fat min 19.0%",
+            "Crude protein min. 40.0%",
+            "Crude fat min. 20.0%",
+            "Crude fiber max. 3.5%",
+            "Moisture max. 10.0%",
+            "Ash max. 7.5%",
+            "Calcium min. 1.1%",
+            "Phosphorus min. 0.9%",
+            "Magnesium max. 0.1%",
+            "Vitamin A min. 25,000 IU/kg",
+            "Vitamin D3 min. 1,600 IU/kg",
+            "Vitamin E min. 130 IU/kg",
+            "Taurine min. 0.15%",
+            "Omega-6 fatty acids* min. 3.5%",
+            "Omega-3 fatty acids* min. 0.4%",
+            "Glucosamine* min. 800 mg/kg",
+            "Chondroitin sulfate* min. 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
+        ],
+        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 455 kcal/cup ME"
+    },
+    {
+        "brand": "Nutrience",
+        "url": "https://nutrience.com/products/turkey-chicken-herring-formula/",
+        "title": "Turkey, Chicken & Herring Formula - Nutrience - Cat Food Made in Canada",
+        "descriptions": "A great everyday diet created for cats of all breeds and life stages. Nutrience Grain Free Turkey, Chicken & Herring formula is both grain-free and gluten-free, making it perfectly suited for active or sensitive cats.",
+        "key_benefits": [
+            "Multiple sources of animal ingredients provide protein and essential amino acids for overall health and growth.",
+            "A special botanical blend and coconut oil are used for their ability to provide multiple health benefits.",
+            "Whole fruits and vegetables contain rich antioxidant and phytonutrient properties."
+        ],
+        "ingredients": "Deboned turkey, chicken meal, turkey meal, green peas, sweet potatoes, lentils, tapioca, chicken fat (preserved with mixed tocopherols), deboned chicken, deboned herring, whole eggs, sun-cured alfalfa meal, natural chicken flavor, chicken liver, salmon oil (source of DHA), coconut oil, pumpkin, butternut squash, carrots, spinach, broccoli, apples, pears, blueberries, cranberries, pomegranate, juniper berry extract, ginger, fennel, peppermint leaf, licorice root, turmeric, vitamins [vitamin E supplement, ascorbic acid (vitamin C), vitamin A supplement, niacin, calcium pantothenate, inositol, riboflavin, pyridoxine hydrochloride, thiamine mononitrate, biotin, vitamin B12 supplement, vitamin D3 supplement, folic acid], minerals [zinc oxide, zinc proteinate, iron proteinate, ferrous sulfate, copper proteinate, copper sulfate, manganese proteinate, manganese oxide, calcium iodate, sodium selenite], potassium chloride, choline chloride, lecithin, DL-methionine, salt, chicory root extract, taurine, dried kelp, yeast extract, glucosamine hydrochloride, rosemary extract, yucca schidigera extract, L-lysine, chondroitin sulfate, L-carnitine, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Bifidobacterium bifidum fermentation product, dried Enterococcus faecium fermentation product.",
+        "analysis": [
+            "Crude protein min 40.0%",
+            "Crude fat min 18.0%",
             "Crude fiber max 3.5%",
             "Moisture max 10.0%",
             "Ash max 7.5%",
-            "Calcium min 1.2%",
-            "Phosphorus min 1.0%",
+            "Calcium min 1.1%",
+            "Phosphorus min 0.9%",
             "Magnesium max 0.1%",
-            "Vitamin A min 20,000 IU/kg",
-            "Vitamin D3 min 1,100 IU/kg",
-            "Vitamin E min 110 IU/kg",
+            "Vitamin A min 25,000 IU/kg",
+            "Vitamin D3 min 1,300 IU/kg",
+            "Vitamin E min 130 IU/kg",
             "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min 3.8%",
+            "Omega-6 fatty acids* min 3.5%",
             "Omega-3 fatty acids* min 0.4%",
-            "Docosahexaenoic acid* (DHA) min 0.1%"
+            "Glucosamine* min 800 mg/kg",
+            "Chondroitin sulfate* min 400 mg/kg",
+            "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
-        "calorie": "Calorie Content (calculated): 3,930 kcal/kg or 472 kcal/cup ME"
+        "calorie": "Calorie Content (calculated): 3,955 kcal/kg or 475 kcal/cup ME"
     }
 ]
