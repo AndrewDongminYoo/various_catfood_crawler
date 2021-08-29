@@ -1,38 +1,20 @@
 [
     {
         "brand": "Weruva Catfood",
-        "url": "https://weruva.com/product/paw-lickin-chicken-6/",
-        "title": "Paw Lickin’ Chicken - Weruva | Because We Luvya",
-        "descriptions": "Give me an order of chicken breast, hold the veggies, hold the grains. In fact, hold everything. And while you’re at it, make it free of added antibiotics, free of added hormones, and cage free.",
-        "ingredients": "Chicken (Boneless, Skinless Breast), Chicken Broth, Potato Starch, Sunflower Seed Oil, Calcium Lactate, Xanthan Gum, Tricalcium Phosphate, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Ferrous Sulfate, Nicotinic Acid (Vitamin B3), Thiamine Mononitrate (Vitamin B1), Calcium Pantothenate, Copper Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Vitamin A Supplement, Manganese Sulfate, Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Sodium Selenite, Biotin, Vitamin B12 Supplement",
+        "url": "https://weruva.com/product/asian-fusion-3/",
+        "title": "Asian Fusion - Weruva | Because We Luvya",
+        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Asian Fusion by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. A terrific Pacific treat made with red meat tuna and shirasu. Shirasu are baby anchovies. Translated as \"white child\" or \"white small\" perhaps the smallest fish available on the market, shirasu have become a traditional part of the Japanese diet. Like many people throughout the world eat cheese with their wine, many Japanese consume shirasu with their sake.",
+        "ingredients": "Tuna Red Meat, Water Sufficient For Processing, Shirasu, Sunflower Seed Oil, Calcium Lactate, Locust Bean Gum, Guar Gum, Tricalcium Phosphate, Potassium Chloride, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid, Thiamine Mononitrate (Vitamin B1), Calcium Pantothenate, Vitamin A Supplement, Manganese Sulfate, Ferrous Sulfate, Copper Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Menadione Sodium Bisulfite (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
         "analysis": [
-            "Crude Protein (min) 10%",
-            "Crude Fat (min) 1.4%",
+            "Crude Protein (min) 12%",
+            "Crude Fat (min) 1.6%",
             "Crude Fiber (max) 0.5%",
-            "Moisture (max) 85%",
+            "Moisture (max) 83%",
             "Taurine (min) 0.05%"
         ],
         "calorie": [
-            "3.0 oz 57 kcal",
-            "KG 673 kcal"
-        ]
-    },
-    {
-        "brand": "Weruva Catfood",
-        "url": "https://weruva.com/product/grandmas-chicken-soup-5/",
-        "title": "Grandma’s Chicken Soup - Weruva | Because We Luvya",
-        "descriptions": "Just like Grandma used to make. Home cooked boneless, skinless white breast chicken with good ol' veggies in soup, yummy! Made with chicken breast free of added hormones and also cage free.",
-        "ingredients": "Chicken Broth, Chicken (Boneless, Skinless Breast), Pumpkin, Carrot, Pea, Tapioca Starch, Sunflower Seed Oil, Calcium Lactate, Xanthan Gum, Tricalcium Phosphate, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Ferrous Sulfate, Nicotinic Acid (Vitamin B3), Calcium Pantothenate, Thiamine Mononitrate (Vitamin B1), Copper Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Vitamin A Supplement, Manganese Sulfate, Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Sodium Selenite, Biotin, Vitamin B12 Supplement",
-        "analysis": [
-            "Crude Protein (min) 8%",
-            "Crude Fat (min) 1.2%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 87.5%",
-            "Taurine (min) 0.05%"
-        ],
-        "calorie": [
-            "3.0 oz 58 kcal",
-            "KG 683 kcal"
+            "3.0 oz 65 kcal",
+            "KG 770 kcal"
         ]
     },
     {
@@ -55,20 +37,20 @@
     },
     {
         "brand": "Weruva Catfood",
-        "url": "https://weruva.com/product/nine-liver-3/",
-        "title": "Nine Liver - Weruva | Because We Luvya",
-        "descriptions": "Your cat will enjoy every bite of this boneless, skinless, white breast chicken, with chunks of chicken liver in a delicious gravy. Enough to entice every palate...and who knows, your cat might just gain eight more lives! Did we mention the chicken is cage free and free of added antibiotics and hormones?",
-        "ingredients": "Chicken (Boneless, Skinless Breast), Chicken Broth, Chicken Liver, Potato Starch, Sunflower Seed Oil, Calcium Lactate, Xanthan Gum, Tricalcium Phosphate, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid (Vitamin B3), T hiamine Mononitrate (Vitamin B1), Ferrous Sulfate, Copper Sulfate, Manganese Sulfate, Calcium Pantothenate, Vitamin A Supplement, Vitamin D3 Supplement, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Potassium Iodide, Sodium Selenite, Biotin, Vitamin B12 Supplement",
+        "url": "https://weruva.com/product/grandmas-chicken-soup-5/",
+        "title": "Grandma’s Chicken Soup - Weruva | Because We Luvya",
+        "descriptions": "Just like Grandma used to make. Home cooked boneless, skinless white breast chicken with good ol' veggies in soup, yummy! Made with chicken breast free of added hormones and also cage free.",
+        "ingredients": "Chicken Broth, Chicken (Boneless, Skinless Breast), Pumpkin, Carrot, Pea, Tapioca Starch, Sunflower Seed Oil, Calcium Lactate, Xanthan Gum, Tricalcium Phosphate, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Ferrous Sulfate, Nicotinic Acid (Vitamin B3), Calcium Pantothenate, Thiamine Mononitrate (Vitamin B1), Copper Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Vitamin A Supplement, Manganese Sulfate, Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Sodium Selenite, Biotin, Vitamin B12 Supplement",
         "analysis": [
-            "Crude Protein (min) 10%",
-            "Crude Fat (min) 1.4%",
+            "Crude Protein (min) 8%",
+            "Crude Fat (min) 1.2%",
             "Crude Fiber (max) 0.5%",
-            "Moisture (max) 85%",
+            "Moisture (max) 87.5%",
             "Taurine (min) 0.05%"
         ],
         "calorie": [
-            "3.0 oz 59 kcal",
-            "KG 698 kcal"
+            "3.0 oz 58 kcal",
+            "KG 683 kcal"
         ]
     },
     {
@@ -91,27 +73,9 @@
     },
     {
         "brand": "Weruva Catfood",
-        "url": "https://weruva.com/product/mideast-feast-4/",
-        "title": "Mideast Feast - Weruva | Because We Luvya",
-        "descriptions": ""And I think to myself, what a 'wonderful' fish." Tilapia nilotica, "fish of the Nile," plays a fascinating historical role. Evidence, in the form of hieroglyphic paintings and carvings suggest that not only was tilapia harvested by ancient Egyptians, tilapia was the food of many Pharaohs. Because biblical tradition holds that tilapia was the fish Jesus multiplied and fed to the masses, some have come to know tilapia as "St. Peter's Fish" or "Wonder Fish.\"",
-        "ingredients": "Tuna, Water Sufficient For Processing, Tilapia, Potato Starch, Sunflower Seed Oil, Calcium Lactate, Xanthan Gum, Tricalcium Phosphate, Choline Chloride, Taurine, Vitamin E Supplement, Zinc Sulfate, Thiamine Mononitrate (Vitamin B1), Nicotinic Acid (Vitamin B3), Calcium Pantothenate, Vitamin A Supplement, Manganese Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Copper Sulfate, Ferrous Sulfate, Folic Acid, Potassium Iodide, Vitamin D3 Supplement, Menadione Sodium Bisulfite Complex (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
-        "analysis": [
-            "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.5%",
-            "Crude Fiber (max) 1%",
-            "Moisture (max) 84%",
-            "Taurine (min) 0.05%"
-        ],
-        "calorie": [
-            "3.0 oz 63 kcal",
-            "KG 746 kcal"
-        ]
-    },
-    {
-        "brand": "Weruva Catfood",
         "url": "https://weruva.com/product/mack-and-jack-4/",
         "title": "Mack and Jack - Weruva | Because We Luvya",
-        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Mack & Jack by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the "aspic" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Mack & Jack, you Omega-3 maniac! Made with mackerel and skipjack tuna. With the United States consuming nearly a third of the world's catch, simply put, skipjack is the most popularly consumed tuna in the world, surpassing albacore nearly eight times over.",
+        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Mack & Jack by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Mack & Jack, you Omega-3 maniac! Made with mackerel and skipjack tuna. With the United States consuming nearly a third of the world's catch, simply put, skipjack is the most popularly consumed tuna in the world, surpassing albacore nearly eight times over.",
         "ingredients": "Water Sufficient For Processing, Tuna Red Meat, Mackerel, Skipjack, Sunflower Seed Oil, Locust Bean Gum, Calcium Lactate, Guar Gum, Tricalcium Phosphate, Potassium Chloride, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid (Vitamin B3), Thiamine Mononitrate (Vitamin B1), Vitamin A Supplement, Calcium Pantothenate, Manganese Sulfate, Ferrous Sulfate, Copper Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Menadione Sodium Bisulfite (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
         "analysis": [
             "Crude Protein (min) 12%",
@@ -127,38 +91,20 @@
     },
     {
         "brand": "Weruva Catfood",
-        "url": "https://weruva.com/product/polynesian-bbq-4/",
-        "title": "Polynesian BBQ - Weruva | Because We Luvya",
-        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Polynesian BBQ by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the "aspic" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Red Bigeye is the unique ingredient here, sitting atop sardine cutlets and whole meat tuna. Fit for their carnivorous and nocturnal lifestyles, as you could guess, "bigeye" refers to this fish's unusually large eyes. Native to the tropical and subtropical regions of Pacific and Indian Oceans, Bigeyes tend to live near rock outcroppings or reefs.",
-        "ingredients": "Water Sufficient For Processing, Sardine, Tuna, Red Bigeye, Sunflower Seed Oil, Locust Bean Gum, Guar Gum, Potassium Chloride, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid, Thiamine Mononitrate (Vitamin B1), Vitamin A Supplement, Calcium Pantothenate, Riboflavin Supplement (Vitamin B2), Manganese Sulfate, Pyridoxine Hydrochloride (Vitamin B6), Copper Sulfate, Folic Acid, Potassium Iodide, Vitamin D3 Supplement, Menadione Sodium Bisulfite (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
-        "analysis": [
-            "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.7%",
-            "Crude Fiber (max) 1%",
-            "Moisture (max) 82%",
-            "Taurine (min) 0.05%"
-        ],
-        "calorie": [
-            "3.0 oz 61 kcal",
-            "KG 723 kcal"
-        ]
-    },
-    {
-        "brand": "Weruva Catfood",
-        "url": "https://weruva.com/product/asian-fusion-3/",
-        "title": "Asian Fusion - Weruva | Because We Luvya",
-        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Asian Fusion by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the "aspic" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. A terrific Pacific treat made with red meat tuna and shirasu. Shirasu are baby anchovies. Translated as "white child" or "white small" perhaps the smallest fish available on the market, shirasu have become a traditional part of the Japanese diet. Like many people throughout the world eat cheese with their wine, many Japanese consume shirasu with their sake.",
-        "ingredients": "Tuna Red Meat, Water Sufficient For Processing, Shirasu, Sunflower Seed Oil, Calcium Lactate, Locust Bean Gum, Guar Gum, Tricalcium Phosphate, Potassium Chloride, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid, Thiamine Mononitrate (Vitamin B1), Calcium Pantothenate, Vitamin A Supplement, Manganese Sulfate, Ferrous Sulfate, Copper Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Menadione Sodium Bisulfite (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
+        "url": "https://weruva.com/product/marbella-paella-5/",
+        "title": "Marbella Paella - Weruva | Because We Luvya",
+        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Marbella Paella by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. If you can't bring your cat to Spain, bring Spain to your cat! Rich in Omega-3s, let kitty enjoy a paella mix of mackerel flakes, whole calamari, baby shrimp and mussels. Everything but the kitchen sink. Fabulosa!",
+        "ingredients": "Mackerel, Water Sufficient For Processing, Shrimp, Squid, Mussel, Sunflower Seed Oil, Locust Bean Gum, Guar Gum, Potassium Chloride, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid, Thiamine Mononitrate (Vitamin B1), Calcium Pantothenate, Vitamin A Supplement, Manganese Sulfate, Riboflavin Supplement (Vitamin B2), Ferrous Sulfate, Canthaxanthin, Pyridoxine Hydrochloride (Vitamin B6), Copper Sulfate, Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Menadione Sodium Bisulfite (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
         "analysis": [
             "Crude Protein (min) 12%",
             "Crude Fat (min) 1.6%",
             "Crude Fiber (max) 0.5%",
-            "Moisture (max) 83%",
+            "Moisture (max) 86%",
             "Taurine (min) 0.05%"
         ],
         "calorie": [
-            "3.0 oz 65 kcal",
-            "KG 770 kcal"
+            "3.0 oz 61 kcal",
+            "KG 718 kcal"
         ]
     },
     {
@@ -181,27 +127,45 @@
     },
     {
         "brand": "Weruva Catfood",
-        "url": "https://weruva.com/product/marbella-paella-5/",
-        "title": "Marbella Paella - Weruva | Because We Luvya",
-        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Marbella Paella by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the "aspic" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. If you can't bring your cat to Spain, bring Spain to your cat! Rich in Omega-3s, let kitty enjoy a paella mix of mackerel flakes, whole calamari, baby shrimp and mussels. Everything but the kitchen sink. Fabulosa!",
-        "ingredients": "Mackerel, Water Sufficient For Processing, Shrimp, Squid, Mussel, Sunflower Seed Oil, Locust Bean Gum, Guar Gum, Potassium Chloride, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid, Thiamine Mononitrate (Vitamin B1), Calcium Pantothenate, Vitamin A Supplement, Manganese Sulfate, Riboflavin Supplement (Vitamin B2), Ferrous Sulfate, Canthaxanthin, Pyridoxine Hydrochloride (Vitamin B6), Copper Sulfate, Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Menadione Sodium Bisulfite (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
+        "url": "https://weruva.com/product/mideast-feast-4/",
+        "title": "Mideast Feast - Weruva | Because We Luvya",
+        "descriptions": "And I think to myself, what a 'wonderful' fish.\" Tilapia nilotica, \"fish of the Nile,\" plays a fascinating historical role. Evidence, in the form of hieroglyphic paintings and carvings suggest that not only was tilapia harvested by ancient Egyptians, tilapia was the food of many Pharaohs. Because biblical tradition holds that tilapia was the fish Jesus multiplied and fed to the masses, some have come to know tilapia as \"St. Peter's Fish\" or \"Wonder Fish.\"",
+        "ingredients": "Tuna, Water Sufficient For Processing, Tilapia, Potato Starch, Sunflower Seed Oil, Calcium Lactate, Xanthan Gum, Tricalcium Phosphate, Choline Chloride, Taurine, Vitamin E Supplement, Zinc Sulfate, Thiamine Mononitrate (Vitamin B1), Nicotinic Acid (Vitamin B3), Calcium Pantothenate, Vitamin A Supplement, Manganese Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Copper Sulfate, Ferrous Sulfate, Folic Acid, Potassium Iodide, Vitamin D3 Supplement, Menadione Sodium Bisulfite Complex (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
         "analysis": [
             "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.6%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 86%",
+            "Crude Fat (min) 1.5%",
+            "Crude Fiber (max) 1%",
+            "Moisture (max) 84%",
             "Taurine (min) 0.05%"
         ],
         "calorie": [
-            "3.0 oz 61 kcal",
-            "KG 718 kcal"
+            "3.0 oz 63 kcal",
+            "KG 746 kcal"
+        ]
+    },
+    {
+        "brand": "Weruva Catfood",
+        "url": "https://weruva.com/product/nine-liver-3/",
+        "title": "Nine Liver - Weruva | Because We Luvya",
+        "descriptions": "Your cat will enjoy every bite of this boneless, skinless, white breast chicken, with chunks of chicken liver in a delicious gravy. Enough to entice every palate...and who knows, your cat might just gain eight more lives! Did we mention the chicken is cage free and free of added antibiotics and hormones?",
+        "ingredients": "Chicken (Boneless, Skinless Breast), Chicken Broth, Chicken Liver, Potato Starch, Sunflower Seed Oil, Calcium Lactate, Xanthan Gum, Tricalcium Phosphate, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid (Vitamin B3), T hiamine Mononitrate (Vitamin B1), Ferrous Sulfate, Copper Sulfate, Manganese Sulfate, Calcium Pantothenate, Vitamin A Supplement, Vitamin D3 Supplement, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Potassium Iodide, Sodium Selenite, Biotin, Vitamin B12 Supplement",
+        "analysis": [
+            "Crude Protein (min) 10%",
+            "Crude Fat (min) 1.4%",
+            "Crude Fiber (max) 0.5%",
+            "Moisture (max) 85%",
+            "Taurine (min) 0.05%"
+        ],
+        "calorie": [
+            "3.0 oz 59 kcal",
+            "KG 698 kcal"
         ]
     },
     {
         "brand": "Weruva Catfood",
         "url": "https://weruva.com/product/outback-grill-3/",
         "title": "Outback Grill - Weruva | Because We Luvya",
-        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Outback Grill by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the "aspic" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Howdy, mate! Get your taste of Australian seafood here. Made with exotic Australian seafood including barramundi, an Australian sea bass and trevally, a reef dweller. Like a boomerang, your cat will keep coming back for more.",
+        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Outback Grill by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Howdy, mate! Get your taste of Australian seafood here. Made with exotic Australian seafood including barramundi, an Australian sea bass and trevally, a reef dweller. Like a boomerang, your cat will keep coming back for more.",
         "ingredients": "Sardine, Water Sufficient For Processing, Trevally, Barramundi, Sunflower Seed Oil, Locust Bean Gum, Guar Gum, Choline Chloride, Potassium Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement,Nicotinic Acid (Vitamin B3),Thiamine Mononitrate (Vitamin B1), Calcium Pantothenate, Riboflavin Supplement (Vitamin B2), Ferrous Sulfate, Pyridoxine Hydrochloride (Vitamin B6), Vitamin A Supplement, Copper Sulfate, Folic Acid, Potassium Iodide, Menadione Sodium Bisulfite (Source of Vitamin K), Biotin, Sodium Selenite, Vitamin B12 Supplement",
         "analysis": [
             "Crude Protein (min) 10%",
@@ -213,6 +177,42 @@
         "calorie": [
             "3.0 oz 56 kcal",
             "KG 663 kcal"
+        ]
+    },
+    {
+        "brand": "Weruva Catfood",
+        "url": "https://weruva.com/product/paw-lickin-chicken-6/",
+        "title": "Paw Lickin’ Chicken - Weruva | Because We Luvya",
+        "descriptions": "Give me an order of chicken breast, hold the veggies, hold the grains. In fact, hold everything. And while you’re at it, make it free of added antibiotics, free of added hormones, and cage free.",
+        "ingredients": "Chicken (Boneless, Skinless Breast), Chicken Broth, Potato Starch, Sunflower Seed Oil, Calcium Lactate, Xanthan Gum, Tricalcium Phosphate, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Ferrous Sulfate, Nicotinic Acid (Vitamin B3), Thiamine Mononitrate (Vitamin B1), Calcium Pantothenate, Copper Sulfate, Riboflavin Supplement (Vitamin B2), Pyridoxine Hydrochloride (Vitamin B6), Vitamin A Supplement, Manganese Sulfate, Vitamin D3 Supplement, Folic Acid, Potassium Iodide, Sodium Selenite, Biotin, Vitamin B12 Supplement",
+        "analysis": [
+            "Crude Protein (min) 10%",
+            "Crude Fat (min) 1.4%",
+            "Crude Fiber (max) 0.5%",
+            "Moisture (max) 85%",
+            "Taurine (min) 0.05%"
+        ],
+        "calorie": [
+            "3.0 oz 57 kcal",
+            "KG 673 kcal"
+        ]
+    },
+    {
+        "brand": "Weruva Catfood",
+        "url": "https://weruva.com/product/polynesian-bbq-4/",
+        "title": "Polynesian BBQ - Weruva | Because We Luvya",
+        "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Polynesian BBQ by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Red Bigeye is the unique ingredient here, sitting atop sardine cutlets and whole meat tuna. Fit for their carnivorous and nocturnal lifestyles, as you could guess, \"bigeye\" refers to this fish's unusually large eyes. Native to the tropical and subtropical regions of Pacific and Indian Oceans, Bigeyes tend to live near rock outcroppings or reefs.",
+        "ingredients": "Water Sufficient For Processing, Sardine, Tuna, Red Bigeye, Sunflower Seed Oil, Locust Bean Gum, Guar Gum, Potassium Chloride, Choline Chloride, Taurine, Zinc Sulfate, Vitamin E Supplement, Nicotinic Acid, Thiamine Mononitrate (Vitamin B1), Vitamin A Supplement, Calcium Pantothenate, Riboflavin Supplement (Vitamin B2), Manganese Sulfate, Pyridoxine Hydrochloride (Vitamin B6), Copper Sulfate, Folic Acid, Potassium Iodide, Vitamin D3 Supplement, Menadione Sodium Bisulfite (Source of Vitamin K), Biotin, Vitamin B12 Supplement",
+        "analysis": [
+            "Crude Protein (min) 12%",
+            "Crude Fat (min) 1.7%",
+            "Crude Fiber (max) 1%",
+            "Moisture (max) 82%",
+            "Taurine (min) 0.05%"
+        ],
+        "calorie": [
+            "3.0 oz 61 kcal",
+            "KG 723 kcal"
         ]
     }
 ]

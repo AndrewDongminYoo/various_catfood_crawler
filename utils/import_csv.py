@@ -154,5 +154,12 @@ result["ZiwiPeak"] = ['https://www.ziwipets.com/cat-food/air-dried/beef-recipe',
 
 if __name__ == "__main__":
     count = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 23, 24, 33, 42, 43]
+    new_dict = {}
     for key, value in result.items():
-        print(key, len(value))
+        length = len(value)
+        if length not in new_dict.keys():
+            new_dict[length] = [key]
+        else:
+            new_dict[length].append(key)
+    for count, brand in sorted(new_dict.items(), reverse=True):
+        print(count, brand)

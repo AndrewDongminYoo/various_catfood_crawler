@@ -1,38 +1,43 @@
 [
     {
         "brand": "TROVET",
-        "url": "https://www.trovet.com/product/urinary-struvite-cat/",
-        "title": "Urinary Struvite cat - TROVET",
-        "descriptions": "Struvite is a common but well treatable condition. Urinary Struvite is dietary food, specially formulated to prevent the formation of struvite crystals and helps dissolving excisting crystals. Urinary Struvite lowers the urine pH. In combination with the lowered mineral content (magnesium), the reoccurrence is further reduced.",
+        "url": "https://www.trovet.com/en/product/renal-venison-cat/",
+        "title": "Renal (Venison) cat - TROVET",
+        "descriptions": [
+            "Complete, hypoallergenic dietary food for adult cats with insufficient kidney function",
+            "Renal (Venison) is specially formulated for adult cats with insufficient kidney function. The product is based on one animal protein source (venison) and one carbohydrate source (rice) and is therefore also suited for adult cats with food hypersensitivity."
+        ],
         "key_benefits": [
-            "The low potassium level will help to keep the urinal pH low.",
-            "Magnesium is at a safe low level, ensuring that long term preventive use causes no risk of hypomagnesaemia.",
-            "Limits the uptake of minerals that lead to the formation of struvite."
+            "Assists the kidneys in regulating the water and electrolyte balance in the body and the removal of unusable metabolites.",
+            "High biological value of the protein results in a low amount of residual amino acids.",
+            "Omega 3 fatty acids (EPA and DHA) help to reduce the severity of inflammations in the kidneys.",
+            "Hypoallergenic dietary food based on one animal protein (venison) and one carbohydrate source (rice).",
+            "Prevents immunological reactions (food allergy) or non-immunological reactions (food intolerance) in the form of skin problems and/or digestive problems (diarrhoea, vomiting)."
         ],
-        "ingredients": "rice, poultry meal, poultry fat, corn gluten, fish meal, corn, poultry liver (hydrolysate), yeast, sodium chloride, ammonium chloride, fish oil, lecithin, vitamins and trace elements, choline chloride.",
+        "ingredients": "rice, rice protein, poultry fat, venison meal, fish oil, beet pulp, cellulose, potassium chloride, vitamins and minerals, poultry liver (hydrolysate), calcium carbonate, sodium chloride.",
         "analysis": [
-            "Protein 32.0 % Fat content 23.0 % Inorganic matter 6.8 % Crude fibre 1.5 % Moisture 8.0 % Carbohydrates 28.7 %",
-            "Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg",
-            "Calcium (Ca) 1.00 % Phosphorous (P) 1.00 % Sodium (Na) 0.60 % Potassium (K) 0.56 % Chloride (Cl) 1.80 % Magnesium (Mg) 0.07 % Sulphur (S) 0.32 %",
-            "Taurine 1800 mg/kg Ammonium chloride 1.14 %"
+            "Protein 28.0 % Fat content 19.0 % Inorganic matter 6.2 % Crude fibre 2.0 % Moisture 7.5 % Carbohydrates 37.3 %",
+            "Vitamin A 15000 IU/kg Vitamin D3 300 IU/kg Vitamin E 150 mg/kg",
+            "Calcium (Ca) 0.90 % Phosphorous (P) 0.50 % Sodium (Na) 0.25 % Potassium (K) 0.80 %",
+            "Manganese (Mn) 5.7 mg/kg Linoleic acid 3.30 % EPA 0.40 % DHA 0.35 % Taurine 2700 mg/kg"
         ],
-        "calorie": "Ingredients (Dry) rice, poultry meal, poultry fat, corn gluten, fish meal, corn, poultry liver (hydrolysate), yeast, sodium chloride, ammonium chloride, fish oil, lecithin, vitamins and trace elements, choline chloride. Average analysis (per kg) Protein 32.0 % Fat content 23.0 % Inorganic matter 6.8 % Crude fibre 1.5 % Moisture 8.0 % Carbohydrates 28.7 % Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg Calcium (Ca) 1.00 % Phosphorous (P) 1.00 % Sodium (Na) 0.60 % Potassium (K) 0.56 % Chloride (Cl) 1.80 % Magnesium (Mg) 0.07 % Sulphur (S) 0.32 % Taurine 1800 mg/kg Ammonium chloride 1.14 % Energy: 17.1MJ/kg - 4083 kcal/kg Feeding advice (grams per day) Body weight (kg) 2 3 4 5 6 Min (grams) 30 40 45 55 60 Max (grams) 35 50 55 65 75"
+        "calorie": "Energy: 16.3MJ/kg - 3903 kcal/kg"
     },
     {
         "brand": "TROVET",
         "url": "https://www.trovet.com/en/product/urinary-calm-cat/",
         "title": "Urinary Calm cat - TROVET",
-      "descriptions": [
-        "Complete dietary food for adult cats to reduce urolithiasis and to promote calmness",
-        "Urinary Calm is specially formulated for adult cats to prevent (reoccurring) struvite and calcium oxalate formation and to reduce stress. To help reduce stress and the risk of Feline Idiopathic Cystitis (FIC), three ingredients are added to TROVET Urinary Calm: green tea extract, milk protein hydrolysate and tryptophan.",
-        "Urine volume has the greatest effect on the formation of all bladder and kidney crystals, in which a large urine volume reduces the chance of crystal formation. The sodium level is slightly increased to promote water intake and increase urine volume."
-      ],
-      "key_benefits": [
-        "Has a urine diluting effect, which helps to reduce the chance of developing FIC and the chance of urolith formation.",
-        "Magnesium is at a safe low level, ensuring that long term preventive use causes no risk of hypomagnesaemia.",
-        "Limits the uptake of minerals that lead to the formation of struvite."
-      ],
-      "ingredients": "corn, egg, fish meal, poultry fat, yeast, poultry meal, cellulose, vitamins and trace elements, antarctic krill, sodium chloride, psyllium fibre, beet pulp, poultry liver (hydrolysate), milk protein (hydrolysate), fish oil, yeast extract hydrolysate (source of manno-oligosaccharides (MOS)), fructo-oligosaccharides (FOS), glucosamine, chondroitin sulphate, green tea extract.",
+        "descriptions": [
+            "Complete dietary food for adult cats to reduce urolithiasis and to promote calmness",
+            "Urinary Calm is specially formulated for adult cats to prevent (reoccurring) struvite and calcium oxalate formation and to reduce stress. To help reduce stress and the risk of Feline Idiopathic Cystitis (FIC), three ingredients are added to TROVET Urinary Calm: green tea extract, milk protein hydrolysate and tryptophan.",
+            "Urine volume has the greatest effect on the formation of all bladder and kidney crystals, in which a large urine volume reduces the chance of crystal formation. The sodium level is slightly increased to promote water intake and increase urine volume."
+        ],
+        "key_benefits": [
+            "Has a urine diluting effect, which helps to reduce the chance of developing FIC and the chance of urolith formation.",
+            "Magnesium is at a safe low level, ensuring that long term preventive use causes no risk of hypomagnesaemia.",
+            "Limits the uptake of minerals that lead to the formation of struvite."
+        ],
+        "ingredients": "corn, egg, fish meal, poultry fat, yeast, poultry meal, cellulose, vitamins and trace elements, antarctic krill, sodium chloride, psyllium fibre, beet pulp, poultry liver (hydrolysate), milk protein (hydrolysate), fish oil, yeast extract hydrolysate (source of manno-oligosaccharides (MOS)), fructo-oligosaccharides (FOS), glucosamine, chondroitin sulphate, green tea extract.",
         "analysis": [
             "Protein 34.0 % Fat content 13.5 % Inorganic matter 6.6 % Crude fibre 5.5 % Moisture 8.0 % Carbohydrates 32.4 %",
             "Vitamin A 22500 IU/kg Vitamin D3 1700 IU/kg Vitamin E 185 mg/kg",
@@ -83,12 +88,12 @@
         "brand": "TROVET",
         "url": "https://www.trovet.com/product/renal-oxalate-cat/",
         "title": "Renal & Oxalate cat - TROVET",
-      "descriptions": [
-        "Renal & Oxalate is specially formulated to meet the requirements of cats with chronic renal failure. The diet is limited in protein and phosphorous, which prevents the accumulation of waste, reduces the stress on the kidneys and ultimately slows down the progression of renal failure. The proteins used are of high quality, in order to meet the amino acids requirements, without leading to excess waste products. Renal & Oxalate’s energy density reduces food volume, to help animals with a loss of appetite to meet their daily energy requirement.",
-        "Renal & Oxalate dietary food is also designed to reduce the formation of calcium oxalate. The use of potassium citrate has a urine pH-increasing effect, which reduces the excretion of calcium in urine. In addition, citrate is able to bind calcium, which can reduce the occurrence of calcium oxalate formation in urine."
-      ],
-      "key_benefits": [
-        "Assists the kidneys in regulating the water and electrolyte balance in the body and the removal of unusable metabolites.",
+        "descriptions": [
+            "Renal & Oxalate is specially formulated to meet the requirements of cats with chronic renal failure. The diet is limited in protein and phosphorous, which prevents the accumulation of waste, reduces the stress on the kidneys and ultimately slows down the progression of renal failure. The proteins used are of high quality, in order to meet the amino acids requirements, without leading to excess waste products. Renal & Oxalate’s energy density reduces food volume, to help animals with a loss of appetite to meet their daily energy requirement.",
+            "Renal & Oxalate dietary food is also designed to reduce the formation of calcium oxalate. The use of potassium citrate has a urine pH-increasing effect, which reduces the excretion of calcium in urine. In addition, citrate is able to bind calcium, which can reduce the occurrence of calcium oxalate formation in urine."
+        ],
+        "key_benefits": [
+            "Assists the kidneys in regulating the water and electrolyte balance in the body and the removal of unusable metabolites.",
             "High biological value of the protein results in a small amount of residual amino acids."
         ],
         "ingredients": "corn gluten, corn, poultry fat, beet pulp, rice, poultry liver (hydrolysate), egg, yeast, vitamins and minerals, fish oil, lecithin, sodium chloride, choline chloride, potassium citrate.",
@@ -102,44 +107,39 @@
     },
     {
         "brand": "TROVET",
-        "url": "https://www.trovet.com/en/product/renal-venison-cat/",
-        "title": "Renal (Venison) cat - TROVET",
-        "descriptions": [
-            "Complete, hypoallergenic dietary food for adult cats with insufficient kidney function",
-            "Renal (Venison) is specially formulated for adult cats with insufficient kidney function. The product is based on one animal protein source (venison) and one carbohydrate source (rice) and is therefore also suited for adult cats with food hypersensitivity."
-        ],
+        "url": "https://www.trovet.com/product/urinary-struvite-cat/",
+        "title": "Urinary Struvite cat - TROVET",
+        "descriptions": "Struvite is a common but well treatable condition. Urinary Struvite is dietary food, specially formulated to prevent the formation of struvite crystals and helps dissolving excisting crystals. Urinary Struvite lowers the urine pH. In combination with the lowered mineral content (magnesium), the reoccurrence is further reduced.",
         "key_benefits": [
-          "Assists the kidneys in regulating the water and electrolyte balance in the body and the removal of unusable metabolites.",
-          "High biological value of the protein results in a low amount of residual amino acids.",
-          "Omega 3 fatty acids (EPA and DHA) help to reduce the severity of inflammations in the kidneys.",
-          "Hypoallergenic dietary food based on one animal protein (venison) and one carbohydrate source (rice).",
-          "Prevents immunological reactions (food allergy) or non-immunological reactions (food intolerance) in the form of skin problems and/or digestive problems (diarrhoea, vomiting)."
+            "The low potassium level will help to keep the urinal pH low.",
+            "Magnesium is at a safe low level, ensuring that long term preventive use causes no risk of hypomagnesaemia.",
+            "Limits the uptake of minerals that lead to the formation of struvite."
         ],
-      "ingredients": "rice, rice protein, poultry fat, venison meal, fish oil, beet pulp, cellulose, potassium chloride, vitamins and minerals, poultry liver (hydrolysate), calcium carbonate, sodium chloride.",
+        "ingredients": "rice, poultry meal, poultry fat, corn gluten, fish meal, corn, poultry liver (hydrolysate), yeast, sodium chloride, ammonium chloride, fish oil, lecithin, vitamins and trace elements, choline chloride.",
         "analysis": [
-            "Protein 28.0 % Fat content 19.0 % Inorganic matter 6.2 % Crude fibre 2.0 % Moisture 7.5 % Carbohydrates 37.3 %",
-            "Vitamin A 15000 IU/kg Vitamin D3 300 IU/kg Vitamin E 150 mg/kg",
-            "Calcium (Ca) 0.90 % Phosphorous (P) 0.50 % Sodium (Na) 0.25 % Potassium (K) 0.80 %",
-            "Manganese (Mn) 5.7 mg/kg Linoleic acid 3.30 % EPA 0.40 % DHA 0.35 % Taurine 2700 mg/kg"
+            "Protein 32.0 % Fat content 23.0 % Inorganic matter 6.8 % Crude fibre 1.5 % Moisture 8.0 % Carbohydrates 28.7 %",
+            "Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg",
+            "Calcium (Ca) 1.00 % Phosphorous (P) 1.00 % Sodium (Na) 0.60 % Potassium (K) 0.56 % Chloride (Cl) 1.80 % Magnesium (Mg) 0.07 % Sulphur (S) 0.32 %",
+            "Taurine 1800 mg/kg Ammonium chloride 1.14 %"
         ],
-        "calorie": "Energy: 16.3MJ/kg - 3903 kcal/kg"
+        "calorie": "Ingredients (Dry) rice, poultry meal, poultry fat, corn gluten, fish meal, corn, poultry liver (hydrolysate), yeast, sodium chloride, ammonium chloride, fish oil, lecithin, vitamins and trace elements, choline chloride. Average analysis (per kg) Protein 32.0 % Fat content 23.0 % Inorganic matter 6.8 % Crude fibre 1.5 % Moisture 8.0 % Carbohydrates 28.7 % Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg Calcium (Ca) 1.00 % Phosphorous (P) 1.00 % Sodium (Na) 0.60 % Potassium (K) 0.56 % Chloride (Cl) 1.80 % Magnesium (Mg) 0.07 % Sulphur (S) 0.32 % Taurine 1800 mg/kg Ammonium chloride 1.14 % Energy: 17.1MJ/kg - 4083 kcal/kg Feeding advice (grams per day) Body weight (kg) 2 3 4 5 6 Min (grams) 30 40 45 55 60 Max (grams) 35 50 55 65 75"
     },
     {
         "brand": "TROVET",
         "url": "https://www.trovet.com/product/weight-diabetic-cat/",
         "title": "Weight & Diabetic cat - TROVET",
-      "descriptions": [
-        "Complete dietary food for overweight / diabetic adult cats",
-        "Weight & Diabetic is formulated to help your cat during the weight loss process. It is a complete dietary food with a reduced fat and energy content. The increased fibre content ensures satiety after a meal. The protein content is increased to prevent muscle wasting during weight loss and the vitamin and mineral levels in the diet have been adjusted to still be sufficient when a smaller amount of food is given.",
-        "This diet can be given during the weight loss process of your cat, when your pet has permanent lower energy requirements, also after the weight loss period. This allows your cat to reach and maintain his or her ideal weight more easily. Weight & Diabetic can also be used in (non-chronic) constipation due to the different types of fibre that are present in this food. Due to the increased fibre content and the use of slow-release carbohydrates, this diet is also suitable for animals that have difficulty maintaining a stable blood sugar level."
-      ],
-      "key_benefits": [
-        "Is low in energy and contains little fat but sufficient essential fatty acids.",
-        "Slowly digestible carbohydrates ensure a gradual rise of blood glucose.",
-        "Promotes activity of the colon (activates peristaltic movement and prevents constipation).",
-        "Insoluble fibres retain water and ensure well formed, firm faeces."
-      ],
-      "ingredients": "poultry meal, corn, rice, corn gluten, poultry liver (hydrolysate), fish meal, cellulose, egg, yeast, vitamins and minerals, fish oil, sodium chloride.",
+        "descriptions": [
+            "Complete dietary food for overweight / diabetic adult cats",
+            "Weight & Diabetic is formulated to help your cat during the weight loss process. It is a complete dietary food with a reduced fat and energy content. The increased fibre content ensures satiety after a meal. The protein content is increased to prevent muscle wasting during weight loss and the vitamin and mineral levels in the diet have been adjusted to still be sufficient when a smaller amount of food is given.",
+            "This diet can be given during the weight loss process of your cat, when your pet has permanent lower energy requirements, also after the weight loss period. This allows your cat to reach and maintain his or her ideal weight more easily. Weight & Diabetic can also be used in (non-chronic) constipation due to the different types of fibre that are present in this food. Due to the increased fibre content and the use of slow-release carbohydrates, this diet is also suitable for animals that have difficulty maintaining a stable blood sugar level."
+        ],
+        "key_benefits": [
+            "Is low in energy and contains little fat but sufficient essential fatty acids.",
+            "Slowly digestible carbohydrates ensure a gradual rise of blood glucose.",
+            "Promotes activity of the colon (activates peristaltic movement and prevents constipation).",
+            "Insoluble fibres retain water and ensure well formed, firm faeces."
+        ],
+        "ingredients": "poultry meal, corn, rice, corn gluten, poultry liver (hydrolysate), fish meal, cellulose, egg, yeast, vitamins and minerals, fish oil, sodium chloride.",
         "analysis": [
             "Protein 36.0 % Fat content 8.5 % Inorganic matter 7.0 % Crude fibre 4.5 % Moisture 8.0 % Carbohydrates 36.0 %",
             "Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg",

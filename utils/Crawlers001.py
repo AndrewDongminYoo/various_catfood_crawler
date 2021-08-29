@@ -63,17 +63,6 @@ from utils.objective_scraper import WebScrapper
 # )
 # meo_scrapper.save()
 
-# # Doesn't Exist
-# tom_scrapper = WebScrapper("Snappy Tom")
-# tom_scrapper.crawl(
-#     DESC_PATH='',
-#     BENEFIT_PATH='',
-#     INGREDIENTS='',
-#     ANALYSIS='',
-#     CALORIE_CONTENT='',
-# )
-# tom_scrapper.save()
-
 # zwp_scrapper = WebScrapper("ZiwiPeak")
 # ziwi_script = """
 # document.querySelectorAll("#quickset-tabs_air_dried_and_canned_no_ta > div > div.view.view-pdp-2019-page-elements.view-id-pdp_2019_page_elements.resp-tab-content").forEach(e=> e.style='display:block');
