@@ -1,38 +1,8 @@
 [
     {
         "brand": "Gosbi",
-        "url": "https://gosbi.com/en/producto/fresko-kitten-chicken-milk/",
-        "title": "Fresko Kitten Chicken & Milk ENG - Gosbi",
-        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
-    },
-    {
-        "brand": "Gosbi",
-        "url": "https://gosbi.com/en/producto/fresko-cat-turkey-ham-eng/",
-        "title": "Fresko Cat Turkey & Ham ENG - Gosbi",
-        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
-    },
-    {
-        "brand": "Gosbi",
-        "url": "https://gosbi.com/en/producto/fresko-adult-tuna-salmon-papaya-en/",
-        "title": "Fresko Tuna Salmon & Papaya ENG - Gosbi",
-        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
-    },
-    {
-        "brand": "Gosbi",
-        "url": "https://gosbi.com/en/producto/fresko-adult-tuna-and-salmon/",
-        "title": "Fresko Tuna & Salmon ENG - Gosbi",
-        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
-    },
-    {
-        "brand": "Gosbi",
-        "url": "https://gosbi.com/en/producto/fresko-cat-chicken-rabbit-en/",
-        "title": "Fresko Cat Chicken & Rabbit EN - Gosbi",
-        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
-    },
-    {
-        "brand": "Gosbi",
-        "url": "https://gosbi.com/en/producto/fresko-cat-beef-chicken-greens-eng/",
-        "title": "Fresko Cat Beef, Chicken & Greens ENG - Gosbi",
+        "url": "https://gosbi.com/en/producto/freski-sterilized-tuna-schrimp-en/",
+        "title": "Fresko Cat Tuna & Schrimp ENG - Gosbi",
         "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
     },
     {
@@ -49,14 +19,44 @@
     },
     {
         "brand": "Gosbi",
-        "url": "https://gosbi.com/en/producto/freski-sterilized-tuna-schrimp-en/",
-        "title": "Fresko Cat Tuna & Schrimp ENG - Gosbi",
+        "url": "https://gosbi.com/en/producto/fresko-adult-tuna-and-salmon/",
+        "title": "Fresko Tuna & Salmon ENG - Gosbi",
+        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
+    },
+    {
+        "brand": "Gosbi",
+        "url": "https://gosbi.com/en/producto/fresko-adult-tuna-salmon-papaya-en/",
+        "title": "Fresko Tuna Salmon & Papaya ENG - Gosbi",
+        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
+    },
+    {
+        "brand": "Gosbi",
+        "url": "https://gosbi.com/en/producto/fresko-cat-beef-chicken-greens-eng/",
+        "title": "Fresko Cat Beef, Chicken & Greens ENG - Gosbi",
+        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
+    },
+    {
+        "brand": "Gosbi",
+        "url": "https://gosbi.com/en/producto/fresko-cat-chicken-rabbit-en/",
+        "title": "Fresko Cat Chicken & Rabbit EN - Gosbi",
         "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
     },
     {
         "brand": "Gosbi",
         "url": "https://gosbi.com/en/producto/fresko-cat-meat-feast-eng/",
         "title": "Fresko Cat Meat Feast ENG - Gosbi",
+        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
+    },
+    {
+        "brand": "Gosbi",
+        "url": "https://gosbi.com/en/producto/fresko-cat-turkey-ham-eng/",
+        "title": "Fresko Cat Turkey & Ham ENG - Gosbi",
+        "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
+    },
+    {
+        "brand": "Gosbi",
+        "url": "https://gosbi.com/en/producto/fresko-kitten-chicken-milk/",
+        "title": "Fresko Kitten Chicken & Milk ENG - Gosbi",
         "descriptions": "Gosbi Fresko wet food allows our pets to have a high quality natural food, made in a human food factory, with meats, fish, fruit and vegetables cooked in their own broth that make their appetite spectacular."
     }
 ]

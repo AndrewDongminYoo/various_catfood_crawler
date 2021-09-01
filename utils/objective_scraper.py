@@ -113,24 +113,30 @@ class WebScrapper:
               hidden_elements='',
               deactivated_elem='',
               activate_class='',
-              JAVASCRIPT=''
+              JAVASCRIPT='',
+              JAVASCRIPT_DESC='',
+              JAVASCRIPT_INGR='',
+              JAVASCRIPT_ANAL=''
               ):
         for url in self.url_list:
             product = {'brand': self.brand_name, 'url': url}
             self.driver.get(url)
             self.execute(JAVASCRIPT)
             time.sleep(2)
-            self.execute(JAVASCRIPT)
+
             if TITLE_PATH:
                 product['title'] = self.extract_text(TITLE_PATH)
             else:
                 product['title'] = self.driver.title
+            self.execute(JAVASCRIPT_DESC)
             if DESC_PATH:
                 product['descriptions'] = self.extract_text(DESC_PATH)
             if BENEFIT_PATH:
                 product['key_benefits'] = self.extract_text(BENEFIT_PATH)
+            self.execute(JAVASCRIPT_INGR)
             if INGREDIENTS:
                 product['ingredients'] = self.extract_text(INGREDIENTS)
+            self.execute(JAVASCRIPT_ANAL)
             if ANALYSIS:
                 product['analysis'] = self.extract_text(ANALYSIS)
             if ADDITIVES:

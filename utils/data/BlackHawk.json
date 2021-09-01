@@ -3,8 +3,12 @@
         "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/grain-free-cat-food-chicken-and-turkey",
         "title": "Grain Free Cat Food | Chicken and Turkey | Black Hawk",
-        "descriptions": "",
-        "key_benefits": [],
+        "descriptions": "Australian hormone free chicken and turkey is fortified with vitamins, minerals and antioxidants for strong muscles, healthy bones and vitality. With no grains, using tapioca and potato as alternative sources of carbohydrate, this highly palatable formula offers great flavour variety to keeps cats interested at meal time.",
+        "key_benefits": [
+            "56% Meat, Legumes and Pulses Sourced from Australian farms",
+            "44% Vegetables, fruit and oils Plus essential vitamins and minerals",
+            "0% Grains and glutens No wheat, corn, barley, rice"
+        ],
         "ingredients": "Chicken Meal, Turkey Meal, Potato, Tapioca, Field Peas, Chicken Fat (preserved with Mixed Tocopherols [source of Vitamin E], Rosemary Extract and Citric Acid), Vegetable Protein, Mung Beans, Beet Pulp, Canola Oil, Pumpkin Seed Powder, Eggs, Flaxseed, Cranberries, Pineapple Pulp, Chicory Root, Kelp, Salt, Alfalfa, Lecithin, Yucca Schidigera, Brewers Yeast, Whey Powder, Fish Oil, Probiotic (Bacillus Coagulant), Natural Antioxidants, Coconut Oil, Tomato Powder, Cinnamon, Yoghurt Powder, Carrot, Emu Oil, Essential Vitamins and Minerals",
         "analysis": [
             "Protein (max) 33%",
@@ -21,8 +25,12 @@
         "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/grain-free-cat-food-duck-and-fish",
         "title": "Grain Free Cat Food | Duck and Fish | Black Hawk",
-        "descriptions": "",
-        "key_benefits": [],
+        "descriptions": "Our Australian sustainably farmed duck and fish formula is rich in vitamins, minerals and oils for healthy skin and coat, as well as overall health and vitality. With no grains, using tapioca and sweet potato as alternative sources of carbohydrate, this highly palatable formula offers great flavour variety to keeps cats interested at meal time.",
+        "key_benefits": [
+            "56% Meat, Legumes and Pulses Sourced from Australian farms",
+            "44% Vegetables, fruit and oils Plus essential vitamins and minerals",
+            "0% Grains and glutens No wheat, corn, barley, rice"
+        ],
         "ingredients": "Duck Meal, Fish Meal, Salmon Meal, Potato, Tapioca, Field Peas, Chicken Fat (preserved with Mixed Tocopherols [source of Vitamin E], Rosemary Extract and Citric Acid), Vegetable Protein, Mung Beans, Canola Oil, Sweet Potato, Beet Pulp, Pumpkin Seed Powder, Flaxseed, Apples, Eggs, Cranberries, Pineapple Pulp, Chicory Root, Kelp, Salt, Alfalfa, Lecithin, Yucca Schidigera, Brewers Yeast, Whey Powder, Fish Oil, Probiotic (Bacillus Coagulant), Natural Antioxidants, Coconut Oil, Tomato Powder, Cinnamon, Yoghurt Powder, Carrot, Emu Oil, Essential Vitamins and Minerals",
         "analysis": [
             "Protein (max) 33%",
@@ -39,8 +47,15 @@
         "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/kitten-wet-food-chicken-with-peas",
         "title": "Kitten Wet Food | Chicken with Peas | Black Hawk",
-        "descriptions": [],
-        "key_benefits": [],
+        "descriptions": [
+            "Black Hawk grain free kitten food provides a complete diet for kittens. This recipe has the protein, nutrients and minerals to keep your growing kitten healthy. ",
+            "It is formulated to meet the nutritional levels established by the Association of American Food Control Officials (AAFCO) Cat Food Nutrient Profile for the growth of kittens."
+        ],
+        "key_benefits": [
+            "100% Wholesome real food. In a rich gravy.",
+            "<1 yrs Complete nutrition. For young kittens.",
+            "Plus Emu oil. Natural omega 3 & 6."
+        ],
         "ingredients": [
             "Chicken, peas, chicken broth, plasma protein, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
@@ -56,10 +71,37 @@
     },
     {
         "brand": "BlackHawk",
+        "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-beef-and-lamb",
+        "title": "Wet Cat Food | Chicken with Beef & Lamb | Black Hawk",
+        "descriptions": "A high protein, grain free wet cat food in convenient pouches. With chicken as the main ingredient, it also contains peas, beef and lamb for extra protein and flavour. Also contains real cranberries and blueberries as natural antioxidants.",
+        "key_benefits": [
+            "100% Wholesome, real food. In a rich gravy.",
+            "1+ yrs Complete nutrition. For adult cats.",
+            "Plus Emu oil. Natural omega 3 & 6."
+        ],
+        "ingredients": [
+            "Chicken, chicken broth, peas, beef, plasma protein, lamb, carrots, green beans, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
+            "* A blend of essential vitamins, minerals and amino acids to support cat health."
+        ],
+        "analysis": [
+            "Crude Protein 8.50% (min)",
+            "Crude Fat 5.00% (min)",
+            "Crude Fibre 1.00% (max)",
+            "Ash 2.0% (max)",
+            "Moisture 80% (max)"
+        ],
+        "calorie": ""
+    },
+    {
+        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-lamb",
         "title": "Wet Cat Food | Chicken with Lamb | Black Hawk",
-        "descriptions": [],
-        "key_benefits": [],
+        "descriptions": "A high protein wet cat food in convenient pouches, with chicken as the main ingredient. Can be used as a complete diet to maximise water intake, or mixed with dry food. Also contains real lamb and peas for extra protein, and emu oil as a natural source of omega 3 & 6 fatty acids. ",
+        "key_benefits": [
+            "100% Wholesome, real food. In a tasty jelly.",
+            "1+ yrs Complete nutrition. For adult cats.",
+            "Plus Emu oil. Natural omega 3 & 6."
+        ],
         "ingredients": [
             "Chicken, chicken broth, peas, lamb, plasma protein, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, carrageenan, salt, locust bean gum, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
@@ -77,8 +119,12 @@
         "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-peas",
         "title": "Wet Cat Food | Chicken with Peas | Black Hawk",
-        "descriptions": [],
-        "key_benefits": [],
+        "descriptions": "A grain free wet cat food for adult cats, with chicken as the number 1 ingredient. These convenient pouches can be used as a complete diet to increase water intake, or mixed with dry food. Contains emu oil as a natural source of omega 3 & 6 fatty acids.",
+        "key_benefits": [
+            "100% Wholesome, real food. In a rich gravy.",
+            "1+ yrs Complete nutrition. For adult cats.",
+            "Plus Emu oil. Natural omega 3 & 6."
+        ],
         "ingredients": [
             "Chicken, peas, chicken broth, plasma protein, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
@@ -96,8 +142,12 @@
         "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-tuna-and-ocean-fish",
         "title": "Wet Cat Food | Chicken with Tuna & Ocean Fish | Black Hawk",
-        "descriptions": [],
-        "key_benefits": [],
+        "descriptions": "A wet cat food with protein and omega 3 fatty acids, and absolutely no grain or fillers. Ideal to be used as a complete diet or mixed with dry food. This wet cat food has chicken as the main ingredient, along with added tuna and ocean fish.",
+        "key_benefits": [
+            "100% Wholesome, real food. In a rich gravy.",
+            "1+ yrs Complete nutrition. For adult cats.",
+            "Plus Emu oil. Natural omega 3 & 6."
+        ],
         "ingredients": [
             "Chicken, peas, chicken broth, plasma protein, tuna, ocean fish, egg powder, fish oil, essential vitamins and minerals*, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
@@ -113,29 +163,14 @@
     },
     {
         "brand": "BlackHawk",
-        "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-beef-and-lamb",
-        "title": "Wet Cat Food | Chicken with Beef & Lamb | Black Hawk",
-        "descriptions": [],
-        "key_benefits": [],
-        "ingredients": [
-            "Chicken, chicken broth, peas, beef, plasma protein, lamb, carrots, green beans, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
-            "* A blend of essential vitamins, minerals and amino acids to support cat health."
-        ],
-        "analysis": [
-            "Crude Protein 8.50% (min)",
-            "Crude Fat 5.00% (min)",
-            "Crude Fibre 1.00% (max)",
-            "Ash 2.0% (max)",
-            "Moisture 80% (max)"
-        ],
-        "calorie": ""
-    },
-    {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-for-mature-cats-chicken-and-salmon",
         "title": "Wet Cat Food for Mature Cats | Chicken with Salmon | Black Hawk",
-        "descriptions": [],
-        "key_benefits": [],
+        "descriptions": "A specially formulated wet cat food for mature cats aged 7 years and over. Contains chicken as the main ingredient, as well as salmon and ocean fish for added omega 3 fatty acids. This special recipe is also lower in calories, which is ideal for less active older cats.",
+        "key_benefits": [
+            "100% Wholesome, rich food. In a tasty jelly.",
+            "7+ yrs Complete nutrition. For mature cats.",
+            "Plus Emu oil. Natural omega 3 & 6."
+        ],
         "ingredients": [
             "Chicken, peas, chicken broth, plasma protein, salmon, ocean fish, egg powder, fibre, essential vitamins and minerals*, guar gum, carrageenan, salt, locust bean gum, caramel, xanthan gum, taurine, emu oil, fish oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
@@ -153,8 +188,15 @@
         "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/kitten-food/wet-kitten-food-chicken-with-peas",
         "title": "Grain Free Kitten Wet Food | Chicken with Peas | Black Hawk",
-        "descriptions": [],
-        "key_benefits": [],
+        "descriptions": [
+            "Black Hawk grain free kitten food provides a complete diet for kittens. This recipe has the protein, nutrients and minerals to keep your growing kitten healthy. ",
+            "It is formulated to meet the nutritional levels established by the Association of American Food Control Officials (AAFCO) Cat Food Nutrient Profile for the growth of kittens."
+        ],
+        "key_benefits": [
+            "100% Wholesome real food. In a rich gravy.",
+            "<1 yrs Complete nutrition. For young kittens.",
+            "Plus Emu oil. Natural omega 3 & 6."
+        ],
         "ingredients": [
             "Chicken, peas, chicken broth, plasma protein, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."

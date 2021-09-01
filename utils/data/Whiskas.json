@@ -88,7 +88,7 @@
         "brand": "Whiskas",
         "url": "https://www.whiskas.ca/en/our-products/dry-food/whiskas-dry-cat-food-seafood-selections-with-real-salmon",
         "title": "WHISKAS® Dry Cat Food Seafood Selections® With Real Salmon | WHISKAS®",
-        "descriptions": "[\"As the makers of WHISKAS® we love cats for their independent spirits but understand they still need love and care. That's why our recipes are made with real chicken, salmon, or tuna and high quality protein.\", \"The crunchy kibble and soft meaty centre of delicious pockets make WHISKAS® food for cats great tasting nutrition.\"]",
+        "descriptions": ["As the makers of WHISKAS® we love cats for their independent spirits but understand they still need love and care. That's why our recipes are made with real chicken, salmon, or tuna and high quality protein.", "The crunchy kibble and soft meaty centre of delicious pockets make WHISKAS® food for cats great tasting nutrition."],
         "key_benefits": "100% Complete and Balanced Food for Adult Cats.",
         "ingredients": "CHICKEN BY-PRODUCT MEAL, GROUND YELLOW CORN, WHEAT, CORN GLUTEN MEAL, SOYBEAN MEAL, ANIMAL FAT (PRESERVED WITH MIXED TOCOPHEROLS), PORK MEAT & BONE MEAL, NATURAL FLAVOUR, SALMON, WHEAT FLOUR, BREWERS RICE, SALT, POTASSIUM CHLORIDE, VITAMINS (CHOLINE CHLORIDE, VITAMIN E SUPPLEMENT, VITAMIN A SUPPLEMENT, NIACIN, VITAMIN B12 SUPPLEMENT, RIBOFLAVIN SUPPLEMENT [VITAMIN B2], THIAMINE MONONITRATE [VITAMIN B1], D-CALCIUM PANTOTHENATE, VITAMIN D3 SUPPLEMENT, BIOTIN, FOLIC ACID, PYRIDOXINE HYDROCHLORIDE [VITAMIN B6]), TAURINE, DL-METHIONINE, DRIED PEAS AND CARROTS, TRACE MINERALS (ZINC SULPHATE, COPPER SULPHATE, MANGANESE SULPHATE, POTASSIUM IODIDE), NATURAL SHRIMP FLAVOUR, IRON OXIDE, CALCIUM CARBONATE, BHA & BHT",
         "analysis": [
@@ -156,7 +156,7 @@
         ],
         "key_benefits": "WHISKAS® High Protein Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance.",
         "ingredients": "CHICKEN BY-PRODUCT MEAL, CORN GLUTEN MEAL, GROUND YELLOW CORN, ANIMAL FAT (PRESERVED WITH MIXED TOCOPHEROLS), PORK MEAT & BONE MEAL, SOYBEAN MEAL, WHEAT, NATURAL FLAVOUR, CHICKEN, WHEAT FLOUR, BREWERS RICE, POTASSIUM CHLORIDE,  CARAMEL, VITAMINS (CHOLINE CHLORIDE, VITAMIN E SUPPLEMENT, VITAMIN A SUPPLEMENT, NIACIN, VITAMIN B12 SUPPLEMENT, RIBOFLAVIN SUPPLEMENT [VITAMIN B2], THIAMINE MONONITRATE [VITAMIN B1], D-CALCIUM PANTOTHENATE, VITAMIN D3 SUPPLEMENT, BIOTIN, FOLIC ACID, PYRIDOXINE HYDROCHLORIDE [VITAMIN B6]), SALT, TAURINE, DRIED PEAS AND CARROTS, DL-METHIONINE, TRACE MINERALS (ZINC SULPHATE, COPPER SULPHATE, MANGANESE SULPHATE, POTASSIUM IODIDE), CALCIUM CARBONATE, BHA, BHT.",
-        "analysis": "[\"CRUDE PROTEIN MIN. 38.5%\", \" CRUDE FAT MIN.  14.0%\", \"CRUDE FIBRE MAX. 4.0%\", \"MOISTURE MAX. 10.0%\", \"CALCIUM MIN. 1.0%\", \" PHOSPHORUS MIN. 0.9%\", \"TAURINE MIN. 0.15%\", \"OMEGA 6 FATTY ACIDS† MIN. 1.5%\"]",
+        "analysis": ["CRUDE PROTEIN MIN. 38.5%", " CRUDE FAT MIN.  14.0%", "CRUDE FIBRE MAX. 4.0%", "MOISTURE MAX. 10.0%", "CALCIUM MIN. 1.0%", " PHOSPHORUS MIN. 0.9%", "TAURINE MIN. 0.15%", "OMEGA 6 FATTY ACIDS† MIN. 1.5%"],
         "calorie": ""
     },
     {
