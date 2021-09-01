@@ -3,24 +3,23 @@ from selenium import webdriver
 
 
 brand_list = [
-    # "ADVANCE",
-    # "Animonda",
-    # "Avoderm",
-    # "Feline Natural",
-    # "Fish4Cats",
-    # "Gosbi",
-    # "Husse",
-    # "Lotus",
-    # "Maria Pet Food",
-    # "Me-O",
-    # "Oven-Baked Traditional",
-    # "PRIMAL PET FOODS",
-    # "PureLuxe",
-    # "TOTAL ALIMENTOS EQUILIBRIO",
-    # "Verus",
-    # "Wysong",
-    # "BlackHawk",
-    # "Catz finefood"
+    "BOREAL",
+    "Canada Fresh",
+    "Companion Pets Classic",
+    "Dr.Link",
+    "Farmina Vet Life Feline",
+    "FirstMate",
+    "Go! Solutions",
+    "Halo pets",
+    "iti Pet Food",
+    "Little BigPaw",
+    "Mera Finest",
+    "Nulo Freestyle",
+    "Pronature Canada",
+    "Specific",
+    "Stella and Chewys",
+    "Tender and True",
+    "TIKI CATS",
 ]
 
 driver = webdriver.Chrome()
