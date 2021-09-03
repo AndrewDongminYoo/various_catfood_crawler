@@ -1,0 +1,69 @@
+[
+    {
+        "brand": "Supreme Source",
+        "url": "https://www.supremesourcepet.com/chicken-meal-turkey-meal-recipe-cat-food/",
+        "title": "Chicken Meal & Turkey Meal Cat Food - Supreme Source",
+        "descriptions": "Our Chicken Meal & Turkey Meal recipe is advanced nutrition for cats who deserve only the best. Sourced from trusted, passionate farmers, our premium ingredients provide all the vitamins, protein and antioxidants your cat needs to thrive.",
+        "key_benefits": [
+            "Chicken Meal A great source of high-quality protein for your cat because it contains more protein than fresh chicken.",
+            "Turkey Meal A great source of high-quality protein for your cat because it contains more protein than fresh turkey.",
+            "Peas A valuable source of essential nutrients like linoleic acid. They also offer natural fiber and quality carbohydrates.",
+            "Lentils A soluble fiber and a great source of protein, zinc and iron that may help promote better digestion."
+        ],
+        "ingredients": "Chicken Meal, Turkey Meal, Peas, Lentils, Faba Beans, Poultry Fat (Preserved with Mixed Tocopherols), Potato Starch, Dried Egg Product, Natural Flavor, Ground Flaxseed, Sodium Bisulfate, Salmon Oil (Preserved with Mixed Tocopherols), Organic Dried Seaweed Meal (Ascophyllum nodosum), Choline Chloride, Betaine, Calcium Carbonate, Vitamin E Supplement, Carrots, Blueberries, Cranberries, Spinach, Parsley, Pomegranates, Taurine, Zinc Proteinate, Zinc Oxide, Niacin Supplement, Ferrous Sulfate, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Vitamin A Supplement, Manganous Oxide, Manganese Proteinate, Copper Sulfate, d-Calcium Pantothenate, Thiamine Mononitrate, Sodium Selenite, Riboflavin Supplement, Pyridoxine Hydrochloride, Copper Proteinate, Calcium Iodate, Vitamin D3 Supplement, Folic Acid, Cobalt Carbonate, Inositol, Biotin, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity), Vitamin B12 Supplement, Rosemary Extract.",
+        "analysis": [
+            "Crude Protein 35.0% Min.",
+            "Crude Fat 15.0% Min.",
+            "Crude Fiber 4.5% Max.",
+            "Moisture 10.0% Max.",
+            "Linoleic Acid 2.0% Min.",
+            "Calcium 1.1% Min.",
+            "Phosphorus 0.9% Min.",
+            "Potassium 0.6% Min.",
+            "Iron 100 mg/kg Min.",
+            "Manganese 15 mg/kg Min.",
+            "Zinc 150 mg/kg Min.",
+            "Selenium 0.30 mg/kg Min.",
+            "Vitamin A 15,000 IU/kg Min.",
+            "Vitamin D 1,500 IU/kg Min.",
+            "Vitamin E 300 IU/kg Min.",
+            "Taurine 0.1% Min.",
+            "Omega-3 Fatty Acids 0.5% Min.",
+            "Omega-6 Fatty Acids 1.1% Min."
+        ],
+        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED CALORIE CONTENT (ME): 3,650 kcal/kg., 394 kcal/cup."
+    },
+    {
+        "brand": "Supreme Source",
+        "url": "https://www.supremesourcepet.com/whitefish-meal-and-salmon-meal-recipe/",
+        "title": "Whitefish Meal and Salmon Cat Food | Supreme Source",
+        "descriptions": "Our Whitefish Meal and Salmon Meal Cat Food recipe is advanced nutrition for cats who deserve only the best. Sourced from trusted, passionate farmers, our premium ingredients provide all the vitamins, protein and antioxidants your cat needs to thrive.",
+        "key_benefits": [
+            "Whitefish Meal A great source of high-quality protein that contains more protein than fresh whitefish. Whitefish meal is a delicious and highly digestible protein that helps your cat maintain strong muscles.",
+            "Salmon Meal A naturally rich source of protein and Omega-3 fatty acids to help maintain your cat’s healthy skin and shiny coat.",
+            "Peas A valuable source of essential nutrients like linoleic acid. They also offer natural fiber and quality carbohydrates.",
+            "Chickpeas Provide dietary fiber and are packed with protein as well as vitamins A and E. They also contain manganese which may help support proper bone health and brain function."
+        ],
+        "ingredients": "Whitefish Meal, Salmon Meal, Peas, Chickpeas, Poultry Fat (Preserved with Mixed Tocopherols), Turkey Meal, Potatoes, Dried Egg Product, Natural Flavor, Ground Flaxseed, Sodium Bisulfate, Calcium Carbonate, Dried Chicory Root, Organic Dried Seaweed Meal (Ascophyllum nodosum), Choline Chloride, Betaine, Vitamin E Supplement, Taurine, Zinc Proteinate, Carrots, Blueberries, Cranberries, Spinach, Parsley, Pomegranates, Zinc Oxide, Ferrous Sulfate, Niacin Supplement, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Manganous Oxide, Manganese Proteinate, Vitamin A Supplement, Copper Sulfate, d-Calcium Pantothenate, Thiamine Mononitrate, Sodium Selenite, Riboflavin Supplement, Copper Proteinate, Pyridoxine Hydrochloride, Calcium Iodate, Vitamin D3 Supplement, Folic Acid, Cobalt Carbonate, Inositol, Biotin, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity), Vitamin B12 Supplement, Rosemary Extract.",
+        "analysis": [
+            "Crude Protein 35.0% Min.",
+            "Crude Fat 15.0% Min.",
+            "Crude Fiber 4.5% Max.",
+            "Moisture 10.0% Max.",
+            "Linoleic Acid 2.0% Min.",
+            "Calcium 1.1% Min.",
+            "Phosphorus 0.9% Min.",
+            "Potassium 0.6% Min.",
+            "Manganese 15 mg/kg Min.",
+            "Zinc 150 mg/kg Min.",
+            "Selenium 0.30 mg/kg Min.",
+            "Vitamin A 15,000 IU/kg Min.",
+            "Vitamin D 1,500 IU/kg Min.",
+            "Vitamin E 300 IU/kg Min.",
+            "Taurine 0.1% Min.",
+            "Omega-3 Fatty Acids* 0.7% Min.",
+            "Omega-6 Fatty Acids* 2.1% Min."
+        ],
+        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED CALORIE CONTENT (ME): 3,660 kcal/kg., 395 kcal/cup."
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "brand": "Smack Raw Hydrate Cat Food",
+        "url": "https://ca.smackpetfood.com/collections/cats/products/pacific-fish-feast",
+        "title": "Pacific Fish Feast (CAT) – Smack Pet Food",
+        "descriptions": "",
+        "ingredients": "Wild Rockfish, Wild Herring, Pumpkin*, Spinach*, Celery*, Apple*, Parsley*, Kale*, Turmeric*, Tocopherols*.",
+        "analysis": [
+            "Crude Protein (min.) - 50.0%",
+            "Crude Fat (min.) - 32.0%",
+            "Crude Fibre (max.) - 1.5%",
+            "Moisture (max.) - 4.0%",
+            "Calcium (min.) - 1.95%",
+            "Phosphorus (min.) - 1.55%",
+            "Carbohydrates (max.) - 3.5%",
+            "Taurine (min.) - 0.27%"
+        ],
+        "calorie": "CALORIE CONTENT (CALCULATED): 5500 kcal/kg, 550 kcal/cup"
+    },
+    {
+        "brand": "Smack Raw Hydrate Cat Food",
+        "url": "https://ca.smackpetfood.com/collections/cats/products/purrfect-pork",
+        "title": "Purrfect Pork (CAT) – Smack Pet Food",
+        "descriptions": "",
+        "ingredients": "Pork (Bone-In), Pork Organs (Heart, Liver, Kidney, Tongue, and Spleen), Pumpkin*, Kale*, Apple*, Celery*, Blueberry*, Cranberry*, Turmeric*, Tocopherols*.",
+        "analysis": [
+            "Crude Protein (min.) - 40.0%",
+            "Crude Fat (min.) - 30.0%",
+            "Crude Fibre (max.) - 1.8%",
+            "Moisture (max.) - 4.0%",
+            "Carbohydrates (max.) - 2.5%",
+            "Calcium (min.) - 1.90 %",
+            "Phosphorus (min.) - 1.22%",
+            "Taurine (min.) - 0.27%"
+        ],
+        "calorie": "CALORIE CONTENT (CALCULATED): 4600 kcal/kg, 460 kcal/cup"
+    },
+    {
+        "brand": "Smack Raw Hydrate Cat Food",
+        "url": "https://ca.smackpetfood.com/collections/cats/products/very-berry-for-cats-crunchy-style-240-g",
+        "title": "Very Berry for Cats – Smack Pet Food",
+        "descriptions": "",
+        "ingredients": "Chicken*, Wild Salmon, Chicken Liver, Chicken Gizzard, Chicken Heart, Cranberry*, Blueberry*, Parsley*, Thyme*, Strawberry*, Spinach*, Celery*, Tocopherols*.",
+        "analysis": [
+            "Crude Protein (min.) - 52.0%",
+            "Crude Fat (min.) - 27.0%",
+            "Crude Fibre (max.) - 1.8%",
+            "Moisture (max.) - 6.0%",
+            "Carbohydrates (max.) - 1.5%",
+            "Calcium (min.) - 1.00%",
+            "Phosphorus (min.) - 0.80%",
+            "Sodium (min.) - 0.25%",
+            "Magnesium (min.) - 0.08%",
+            "Iron (min.) - 105mg/kg",
+            "Zinc (min.) - 84mg/kg",
+            "Taurine (min.) - 0.23%"
+        ],
+        "calorie": "CALORIE CONTENT (CALCULATED): 4740 kcal/kg, 474 kcal/cup"
+    }
+]
