@@ -1,0 +1,86 @@
+[
+    {
+        "brand": "NOW FRESH",
+        "url": "https://nowfresh.com/en-us/recipe-for-kittens",
+        "title": "NOW FRESH Kitten Food Grain Free Kitten Recipe",
+        "descriptions": "With small-sized kibble for tiny teeth, this whisker-licking recipe provides perfectly balanced nutrition for growing kittens, with balanced proteins, fats, and omega oils to support healthy growth & development, and fresh meats & fish to tempt picky eaters.",
+        "key_benefits": [
+            "Minimally processed and perfectly balanced nutrition",
+            "Packed full of nutrient-rich superfoods",
+            "Probiotics & pumpkin to support good digestion",
+            "Free from grains and by-product or meat meals"
+        ],
+        "ingredients": "de-boned turkey, whole dried egg, peas, potatoes, potato flour, pea flour, natural flavor, canola oil (preserved with mixed tocopherols), flaxseed, coconut oil (preserved with mixed tocopherols), de-boned salmon, de-boned duck, calcium carbonate, monocalcium phosphate, phosphoric acid, suncured alfalfa, pea fiber, tomato, apples, carrots, pumpkin, sweet potatoes, squash, bananas, blueberries, cranberries, blackberries, pomegranate, papayas, lentils, broccoli, cottage cheese, salt, choline chloride, DL-methionine, taurine, dried chicory root, potassium chloride, vitamins (vitamin E supplement, niacin, L-ascorbyl-2-polyphosphate (a source of vitamin C), thiamine mononitrate, biotin, vitamin A supplement, d-calcium pantothenate, beta-carotene, riboflavin, pyridoxine hydrochloride, vitamin B12 supplement, vitamin D3 supplement, folic acid.), minerals (zinc proteinate, ferrous sulfate, zinc oxide, iron proteinate, copper sulfate, sodium selenite, copper proteinate, manganese proteinate, manganous oxide, calcium iodate.), dried Lactobacillus acidophilus fermentation product, dried Enterococcus faecium fermentation product, L-lysine, yucca schidigera extract, L-carnitine, dried rosemary.",
+        "analysis": [
+            "Crude protein (min) 33%",
+            "Crude fat (min) 20%",
+            "Crude fiber (max) 2.5%",
+            "Moisture (max) 10%",
+            "Ash (max) 7%",
+            "EPA + DHA (min) 0.05%",
+            "Magnesium (min) 0.09%",
+            "*L-Carnitine (min) 100 mg/kg",
+            "Taurine (min) 0.25%",
+            "*Omega 6 (min) 3.2%",
+            "*Omega 3 (min) 1%",
+            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+        ],
+        "calorie": "ME (calculated) = 3972 kcal/kg or 437 kcal/cup (250 ml)"
+    },
+    {
+        "brand": "NOW FRESH",
+        "url": "https://nowfresh.com/en-us/adult-recipe-for-cats",
+        "title": "NOW FRESH Cat Food Grain Free Adult Recipe for Cats",
+        "descriptions": "Made with fresh turkey, salmon and duck, this minimally processed recipe provides balanced protein & fat to help your adult cat maintain a healthy weight, with over 20 superfoods for essential nutrients and to help support healthy digestion.",
+        "key_benefits": [
+            "Free from grains and by-product or meat meals",
+            "Minimally processed and perfectly balanced nutrition",
+            "Added taurine to support vision & heart health",
+            "Probiotics & pumpkin to support good digestion"
+        ],
+        "ingredients": "de-boned turkey, peas, potatoes, whole dried egg, pea flour, potato flour, natural flavor, canola oil (preserved with mixed tocopherols), coconut oil (preserved with mixed tocopherols), de-boned salmon, de-boned duck, flaxseed, pea fiber, suncured alfalfa, calcium carbonate, tomato, apples, carrots, pumpkin, sweet potatoes, squash, bananas, blueberries, cranberries, blackberries, pomegranate, papayas, lentils, broccoli, cottage cheese, salt, DL-methionine, phosphoric acid, dried chicory root, taurine, choline chloride, vitamins (vitamin E supplement, niacin, L-ascorbyl-2-polyphosphate (a source of vitamin C), thiamine mononitrate, biotin, vitamin A supplement, d-calcium pantothenate, beta-carotene, riboflavin, pyridoxine hydrochloride, vitamin B12 supplement, vitamin D3 supplement, folic acid.), minerals (zinc proteinate, ferrous sulfate, zinc oxide, iron proteinate, copper sulfate, sodium selenite, copper proteinate, manganese proteinate, manganous oxide, calcium iodate.), dried Lactobacillus acidophilus fermentation product, dried Enterococcus faecium fermentation product, L-lysine, potassium chloride, yucca schidigera extract, L-carnitine, dried rosemary.",
+        "analysis": [
+            "Crude protein (min) 31%",
+            "Crude fat (min) 18%",
+            "Crude fiber (max) 3.5%",
+            "Moisture (max) 10%",
+            "Ash (max) 6.5%",
+            "Phosphorus (min) 0.6%",
+            "Magnesium 0.09%",
+            "*L-Carnitine (min) 100 mg/kg",
+            "Taurine (min) 0.24%",
+            "*Omega 6 (min) 2.8%",
+            "*Omega 3 (min) 0.5%",
+            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+        ],
+        "calorie": "ME (calculated) = 3872 kcal/kg or 426 kcal/cup (250 ml)"
+    },
+    {
+        "brand": "NOW FRESH",
+        "url": "https://nowfresh.com/en-us/senior-recipe-for-cats",
+        "title": "NOW FRESH Grain Free Senior Recipe for Cats",
+        "descriptions": "Made simply using fresh turkey, salmon & duck, this recipe for senior cats is perfectly balanced to help maintain a healthy weight and features pumpkin & probiotics to support good digestion, helping to keep them happy and healthy in their golden years.",
+        "key_benefits": [
+            "Minimally processed and perfectly balanced nutrition",
+            "Free from grains and by-product or meat meals",
+            "Packed with nutrient-rich superfoods",
+            "L-carnitine to support heart health & fat burning"
+        ],
+        "ingredients": "de-boned turkey, potatoes, peas, pea fiber, potato flour, whole dried egg, natural flavor, flaxseed, canola oil (preserved with mixed tocopherols), de-boned salmon, de-boned duck, suncured alfalfa, coconut oil (preserved with mixed tocopherols), calcium carbonate, tomato, apples, carrots, pumpkin, sweet potatoes, squash, bananas, blueberries, cranberries, blackberries, pomegranate, papayas, lentils, broccoli, cottage cheese, DL-methionine, taurine, choline chloride, salt, dried chicory root, phosphoric acid, vitamins (vitamin E supplement, niacin, L-ascorbyl-2-polyphosphate (a source of vitamin C), thiamine mononitrate, biotin, vitamin A supplement, d-calcium pantothenate, beta-carotene, riboflavin, pyridoxine hydrochloride, vitamin B12 supplement, vitamin D3 supplement, folic acid.), minerals (zinc proteinate, ferrous sulfate, zinc oxide, iron proteinate, copper sulfate, sodium selenite, copper proteinate, manganese proteinate, manganous oxide, calcium iodate.), dried Lactobacillus acidophilus fermentation product, dried Enterococcus faecium fermentation product, L-lysine, potassium chloride, yucca schidigera extract, L-carnitine, dried rosemary.",
+        "analysis": [
+            "Crude protein (min) 30%",
+            "Crude fat (min) 14%",
+            "Crude fiber (max) 5.5%",
+            "Moisture (max) 10%",
+            "Ash (max) 6.5%",
+            "Phosphorus (min) 0.5%",
+            "Magnesium (min) 0.09%",
+            "*L-Carnitine (min) 200 mg/kg",
+            "Taurine (min) 0.28%",
+            "*Omega 6 (min) 2.4%",
+            "*Omega 3 (min) 0.9%",
+            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+        ],
+        "calorie": "ME (calculated) = 3528 kcal/kg or 388 kcal/cup (250 ml)"
+    }
+]

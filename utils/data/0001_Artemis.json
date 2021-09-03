@@ -1,0 +1,62 @@
+[
+    {
+        "brand": "Artemis",
+        "url": "https://artemiscompany.com/collections/shop-cat-all/products/feline-all-life-stages",
+        "title": "FRESH MIX Feline All Life Stages Dry Cat Food – Artemis Pet Food Company",
+        "ingredients": "Chicken, Chicken Meal, Peas, Barley, Rice Bran, Chicken Fat (Preserved with Mixed Tocopherols), Fish Meal, Natural Flavor, Flaxseed, Sodium Bisulfate, Choline Chloride, Taurine, Dried Chicory Root, Dried Kelp, Carrots, Apples, Tomatoes, Blueberries, Spinach, Cranberries, Rosemary Extract, Parsley Flake, Green Tea Extract, Barley Grass, L-Carnitine, Dried Lactobacillus acidophilus fermentation product, dried Bifidobacterium animalis fermentation product, dried Lactobacillus reuteri fermentation product, Zinc Proteinate, Vitamin E Supplement, Niacin, Manganese Proteinate, Copper Proteinate, Zinc Sulfate, Manganese Sulfate, Copper Sulfate, Thiamine Mononitrate, Vitamin A Supplement, Biotin, Potassium Iodide, Calcium Pantothenate, Riboflavin, Pyridoxine Hydrochloride (vitamin B6), Vitamin B12 Supplement, Manganous Oxide, Sodium Selenite, Vitamin D Supplement, Folic Acid.",
+        "analysis": [
+            "Crude Protein, min. 30.0%",
+            "Crude Fat, min. 20.0%",
+            "Crude Fiber, max. 3.0%",
+            "Moisture, max. 10%",
+            "Magnesium, max 0.09%",
+            "Taurine, min 0.15%",
+            "Vitamin E, min 300 IU/kg",
+            "Biotin, min. 0.23 mg/kg",
+            "Omega-6 Fatty Acids, min.* 3.4%",
+            "Omega-3 Fatty Acids, min.* 0.6%",
+            "DHA (Docosohexaenoic Acid) (min.*) 0.05%"
+        ],
+        "calorie": "Calorie Contents Calculated ME-3,922 kcal/kg 367 kcal/cup (8oz.Cup)"
+    },
+    {
+        "brand": "Artemis",
+        "url": "https://artemiscompany.com/collections/shop-cat-all/products/h-i-t-salmon-snow-crab-feline-formula",
+        "title": "H.I.T. Salmon & Snow Crab Feline Formula – Artemis Pet Food Company",
+        "ingredients": "Salmon, Salmon Meal, Herring Meal, Quinoa, Snow Crab Meal, Whole Oats, Whole Grain Barley, Sunflower Oil (Preserved with Mixed Tocopherols, form of Vitamin E) Flax Seed, Herring Oil (Preserved with Mixed Tocopherols, form of Vitamin E), Natural Flavour, Whole Egg, Kelp, Citrus Pulp, Pea Fiber, Choline Chloride, Sodium Bisulfate, Coconut Flour, Green Lipped Mussel, Chicory Root, Pumpkin, Yucca Schidigera Extract, Salt, Bacillus Licheniformis, Bacillus Subtilis, Taurine, Vitamin C Supplement, Zinc Sulfate, Iron Sulfate, Vitamin E Supplement, Niacin, Copper Sulfate, Dl-Methionine, L-Lysine, Sodium Selenite, Thiamine Mononitrate, Manganese Sulfate, Calcium Iodate, Calcium Pantothenate, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin K Supplement, Riboflavin, Pyridoxine Hydrochloride, Biotin, Cobalt Carbonate, Folic Acid, Vitamin D3 Supplement, Dried Rosemary, Apple, Ginseng, Green Tea, Spinach, Blueberries, Cranberries",
+        "analysis": [
+            "Crude protein 40 % minimum",
+            "Crude fat 20 % minimum",
+            "Moisture 10 % maximum",
+            "Crude fiber 3.0 % maximum",
+            "Crude ash 9.0 % maximum",
+            "Magnesium 0.10 % maximum",
+            "Zinc 96 ppm minimum",
+            "Selenium 0.4 ppm minimum",
+            "Vitamin E 90 IU minimum",
+            "Taurine 0.2 % minimum",
+            "Omega-6 Fatty Acids* 3.6 % minimum",
+            "Omega-3 Fatty Acids* 3.5 % minimum",
+            "Carbohydrate** 18%"
+        ],
+        "calorie": "CALORIE CONTENT 3,720 kcal/kg (512 kcal/8oz cup) "
+    },
+    {
+        "brand": "Artemis",
+        "url": "https://artemiscompany.com/collections/shop-cat-all/products/osopure-grain-free-feline-formula-dry-cat-food",
+        "title": "OSOPURE Feline Grain Free Salmon & Garbanzo Bean Dry Cat Food – Artemis Pet Food Company",
+        "ingredients": "Salmon, salmon meal, peas, garbanzo beans, sunflower oil, flaxseed, natural flavor, Dl-methionine, choline chloride, taurine, dried chicory root, pumpkin, coconut oil, dried Lactobacillus acidophilus fermentation product, dried Bifidobacterium animalis fermentation product, dried Lactobacillus reuteri fermentation product, zinc proteinate, vitamin E supplement, niacin, manganese proteinate, copper proteinate, zinc sulfate, manganese sulfate, copper sulfate, menadione sodium bisulfite complex, thiamine mononitrate (vitamin B1), vitamin A supplement, biotin, potassium iodide, calcium pantothenate, riboflavin (vitamin B2), pyridoxine hydrochloride (vitamin B6), vitamin B12 supplement, manganous oxide, sodium selenite, vitamin D supplement, folic acid.",
+        "analysis": ["Crude Protein .min 35.0 %",
+            "Crude Fat, min. 18.0%",
+            "Crude Fiber, max. 3.0%",
+            "Moisture, max. 10.0%",
+            "Zinc min.* 150 mg/kg",
+            "Selenium min. 0.3 mg/kg",
+            "Vitamin E, min. 150 IU/kg",
+            "Taurin, min. 0.15%",
+            "Omega-6 Fatty Acids, min.* 2.8%",
+            "Omega-3 Fatty Acids, min.* 0.6%"
+        ],
+        "calorie": "Calorie Content (calculated): ME 3,861 kcal/kg (361 kcal/ 8 oz cup)"
+    }
+]

@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.common.exceptions import JavascriptException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.by import By
@@ -20,7 +21,7 @@ class WebScrapper:
         """
         self.driver = webdriver.Chrome(executable_path="chromedriver", options=self.options)
         self.driver.implicitly_wait(10)
-        self.driver.minimize_window()
+        # self.driver.minimize_window()
         self.brand_name = brand_name
         self.url_list = result[brand_name]
         self.type_of_selector = "XPATH"
@@ -33,7 +34,11 @@ class WebScrapper:
             json.dump(obj=self.result_list, fp=output_file, indent=4, ensure_ascii=False)
 
     def execute(self, script: str):
-        return self.driver.execute_script(script=script)
+        try:
+            return self.driver.execute_script(script=script)
+        except JavascriptException:
+            time.sleep(3)
+            return self.execute(script)
 
     def set_attr(self, element_id: str, attr_to_on: str):
         self.execute(f"document.getElementById('{element_id}').setAttribute('{attr_to_on}','true');")

@@ -1,0 +1,60 @@
+[
+    {
+        "brand": "Diamond Pet Foods Premium Edge",
+        "url": "https://www.diamondpet.com/cat/diamond-care/weight-management/",
+        "title": "Diamond CARE Adult Cat Weight Management Formula | Diamond Pet Foods",
+        "descriptions": "*The facility in which this food is made also makes food that may contain other ingredients, such as grains. Trace amounts of these other ingredients may be present.",
+        "key_benefits": [
+            "Formulated for cats with weight control issues",
+            "Grain-free formulation*",
+            "L-Carnitine aids in fat metabolism",
+            "Guaranteed omega fatty acids, antioxidants and probiotics support overall health",
+            "Complete and balanced for everyday, long-term feeding"
+        ],
+        "ingredients": "Chicken, chicken meal, turkey meal, chickpeas, lentils, peas, ground Miscanthus grass, chicken fat (preserved with mixed tocopherols), natural flavor, egg product, flaxseed, sodium bisulfate, DL-Methionine, choline chloride, taurine, dried chicory root, L-Carnitine, dried Lactobacillus plantarum fermentation product, dried Bacillus subtilis fermentation product, dried Lactobacillus acidophilus fermentation product, dried Enterococcus faecium fermentation product, dried Bifidobacterium animalis fermentation product, vitamin E supplement, zinc proteinate, niacin, manganese proteinate, copper proteinate, zinc sulfate, manganese sulfate, copper sulfate, thiamine mononitrate, vitamin A supplement, biotin, potassium iodide, calcium pantothenate, riboflavin, pyridoxine hydrochloride, vitamin B12 supplement, sodium selenite, vitamin D3 supplement, folic acid.",
+        "analysis": [
+            "Crude Protein 32.0% Minimum",
+            "Crude Fat 9.0% Minimum",
+            "Crude Fat 11.0% Maximum",
+            "Crude Fiber 10.0% Maximum",
+            "Moisture 10.0% Maximum",
+            "Zinc 150 mg/kg Minimum",
+            "Selenium 0.3 mg/kg Minimum",
+            "Vitamin E 300 IU/kg Minimum",
+            "Taurine 0.1% Minimum",
+            "L-Carnitine* 500 mg/kg Minimum",
+            "Omega-6 Fatty Acids* 2.5% Minimum",
+            "Omega-3 Fatty Acids* 0.3% Minimum",
+            "Total Microorganisms* (Lactobacillus plantarum, Bacillus subtilis, Lactobacillus acidophilus, Enterococcus faecium, Bifidobacterium animalis in descending amounts) Not Less Than 80,000,000 CFU/lb"
+        ],
+        "calorie": "3,080 kcal/kg (314 kcal/cup) Calculated Metabolizable Energy"
+    },
+    {
+        "brand": "Diamond Pet Foods Premium Edge",
+        "url": "https://www.diamondpet.com/cat/diamond-care/urinary-support-adult-cats/",
+        "title": "Urinary Support Cat Food Formula for Adult Cats | Diamond CARE",
+        "descriptions": null,
+        "key_benefits": [
+            "Reduces pH level in urine for urinary tract health",
+            "Guaranteed levels of omega-6 and omega-3 fatty acids for skin and coat health",
+            "Antioxidants for immune support",
+            "Complete and balanced for everyday, long-term feeding"
+        ],
+        "ingredients": null,
+        "analysis": [
+            "Crude Protein 30.0% Minimum",
+            "Crude Fat 15.0% Minimum",
+            "Crude Fiber 2.0% Maximum",
+            "Moisture 10.0% Maximum",
+            "Phosphorus 1.0% Maximum",
+            "Magnesium 0.1% Maximum",
+            "Zinc 150 mg/kg Minimum",
+            "Selenium 0.3 mg/kg Minimum",
+            "Vitamin E 150 IU/kg Minimum",
+            "Taurine 0.1% Minimum",
+            "Omega-6 Fatty Acids* 2.4% Minimum",
+            "Omega-3 Fatty Acids* 0.4% Minimum"
+        ],
+        "calorie": "3,728 kcal/kg (423 kcal/cup) Calculated Metabolizable Energy"
+    }
+]
