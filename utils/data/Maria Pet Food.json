@@ -1,132 +1,162 @@
 [
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-Chicken-&-Katsuobushi-in-Gravy-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food Chicken & Katsuobushi in Gravy 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets",
+        "key_benefits": null,
         "ingredients": "Chicken,Katsuobushi,Modified Tapioca Starch,uar Gum,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........13%",
             "Crude Fat(min).........1.0%",
             "Crude Fiber(max).........0.5%",
             "Crude Moisture(max).........84.0%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-Chicken-&-Salmon-in-Gravy-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food Chicken & Salmon in Gravy 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets",
+        "key_benefits": null,
         "ingredients": "Chicken,Salmon,Modified Tapioca Starch,Guar Gum,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........13%",
             "Crude Fat(min).........1.0%",
             "Crude Fiber(max).........0.5%",
             "Crude Moisture(max).........84.0%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-Chicken-with-Salmon-in-Gravy-for-Kitten-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food Chicken with Salmon in Gravy for Kitten 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets.",
+        "key_benefits": null,
         "ingredients": "Chicken,Chicken Carcass,Salmon,Modified Tapioca Starch,Guar Gum,Flavour Enhancer,Tuna oil,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........13%",
             "Crude Fat(min).........1.5%",
             "Crude Fiber(max).........0.5%",
             "Crude Moisture(max).........83.0%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-Mackeral-with-Salmon-in-Jelly-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food Mackeral with Salmon in Jelly 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets.",
+        "key_benefits": null,
         "ingredients": "Mackerel,Salmon,Jelly,Fish Boiling,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........12%",
             "Crude Fat(min).........0.5%",
             "Crude Fiber(max).........0.2%",
             "Crude Moisture(max).........85.5%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-Mackeral-with-Squid-in-Jelly-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food Mackeral with Squid in Jelly 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets.",
+        "key_benefits": null,
         "ingredients": "Mackerel,Squid,Jelly,Fish Boiling,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........12%",
             "Crude Fat(min).........0.5%",
             "Crude Fiber(max).........0.2%",
             "Crude Moisture(max).........85.5%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-Ocean-Fish-in-Gravy-for-Kitten-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food Ocean Fish in Gravy for Kitten 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets.",
+        "key_benefits": null,
         "ingredients": "Sardine,Mackerel,Modified Tapioca Starch,Fish Boiling,Guar Gum,Tuna oil,Taurine,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........11%",
             "Crude Fat(min).........1.5%",
             "Crude Fiber(max).........0.5%",
             "Crude Moisture(max).........85.0%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-Sardine-with-Shirasu-in-Gravy-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food Sardine with Shirasu in Gravy 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets.",
+        "key_benefits": null,
         "ingredients": "Sardine,Shirasu,Modified Tapioca Starch,Fish Boiling,Guar Gum,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........10%",
             "Crude Fat(min).........1.5%",
             "Crude Fiber(max).........0.5%",
             "Crude Moisture(max).........86.0%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-Tuna&Salmon-in-Gravy-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food Tuna&Salmon in Gravy 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets.",
+        "key_benefits": null,
         "ingredients": "Tuna White Meat,Salmon,Modified Tapioca Starch,Guar Gum,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........12%",
             "Crude Fat(min).........0.5%",
             "Crude Fiber(max).........0.5%",
             "Crude Moisture(max).........85.5%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Cat-Food-White-Fish-in-Jelly-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Cat Food White Fish in Jelly 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets.",
+        "key_benefits": null,
         "ingredients": "Dory Fillets,Nile Tilapia,Jelly,Fish Boiling,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........6.0%",
             "Crude Fat(min).........0.5%",
             "Crude Fiber(max).........0.2%",
             "Crude Moisture(max).........91.5%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Maria Pet Food",
         "url": "https://manoonpetshop.com/EN/Product%20Detail/Maria-Pouch-Dog-Food-Tuna-and-Shirasu-in-Gravy-70g",
+        "brand": "Maria Pet Food",
         "title": "Maria Pouch Dog Food Tuna and Shirasu in Gravy 70g",
         "descriptions": "Maria products are made from 100% raw meat which prudentially selected. Quality controlled from farm to table to ensure that Maria products are deprived of contaminations, preservations and allergens. We also supplemented with omega-3 fatty acid to improve brain and skin barrier functions, and prebiotics which improve digestive health. Fresh and raw materials are used to keep maintaining high nutrition and palatability for your pets.",
+        "key_benefits": null,
         "ingredients": "Tuna White Meat,Shirasu,Modified Tapioca Starch,Guar Gum,Fructo-oligosaccharide",
         "analysis": [
             "Crude Protein(min).........12%",
             "Crude Fat(min).........0.3%",
             "Crude Fiber(max).........0.5%",
             "Crude Moisture(max).........86.0%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     }
 ]

@@ -22,7 +22,9 @@
             "Moisture: max 76%",
             "Phosphorus: max. 0.3%",
             "Ash: max. 2.0%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://healthyshores.com/cats-wet-food/",
@@ -47,7 +49,9 @@
             "Moisture: max 76%",
             "Phosphorus: max. 0.3%",
             "Ash: max. 2.5%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://healthyshores.com/cats-wet-food/",
@@ -72,7 +76,9 @@
             "Moisture: max 76%",
             "Phosphorus: max. 0.3%",
             "Ash: max. 2.5%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://healthyshores.com/cats-wet-food/",
@@ -97,6 +103,8 @@
             "Moisture: max 78%",
             "Phosphorus: max. 0.2%",
             "Ash: max. 2.5%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     }
 ]

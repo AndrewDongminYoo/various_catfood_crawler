@@ -1,7 +1,7 @@
 [
     {
-        "brand": "TROVET",
         "url": "https://www.trovet.com/en/product/renal-venison-cat/",
+        "brand": "TROVET",
         "title": "Renal (Venison) cat - TROVET",
         "descriptions": [
             "Complete, hypoallergenic dietary food for adult cats with insufficient kidney function",
@@ -21,11 +21,12 @@
             "Calcium (Ca) 0.90 % Phosphorous (P) 0.50 % Sodium (Na) 0.25 % Potassium (K) 0.80 %",
             "Manganese (Mn) 5.7 mg/kg Linoleic acid 3.30 % EPA 0.40 % DHA 0.35 % Taurine 2700 mg/kg"
         ],
+        "additive": null,
         "calorie": "Energy: 16.3MJ/kg - 3903 kcal/kg"
     },
     {
-        "brand": "TROVET",
         "url": "https://www.trovet.com/en/product/urinary-calm-cat/",
+        "brand": "TROVET",
         "title": "Urinary Calm cat - TROVET",
         "descriptions": [
             "Complete dietary food for adult cats to reduce urolithiasis and to promote calmness",
@@ -44,11 +45,12 @@
             "Calcium (Ca) 0.90 % Phosphorous (P) 0.70 % Sodium (Na) 0.85 % Chloride (Cl) 1.80 % Magnesium (Mg) 0.09 % Sulphur (S) 0.50 %",
             "Taurine 2380 mg/kg DL-Methionine 8500 mg/kg Ammonium chloride 1200 %"
         ],
+        "additive": null,
         "calorie": "Energy: 14.5MJ/kg - 3474 kcal/kg"
     },
     {
-        "brand": "TROVET",
         "url": "https://www.trovet.com/product/hepatic-cat/",
+        "brand": "TROVET",
         "title": "Hepatic cat - TROVET",
         "descriptions": "Hepatic is a complete dietary food that can be used for specific liver problems. Given the important role of the liver in the processing of fat and the regulation of lipid metabolism, it is important to provide substances that support the metabolism of the liver. Hepatic is enriched with these so-called lipotropic agents (e.g. L-carnitine, lecithin and choline).",
         "key_benefits": "Supports fat-metabolism by high levels of lipotropic substances (lecithin, choline).",
@@ -59,11 +61,12 @@
             "Calcium (Ca) 1.10 % Phosphorous (P) 0.90 % Sodium (Na) 0.65 % Potassium (K) 0.54 %",
             "Copper (Cu) 20 mg/kg Taurine 1800 mg/kg Lecithin 5000 mg/kg Choline 2200 mg/kg L-carnitine 300 mg/kg"
         ],
+        "additive": null,
         "calorie": "Energy: 15.4MJ/kg - 3675 kcal/kg"
     },
     {
-        "brand": "TROVET",
         "url": "https://www.trovet.com/product/intestinal-cat/",
+        "brand": "TROVET",
         "title": "Intestinal cat - TROVET",
         "descriptions": [
             "Intestinal is a complete dietary food for cats to support the gastrointestinal tract and can also be used as hypoallergenic food. The use of rice as a carbohydrate source makes this food highly digestible and the addition of both fermentable and non-fermentable fibres promote a healthy gastrointestinal tract.",
@@ -82,14 +85,15 @@
             "Calcium (Ca) 1.00 % Phosphorous (P) 0.70 % Sodium (Na) 0.65 % Potassium (K) 0.65 % Magnesium (Mg) 0.08 %",
             "Taurine 1500 mg/kg Omega-3 fatty acids 1.95 % Linoleic acid 3.30 % Alpha linolenic acid 0.70 % DHA 0.60 % EPA 0.65 %"
         ],
+        "additive": null,
         "calorie": "Energy: 16.2MJ/kg - 3873 kcal/kg"
     },
     {
-        "brand": "TROVET",
         "url": "https://www.trovet.com/product/renal-oxalate-cat/",
+        "brand": "TROVET",
         "title": "Renal & Oxalate cat - TROVET",
         "descriptions": [
-            "Renal & Oxalate is specially formulated to meet the requirements of cats with chronic renal failure. The diet is limited in protein and phosphorous, which prevents the accumulation of waste, reduces the stress on the kidneys and ultimately slows down the progression of renal failure. The proteins used are of high quality, in order to meet the amino acids requirements, without leading to excess waste products. Renal & Oxalate’s energy density reduces food volume, to help animals with a loss of appetite to meet their daily energy requirement.",
+            "Renal & Oxalate is specially formulated to meet the requirements of cats with chronic renal failure. The diet is limited in protein and phosphorous, which prevents the accumulation of waste, reduces the stress on the kidneys and ultimately slows down the progression of renal failure. The proteins used are of high quality, in order to meet the amino acids requirements, without leading to excess waste products. Renal & Oxalate\u2019s energy density reduces food volume, to help animals with a loss of appetite to meet their daily energy requirement.",
             "Renal & Oxalate dietary food is also designed to reduce the formation of calcium oxalate. The use of potassium citrate has a urine pH-increasing effect, which reduces the excretion of calcium in urine. In addition, citrate is able to bind calcium, which can reduce the occurrence of calcium oxalate formation in urine."
         ],
         "key_benefits": [
@@ -103,11 +107,12 @@
             "Calcium (Ca) 0.95 % Phosphorous (P) 0.50 % Sodium (Na) 0.40 % Potassium (K) 0.70 % Magnesium (Mg) 0.07 %",
             "Taurine 1800 mg/kg Linoleic acid 6.20 % Alpha linolenic acid 0.70 % Potassium citrate 2800 mg/kg"
         ],
+        "additive": null,
         "calorie": "Energy: 17.2MJ/kg - 4118 kcal/kg"
     },
     {
-        "brand": "TROVET",
         "url": "https://www.trovet.com/product/urinary-struvite-cat/",
+        "brand": "TROVET",
         "title": "Urinary Struvite cat - TROVET",
         "descriptions": "Struvite is a common but well treatable condition. Urinary Struvite is dietary food, specially formulated to prevent the formation of struvite crystals and helps dissolving excisting crystals. Urinary Struvite lowers the urine pH. In combination with the lowered mineral content (magnesium), the reoccurrence is further reduced.",
         "key_benefits": [
@@ -122,11 +127,12 @@
             "Calcium (Ca) 1.00 % Phosphorous (P) 1.00 % Sodium (Na) 0.60 % Potassium (K) 0.56 % Chloride (Cl) 1.80 % Magnesium (Mg) 0.07 % Sulphur (S) 0.32 %",
             "Taurine 1800 mg/kg Ammonium chloride 1.14 %"
         ],
+        "additive": null,
         "calorie": "Ingredients (Dry) rice, poultry meal, poultry fat, corn gluten, fish meal, corn, poultry liver (hydrolysate), yeast, sodium chloride, ammonium chloride, fish oil, lecithin, vitamins and trace elements, choline chloride. Average analysis (per kg) Protein 32.0 % Fat content 23.0 % Inorganic matter 6.8 % Crude fibre 1.5 % Moisture 8.0 % Carbohydrates 28.7 % Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg Calcium (Ca) 1.00 % Phosphorous (P) 1.00 % Sodium (Na) 0.60 % Potassium (K) 0.56 % Chloride (Cl) 1.80 % Magnesium (Mg) 0.07 % Sulphur (S) 0.32 % Taurine 1800 mg/kg Ammonium chloride 1.14 % Energy: 17.1MJ/kg - 4083 kcal/kg Feeding advice (grams per day) Body weight (kg) 2 3 4 5 6 Min (grams) 30 40 45 55 60 Max (grams) 35 50 55 65 75"
     },
     {
-        "brand": "TROVET",
         "url": "https://www.trovet.com/product/weight-diabetic-cat/",
+        "brand": "TROVET",
         "title": "Weight & Diabetic cat - TROVET",
         "descriptions": [
             "Complete dietary food for overweight / diabetic adult cats",
@@ -146,6 +152,7 @@
             "Calcium (Ca) 1.20 % Phosphorous (P) 1.10 % Sodium (Na) 0.45 % Potassium (K) 0.60 %",
             "Iron (Fe) 75 mg/kg Copper (Cu) 10 mg/kg Zinc (Zn) 85 mg/kg Manganese (Mn) 15 mg/kg L-carnitine 150 mg/kg Taurine 1800 mg/kg"
         ],
+        "additive": null,
         "calorie": "Energy: 13.6MJ/kg - 3254 kcal/kg"
     }
 ]

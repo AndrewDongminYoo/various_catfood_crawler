@@ -1,8 +1,8 @@
 [
     {
-        "brand": "TRULINE",
         "url": "https://pero-online.co.uk/collections/truline-cat-food/products/copy-of-truline-cat-meat-fish-variety",
-        "title": "Truline Cat - Fish Variety – Pero (Foods) Ltd",
+        "brand": "TRULINE",
+        "title": "Truline Cat - Fish Variety \u2013 Pero (Foods) Ltd",
         "descriptions": "Fresh and dried fish including mackerel, sardine, salmon, and haddock make up this premium Truline recipe.  Yeast and chicken gravy provide natural flavours that are guaranteed to satisfy even the most particular cats. Dried whole farm eggs provide a supremely digestible protein source promoting overall well-being, as well as providing amino building blocks for muscle development and growth.  Norwegian salmon oil and refined chicken fat enrich the recipe with omega-3 and 6 oils for optimal skin and coat. Oligosaccharides and yucca are added for natural prebiotics, stabilising healthy bacteria in the digestive tract.  Berries and fruits are added for their high antioxidant content, promoting immunity and helping to minimise the risk of disease.",
         "key_benefits": [
             "Ultra Premium Cat Food",
@@ -19,12 +19,13 @@
         "additive": [
             "Additives (per kg): Vitamin A 25,000 IU, Vitamin D3 2,000 IU, Vitamin E 500 mg/kg, Taurine 1,600 mg/kg.",
             "Trace elements: Iron sulphate monohydrate 167 mg, Zinc oxide 139 mg, Manganese oxide 81 mg, Copper sulphate pentahydrate 20 mg, Calcium iodate anhydrous 1.64 mg, Sodium selenite 0.22 mg. Antioxidants."
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "TRULINE",
         "url": "https://pero-online.co.uk/collections/truline-cat-food/products/copy-of-truline-dog-ocean-fish-variety",
-        "title": "Truline Cat - Meat & Fish Variety – Pero (Foods) Ltd",
+        "brand": "TRULINE",
+        "title": "Truline Cat - Meat & Fish Variety \u2013 Pero (Foods) Ltd",
         "descriptions": "Cats are carnivores, and our Truline recipes are packed with animal proteins to ensure health and vitality. With over 70% nutritious animal ingredients, comprised of fresh and dried meat and fish - including turkey, chicken, and salmon.  Truline cat is free from proteins that are commonly considered to cause allergic reactions and dietary sensitivities.  Truline also contains dried whole farm eggs which help provide supremely digestible protein sources to promote overall well-being, as well as providing amino acid building blocks for healthy muscle development and growth.  Norwegian salmon oil and refined chicken fat enrich the recipe providing a balance of the essential omega-3 and 6 oils for optimum skin and coat condition. Naturally occurring vitamins and phytonutrients also promote overall vitality.",
         "key_benefits": [
             "Ultra Premium Cat Food",
@@ -41,6 +42,7 @@
         "additive": [
             "Additives (per kg): Vitamin A 25,000 IU, Vitamin D3 2,000 IU, Vitamin E 500 mg/kg, Taurine 1,600 mg/kg.",
             "Trace elements: Iron sulphate monohydrate 167 mg, Zinc oxide 139 mg, Manganese oxide 81 mg, Copper sulphate pentahydrate 20 mg, Calcium iodate anhydrous 1.64 mg, Sodium selenite 0.22 mg. Antioxidants."
-        ]
+        ],
+        "calorie": null
     }
 ]

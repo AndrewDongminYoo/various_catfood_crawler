@@ -1,8 +1,8 @@
 [
     {
-        "brand": "TIKI CATS",
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-2/",
-        "title": "Tiki Cat® After Dark™ Chicken",
+        "brand": "TIKI CATS",
+        "title": "Tiki Cat\u00ae After Dark\u2122 Chicken",
         "descriptions": "Give cats the real meat they crave with succulent shredded chicken and organ meat in a savory broth.",
         "key_benefits": [
             "Grain & Potato Free",
@@ -16,15 +16,16 @@
             "Crude Fiber (max) 0.7%",
             "Moisture (max) 83%"
         ],
+        "additive": null,
         "calorie": [
             "66 kcal/2.8 oz. can",
             "128 kcal/5.5 oz. can"
         ]
     },
     {
-        "brand": "TIKI CATS",
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-beef/",
-        "title": "Tiki Cat® After Dark™ Chicken & Beef",
+        "brand": "TIKI CATS",
+        "title": "Tiki Cat\u00ae After Dark\u2122 Chicken & Beef",
         "descriptions": "Give cats the real meat they crave with shredded chicken, organ meat and hearty beef in a rich broth.",
         "key_benefits": [
             "Grain & Potato Free",
@@ -38,15 +39,16 @@
             "Crude Fiber (max) 0.7%",
             "Moisture (max) 81%"
         ],
+        "additive": null,
         "calorie": [
             "59 kcal/2.8 oz. can",
             "116 kcal/5.5 oz. can"
         ]
     },
     {
-        "brand": "TIKI CATS",
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-duck/",
-        "title": "Tiki Cat® After Dark™ Chicken & Duck",
+        "brand": "TIKI CATS",
+        "title": "Tiki Cat\u00ae After Dark\u2122 Chicken & Duck",
         "descriptions": "Give cats the real meat they crave with tender shredded chicken, organ meat and duck in a luscious broth.",
         "key_benefits": [
             "Grain & Potato Free",
@@ -60,15 +62,16 @@
             "Crude Fiber (max) 0.7%",
             "Moisture (max) 82%"
         ],
+        "additive": null,
         "calorie": [
             "59 kcal/2.8 oz. can",
             "114 kcal/5.5 oz. can"
         ]
     },
     {
-        "brand": "TIKI CATS",
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-lamb/",
-        "title": "Tiki Cat® After Dark™ Chicken & Lamb",
+        "brand": "TIKI CATS",
+        "title": "Tiki Cat\u00ae After Dark\u2122 Chicken & Lamb",
         "descriptions": "Give cats the real meat they crave with shredded chicken, organ meat and tender lamb in a savory broth.",
         "key_benefits": [
             "Grain & Potato Free",
@@ -82,15 +85,16 @@
             "Crude Fiber (max) 0.6%",
             "Moisture (max) 82%"
         ],
+        "additive": null,
         "calorie": [
             "61 kcal/2.8 oz. can",
             "120 kcal/5.5 oz. can"
         ]
     },
     {
-        "brand": "TIKI CATS",
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-pork/",
-        "title": "Tiki Cat® After Dark™ Chicken & Pork",
+        "brand": "TIKI CATS",
+        "title": "Tiki Cat\u00ae After Dark\u2122 Chicken & Pork",
         "descriptions": "Give cats the real meat they crave with shredded chicken, organ meat and savory pork in a mouthwatering broth.",
         "key_benefits": [
             "Grain & Potato Free",
@@ -104,15 +108,16 @@
             "Crude Fiber (max) 0.6%",
             "Moisture (max) 81%"
         ],
+        "additive": null,
         "calorie": [
             "59 kcal/2.8 oz. can",
             "116 kcal/5.5 oz. can"
         ]
     },
     {
-        "brand": "TIKI CATS",
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-quail/",
-        "title": "Tiki Cat® After Dark™ Chicken & Quail Egg",
+        "brand": "TIKI CATS",
+        "title": "Tiki Cat\u00ae After Dark\u2122 Chicken & Quail Egg",
         "descriptions": "Give cats the real meat they crave with delicious shredded chicken, organ meat and whole quail egg in an enticing broth.",
         "key_benefits": [
             "Grain & Potato Free",
@@ -126,6 +131,7 @@
             "Crude Fiber (max) 0.7%",
             "Moisture (max) 82%"
         ],
+        "additive": null,
         "calorie": [
             " 66 kcal/2.8 oz. can",
             "129 kcal/5.5 oz. can"

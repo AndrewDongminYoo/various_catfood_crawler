@@ -1,9 +1,9 @@
 [
     {
-        "brand": "Specific",
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/adult-fxd-gb",
-        "title": "Everyday Food for Adult Cats - SPECIFIC™",
-        "descriptions": "SPECIFIC™ Adult cat food is a complete and nutritionally balanced food for adult cats. With high levels of Omega-3 from fish; moderate energy, to maintain ideal bodyweight and ingredients to support a healthy urinary tract and to help prevent hairball problems.",
+        "brand": "Specific",
+        "title": "Everyday Food for Adult Cats - SPECIFIC\u2122",
+        "descriptions": "SPECIFIC\u2122 Adult cat food is a complete and nutritionally balanced food for adult cats. With high levels of Omega-3 from fish; moderate energy, to maintain ideal bodyweight and ingredients to support a healthy urinary tract and to help prevent hairball problems.",
         "key_benefits": [
             "It contains high levels of Omega-3 from fish oils for healthy coat, skin and joints.",
             "It is made with highly digestible ingredients.",
@@ -29,14 +29,15 @@
             "Ratio n-3:n-6 1:3 1:3",
             "Water g 7.5 -"
         ],
+        "additive": null,
         "calorie": [
             "Metabolisable Energy kJ 1485",
             "Metabolisable Energy kcal 355"
         ]
     },
     {
-        "brand": "Specific",
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/adult-organic-f-bio-d-gb",
+        "brand": "Specific",
         "title": "Adult Organic",
         "descriptions": "Organic foods are grown without the use of pesticides, herbicides, or chemical fertilizers. Organic livestock is raised without the regular and prophylactic use of antibiotics. Animal welfare is at the heart of the system, providing a truly free-range life for farm animals.",
         "key_benefits": [
@@ -58,17 +59,18 @@
             "Ratio n-3:n-6 1:17 1:17",
             "Water g 8,0"
         ],
+        "additive": null,
         "calorie": "Metabolisable Energy kJ 1526"
     },
     {
-        "brand": "Specific",
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/atlantic-sardine-fqd-f-gb",
+        "brand": "Specific",
         "title": "Atlantic Sardine",
         "descriptions": "A wheat gluten free dry food for cats with Omega3 from 3 different sources",
         "key_benefits": [
-            "MSC approved Atlantic sardine caught with the lower impact ring netting system – a system that reduces by-catch; seabed damage and fuel use",
+            "MSC approved Atlantic sardine caught with the lower impact ring netting system \u2013 a system that reduces by-catch; seabed damage and fuel use",
             "MSC approved krill a superior source of omega-3 fatty acids with significantly improved cell absorption",
-            "Contains Algae – a novel and sustainable source of omega-3",
+            "Contains Algae \u2013 a novel and sustainable source of omega-3",
             "Wheat gluten free"
         ],
         "ingredients": "Fresh sardine, maize, fish meal, maize protein, rice, cellulose powder, pork fat, animal protein hydrolysate, egg powder, yeast, minerals, Antarctic krill, vitamins and trace elements (including chelated trace elements), algae meal, psyllium husk, taurine, Yucca powder. With natural antioxidants (tocopherols and vitamin C).",
@@ -86,13 +88,14 @@
             "Ratio n-3:n-6 1:5 1:5",
             "Water g 8.0"
         ],
+        "additive": null,
         "calorie": "Metabolisable Energy kJ\t1565"
     },
     {
-        "brand": "Specific",
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/kitten-fpd-gb",
-        "title": "Dry Food for Kittens - SPECIFIC™",
-        "descriptions": "SPECIFIC™ Kitten food is a complete and nutritionally balanced dry food for kittens. With high levels of protein vitamins and minerals for growing kittens and Omega-3 from fish oils supporting brain and eye development.",
+        "brand": "Specific",
+        "title": "Dry Food for Kittens - SPECIFIC\u2122",
+        "descriptions": "SPECIFIC\u2122 Kitten food is a complete and nutritionally balanced dry food for kittens. With high levels of protein vitamins and minerals for growing kittens and Omega-3 from fish oils supporting brain and eye development.",
         "key_benefits": [
             "It is nutritionally concentrated so even with their small stomachs kittens can get the energy they need.",
             "It is made with highly digestible ingredients.",
@@ -115,16 +118,17 @@
             "Ratio n-3:n-6 1:4 1:3",
             "Water g 7.3"
         ],
+        "additive": null,
         "calorie": [
             "Metabolisable Energy kJ 1751",
             "Metabolisable Energy kcal 418"
         ]
     },
     {
-        "brand": "Specific",
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/neutered-young-fnd-gb",
-        "title": "Cat Food for Neutered Young Cats - SPECIFIC™",
-        "descriptions": "Neutering can increase appetite at the same time as reducing the calories needed creating a risk of weight gain. SPECIFIC™ Neutered Kitten food is a complete dry food for neutered kittens with moderate energy, to maintain ideal bodyweight; high levels of Omega-3 from fish; and ingredients to support a healthy urinary tract and to help prevent hairball problems.",
+        "brand": "Specific",
+        "title": "Cat Food for Neutered Young Cats - SPECIFIC\u2122",
+        "descriptions": "Neutering can increase appetite at the same time as reducing the calories needed creating a risk of weight gain. SPECIFIC\u2122 Neutered Kitten food is a complete dry food for neutered kittens with moderate energy, to maintain ideal bodyweight; high levels of Omega-3 from fish; and ingredients to support a healthy urinary tract and to help prevent hairball problems.",
         "key_benefits": [
             "It has reduced calorie levels, to allow for the lower metabolic rate of neutered kittens, and so maintain a healthy bodyweight.",
             "It has increased level of protein, vitamins and minerals to meet the needs of growing kittens.",
@@ -147,16 +151,17 @@
             "Ratio n-3:n-6 1:3 1:3",
             "Water g 7.4"
         ],
+        "additive": null,
         "calorie": [
             "Metabolisable Energy kJ 1480",
             "Metabolisable Energy kcal 353"
         ]
     },
     {
-        "brand": "Specific",
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/senior-fgd-gb",
-        "title": "Senior Cat Food - SPECIFIC™",
-        "descriptions": "SPECIFIC™ Senior cat food is a complete and nutritionally balanced food for older cats. With nutrients to support heart, kidney and liver function and joint mobility. Made from highly palatable and highly digestible ingredients this will help keep your cat fit and active throughout their senior years.",
+        "brand": "Specific",
+        "title": "Senior Cat Food - SPECIFIC\u2122",
+        "descriptions": "SPECIFIC\u2122 Senior cat food is a complete and nutritionally balanced food for older cats. With nutrients to support heart, kidney and liver function and joint mobility. Made from highly palatable and highly digestible ingredients this will help keep your cat fit and active throughout their senior years.",
         "key_benefits": [
             "It contains high levels of Omega-3 from fish oils for healthy coat, skin and joints.",
             "It is made with highly digestible ingredients.",
@@ -189,6 +194,7 @@
             "Ratio n-3:n-6 1:4 1:4",
             "Water g 6.8"
         ],
+        "additive": null,
         "calorie": [
             "Metabolisable Energy kJ 1641",
             "Metabolisable Energy kcal 392"

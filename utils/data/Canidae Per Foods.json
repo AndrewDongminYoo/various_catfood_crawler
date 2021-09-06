@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Canidae Per Foods",
         "url": "https://www.canidae.com/cat_goodness#product3tab1",
+        "brand": "Canidae Per Foods",
         "title": "Real Salmon Limited Ingredient Diet",
         "descriptions": [
             "Real Salmon #1 Ingredient",
@@ -9,6 +9,7 @@
             "Simple recipes for Sensitive Cats",
             "Made with whole foods for Gentle Digestion"
         ],
+        "key_benefits": null,
         "ingredients": "Salmon, salmon meal, menhaden fish meal, potatoes, peas, canola oil, sweet potatoes, natural flavor, minerals (zinc proteinate, manganese proteinate, copper proteinate, zinc sulfate, manganese sulfate, copper sulfate, potassium iodide, manganous oxide, sodium selenite), vitamins (vitamin E supplement, niacin, thiamine mononitrate, vitamin A supplement, biotin, calcium pantothenate, menadione sodium bisulfite complex, riboflavin, pyridoxine hydrochloride (vitamin B6), vitamin B12 supplement",
         "analysis": [
             "Crude Protein (MIN) 32.00%",
@@ -20,11 +21,13 @@
             "Vitamin E (MIN) 50.00 IU/kg",
             "Taurine* (MIN) 0.15%",
             "Lactobacillus Acidophilus (min.)** 100 million CFU/lb"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Canidae Per Foods",
         "url": "https://www.canidae.com/cat_goodness#product3tab2",
+        "brand": "Canidae Per Foods",
         "title": "Real Trout Limited Ingredient Diet",
         "descriptions": [
             "Real Trout Limited Ingredient Diet",
@@ -33,6 +36,7 @@
             "Simple recipes for Sensitive Cats",
             "Made with whole foods for Gentle Digestion"
         ],
+        "key_benefits": null,
         "ingredients": "Trout, salmon meal, menhaden fish meal, peas, potatoes, canola oil, sweet potatoes, natural flavor, minerals (zinc proteinate, manganese proteinate, copper proteinate, zinc sulfate, manganese sulfate, copper sulfate, potassium iodide, manganous oxide, sodium selenite), vitamins (vitamin E supplement, niacin, thiamine mononitrate, vitamin A supplement, biotin, calcium pantothenate, menadione sodium bisulfite complex, riboflavin, pyridoxine hydrochloride (vitamin B6), vitamin B12 supplement",
         "analysis": [
             "Crude Protein (MIN) 32.00%",
@@ -44,11 +48,13 @@
             "Vitamin E (MIN) 50.00 IU/kg",
             "Taurine* (MIN) 0.15%",
             "Lactobacillus Acidophilus (min.)** 100 million CFU/lb"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Canidae Per Foods",
         "url": "https://www.canidae.com/cat_goodness#product3tab3",
+        "brand": "Canidae Per Foods",
         "title": "Real Tuna Limited Ingredient Die",
         "descriptions": [
             "Real Tuna Limited Ingredient Diet",
@@ -57,6 +63,7 @@
             "Simple recipes for Sensitive Cats",
             "Made with whole foods for Gentle Digestion"
         ],
+        "key_benefits": null,
         "ingredients": "Tuna, salmon meal, menhaden fish meal, lentils, chickpeas, sweet potatoes, suncured alfalfa, canola oil, natural flavor, minerals (zinc proteinate, manganese proteinate, copper proteinate, zinc sulfate, manganese sulfate, copper sulfate, potassium iodide, manganous oxide, sodium selenite), vitamins (vitamin E supplement, niacin, thiamine mononitrate, vitamin A supplement, biotin, calcium pantothenate, menadione sodium bisulfite complex, riboflavin, pyridoxine hydrochloride (vitamin B6), vitamin",
         "analysis": [
             "Crude Protein (MIN) 36.00%",
@@ -68,11 +75,13 @@
             "Vitamin E (MIN) 50.00 IU/kg",
             "Taurine* (MIN) 0.15%",
             "Lactobacillus Acidophilus (min.)** 100 million CFU/lb"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Canidae Per Foods",
         "url": "https://www.canidae.com/cat_goodness#product3tab4",
+        "brand": "Canidae Per Foods",
         "title": "tReal Chicken Limited Ingredient Diet",
         "descriptions": [
             "Real Chicken #1 Ingredient",
@@ -80,6 +89,7 @@
             "Simple recipes for Sensitive Cats",
             "Made with whole foods for Gentle Digestion"
         ],
+        "key_benefits": null,
         "ingredients": "Chicken, chicken meal, turkey meal, potatoes, peas, chicken fat, lamb meal, menhaden fish meal, natural flavor, minerals (zinc proteinate, manganese proteinate, copper proteinate, zinc sulfate, manganese sulfate, copper sulfate, potassium iodide, manganous oxide, sodium selenite), vitamins (vitamin E supplement, niacin, thiamine mononitrate, vitamin A supplement, biotin, calcium pantothenate, riboflavin, pyridoxine hydrochloride (vitamin B6), vitamin B12 supplement, vitamin D3 supplement, folic acid), choline chloride, DL-methionine, taurine, salmon oil, mixed tocopherols (a preservative), dried enterococcus faecium fermentation product, dried lactobacillus acidophilus fermentation product, dried lactobacillus casei fermentation product, dried lactobacillus plantarum fermentation product, dried trichoderma longibrachiatum fermentation extract. Contains a source of live naturally occurring microorganisms.",
         "analysis": [
             "Crude Protein (MIN) 35.00%",
@@ -91,6 +101,8 @@
             "Vitamin E (MIN) 50.00 IU/kg",
             "Taurine* (MIN) 0.15%",
             "Lactobacillus Acidophilus (min.)** 100 million CFU/lb"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     }
 ]

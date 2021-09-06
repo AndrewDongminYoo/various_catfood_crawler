@@ -1,4 +1,7 @@
 {
+    "url": null,
+    "brand": null,
+    "title": null,
     "descriptions": "Economy Cat Food is proudly made in Canada and provides 100% complete and balanced nutrition for adult cats",
     "key_benefits": [
         "- Cats LOVE the taste!",
@@ -7,6 +10,6 @@
     ],
     "ingredients": "Ground Yellow Corn, Poultry By-Product Meal, Wheat Shorts, Soybean Meal, Corn Gluten Meal, Animal Fat Preserved With Mixed Tocopherols (Form Of Vitamin E), Calcium Carbonate, Natural Chicken Flavour, Salt, Vitamins (Vitamin E, Niacin, Vitamin A, Calcium Pantothenate, Thiamine Mononitrate, Riboflavin, Pyridoxine Hydrochloride, Menadione Sodium Bisulfate Complex (Source Of Vitamin K Activity), Biotin, Vitamin D, Vitamin B12, Calcium Iodate, Folic Acid), Minerals (Ferrous Sulphate, Zinc Oxide, Sodium Selenite, Copper Sulphate, Manganous Oxide, Cobalt Carbonate) Phosphoric Acid, Taurine, DL Methionine, Choline Chloride, Potassium Chloride",
     "analysis": "",
-    "additives": "",
+    "additive": null,
     "calorie": ""
 }

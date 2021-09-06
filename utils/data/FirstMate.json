@@ -1,9 +1,9 @@
 [
     {
-        "brand": "FirstMate",
         "url": "https://firstmate.com/product/cage-free-chicken-wild-tuna-50-50-formula-cats-24-cans/",
+        "brand": "FirstMate",
         "title": "Free Run Chicken/Wild Tuna Formula for Dogs | FirstMate",
-        "descriptions": "FirstMate’s Cage-Free Chicken & Wild Tuna formula uses cage free, Canadian chicken along with wild caught, North American, Albacore tuna sourced from sustainable fisheries. This Grain & Pea Free, dual protein formula is ideal for everyday feeding or for those with food sensitivities.",
+        "descriptions": "FirstMate\u2019s Cage-Free Chicken & Wild Tuna formula uses cage free, Canadian chicken along with wild caught, North American, Albacore tuna sourced from sustainable fisheries. This Grain & Pea Free, dual protein formula is ideal for everyday feeding or for those with food sensitivities.",
         "key_benefits": [
             "FAMILY OWNED & OPERATED SINCE 1989",
             "COMPLETE PRODUCTION CONTROL",
@@ -31,11 +31,12 @@
             "Taurine (min) 0.05% Calcium / Phosphorous ratio 1.3:1",
             "ME (Calculated) 936 | 146 kcal/156g can"
         ],
+        "additive": null,
         "calorie": "ME (Calculated) 936 | 146 kcal/156g can"
     },
     {
-        "brand": "FirstMate",
         "url": "https://firstmate.com/product/cage-free-duck-blueberries/",
+        "brand": "FirstMate",
         "title": "Cage Free Duck Meal & Blueberries Formula for cats | FirstMate Pet Foods",
         "descriptions": "FirstMate Duck Meal With Blueberries Formula is a complete and nutritionally balanced food for cats at all life stages. This Limited Ingredient, pea free diet is easy on digestion and highly palatable.",
         "key_benefits": [
@@ -52,7 +53,7 @@
             "Blueberries",
             "Brewer's Yeast",
             "Choline Chloride",
-            "DL–Methionine",
+            "DL\u2013Methionine",
             "Salt",
             "Minerals",
             "(Zinc Proteinate Iron Proteinate Calcium Carbonate Manganese Proteinate Copper Proteinate Sodium selenite Calcium Iodate)",
@@ -72,12 +73,13 @@
             "Calcium / Phosphorous ratio 1.5:1",
             "ME (calculated) = 3430 kcal/kg, 530 kcal/cup"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 3430 kcal/kg, 530 kcal/cup"
     },
     {
-        "brand": "FirstMate",
         "url": "https://firstmate.com/product/cage-free-turkey-wild-tuna-50-50-formula-for-cats-5-5oz-24-cans/",
-        "title": "Cage-free Turkey & Wild Tuna 50/50 Formula for Cats 5.5oz – 24 Cans | FirstMate Pet Foods",
+        "brand": "FirstMate",
+        "title": "Cage-free Turkey & Wild Tuna 50/50 Formula for Cats 5.5oz \u2013 24 Cans | FirstMate Pet Foods",
         "descriptions": "FirstMate 50/50 Turkey & Tuna Formula Grain-Free Canned Cat Food combines free-run Canadian turkey along with wild-caught, North American Albacore tuna sourced from sustainable fisheries. This grain-free, gluten-free, dual-protein formula is ideal for maintenance feeding and provides a great meal for cats with food sensitivities.",
         "key_benefits": [
             "FAMILY OWNED & OPERATED SINCE 1989",
@@ -111,11 +113,12 @@
             "Taurine (min) 0.05% Calcium / Phosphorous ratio 1.5:1.0",
             "ME (Calculated) = 933 | 146 kcal/156g can"
         ],
+        "additive": null,
         "calorie": "ME (Calculated) = 933 | 146 kcal/156g can"
     },
     {
-        "brand": "FirstMate",
         "url": "https://firstmate.com/product/chicken-meal-with-blueberries-formula-for-cats/",
+        "brand": "FirstMate",
         "title": "Chicken Meal With Blueberries Formula for Cats | FirstMate",
         "descriptions": "Our Chicken with Blueberries uses free run, cage-free chicken as a single meat protein with a high inclusion of blueberries for their antioxidant benefits. This formula is ideal for cats and kittens of all life stages, everyday feeding and sensitivities. This formula is free of any peas, flax, and fish.",
         "key_benefits": [
@@ -131,7 +134,7 @@
             "Chicken Fat",
             "Whole Blueberries",
             "Phosphoric acid",
-            "DL–Methionine",
+            "DL\u2013Methionine",
             "Minerals",
             "(Zinc Proteinate Iron Proteinate Calcium Carbonate Manganese Proteinate Copper Proteinate Sodium selenite Calcium Iodate)",
             "Vitamins",
@@ -153,11 +156,12 @@
             "Calcium / Phosphorous ratio 1.7:1",
             "ME (calculated): 3530 kcal/kg | 547 kcal/cup"
         ],
+        "additive": null,
         "calorie": "ME (calculated): 3530 kcal/kg | 547 kcal/cup"
     },
     {
-        "brand": "FirstMate",
         "url": "https://firstmate.com/product/pacific-ocean-fish-meal-with-blueberries-formula-for-cats/",
+        "brand": "FirstMate",
         "title": "Pacific Ocean Fish Meal With Blueberries for Cats | FirstMate",
         "descriptions": "This formula is ideal for cats and kittens of all-life-stages. We use wild caught herring, anchovies and sardines as the primary source of protein. The full fish is used rather than heads and frames. Our Pacific Ocean Fish With Blueberries is rich in antioxidants, low in ash and magnesium. It is also free of peas, flax and chicken protein.",
         "key_benefits": [
@@ -181,7 +185,7 @@
             "Calcium Propionate",
             "Yeast Extract",
             "Kale",
-            "DL–Methionine",
+            "DL\u2013Methionine",
             "Taurine",
             "Rosemary extract"
         ],
@@ -194,13 +198,14 @@
             "Calcium / Phosphorous ratio 1.6:1",
             "ME (calculated) 3700 kcal/kg and 574 kcal/cup"
         ],
+        "additive": null,
         "calorie": "ME (calculated) 3700 kcal/kg and 574 kcal/cup"
     },
     {
-        "brand": "FirstMate",
         "url": "https://firstmate.com/product/wild-salmon-wild-tuna-50-50-formula-cats-24-cans/",
+        "brand": "FirstMate",
         "title": "Wild Salmon Wild/Tuna Formula for Dogs | FirstMate Pet Foods",
-        "descriptions": "FirstMate’s Wild Salmon & Wild Tuna formula uses wild caught, food grade salmon along with wild caught, North American, Albacore tuna sourced from sustainable fisheries. This Grain & Pea Free, dual protein formula is ideal for everyday feeding or for those with food sensitivities.",
+        "descriptions": "FirstMate\u2019s Wild Salmon & Wild Tuna formula uses wild caught, food grade salmon along with wild caught, North American, Albacore tuna sourced from sustainable fisheries. This Grain & Pea Free, dual protein formula is ideal for everyday feeding or for those with food sensitivities.",
         "key_benefits": [
             "FAMILY OWNED & OPERATED SINCE 1989",
             "COMPLETE PRODUCTION CONTROL",
@@ -228,6 +233,7 @@
             "Taurine (min) 0.05% Calcium / Phosphorous ratio 1.5:1",
             "ME (Calculated) 936 | 146 kcal/156g can"
         ],
+        "additive": null,
         "calorie": "ME (Calculated) 936 | 146 kcal/156g can"
     }
 ]

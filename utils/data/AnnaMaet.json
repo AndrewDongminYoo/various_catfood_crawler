@@ -1,7 +1,7 @@
 [
     {
-        "brand": "AnnaMaet",
         "url": "https://annamaet.com/products/feline-sustain-no-29/",
+        "brand": "AnnaMaet",
         "title": "FELINE SUSTAIN NO. 29 - Annamaet Pet Foods",
         "descriptions": "In dedication to green business practices and support of a more sustainable future, Feline Sustain No. 29 is formulated with two certified, sustainable sources of fish.  This grain free, fresh meat formula contains added prebiotics and probiotics as well as a natural source of antioxidants from blueberries and cranberries.  Feline Sustain No. 29 is also MSC certified, ensuring that this sustainably sourced fish is traceable from boat right to the bag! A portion of the profit for each MSC certified bag sold goes to helping protect the productivity and health of our oceans.",
         "key_benefits": [
@@ -9,7 +9,7 @@
             "Formulated with turmeric, a powerful and natural anti-inflammatory that has shown promise in ameliorating the clinical signs associated with arthritis",
             "Contains chelated minerals to support optimum mineral absorption",
             "Added taurine, an essential nutrient for cats which is critical for healthy vision, GI function, the heart, and immune system.",
-            "Annamaet Feline Sustain No. 29 was reformulated 29 times by our two nutritionists on staff in order to ensure highest quality and best palatability – hence the name!"
+            "Annamaet Feline Sustain No. 29 was reformulated 29 times by our two nutritionists on staff in order to ensure highest quality and best palatability \u2013 hence the name!"
         ],
         "ingredients": "Cod, Turkey Meal, Whitefish Meal, Chickpeas, Tapioca, Green Peas, Chicken Fat (Preserved with Mixed Tocopherols), Dried Eggs, Pea Protein Isolate, Menhaden Oil (Preserved with Mixed Tocopherols), Natural Flavor, Dried Cranberries, Dried Blueberries, Turmeric, Taurine, Lecithin, Choline Chloride, DL Methionine, L-Lysine, Potassium Chloride, Sodium Chloride, Lactobacillus Acidophilus Fermentation Product Dehydrated, Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Biotin, Vitamin A Acetate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin B12 Supplement, Vitamin D3 Supplement, Folic Acid, Magnesium Sulfate, Potassium Chloride, Zinc Proteinate, Iron Proteinate, Manganese Proteinate, Copper Proteinate, Sodium Selenite, Calcium Iodate, Yucca Schidigera Extract.",
         "analysis": [
@@ -41,13 +41,14 @@
             "Omega 6 Fatty Acids % 3.01 3.27",
             "Taurine % 0.30 0.33"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy, as fed Metabolizable Energy, as fed, (calculated) 3618 kcal/kg = 1641 kcal/lb = 458 kcal/cup"
     },
     {
-        "brand": "AnnaMaet",
         "url": "https://annamaet.com/products/grain-free-feline/",
+        "brand": "AnnaMaet",
         "title": "Annamaet Grain Free Feline Formula | The Peak in Pet Nutrition Since 1986",
-        "descriptions": "Made with chicken and fish, this grain free, high protein formula stays loyal to the cat’s carnivorous background.  Annamaet’s Grain Free Feline formula contains natural sources of antioxidants from blueberries and cranberries as well as specially coated Vitamin-C.  Its optimal protein and fat blend encourages healthy skin and coat.  Annamaet Grain Free Feline is formulated to meet the nutritional levels established by the AAFCO cat food nutrient profiles for “ALL LIFE STAGES” (Gestation, Lactation, Growth, and Maintenance).",
+        "descriptions": "Made with chicken and fish, this grain free, high protein formula stays loyal to the cat\u2019s carnivorous background.  Annamaet\u2019s Grain Free Feline formula contains natural sources of antioxidants from blueberries and cranberries as well as specially coated Vitamin-C.  Its optimal protein and fat blend encourages healthy skin and coat.  Annamaet Grain Free Feline is formulated to meet the nutritional levels established by the AAFCO cat food nutrient profiles for \u201cALL LIFE STAGES\u201d (Gestation, Lactation, Growth, and Maintenance).",
         "key_benefits": [
             "Cranberries are a powerful antioxidant that support urinary tract health",
             "Contains chelated minerals to support optimum mineral absorption",
@@ -83,13 +84,14 @@
             "Omega 6 Fatty Acids % 4.33 4.68",
             "Taurine % 0.20 0.22"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy, as fed Metabolizable Energy, as fed, 4149 kcal/kg = 1886 Kcal/lb = 472 kcal/cup."
     },
     {
-        "brand": "AnnaMaet",
         "url": "https://annamaet.com/products/original-feline/",
+        "brand": "AnnaMaet",
         "title": "ORIGINAL FELINE - Annamaet Pet Foods",
-        "descriptions": "Designed for all stages of life, our Original Feline formula has been developed to meet the standards of even the most finicky cats.  With its added herring, Annamaet Catfood is known for its exceptional palatability. Annamaet’s Original Feline formula contains natural sources of antioxidants from blueberries and cranberries as well as specially coated Vitamin-C.  It is formulated to meet the nutritional levels established by the AAFCO cat food nutrient profiles for “ALL LIFE STAGES” (Gestation, Lactation, Growth and Maintenance).",
+        "descriptions": "Designed for all stages of life, our Original Feline formula has been developed to meet the standards of even the most finicky cats.  With its added herring, Annamaet Catfood is known for its exceptional palatability. Annamaet\u2019s Original Feline formula contains natural sources of antioxidants from blueberries and cranberries as well as specially coated Vitamin-C.  It is formulated to meet the nutritional levels established by the AAFCO cat food nutrient profiles for \u201cALL LIFE STAGES\u201d (Gestation, Lactation, Growth and Maintenance).",
         "key_benefits": [
             "Cranberries are a powerful antioxidant that support urinary tract health",
             "Contains chelated minerals to support optimum mineral absorption",
@@ -125,6 +127,7 @@
             "Omega 6 Fatty Acids % 3.85 4.16",
             "Taurine % 0.20 0.22"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy, as fed Metabolizable Energy, as fed, 4022 kcal/kg = 1828 kcal/lb = 400 kcal/cup."
     }
 ]

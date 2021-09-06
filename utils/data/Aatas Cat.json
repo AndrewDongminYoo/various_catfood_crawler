@@ -1,10 +1,10 @@
 [
     {
-        "brand": "Aatas Cat",
         "url": "https://www.aatascat.com/tantalizingtunachicken",
+        "brand": "Aatas Cat",
         "title": "TANTALIZING TUNA & CHICKEN",
         "descriptions": [
-            "Aatas Cat canned food is a great way to introduce variety to your cat’s diet, in addition to providing an alternate source of water for healthy hydration!",
+            "Aatas Cat canned food is a great way to introduce variety to your cat\u2019s diet, in addition to providing an alternate source of water for healthy hydration!",
             "Savor the delectable freshness of Tuna, caught in an environmental-friendly way, and topped with shreds of slow-cooked Chicken.",
             "Aatas Cat Tantalizing Tuna series is a complementary pet food for adult cats. Feed alongside Aatas Cat Dry Food, for a complete and balanced diet."
         ],
@@ -20,17 +20,18 @@
             "Ash (max) - 2.0%",
             "Moisture (max) - 89.0%"
         ],
+        "additive": null,
         "calorie": [
             "480 kcal/kg ME as-fed,",
             "38.4 kcal/can"
         ]
     },
     {
-        "brand": "Aatas Cat",
         "url": "https://www.aatascat.com/tantalizingtunasalmon",
+        "brand": "Aatas Cat",
         "title": "TANTALIZING TUNA & SALMON",
         "descriptions": [
-            "Aatas Cat canned food is a great way to introduce variety to your cat’s diet, in addition to providing an alternate source of water for healthy hydration!",
+            "Aatas Cat canned food is a great way to introduce variety to your cat\u2019s diet, in addition to providing an alternate source of water for healthy hydration!",
             "Savor the delectable freshness of Tuna, caught in an environmental-friendly way, and topped with shreds of slow-cooked Salmon.",
             "Aatas Cat Tantalizing Tuna series is a complementary pet food for adult cats. Feed alongside Aatas Cat Dry Food, for a complete and balanced diet."
         ],
@@ -46,17 +47,18 @@
             "Ash (max) - 3.0%",
             "Moisture (max) - 89.0%"
         ],
+        "additive": null,
         "calorie": [
             "470 kcal/kg ME as-fed,",
             "36.7 kcal/can"
         ]
     },
     {
-        "brand": "Aatas Cat",
         "url": "https://www.aatascat.com/tantalizingtunasnapper",
+        "brand": "Aatas Cat",
         "title": "TANTALIZING TUNA & SNAPPER",
         "descriptions": [
-            "Aatas Cat canned food is a great way to introduce variety to your cat’s diet, in addition to providing an alternate source of water for healthy hydration!",
+            "Aatas Cat canned food is a great way to introduce variety to your cat\u2019s diet, in addition to providing an alternate source of water for healthy hydration!",
             "Savor the delectable freshness of Tuna, caught in an environmental-friendly way, and topped with shreds of slow-cooked Snapper.",
             "Aatas Cat Tantalizing Tuna series is a complementary pet food for adult cats. Feed alongside Aatas Cat Dry Food, for a complete and balanced diet."
         ],
@@ -72,17 +74,18 @@
             "Ash (max) - 3.0%",
             "Moisture (max) - 89.0%"
         ],
+        "additive": null,
         "calorie": [
             "470 kcal/kg ME as-fed,",
             "36.7 kcal/can"
         ]
     },
     {
-        "brand": "Aatas Cat",
         "url": "https://www.aatascat.com/tantalizingtunasquid",
+        "brand": "Aatas Cat",
         "title": "TANTALIZING TUNA & SQUID",
         "descriptions": [
-            "Aatas Cat canned food is a great way to introduce variety to your cat’s diet, in addition to providing an alternate source of water for healthy hydration!",
+            "Aatas Cat canned food is a great way to introduce variety to your cat\u2019s diet, in addition to providing an alternate source of water for healthy hydration!",
             "Savor the delectable freshness of Tuna, caught in an environmental-friendly way, and topped with pieces of slow-cooked Squid.",
             "Aatas Cat Tantalizing Tuna series is a complementary pet food for adult cats. Feed alongside Aatas Cat Dry Food, for a complete and balanced diet."
         ],
@@ -98,17 +101,18 @@
             "Ash (max) - 3.0%",
             "Moisture (max) - 89.0%"
         ],
+        "additive": null,
         "calorie": [
             "470 kcal/kg ME as-fed,",
             "36.7 kcal/can"
         ]
     },
     {
-        "brand": "Aatas Cat",
         "url": "https://www.aatascat.com/tantalizingtunatilapia",
+        "brand": "Aatas Cat",
         "title": "TANTALIZING TUNA & TILAPIA",
         "descriptions": [
-            "Aatas Cat canned food is a great way to introduce variety to your cat’s diet, in addition to providing an alternate source of water for healthy hydration!",
+            "Aatas Cat canned food is a great way to introduce variety to your cat\u2019s diet, in addition to providing an alternate source of water for healthy hydration!",
             "Savor the delectable freshness of Tuna, caught in an environmental-friendly way, and topped with shreds of slow-cooked Tilapia.",
             "Aatas Cat Tantalizing Tuna series is a complementary pet food for adult cats. Feed alongside Aatas Cat Dry Food, for a complete and balanced diet."
         ],
@@ -124,6 +128,7 @@
             "Ash (max) - 2.0%",
             "Moisture (max) - 89.0%"
         ],
+        "additive": null,
         "calorie": [
             "480 kcal/kg ME as-fed,",
             "38.4 kcal/can"

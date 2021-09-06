@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Canada Fresh",
         "url": "https://petkind.com/products/canada-fresh-beef",
+        "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Beef Formula - PetKind Pet Products",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy. ",
         "key_benefits": [
@@ -13,14 +13,15 @@
         ],
         "ingredients": "Beef, beef broth, peas, tri-calcium phosphate, agar-agar, calcium carbonate, potassium chloride, salmon oil, choline chloride, salt, taurine, L-ascorbyl-2-polyphosphate (source of vitamin C), zinc proteinate, vitamin E supplement, ferrous sulfate, iron proteinate, zinc sulfate, niacin supplement, thiamine mononitrate, copper proteinate, vitamin A supplement, selenium yeast, manganese sulfate, manganese proteinate, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, biotin, vitamin D3 supplement, vitamin B12, calcium iodate, folic acid",
         "analysis": "Crude Protein (min): 9.5% Crude Fat (min): 8.5% Crude Fiber (max):1.00% Moisture (max):78.00% *Ash (max):1.0% Calcium:0.67% Phosphorus:0.35% Magnesium: 0.02% Potassium: 0.14% Sodium: 0.10%",
+        "additive": null,
         "calorie": [
             "13 oz: 411 kcals/can - 111.5 kcals/100g ME",
             "5.5oz: 173 kcals/can - 111.5 kcals/100g ME"
         ]
     },
     {
-        "brand": "Canada Fresh",
         "url": "https://petkind.com/products/canada-fresh-chicken-1",
+        "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Chicken Formula - PetKind Pet Products",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy. ",
         "key_benefits": [
@@ -32,11 +33,12 @@
         ],
         "ingredients": "Chicken, chicken broth, peas, tri-calcium phosphate, agar-agar, calcium carbonate, salmon oil, choline chloride, salt, taurine, L-ascorbyl-2-polyphosphate (source of vitamin C), zinc proteinate, vitamin E supplement, ferrous sulfate, iron proteinate, zinc sulfate, niacin supplement, thiamine mononitrate, copper proteinate, vitamin A supplement, selenium yeast, manganese sulfate, manganese proteinate, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, biotin, vitamin D3 supplement, vitamin B12, calcium iodate, folic acid",
         "analysis": "Crude Protein (min): 9.0% Crude Fat (min): 7.5% Crude Fiber (max):1.00% Moisture (max):78.00% *Ash (max):1.0% Calcium:0.78% Phosphorus:0.55% Magnesium: 0.03% Potassium: 0.20% Sodium: 0.10%",
+        "additive": null,
         "calorie": "13 oz: 411 kcals/can - 111.5 kcals/100g ME 5.5oz: 173 kcals/can - 111.5 kcals/100g ME"
     },
     {
-        "brand": "Canada Fresh",
         "url": "https://petkind.com/products/canada-fresh-duck-1",
+        "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Duck Formula - PetKind Pet Products",
         "descriptions": [
             "Exceptional Canadian cat food made with only the best ingredients.",
@@ -56,11 +58,12 @@
         ],
         "ingredients": "Duck, Duck Broth, peas, calcium carbonate, agar-agar, tri-calcium phosphate, salmon oil, choline chloride, salt, taurine, L-ascorbyl-2-polyphosphate (source of vitamin C), zinc proteinate, vitamin E supplement, ferrous sulfate, iron proteinate, zinc sulfate, niacin supplement, thiamine mononitrate, copper proteinate, vitamin A supplement, selenium yeast, manganese sulfate, manganese proteinate, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, biotin, vitamin D3 supplement, vitamin B12, calcium iodate, folic acid",
         "analysis": "Crude Protein (min): 8.0% Crude Fat (min): 7.5% Crude Fiber (max):1.00% Moisture (max):78.00% *Ash (max):1.0% Calcium:0.8% Phosphorus:0.5% Magnesium: 0.03% Potassium: 0.24% Sodium: 0.11%",
+        "additive": null,
         "calorie": "13 oz: 411 kcals/can - 111.5 kcals/100g ME 5.5oz: 173 kcals/can - 111.5 kcals/100g ME"
     },
     {
-        "brand": "Canada Fresh",
         "url": "https://petkind.com/products/canada-fresh-lamb-1",
+        "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Lamb Formula - PetKind Pet Products",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy.",
         "key_benefits": [
@@ -72,11 +75,12 @@
         ],
         "ingredients": "Lamb, lamb broth, peas, tri-calcium phosphate, agar-agar, calcium carbonate, salmon oil, choline chloride, potassium chloride, salt, taurine, L-ascorbyl-2-polyphosphate (source of vitamin C), zinc proteinate, vitamin E supplement, ferrous sulfate, iron proteinate, zinc sulfate, niacin supplement, thiamine mononitrate, copper proteinate, vitamin A supplement, selenium yeast, manganese sulfate, manganese proteinate, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, biotin, vitamin D3 supplement, vitamin B12, calcium iodate, folic acid",
         "analysis": "Crude Protein (min): 9.5% Crude Fat (min): 8.5% Crude Fiber (max):1.00% Moisture (max):78.00% *Ash (max):1.0% Calcium:0.77% Phosphorus: 0.51% Magnesium: 0.04% Potassium: 0.31% Sodium: 0.12%",
+        "additive": null,
         "calorie": "13 oz: 411 kcals/can - 111.5 kcals/100g ME 5.5oz: 173 kcals/can - 111.5 kcals/100g ME"
     },
     {
-        "brand": "Canada Fresh",
         "url": "https://petkind.com/products/canada-fresh-red-meat-1",
+        "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Red Meat Formula - PetKind Pet Products",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy.",
         "key_benefits": [
@@ -87,11 +91,12 @@
         ],
         "ingredients": "Beef, beef liver, beef broth, lamb, tri-calcium phosphate, agar-agar, potassium chloride, salmon oil, choline chloride, salt, taurine, L-ascorbyl-2-polyphosphate (source of vitamin C), zinc proteinate, vitamin E supplement, ferrous sulfate, iron proteinate, zinc sulfate, niacin supplement, thiamine mononitrate, copper proteinate, vitamin A supplement, selenium yeast, manganese sulfate, manganese proteinate, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, biotin, vitamin D3 supplement, vitamin B12, calcium iodate, folic acid",
         "analysis": "Crude Protein (min): 9.5% Crude Fat (min): 8.5% Crude Fiber (max):1.00% Moisture (max):78.00% *Ash (max):1.0% Calcium:0.91% Phosphorus: 0.51% Magnesium: 0.023% Potassium: 0.33% Sodium: 0.12%",
+        "additive": null,
         "calorie": "13 oz: 411 kcals/can - 111.5 kcals/100g ME 5.5oz: 173 kcals/can - 111.5 kcals/100g ME"
     },
     {
-        "brand": "Canada Fresh",
         "url": "https://petkind.com/products/canada-fresh-salmon-1",
+        "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Salmon Formula - PetKind Pet Products",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy.",
         "key_benefits": [
@@ -103,6 +108,7 @@
         ],
         "ingredients": "Salmon, salmon broth, peas, calcium carbonate, tricalcium phosphate, agar-agar, choline chloride, salt, taurine, L-ascorbyl-2-polyphosphate (source of vitamin C), zinc proteinate, vitamin E supplement, ferrous sulfate, iron proteinate, zinc sulfate, niacin supplement, thiamine mononitrate, copper proteinate, vitamin A supplement, selenium yeast, manganese sulfate, manganese proteinate, d-calcium pantothenate, pyridoxine hydrochloride, riboflavin supplement, biotin, vitamin D3 supplement, vitamin B12, calcium iodate, folic acid",
         "analysis": "Crude Protein (min): 8.5% Crude Fat (min): 7.5% Crude Fiber (max):1.00% Moisture (max):78.00% *Ash (max):1.0% Calcium:0.46% Phosphorus: 0.35% Magnesium: 0.026% Potassium: 0.23% Sodium: 0.14%",
+        "additive": null,
         "calorie": "13 oz: 411 kcals/can - 111.5 kcals/100g ME 5.5oz: 173 kcals/can - 111.5 kcals/100g ME"
     }
 ]

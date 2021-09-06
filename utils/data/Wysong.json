@@ -1,15 +1,15 @@
 [
     {
-        "brand": "Wysong",
         "url": "https://www.wysong.net/bEpigen%E2%84%A2b_p_152.html",
-        "title": "Epigen™ - High Protein & Starch Free Dry Dog & Cat Food | Wysong",
-        "descriptions": "Wysong Epigen™ represents the first important kibble pet food innovation in almost 60 years and moves conventional dry extruded pet foods much closer to the high protein meat-based, starchless foods carnivores are genetically designed for. With that, they are given greater opportunity to enjoy their full natural health. Epigen™ is equally appropriate for both cats and dogs.",
+        "brand": "Wysong",
+        "title": "Epigen\u2122 - High Protein & Starch Free Dry Dog & Cat Food | Wysong",
+        "descriptions": "Wysong Epigen\u2122 represents the first important kibble pet food innovation in almost 60 years and moves conventional dry extruded pet foods much closer to the high protein meat-based, starchless foods carnivores are genetically designed for. With that, they are given greater opportunity to enjoy their full natural health. Epigen\u2122 is equally appropriate for both cats and dogs.",
         "key_benefits": [
-            "The first extruded dry diet/kibble pet food that is Starch Free™ (Epigen™ does what \"Grain Free\" dog food and cat foods only pretend to do)",
+            "The first extruded dry diet/kibble pet food that is Starch Free\u2122 (Epigen\u2122 does what \"Grain Free\" dog food and cat foods only pretend to do)",
             "More closely resembles the food your pet is designed to eat",
             "Contains unprecedented and unequalled meat content, including organic",
             "Has the natural flavor and taste that pets truly desire",
-            "Is replete with all the critical food elements Wysong was first to put into pet foods – probiotics, prebiotics, enzymes, phytonutrients, nutraceuticals, natural form antioxidants, vitamins and minerals",
+            "Is replete with all the critical food elements Wysong was first to put into pet foods \u2013 probiotics, prebiotics, enzymes, phytonutrients, nutraceuticals, natural form antioxidants, vitamins and minerals",
             "Rich in omega-3's and other essential fatty acids",
             "Manufactured by Wysong in accordance with strict quality control protocols"
         ],
@@ -20,19 +20,21 @@
             "Crude Fiber (max.) 3%",
             "Moisture (max.) 10%",
             "Taurine (min.) Not recognized as an essential nutrient by the AAFCO Dog Food Nutrient Profiles. 0.2%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Wysong",
         "url": "https://www.wysong.net/bEpigen-90%E2%84%A2b_p_153.html",
-        "title": "Epigen™ - High Protein & Starch Free Dry Dog & Cat Food | Wysong",
-        "descriptions": "Wysong Epigen™ represents the first important kibble pet food innovation in almost 60 years and moves conventional dry extruded pet foods much closer to the high protein meat-based, starchless foods carnivores are genetically designed for. With that, they are given greater opportunity to enjoy their full natural health. Epigen™ is equally appropriate for both cats and dogs.",
+        "brand": "Wysong",
+        "title": "Epigen\u2122 - High Protein & Starch Free Dry Dog & Cat Food | Wysong",
+        "descriptions": "Wysong Epigen\u2122 represents the first important kibble pet food innovation in almost 60 years and moves conventional dry extruded pet foods much closer to the high protein meat-based, starchless foods carnivores are genetically designed for. With that, they are given greater opportunity to enjoy their full natural health. Epigen\u2122 is equally appropriate for both cats and dogs.",
         "key_benefits": [
-            "The first extruded dry diet/kibble pet food that is Starch Free™ (Epigen™ does what \"Grain Free\" dog food and cat foods only pretend to do)",
+            "The first extruded dry diet/kibble pet food that is Starch Free\u2122 (Epigen\u2122 does what \"Grain Free\" dog food and cat foods only pretend to do)",
             "More closely resembles the food your pet is designed to eat",
             "Contains unprecedented and unequalled meat content, including organic",
             "Has the natural flavor and taste that pets truly desire",
-            "Is replete with all the critical food elements Wysong was first to put into pet foods – probiotics, prebiotics, enzymes, phytonutrients, nutraceuticals, natural form antioxidants, vitamins and minerals",
+            "Is replete with all the critical food elements Wysong was first to put into pet foods \u2013 probiotics, prebiotics, enzymes, phytonutrients, nutraceuticals, natural form antioxidants, vitamins and minerals",
             "Rich in omega-3's and other essential fatty acids",
             "Manufactured by Wysong in accordance with strict quality control protocols"
         ],
@@ -43,63 +45,71 @@
             "Crude Fiber (max.) 4%",
             "Moisture (max.) 10%",
             "Taurine (min.) Not recognized as an essential nutrient by the AAFCO Dog Food Nutrient Profiles. 0.2%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Wysong",
         "url": "https://www.wysong.net/fundamentals",
-        "title": "Fundamentals™ - Limited Ingredient Dog & Cat Food | Wysong",
-        "descriptions": "Fundamentals™ is renowned for its excellent palatability and archetypal nutritional characteristics!",
+        "brand": "Wysong",
+        "title": "Fundamentals\u2122 - Limited Ingredient Dog & Cat Food | Wysong",
+        "descriptions": "Fundamentals\u2122 is renowned for its excellent palatability and archetypal nutritional characteristics!",
         "key_benefits": [
-            "Developed by Wysong in direct response to customer demand, Wysong Fundamentals™ is a limited ingredient, high nutrient value dry dog food and cat food.",
-            "Some customers like to keep things basic – they want a straightforward diet with limited ingredients that doesn’t compromise on nutrition. The Fundamentals™ is just that.",
+            "Developed by Wysong in direct response to customer demand, Wysong Fundamentals\u2122 is a limited ingredient, high nutrient value dry dog food and cat food.",
+            "Some customers like to keep things basic \u2013 they want a straightforward diet with limited ingredients that doesn\u2019t compromise on nutrition. The Fundamentals\u2122 is just that.",
             "40% protein, Chicken and Brown Rice based (with Organic Chicken as a primary ingredient), and a host of beneficial micronutrients."
         ],
-        "ingredients": "Fundamentals™:  Chicken Meal, Brown Rice, Organic Chicken, Chicken Fat (preserved with Mixed Tocopherols), Natural Flavor, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Calcium Carbonate, Calcium Propionate (a preservative), Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Taurine, Choline Chloride, Citric Acid (a preservative), Yeast Extract, Mixed Tocopherols (a preservative), Rosemary Extract, Inulin, Yeast Culture, Dried Aspergillus oryzae Fermentation Extract, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bacillus subtilis Fermentation Extract, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus lactis Fermentation Product.",
+        "ingredients": "Fundamentals\u2122:  Chicken Meal, Brown Rice, Organic Chicken, Chicken Fat (preserved with Mixed Tocopherols), Natural Flavor, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Calcium Carbonate, Calcium Propionate (a preservative), Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Taurine, Choline Chloride, Citric Acid (a preservative), Yeast Extract, Mixed Tocopherols (a preservative), Rosemary Extract, Inulin, Yeast Culture, Dried Aspergillus oryzae Fermentation Extract, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bacillus subtilis Fermentation Extract, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus lactis Fermentation Product.",
         "analysis": [
             "Crude Protein (min.) 40%",
             "Crude Fat (min.) 15%",
             "Crude Fiber (max.) 4%",
             "Moisture (max.) 10%",
             "Taurine (min.) Not recognized as an essential nutrient by the AAFCO Dog Food Nutrient Profiles. 0.2%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Wysong",
         "url": "https://www.wysong.net/nurture",
-        "title": "Nurture™ - Kitten Formula Cat Food | Wysong",
-        "descriptions": "No kitten diet on the market has proven itself like Wysong Nurture™ cat food. It was created by Dr. Wysong and owes its popularity solely to veterinary recommendation and word of mouth. Nurture™ has been fed to tens of thousands of felines through multiple generations for over thirty years. It creates remarkably robust vitality and well-being during the tender months.",
-        "key_benefits": "This improved formulation is designed to take advantage of new processing methods to preserve natural value, and nutritional advances in epigenetics and nutrigenomics. Nurture™ is 38% protein, contains high levels of fresh/frozen and dried meats, protein, and fat, and a comprehensive spectrum and higher levels of micronutrients/nutraceuticals including prebiotics, probiotics, enzymes, ",
-        "ingredients": "omega-3s, antioxidants and more. Colostrum is included and small quantities of fruits and vegetables mimic what may be consumed in the viscera of prey, and contribute important vitamins, minerals, antioxidants and other nutrients.Nurture™:  Chicken Meal, Chicken, Turkey Meal, Brown Rice, Peas, Pea Protein, Chicken Fat (preserved with Mixed Tocopherols), Flaxseeds, Dried Plain Beet Pulp, Natural Flavor, Sesame Seeds, Dried Whey Protein Concentrate, Montmorillonite Clay, Crab Meal, Salt, Taurine, Calcium Carbonate, Dried Bovine Colostrum, Dried Tomato Pomace, Calcium Propionate (a preservative), Choline Chloride, Coconut Oil, Organic Barley Grass Powder, Dried Blueberry Powder, Dried Kelp, Dried Yogurt, Citric Acid (a preservative), Dried Kale, Dried Spinach, Dried Carrots, Apple Fiber, Fish Oil, Yeast Extract, Mixed Tocopherols (a preservative), Rosemary Extract, Inulin, Yeast Culture, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Dried Aspergillus oryzae Fermentation Extract, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bacillus subtilis Fermentation Extract, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus lactis Fermentation Product, Pepper.",
+        "brand": "Wysong",
+        "title": "Nurture\u2122 - Kitten Formula Cat Food | Wysong",
+        "descriptions": "No kitten diet on the market has proven itself like Wysong Nurture\u2122 cat food. It was created by Dr. Wysong and owes its popularity solely to veterinary recommendation and word of mouth. Nurture\u2122 has been fed to tens of thousands of felines through multiple generations for over thirty years. It creates remarkably robust vitality and well-being during the tender months.",
+        "key_benefits": "This improved formulation is designed to take advantage of new processing methods to preserve natural value, and nutritional advances in epigenetics and nutrigenomics. Nurture\u2122 is 38% protein, contains high levels of fresh/frozen and dried meats, protein, and fat, and a comprehensive spectrum and higher levels of micronutrients/nutraceuticals including prebiotics, probiotics, enzymes, ",
+        "ingredients": "omega-3s, antioxidants and more. Colostrum is included and small quantities of fruits and vegetables mimic what may be consumed in the viscera of prey, and contribute important vitamins, minerals, antioxidants and other nutrients.Nurture\u2122:  Chicken Meal, Chicken, Turkey Meal, Brown Rice, Peas, Pea Protein, Chicken Fat (preserved with Mixed Tocopherols), Flaxseeds, Dried Plain Beet Pulp, Natural Flavor, Sesame Seeds, Dried Whey Protein Concentrate, Montmorillonite Clay, Crab Meal, Salt, Taurine, Calcium Carbonate, Dried Bovine Colostrum, Dried Tomato Pomace, Calcium Propionate (a preservative), Choline Chloride, Coconut Oil, Organic Barley Grass Powder, Dried Blueberry Powder, Dried Kelp, Dried Yogurt, Citric Acid (a preservative), Dried Kale, Dried Spinach, Dried Carrots, Apple Fiber, Fish Oil, Yeast Extract, Mixed Tocopherols (a preservative), Rosemary Extract, Inulin, Yeast Culture, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Dried Aspergillus oryzae Fermentation Extract, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bacillus subtilis Fermentation Extract, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus lactis Fermentation Product, Pepper.",
         "analysis": [
             "Crude Protein (min.) 38%",
             "Crude Fat (min.) 15%",
             "Crude Fiber (max.) 5.5%",
             "Moisture (max.) 10%",
             "Taurine (min.) 0.2%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Wysong",
         "url": "https://www.wysong.net/optimal-vitality",
-        "title": "Optimal Vitality™ - Dry Cat Food for Adult Cats (High Protein) | Wysong",
-        "descriptions": "For the past 35 years the Wysong goal and commitment has been to reconcile modern food forms and processing with the natural canine/feline diet. Wysong Optimal Diets™ represent new advanced technology that moves companion animal nutrition closer than ever to archetypal genetic expectation.",
-        "key_benefits": "Optimal Vitality™ holistic cat food also contains very low levels of carbohydrate, low glycemic index, multiple organic ingredients, unsurpassed levels of enzymes and probiotics, natural omega-3 : omega-6 fatty acid ratios, a superb spectrum of micronutrients, including life stage specific nutraceuticals, and more.",
-        "ingredients": "Optimal Vitality™:  Chicken Meal, Organic Chicken, Turkey Meal, Pea Protein, Potato Protein, Peas, Chicken Fat (preserved with Mixed Tocopherols), Flaxseeds, Dried Plain Beet Pulp, Natural Flavor, Sesame Seeds, Montmorillonite Clay, Crab Meal, Dried Whey Protein Concentrate, Coconut Oil, Chia Seeds, Salt, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Taurine, Calcium Carbonate, Calcium Propionate (a preservative), Dried Tomato Pomace, Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Choline Chloride, Fish Oil, Yeast Extract, Organic Barley Grass Powder, Dried Blueberry Powder, Dried Yogurt, Dried Kelp, Apple Fiber, Citric Acid (a preservative), Dried Kale, Dried Spinach, Dried Carrots, Inulin, Mixed Tocopherols (a preservative), Rosemary Extract, Yeast Culture, Dried Aspergillus oryzae Fermentation Extract, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bacillus subtilis Fermentation Extract, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus lactis Fermentation Product, Pepper.",
+        "brand": "Wysong",
+        "title": "Optimal Vitality\u2122 - Dry Cat Food for Adult Cats (High Protein) | Wysong",
+        "descriptions": "For the past 35 years the Wysong goal and commitment has been to reconcile modern food forms and processing with the natural canine/feline diet. Wysong Optimal Diets\u2122 represent new advanced technology that moves companion animal nutrition closer than ever to archetypal genetic expectation.",
+        "key_benefits": "Optimal Vitality\u2122 holistic cat food also contains very low levels of carbohydrate, low glycemic index, multiple organic ingredients, unsurpassed levels of enzymes and probiotics, natural omega-3 : omega-6 fatty acid ratios, a superb spectrum of micronutrients, including life stage specific nutraceuticals, and more.",
+        "ingredients": "Optimal Vitality\u2122:  Chicken Meal, Organic Chicken, Turkey Meal, Pea Protein, Potato Protein, Peas, Chicken Fat (preserved with Mixed Tocopherols), Flaxseeds, Dried Plain Beet Pulp, Natural Flavor, Sesame Seeds, Montmorillonite Clay, Crab Meal, Dried Whey Protein Concentrate, Coconut Oil, Chia Seeds, Salt, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Taurine, Calcium Carbonate, Calcium Propionate (a preservative), Dried Tomato Pomace, Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Choline Chloride, Fish Oil, Yeast Extract, Organic Barley Grass Powder, Dried Blueberry Powder, Dried Yogurt, Dried Kelp, Apple Fiber, Citric Acid (a preservative), Dried Kale, Dried Spinach, Dried Carrots, Inulin, Mixed Tocopherols (a preservative), Rosemary Extract, Yeast Culture, Dried Aspergillus oryzae Fermentation Extract, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bacillus subtilis Fermentation Extract, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus lactis Fermentation Product, Pepper.",
         "analysis": [
             "Crude Protein (min.) 50%",
             "Crude Fat (min.) 14%",
             "Crude Fiber (max.) 5.5%",
             "Moisture (max.) 10%",
             "Taurine (min.) 0.2%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Wysong",
         "url": "https://www.wysong.net/uretic",
-        "title": "Uretic™ - Cat Food for Feline Urinary Tract Health | Wysong",
-        "descriptions": "Uretic™ has achieved extraordinary results in tens of thousands of felines through multiple generations for over thirty years. It was created by Dr. Wysong and owes its popularity solely to veterinary recommendation and word of mouth. Uretic™ has proven itself as a diet that creates robust vitality.",
-        "key_benefits": "This improved formulation is designed to take advantage of new processing methods to preserve natural value, and nutritional advances related to epigenetics and nutrigenomics. Uretic™ now contains higher levels of fresh/frozen and dried meats, protein, and fat, and a comprehensive spectrum and higher levels of micronutrients/nutraceuticals. Excess minerals are eliminated, natural sourced, urinary-important methionine are added, and small quantities of fruits and vegetables mimic what may be consumed in the viscera of prey, and contribute important vitamins, minerals, antioxidants and other nutrients.",
+        "brand": "Wysong",
+        "title": "Uretic\u2122 - Cat Food for Feline Urinary Tract Health | Wysong",
+        "descriptions": "Uretic\u2122 has achieved extraordinary results in tens of thousands of felines through multiple generations for over thirty years. It was created by Dr. Wysong and owes its popularity solely to veterinary recommendation and word of mouth. Uretic\u2122 has proven itself as a diet that creates robust vitality.",
+        "key_benefits": "This improved formulation is designed to take advantage of new processing methods to preserve natural value, and nutritional advances related to epigenetics and nutrigenomics. Uretic\u2122 now contains higher levels of fresh/frozen and dried meats, protein, and fat, and a comprehensive spectrum and higher levels of micronutrients/nutraceuticals. Excess minerals are eliminated, natural sourced, urinary-important methionine are added, and small quantities of fruits and vegetables mimic what may be consumed in the viscera of prey, and contribute important vitamins, minerals, antioxidants and other nutrients.",
         "ingredients": "Chicken, Chicken Meal, Chicken Fat (preserved with Mixed Tocopherols), Potato Protein, Brown Rice, Peas, Flaxseeds, Meat Protein Isolate, Dried Plain Beet Pulp, Natural Flavor, Sesame Seeds, Dried Cheese, Dried Whey Protein Concentrate, Dried Natural Meat Broth, DL-Methionine, Salt, Dried Tomato Pomace, Taurine, Calcium Carbonate, Cranberry Extract, Calcium Propionate (a preservative), Choline Chloride, Coconut Oil, Organic Barley Grass Powder, Dried Blueberry Powder, Dried Kelp, Dried Yogurt, Citric Acid (a preservative), Dried Kale, Dried Spinach, Dried Carrots, Dried Apple Fiber, Fish Oil, Yeast Extract, Mixed Tocopherols (a preservative), Rosemary Extract, Inulin, Yeast Culture, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride [source of Vitamin B6], Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Dried Aspergillus oryzae Fermentation Extract, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bacillus subtilis Fermentation Extract, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus lactis Fermentation Product, Pepper.",
         "analysis": [
             "Crude Protein (min.) 42%",
@@ -107,14 +117,16 @@
             "Crude Fiber (max.) 5%",
             "Moisture (max.) 10%",
             "Taurine (min.) 0.2%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Wysong",
         "url": "https://www.wysong.net/vitality",
-        "title": "Vitality™ - Adult Cat Food | Wysong",
-        "descriptions": "No feline diet on the market has proven itself like Wysong Vitality™. It was created by Dr. Wysong and owes its popularity solely to veterinary recommendation and word of mouth. Vitality™ has been fed to tens of thousands of felines through multiple generations for over thirty years. It promotes robust vitality and well-being during the adult years.",
-        "key_benefits": "This improved formulation is designed to take advantage of new processing methods to preserve natural value, and nutritional advances in epigenetics and nutrigenomics. Vitality™ contains high levels of fresh/frozen and dried meats, protein, and fat, and a comprehensive spectrum and higher levels of micronutrients/nutraceuticals including prebiotics, probiotics, enzymes, omega-3s, antioxidants and more. Small quantities of fruits and vegetables mimic what may be consumed in the viscera of prey, and contribute important vitamins, minerals, antioxidants and other nutrients.",
+        "brand": "Wysong",
+        "title": "Vitality\u2122 - Adult Cat Food | Wysong",
+        "descriptions": "No feline diet on the market has proven itself like Wysong Vitality\u2122. It was created by Dr. Wysong and owes its popularity solely to veterinary recommendation and word of mouth. Vitality\u2122 has been fed to tens of thousands of felines through multiple generations for over thirty years. It promotes robust vitality and well-being during the adult years.",
+        "key_benefits": "This improved formulation is designed to take advantage of new processing methods to preserve natural value, and nutritional advances in epigenetics and nutrigenomics. Vitality\u2122 contains high levels of fresh/frozen and dried meats, protein, and fat, and a comprehensive spectrum and higher levels of micronutrients/nutraceuticals including prebiotics, probiotics, enzymes, omega-3s, antioxidants and more. Small quantities of fruits and vegetables mimic what may be consumed in the viscera of prey, and contribute important vitamins, minerals, antioxidants and other nutrients.",
         "ingredients": "Chicken Meal, Chicken, Turkey Meal, Brown Rice, Peas, Potato Protein, Chicken Fat (preserved with Mixed Tocopherols), Flaxseeds, Dried Plain Beet Pulp, Natural Flavor, Sesame Seeds, Montmorillonite Clay, Crab Meal, Dried Whey Protein Concentrate, Salt, Taurine, Calcium Carbonate, Dried Tomato Pomace, Calcium Propionate (a preservative), Choline Chloride, Coconut Oil, Organic Barley Grass Powder, Dried Blueberry Powder, Dried Kelp, Dried Yogurt, Yeast Extract, Citric Acid (a preservative), Dried Kale, Dried Spinach, Dried Carrots, Apple Fiber, Fish Oil, Mixed Tocopherols (a preservative), Rosemary Extract, Inulin, Yeast Culture, Minerals (Potassium Chloride, Zinc Proteinate, Zinc Sulfate, Ferrous Sulfate, Iron Proteinate, Copper Sulfate, Copper Proteinate, Manganese Sulfate, Manganese Proteinate, Sodium Selenite, Calcium Iodate), Vitamins (Ascorbic Acid [source of Vitamin C], Vitamin E Supplement, Niacin Supplement, Calcium Pantothenate, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid), Dried Aspergillus oryzae Fermentation Extract, Dried Enterococcus faecium Fermentation Product, Dried Lactobacillus casei Fermentation Product, Dried Lactobacillus acidophilus Fermentation Product, Dried Bacillus subtilis Fermentation Extract, Dried Lactobacillus plantarum Fermentation Product, Dried Lactobacillus lactis Fermentation Product, Pepper.",
         "analysis": [
             "Crude Protein (min.) 42%",
@@ -122,6 +134,8 @@
             "Crude Fiber (max.) 5.5%",
             "Moisture (max.) 10%",
             "Taurine (min.) 0.2%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     }
 ]

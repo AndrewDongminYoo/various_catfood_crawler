@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Avoderm",
         "url": "https://avodermnatural.com/products/chicken-herring-meal-formula/",
+        "brand": "Avoderm",
         "title": "CHICKEN & HERRING MEAL FORMULA - AvoDerm",
         "descriptions": [
             "AvoDerm Natural Adult Chicken & Herring Meal Formula dry cat food provides healthy balanced nutrition for your cat. High quality ingredients and premium protein ensure you are providing your cat healthy and complete nutrition.",
@@ -29,14 +29,16 @@
         ],
         "additive": "",
         "calorie": [
-            "Metabolizable Energy (calculated) 375 kcal/cup", "Metabolizable Energy (calculated) 3753 kcal/kg"]
+            "Metabolizable Energy (calculated) 375 kcal/cup",
+            "Metabolizable Energy (calculated) 3753 kcal/kg"
+        ]
     },
     {
-        "brand": "Avoderm",
         "url": "https://avodermnatural.com/products/grain-free-chicken-duck-entree-in-gravy/",
-        "title": "GRAIN FREE CHICKEN & DUCK ENTRÉE IN GRAVY - AvoDerm",
+        "brand": "Avoderm",
+        "title": "GRAIN FREE CHICKEN & DUCK ENTR\u00c9E IN GRAVY - AvoDerm",
         "descriptions": [
-            "AvoDerm Natural Grain-Free Chicken & Duck Entrée in Gravy is a grain-free wet cat food made with premium proteins to provide healthy balanced nutrition for your cat. High-quality ingredients ensure that you are providing the optimum nutrition your cat needs.",
+            "AvoDerm Natural Grain-Free Chicken & Duck Entr\u00e9e in Gravy is a grain-free wet cat food made with premium proteins to provide healthy balanced nutrition for your cat. High-quality ingredients ensure that you are providing the optimum nutrition your cat needs.",
             "Can cats have avocado? Yes! Avocados provide close to 20 vitamins and help promote healthy skin and a beautiful coat for your cat."
         ],
         "key_benefits": [
@@ -115,10 +117,10 @@
         ]
     },
     {
-        "brand": "Avoderm",
         "url": "https://avodermnatural.com/products/grain-free-salmon-chicken-entree-in-gravy/",
-        "title": "GRAIN FREE SALMON & CHICKEN ENTRÉE IN GRAVY - AvoDerm",
-        "descriptions": "AvoDerm Natural Grain Free Salmon & Chicken Entrée in Gravy wet cat food has multiple sources of protein in salmon and chicken, in addition to omega-rich avocados, to provide balanced nutrition for your cat. This grain free cat food with avocado is ideal for cats with a food sensitivity to grain.",
+        "brand": "Avoderm",
+        "title": "GRAIN FREE SALMON & CHICKEN ENTR\u00c9E IN GRAVY - AvoDerm",
+        "descriptions": "AvoDerm Natural Grain Free Salmon & Chicken Entr\u00e9e in Gravy wet cat food has multiple sources of protein in salmon and chicken, in addition to omega-rich avocados, to provide balanced nutrition for your cat. This grain free cat food with avocado is ideal for cats with a food sensitivity to grain.",
         "key_benefits": [
             "Grain-Free Cat Food",
             "Nutrient-Rich",
@@ -195,10 +197,10 @@
         ]
     },
     {
-        "brand": "Avoderm",
         "url": "https://avodermnatural.com/products/grain-free-sardine-shrimp-crab-entree-in-gravy/",
-        "title": "GRAIN FREE SARDINE, SHRIMP & CRAB ENTRÉE IN GRAVY - AvoDerm",
-        "descriptions": "AvoDerm Natural Grain-Free Sardine, Shrimp & Crab Meat Entrée in Gravy wet cat food is packed with multiple sources of premium protein to provide optimum nutrition for your cat. This avocado cat food is grain-free making it ideal for cats suffering from grain sensitivity or intolerance. High-quality ingredients including omega-rich avocados provide complete and balanced nutrition and a taste your cat will love.",
+        "brand": "Avoderm",
+        "title": "GRAIN FREE SARDINE, SHRIMP & CRAB ENTR\u00c9E IN GRAVY - AvoDerm",
+        "descriptions": "AvoDerm Natural Grain-Free Sardine, Shrimp & Crab Meat Entr\u00e9e in Gravy wet cat food is packed with multiple sources of premium protein to provide optimum nutrition for your cat. This avocado cat food is grain-free making it ideal for cats suffering from grain sensitivity or intolerance. High-quality ingredients including omega-rich avocados provide complete and balanced nutrition and a taste your cat will love.",
         "key_benefits": [
             "Grain-Free Cat Food",
             "Nutrient-Rich ",
@@ -275,10 +277,10 @@
         ]
     },
     {
-        "brand": "Avoderm",
         "url": "https://avodermnatural.com/products/grain-free-tuna-chicken-entree-with-vegetables/",
-        "title": "GRAIN FREE TUNA & CHICKEN ENTRÉE WITH VEGETABLES - AvoDerm",
-        "descriptions": "AvoDerm Natural Grain-Free Tuna & Chicken Entrée with Vegetables wet cat food is made with premium protein in tuna and chicken and uses high-quality ingredients to provide optimum nutrition for your cat. This cat food with omega-rich avocados is grain-free to make it ideal for cats with food intolerance to the grain.",
+        "brand": "Avoderm",
+        "title": "GRAIN FREE TUNA & CHICKEN ENTR\u00c9E WITH VEGETABLES - AvoDerm",
+        "descriptions": "AvoDerm Natural Grain-Free Tuna & Chicken Entr\u00e9e with Vegetables wet cat food is made with premium protein in tuna and chicken and uses high-quality ingredients to provide optimum nutrition for your cat. This cat food with omega-rich avocados is grain-free to make it ideal for cats with food intolerance to the grain.",
         "key_benefits": [
             "Grain-Free Cat Food",
             "Nutrient-Rich ",
@@ -351,10 +353,10 @@
         ]
     },
     {
-        "brand": "Avoderm",
         "url": "https://avodermnatural.com/products/grain-free-tuna-crab-entree-in-gravy/",
-        "title": "GRAIN FREE TUNA & CRAB ENTRÉE IN GRAVY - AvoDerm",
-        "descriptions": "AvoDerm Natural Grain-Free Tuna & Crab Entrée in Gravy wet cat food uses premium protein in tuna and crab in addition to high-quality ingredients including omega-rich avocados to provide complete and balanced nutrition your cat will love. This cat food with avocado is grain-free making it ideal for cats with a grain sensitivity.",
+        "brand": "Avoderm",
+        "title": "GRAIN FREE TUNA & CRAB ENTR\u00c9E IN GRAVY - AvoDerm",
+        "descriptions": "AvoDerm Natural Grain-Free Tuna & Crab Entr\u00e9e in Gravy wet cat food uses premium protein in tuna and crab in addition to high-quality ingredients including omega-rich avocados to provide complete and balanced nutrition your cat will love. This cat food with avocado is grain-free making it ideal for cats with a grain sensitivity.",
         "key_benefits": [
             "Grain-Free Cat Food",
             "Nutrient-Rich ",
@@ -431,12 +433,12 @@
         ]
     },
     {
-        "brand": "Avoderm",
         "url": "https://avodermnatural.com/products/indoor-formula/",
+        "brand": "Avoderm",
         "title": "INDOOR FORMULA - AvoDerm",
         "descriptions": [
-            "AvoDerm® Indoor Formula dry cat food is formulated for the needs of your indoor cat. This formula provides quality ingredients that provide balanced levels of protein, fat, and nutrients to help your indoor cat.",
-            "AvoDerm® Indoor Formula dry cat food is also made with avocados which are a nutrient-dense source of vitamins, minerals, and antioxidant nutrients to help support your cat’s immune function and promote healthy skin and a beautiful coat."
+            "AvoDerm\u00ae Indoor Formula dry cat food is formulated for the needs of your indoor cat. This formula provides quality ingredients that provide balanced levels of protein, fat, and nutrients to help your indoor cat.",
+            "AvoDerm\u00ae Indoor Formula dry cat food is also made with avocados which are a nutrient-dense source of vitamins, minerals, and antioxidant nutrients to help support your cat\u2019s immune function and promote healthy skin and a beautiful coat."
         ],
         "key_benefits": [
             "Specially Made for the Indoor Cat to Help Maintain a Healthy Weight",

@@ -2,7 +2,7 @@
     "url": "https://vintageovenfresh.com/products/oven-fresh-surface-2/",
     "brand": "Vintage Cat food",
     "title": "Oven-Fresh Surface | Vintage Oven Fresh Pet Food",
-    "descriptions": "Vintage is changing the way you nurture your pet by blending fresh and whole foods to maximize bioavailability of nutrients. Mother nature intended ingredients in their complex and whole nutritious form to satisfy your pet’s energy requirements. Our homestyle Oven-Fresh feline recipes are made with carefully selected premium fresh meats complemented by market fresh produce. We have trusted Canadian partners that supply us with 1st cut proteins which are antibiotic and hormone free. Vintage Oven-Fresh recipes are gently and slowly prepared in small batches in the oven to insure superior nutrient retention for your companion. Our goal is to provide nutritious foods to help nourish your pet’s soul with every bowl.",
+    "descriptions": "Vintage is changing the way you nurture your pet by blending fresh and whole foods to maximize bioavailability of nutrients. Mother nature intended ingredients in their complex and whole nutritious form to satisfy your pet\u2019s energy requirements. Our homestyle Oven-Fresh feline recipes are made with carefully selected premium fresh meats complemented by market fresh produce. We have trusted Canadian partners that supply us with 1st cut proteins which are antibiotic and hormone free. Vintage Oven-Fresh recipes are gently and slowly prepared in small batches in the oven to insure superior nutrient retention for your companion. Our goal is to provide nutritious foods to help nourish your pet\u2019s soul with every bowl.",
     "key_benefits": [
         "1st cut Fresh Turkey",
         "1st cut Fresh Herring",
@@ -18,6 +18,6 @@
         "Crude Fiber Max 5%",
         "Moisture Max 10%"
     ],
-    "additives": "",
+    "additive": null,
     "calorie": "The calculated metabolizable energy is 3583 kcal/kg"
 }

@@ -1,7 +1,7 @@
 [
     {
-        "brand": "PureLuxe",
         "url": "https://www.pureluxepetfood.com/products/adult-cat-turkey/",
+        "brand": "PureLuxe",
         "title": "Adult Cat Turkey - PureLUXE Pet Food | Natural, Healthy Food For Your Pets",
         "descriptions": [
             " ",
@@ -42,11 +42,12 @@
             "*Chondroitin (min) 600 mg/kg",
             "*Total Bacillus Coagulans Fermentation Product (min) 80 million CFU/lb"
         ],
-        "calorie": "Calorie Content ME (calculated) – 3700 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
+        "additive": null,
+        "calorie": "Calorie Content ME (calculated) \u2013 3700 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
     },
     {
-        "brand": "PureLuxe",
         "url": "https://www.pureluxepetfood.com/products/finicky-cat/",
+        "brand": "PureLuxe",
         "title": "Finicky Cat - PureLUXE Pet Food | Natural, Healthy Food For Your Pets",
         "descriptions": [
             "# 1 Ingredient is Fresh Chicken followed by Fresh Salmon, More than 1% Omega 3 Fatty acids, Active Probiotics, and Ethics.",
@@ -83,13 +84,14 @@
             "*Taurine (min) 1200 mg/kg",
             "*Glucosamine (min) 720 mg/kg",
             "*Chondroitin (min) 610 mg/kg",
-            "*Total Bacillus Coagulans Fermentation Product (min)…80 million CFU/lb"
+            "*Total Bacillus Coagulans Fermentation Product (min)\u202680 million CFU/lb"
         ],
-        "calorie": "Calorie Content ME (calculated) – 3840 kcal/kg (465 kcal/cup) 1 cup = approximately 4oz of food."
+        "additive": null,
+        "calorie": "Calorie Content ME (calculated) \u2013 3840 kcal/kg (465 kcal/cup) 1 cup = approximately 4oz of food."
     },
     {
-        "brand": "PureLuxe",
         "url": "https://www.pureluxepetfood.com/products/healthy-weight-cat/",
+        "brand": "PureLuxe",
         "title": "Healthy Weight - PureLUXE Pet Food | Natural, Healthy Food For Your Pets",
         "descriptions": [
             "# 1 Ingredient is Fresh Turkey followed by Protein Rich Chicken & Salmon meals, More than 1% Omega 3 Fatty acids, Active Probiotics + Prebiotics, and Ethics.",
@@ -128,11 +130,12 @@
             "*Chondroitin (min) 600 mg/kg",
             "*Total Bacillus Coagulans Fermentation Product (min) 80 million CFU/lb"
         ],
+        "additive": null,
         "calorie": "PureLUXE Healthy Weight Cat Food is formulated to meet the nutrient levels established by the AAFCO Cat Food Nutrient Profiles for all life stages."
     },
     {
-        "brand": "PureLuxe",
         "url": "https://www.pureluxepetfood.com/products/indoor-cat/",
+        "brand": "PureLuxe",
         "title": "Indoor Cat - PureLUXE Pet Food | Natural, Healthy Food For Your Pets",
         "descriptions": [
             "# 1 Ingredient is Fresh Turkey followed by Protein Rich Chicken & Salmon meals, More than 1% Omega 3 Fatty acids, Active Probiotics, and Ethics.",
@@ -171,11 +174,12 @@
             "*Chondroitin (min) 600 mg/kg",
             "*Total Bacillus Coagulans Fermentation Product (min) 80 million CFU/lb"
         ],
-        "calorie": "Calorie Content ME (calculated) – 3670 kcal/kg (445 kcal/cup) 1 cup = approximately 4oz of food."
+        "additive": null,
+        "calorie": "Calorie Content ME (calculated) \u2013 3670 kcal/kg (445 kcal/cup) 1 cup = approximately 4oz of food."
     },
     {
-        "brand": "PureLuxe",
         "url": "https://www.pureluxepetfood.com/products/kitten/",
+        "brand": "PureLuxe",
         "title": "Kitten - PureLUXE Pet Food | Natural, Healthy Food For Your Pets",
         "descriptions": [
             "# 1 Ingredient is Fresh Chicken, 80 million cfu/lb Active Probiotics, Taurine, 1.25% Omega 3 Fatty Acids, and Ethics.",
@@ -213,11 +217,12 @@
             "*Chondroitin (min) 600 mg/kg",
             "*Total Bacillus Coagulans Fermentation Product (min) 80 million CFU/lb"
         ],
-        "calorie": "Calorie Content ME (calculated) – 3835 kcal/kg (460 kcal/cup) 1 cup = approximately 4oz of food."
+        "additive": null,
+        "calorie": "Calorie Content ME (calculated) \u2013 3835 kcal/kg (460 kcal/cup) 1 cup = approximately 4oz of food."
     },
     {
-        "brand": "PureLuxe",
         "url": "https://www.pureluxepetfood.com/products/long-hair-cat/",
+        "brand": "PureLuxe",
         "title": "Longhair Cat - PureLUXE Pet Food | Natural, Healthy Food For Your Pets",
         "descriptions": [
             "# 1 Ingredient is Fresh Chicken followed by Fresh Salmon, More than 1% Omega 3 Fatty acids, Active Probiotics, and Ethics.",
@@ -253,13 +258,14 @@
             "*Taurine (min) 1200 mg/kg",
             "*Glucosamine (min) 670 mg/kg",
             "*Chondroitin (min) 580 mg/kg",
-            "*Total Bacillus Coagulans Fermentation Product (min)…80 million CFU/lb"
+            "*Total Bacillus Coagulans Fermentation Product (min)\u202680 million CFU/lb"
         ],
-        "calorie": "Calorie Content ME (calculated) – 3810 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
+        "additive": null,
+        "calorie": "Calorie Content ME (calculated) \u2013 3810 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
     },
     {
-        "brand": "PureLuxe",
         "url": "https://www.pureluxepetfood.com/products/persian-cat/",
+        "brand": "PureLuxe",
         "title": "Persian Cat - PureLUXE Pet Food | Natural, Healthy Food For Your Pets",
         "descriptions": [
             "# 1 Ingredient is Fresh Chicken followed by Protein Rich Chicken & Salmon meals, More than 1% Omega 3 Fatty acids, Active Probiotics + Prebiotics, and Ethics.",
@@ -296,8 +302,9 @@
             "*Taurine (min) 1200 mg/kg",
             "*Glucosamine (min) 700 mg/kg",
             "*Chondroitin (min) 600 mg/kg",
-            "*Total Bacillus Coagulans Fermentation Product (min*…80 million CFU/lb"
+            "*Total Bacillus Coagulans Fermentation Product (min*\u202680 million CFU/lb"
         ],
-        "calorie": "Calorie Content ME (calculated) – 3800 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
+        "additive": null,
+        "calorie": "Calorie Content ME (calculated) \u2013 3800 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
     }
 ]

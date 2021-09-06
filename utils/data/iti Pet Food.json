@@ -1,7 +1,7 @@
 [
     {
-        "brand": "iti Pet Food",
         "url": "https://www.itipet.com/product/iti-biti-beef-eel-for-cats/",
+        "brand": "iti Pet Food",
         "title": "iti KITI BEEF & EEL FOR CATS",
         "descriptions": [
             "Dehydrated Raw Meat",
@@ -11,39 +11,45 @@
             "90% Free Range NZ Meat, Organs & seafood.",
             "GMO & GRAIN FREE"
         ],
-        "ingredients": "INGREDIENTS: Beef, Eel, Beef Liver, Beef Lung, Mussel, Vegetable Glycerine, Yeast Extract, Brewer’s Yeast, Salt, Dried Chicory, Calcium Carbonate, Choline Chloride, Natural Antioxidant, Taurine, Organic Iron, Zinc Oxide, Vitamins E, B3, Copper Sulphate, Vitamin B1, Selenium, Manganous Oxide, Vitamins A, B5, B2, B6, Biotin, Vitamin B12, Folic Acid.",
-        "analysis": "GUARANTEED ANALYSIS Crude Protein …..34% Min Crude Fat …………28% Min Crude Fiber ……….2% Max Moisture …………..14% Max",
+        "key_benefits": null,
+        "ingredients": "INGREDIENTS: Beef, Eel, Beef Liver, Beef Lung, Mussel, Vegetable Glycerine, Yeast Extract, Brewer\u2019s Yeast, Salt, Dried Chicory, Calcium Carbonate, Choline Chloride, Natural Antioxidant, Taurine, Organic Iron, Zinc Oxide, Vitamins E, B3, Copper Sulphate, Vitamin B1, Selenium, Manganous Oxide, Vitamins A, B5, B2, B6, Biotin, Vitamin B12, Folic Acid.",
+        "analysis": "GUARANTEED ANALYSIS Crude Protein \u2026..34% Min Crude Fat \u2026\u2026\u2026\u202628% Min Crude Fiber \u2026\u2026\u2026.2% Max Moisture \u2026\u2026\u2026\u2026..14% Max",
+        "additive": null,
         "calorie": "CALORIES Calorie Content (calculated) 4400 kcal/kg"
     },
     {
-        "brand": "iti Pet Food",
         "url": "https://www.itipet.com/product/iti-cans-cat-beef/",
+        "brand": "iti Pet Food",
         "title": "iti CANS BEEF FOR CATS",
         "descriptions": [
             "Complete and balanced",
             "90% Free Range NZ Meat, Organs &amp; seafood.",
             "GMO & GRAIN FREE"
         ],
-        "ingredients": "INGREDIENTS: Beef Meat, Beef Liver, Beef Lung, Beef Kidney, Pumpkin, Brewer’s Yeast, Fish Oil, Ovine Plasma, Agar, Guar Gum, Potassium Chloride, Taurine, Calcium Carbonate, Green Lipped Mussel, Dicalcium Phosphate, TSPP, Choline Chloride, Organic Iron, Organic Zinc, Vitamins, B3, E, Sodium Selenite, Organic Manganese, Organic Copper, Vitamins B1, B5, B2, B6, A, Biotin, Vitamin B12, Calcium Iodate, Folic Acid, Vitamin D3",
-        "analysis": "GUARANTEED ANALYSIS Crude Protein …..8.0% Min Crude Fat …………7.0% Min Crude Fiber ……….3.0% Max Moisture …………..79% Max",
+        "key_benefits": null,
+        "ingredients": "INGREDIENTS: Beef Meat, Beef Liver, Beef Lung, Beef Kidney, Pumpkin, Brewer\u2019s Yeast, Fish Oil, Ovine Plasma, Agar, Guar Gum, Potassium Chloride, Taurine, Calcium Carbonate, Green Lipped Mussel, Dicalcium Phosphate, TSPP, Choline Chloride, Organic Iron, Organic Zinc, Vitamins, B3, E, Sodium Selenite, Organic Manganese, Organic Copper, Vitamins B1, B5, B2, B6, A, Biotin, Vitamin B12, Calcium Iodate, Folic Acid, Vitamin D3",
+        "analysis": "GUARANTEED ANALYSIS Crude Protein \u2026..8.0% Min Crude Fat \u2026\u2026\u2026\u20267.0% Min Crude Fiber \u2026\u2026\u2026.3.0% Max Moisture \u2026\u2026\u2026\u2026..79% Max",
+        "additive": null,
         "calorie": "CALORIES Calorie Content (calculated) 1010 kcal/kg"
     },
     {
-        "brand": "iti Pet Food",
         "url": "https://www.itipet.com/product/iti-cans-cat-chicken-salmon/",
+        "brand": "iti Pet Food",
         "title": "iti CANS CHICKEN & SALMON FOR CATS",
         "descriptions": [
             "Complete and balanced",
             "90% New Zealand Meat, Organs & seafood.",
             "GMO & GRAIN FREE"
         ],
-        "ingredients": "INGREDIENTS: Chicken Meat, Salmon, Pumpkin, Brewer’s Yeast, Fish Oil, Ovine Plasma, Agar, Guar Gum, Potassium Chloride, Taurine, Calcium Carbonate, Green Lipped Mussel, Dicalcium Phosphate, TSPP, Choline Chloride, Organic iron, Organic Zinc, Vitamins B3, E, Sodium Selenite, Organic Manganese, Organic Copper, Vitamins B1, B5, B2, B6, A, Biotin, Vitamin B12, Calcium Iodate, Folic Acid, Vitamin D3.",
-        "analysis": "GUARANTEED ANALYSIS Crude Protein ………8.0% Min Crude Fat ……………..7.0% Min Crude Fiber ………….3.0% Max Moisture ………………79% Max",
+        "key_benefits": null,
+        "ingredients": "INGREDIENTS: Chicken Meat, Salmon, Pumpkin, Brewer\u2019s Yeast, Fish Oil, Ovine Plasma, Agar, Guar Gum, Potassium Chloride, Taurine, Calcium Carbonate, Green Lipped Mussel, Dicalcium Phosphate, TSPP, Choline Chloride, Organic iron, Organic Zinc, Vitamins B3, E, Sodium Selenite, Organic Manganese, Organic Copper, Vitamins B1, B5, B2, B6, A, Biotin, Vitamin B12, Calcium Iodate, Folic Acid, Vitamin D3.",
+        "analysis": "GUARANTEED ANALYSIS Crude Protein \u2026\u2026\u20268.0% Min Crude Fat \u2026\u2026\u2026\u2026\u2026..7.0% Min Crude Fiber \u2026\u2026\u2026\u2026.3.0% Max Moisture \u2026\u2026\u2026\u2026\u2026\u202679% Max",
+        "additive": null,
         "calorie": "CALORIES Calorie Content (calculated) 1120 kcal/kg"
     },
     {
-        "brand": "iti Pet Food",
         "url": "https://www.itipet.com/product/iti-cans-cat-chicken/",
+        "brand": "iti Pet Food",
         "title": "iti CANS CHICKEN FOR CATS",
         "descriptions": [
             "85g for Cats",
@@ -51,35 +57,41 @@
             "90% New Zealand Meat, Organs & seafood.",
             "GMO & GRAIN FREE"
         ],
-        "ingredients": "INGREDIENTS: Chicken Meat,Pumpkin, Brewer’s Yeast, Fish Oil, Ovine Plasma, Agar, Guar Gum, Potassium Chloride, Taurine, Calcium Carbonate, Green Lipped Mussel, Dicalcium Phosphate, TSPP, Choline Chloride, Organic Iron, Organic Zinc, Vitamins B3, E, Sodium Selenite, Organic Manganese, Organic Copper, Vitamins B1, B5, B2, B6, A Biotin, Vitamin B12, Calcium Iodate, Folic Acid, Vitamin D3",
-        "analysis": "GUARANTEED ANALYSIS Crude Protein ……..8.7% Min Crude Fat …………….5.0% Min Crude Fiber …………3.0% Max Moisture ………………79% Max",
+        "key_benefits": null,
+        "ingredients": "INGREDIENTS: Chicken Meat,Pumpkin, Brewer\u2019s Yeast, Fish Oil, Ovine Plasma, Agar, Guar Gum, Potassium Chloride, Taurine, Calcium Carbonate, Green Lipped Mussel, Dicalcium Phosphate, TSPP, Choline Chloride, Organic Iron, Organic Zinc, Vitamins B3, E, Sodium Selenite, Organic Manganese, Organic Copper, Vitamins B1, B5, B2, B6, A Biotin, Vitamin B12, Calcium Iodate, Folic Acid, Vitamin D3",
+        "analysis": "GUARANTEED ANALYSIS Crude Protein \u2026\u2026..8.7% Min Crude Fat \u2026\u2026\u2026\u2026\u2026.5.0% Min Crude Fiber \u2026\u2026\u2026\u20263.0% Max Moisture \u2026\u2026\u2026\u2026\u2026\u202679% Max",
+        "additive": null,
         "calorie": "CALORIES Calorie Content (calculated) 1054 kcal/kg"
     },
     {
-        "brand": "iti Pet Food",
         "url": "https://www.itipet.com/product/iti-cans-cat-lamb/",
+        "brand": "iti Pet Food",
         "title": "iti CANS LAMB & VENISON FOR CATS",
         "descriptions": [
             "Complete and balanced",
             "90% Free Range NZ Meat, Organs & seafood.",
             "GMO & GRAIN FREE"
         ],
-        "ingredients": "INGREDIENTS: Lamb Meat, Lamb Liver, Venison Tripe, Pumpkin, Venison Meat, Lamb Lung, Brewer’s Yeast, Lamb Kidney, Fish Oil, Ovine Plasma, Agar, Guar Gum, Potassium Chloride, Taurine, Calcium Carbonate, Green Lipped Mussel, Dicalcium Phosphate, TSPP, Choline Chloride, Organic Iron, Organic Zinc, Vitamins B3, E, Sodium Selenite, Organic Manganese, Organic Copper, Vitamins B1, B5, B2, B6, A, Biotin, Organic Copper, Vitamin B12, Calcium Iodate, Folic Acid, Vitamin D3.",
-        "analysis": "GUARANTEED ANALYSIS Crude Protein …..8.0% Min Crude Fat ………….8.0% Min Crude Fiber ………3.0% Max Moisture ……………79% Max",
+        "key_benefits": null,
+        "ingredients": "INGREDIENTS: Lamb Meat, Lamb Liver, Venison Tripe, Pumpkin, Venison Meat, Lamb Lung, Brewer\u2019s Yeast, Lamb Kidney, Fish Oil, Ovine Plasma, Agar, Guar Gum, Potassium Chloride, Taurine, Calcium Carbonate, Green Lipped Mussel, Dicalcium Phosphate, TSPP, Choline Chloride, Organic Iron, Organic Zinc, Vitamins B3, E, Sodium Selenite, Organic Manganese, Organic Copper, Vitamins B1, B5, B2, B6, A, Biotin, Organic Copper, Vitamin B12, Calcium Iodate, Folic Acid, Vitamin D3.",
+        "analysis": "GUARANTEED ANALYSIS Crude Protein \u2026..8.0% Min Crude Fat \u2026\u2026\u2026\u2026.8.0% Min Crude Fiber \u2026\u2026\u20263.0% Max Moisture \u2026\u2026\u2026\u2026\u202679% Max",
+        "additive": null,
         "calorie": "CALORIES Calorie Content (calculated) 1100 kcal/kg"
     },
     {
-        "brand": "iti Pet Food",
         "url": "https://www.itipet.com/product/iti-kiti-chicken-salmon-for-cats/",
+        "brand": "iti Pet Food",
         "title": "iti KITI CHICKEN & SALMON FOR CATS",
         "descriptions": "1 kg box contains 5 x 200g fresh packs of cat food. Dehydrated Raw Meat In Small Fresh Packs For Small Pets Complete and balanced 90% Free Range NZ Meat, Organs & seafood. GMO & GRAIN FREE",
-        "ingredients": "INGREDIENTS: Chicken, Chicken Liver, Chicken Gizzard, Salmon, Mussel, Vegetable Glycerine, Yeast Extract, Brewer’s Yeast, Salt, Dried Chicory, Calcium Carbonate, Choline Chloride, Natural Antioxidant, Taurine, Organic Iron, Zinc Oxide, Vitamins E, B3, Copper Sulphate, Vitamin B1, Selenium, Manganous Oxide, Vitamins A, B5, B2, B6, Biotin, Vitamin B12, Folic Acid.",
-        "analysis": "GUARANTEED ANALYSIS Crude Protein …..37% Min Crude Fat …………23% Min Crude Fiber ……….2% Max Moisture …………..16% Max",
+        "key_benefits": null,
+        "ingredients": "INGREDIENTS: Chicken, Chicken Liver, Chicken Gizzard, Salmon, Mussel, Vegetable Glycerine, Yeast Extract, Brewer\u2019s Yeast, Salt, Dried Chicory, Calcium Carbonate, Choline Chloride, Natural Antioxidant, Taurine, Organic Iron, Zinc Oxide, Vitamins E, B3, Copper Sulphate, Vitamin B1, Selenium, Manganous Oxide, Vitamins A, B5, B2, B6, Biotin, Vitamin B12, Folic Acid.",
+        "analysis": "GUARANTEED ANALYSIS Crude Protein \u2026..37% Min Crude Fat \u2026\u2026\u2026\u202623% Min Crude Fiber \u2026\u2026\u2026.2% Max Moisture \u2026\u2026\u2026\u2026..16% Max",
+        "additive": null,
         "calorie": "CALORIES Calorie Content (calculated) 4030 kcal/kg"
     },
     {
-        "brand": "iti Pet Food",
         "url": "https://www.itipet.com/product/iti-kiti-chicken-veal-for-cats/",
+        "brand": "iti Pet Food",
         "title": "iti KITI CHICKEN & VEAL FOR CATS",
         "descriptions": [
             "Dehydrated Raw Meat",
@@ -89,13 +101,15 @@
             "90% Free Range NZ Meat, Organs & seafood.",
             "GMO & GRAIN FREE"
         ],
-        "ingredients": "INGREDIENTS: Chicken, Veal, Beef, Chicken Liver, Mussel, Vegetable Glycerine, Yeast Extract, Brewer’s Yeast, Salt, Dried Chicory, Calcium Carbonate, Choline Chloride, Natural Antioxidant, Taurine, Organic Iron, Zinc Oxide, Vitamins E, B3, Copper Sulphate, Vitamin B1, Selenium, Manganous Oxide, Vitamins A, B5, B2, B6, Biotin, Vitamin B12, Folic Acid.",
-        "analysis": "GUARANTEED ANALYSIS Crude Protein …..36% Min Crude Fat …………25% Min Crude Fiber ……….2% Max Moisture …………..16% Max",
+        "key_benefits": null,
+        "ingredients": "INGREDIENTS: Chicken, Veal, Beef, Chicken Liver, Mussel, Vegetable Glycerine, Yeast Extract, Brewer\u2019s Yeast, Salt, Dried Chicory, Calcium Carbonate, Choline Chloride, Natural Antioxidant, Taurine, Organic Iron, Zinc Oxide, Vitamins E, B3, Copper Sulphate, Vitamin B1, Selenium, Manganous Oxide, Vitamins A, B5, B2, B6, Biotin, Vitamin B12, Folic Acid.",
+        "analysis": "GUARANTEED ANALYSIS Crude Protein \u2026..36% Min Crude Fat \u2026\u2026\u2026\u202625% Min Crude Fiber \u2026\u2026\u2026.2% Max Moisture \u2026\u2026\u2026\u2026..16% Max",
+        "additive": null,
         "calorie": "CALORIES Calorie Content (calculated) 4250 kcal/kg"
     },
     {
-        "brand": "iti Pet Food",
         "url": "https://www.itipet.com/product/iti-kiti-lamb-kahawai-for-cats/",
+        "brand": "iti Pet Food",
         "title": "iti KITI LAMB & KAHAWAI FOR CATS",
         "descriptions": [
             "Dehydrated Raw Meat",
@@ -105,8 +119,10 @@
             "90% Free Range NZ Meat, Organs & seafood.",
             "GMO & GRAIN FREE"
         ],
-        "ingredients": "INGREDIENTS: Lamb, Kahawai, Lamb Lung, Lamb Liver, Mussel, Vegetable Glycerine, Yeast Extract, Brewer’s Yeast, Salt, Dried Chicory, Calcium Carbonate, Choline Chloride, Natural Antioxidant, Taurine, Organic Iron, Zinc Oxide, Vitamins E, B3, Copper Sulphate, Vitamin B1, Selenium, Manganous Oxide, Vitamins A, B5, B2, B6, Biotin, Vitamin B12, Folic Acid.",
-        "analysis": "GUARANTEED ANALYSIS Crude Protein …..34% Min Crude Fat …………37% Min Crude Fiber ……….2% Max Moisture …………..14% Max",
+        "key_benefits": null,
+        "ingredients": "INGREDIENTS: Lamb, Kahawai, Lamb Lung, Lamb Liver, Mussel, Vegetable Glycerine, Yeast Extract, Brewer\u2019s Yeast, Salt, Dried Chicory, Calcium Carbonate, Choline Chloride, Natural Antioxidant, Taurine, Organic Iron, Zinc Oxide, Vitamins E, B3, Copper Sulphate, Vitamin B1, Selenium, Manganous Oxide, Vitamins A, B5, B2, B6, Biotin, Vitamin B12, Folic Acid.",
+        "analysis": "GUARANTEED ANALYSIS Crude Protein \u2026..34% Min Crude Fat \u2026\u2026\u2026\u202637% Min Crude Fiber \u2026\u2026\u2026.2% Max Moisture \u2026\u2026\u2026\u2026..14% Max",
+        "additive": null,
         "calorie": "CALORIES Calorie Content (calculated) 5080 kcal/kg"
     }
 ]

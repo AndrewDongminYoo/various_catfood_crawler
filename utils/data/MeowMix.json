@@ -1,11 +1,11 @@
 [
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/tasty-layers/chicken-and-tuna",
-        "title": "Meow Mix® Tasty Layers™ Chicken and Tuna Recipe Stuffed With Real Chicken | Wet Cat Food",
-        "descriptions": "Surprise and delight your cat with an indulgent mealtime experience with Meow Mix® Tasty Layers™ Swirled Paté Chicken & Tuna Recipe Stuffed With Real Chicken. This wet cat food paté combines delicious dual swirls of chicken and tuna flavors for an irresistible level of tastiness. The center of the swirled paté is stuffed with the best treat of all—real chicken.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Tasty Layers\u2122 Chicken and Tuna Recipe Stuffed With Real Chicken | Wet Cat Food",
+        "descriptions": "Surprise and delight your cat with an indulgent mealtime experience with Meow Mix\u00ae Tasty Layers\u2122 Swirled Pat\u00e9 Chicken & Tuna Recipe Stuffed With Real Chicken. This wet cat food pat\u00e9 combines delicious dual swirls of chicken and tuna flavors for an irresistible level of tastiness. The center of the swirled pat\u00e9 is stuffed with the best treat of all\u2014real chicken.",
         "key_benefits": [
-            "Chicken and tuna flavored swirls of paté cat food",
+            "Chicken and tuna flavored swirls of pat\u00e9 cat food",
             "Stuffed with real chicken",
             "100% complete and balanced nutrition for adult cats"
         ],
@@ -18,15 +18,16 @@
             "Ash (Max.) 3.5%",
             "Taurine (Min.) 0.05%"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy (ME): 930 kcal/kg; 75 kcal/2.75 oz cup"
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/tasty-layers/chicken-and-turkey",
-        "title": "Meow Mix® Tasty Layers Chicken and Turkey Recipe Stuffed With Real Chicken | Wet Cat Food",
-        "descriptions": "Take mealtime to the next level with Meow Mix® Tasty Layers™ Swirled Paté Chicken & Turkey Recipe Stuffed With Real Chicken. This wet cat food paté combines delicious dual swirls of chicken and turkey flavors for an irresistible level of tastiness. The center of the swirled paté is stuffed with the best treat of all— real chicken.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Tasty Layers Chicken and Turkey Recipe Stuffed With Real Chicken | Wet Cat Food",
+        "descriptions": "Take mealtime to the next level with Meow Mix\u00ae Tasty Layers\u2122 Swirled Pat\u00e9 Chicken & Turkey Recipe Stuffed With Real Chicken. This wet cat food pat\u00e9 combines delicious dual swirls of chicken and turkey flavors for an irresistible level of tastiness. The center of the swirled pat\u00e9 is stuffed with the best treat of all\u2014 real chicken.",
         "key_benefits": [
-            "Chicken and turkey flavored swirls of paté cat food",
+            "Chicken and turkey flavored swirls of pat\u00e9 cat food",
             "Stuffed with real chicken",
             "100% complete and balanced nutrition for adult cats"
         ],
@@ -39,15 +40,16 @@
             "Ash (Max.) 3.5%",
             "Taurine (Min.) 0.05%"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy (ME): 1010 kcal/kg; 80kcal/2.75 oz cup"
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/tasty-layers/tuna-and-whitefish",
-        "title": "Meow Mix® Tasty Layers™ Tuna and Whitefish Recipe Stuffed With Real Tuna | Wet Cat Food",
-        "descriptions": "Unlike any other mealtime experience, take things to the next level with Meow Mix® Tasty Layers™ Swirled Paté Tuna & Whitefish Recipe Stuffed With Real Tuna. This wet cat food paté combines delicious dual swirls of tuna and whitefish flavors for an irresistible level of tastiness. The center of the swirled paté is stuffed with the best treat of all—real tuna.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Tasty Layers\u2122 Tuna and Whitefish Recipe Stuffed With Real Tuna | Wet Cat Food",
+        "descriptions": "Unlike any other mealtime experience, take things to the next level with Meow Mix\u00ae Tasty Layers\u2122 Swirled Pat\u00e9 Tuna & Whitefish Recipe Stuffed With Real Tuna. This wet cat food pat\u00e9 combines delicious dual swirls of tuna and whitefish flavors for an irresistible level of tastiness. The center of the swirled pat\u00e9 is stuffed with the best treat of all\u2014real tuna.",
         "key_benefits": [
-            "Tuna and whitefish flavored swirls of paté cat food",
+            "Tuna and whitefish flavored swirls of pat\u00e9 cat food",
             "Stuffed with real tuna",
             "100% complete and balanced nutrition for adult cats"
         ],
@@ -60,13 +62,14 @@
             "Ash (Max.) 3.5%",
             "Taurine (Min.) 0.05%"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy (ME): 1010 kcal/kg; 80kcal/2.75 oz cup"
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/classic-pate/classic-pate-mixed-grill-with-real-beef-tuna-chicken",
-        "title": "Meow Mix® Classic Paté | Mixed Grill Cat Food with Real Beef, Tuna & Chicken",
-        "descriptions": "Indulge your cat with our Meow Mix® Classic Paté Mixed Grill With Real Beef, Tuna & Chicken, a tasty paté with the smooth texture your cat loves. Each wholesome meal combines 100% complete and balanced nutrition for adult cats with deliciously unique flavors to help keep your cat healthy and happy.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Classic Pat\u00e9 | Mixed Grill Cat Food with Real Beef, Tuna & Chicken",
+        "descriptions": "Indulge your cat with our Meow Mix\u00ae Classic Pat\u00e9 Mixed Grill With Real Beef, Tuna & Chicken, a tasty pat\u00e9 with the smooth texture your cat loves. Each wholesome meal combines 100% complete and balanced nutrition for adult cats with deliciously unique flavors to help keep your cat healthy and happy.",
         "key_benefits": [
             "Delicious flavor with a smooth texture your cat will love",
             "100% complete and balanced nutrition for adult cats",
@@ -81,13 +84,14 @@
             "Ash (Max.) 4.00%",
             "Taurine (Min.) 0.05%"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy (ME) = 947 kcal/kg; 73 kcal/cup"
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/classic-pate/classic-pate-with-real-chicken-liver",
-        "title": "Meow Mix® Classic Paté | Real Chicken & Liver",
-        "descriptions": "Indulge your cat with our Meow Mix® Classic Paté With Real Chicken & Liver, a tasty paté with the smooth texture your cat loves. Each wholesome meal combines 100% complete and balanced nutrition for adult cats with deliciously unique flavors to help keep your cat healthy and happy.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Classic Pat\u00e9 | Real Chicken & Liver",
+        "descriptions": "Indulge your cat with our Meow Mix\u00ae Classic Pat\u00e9 With Real Chicken & Liver, a tasty pat\u00e9 with the smooth texture your cat loves. Each wholesome meal combines 100% complete and balanced nutrition for adult cats with deliciously unique flavors to help keep your cat healthy and happy.",
         "key_benefits": [
             "Delicious flavor with a smooth texture your cat will love",
             "100% complete and balanced nutrition for adult cats",
@@ -102,13 +106,14 @@
             "Ash (Max.) 4.00%",
             "Taurine (Min.) 0.05%"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy (ME) = 954 kcal/kg; 74 kcal/cup"
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/classic-pate/classic-pate-with-real-tuna",
-        "title": "Meow Mix® Classic Paté | Real Tuna",
-        "descriptions": "Indulge your cat with our Meow Mix® Classic Paté With Real Tuna, a tasty paté with the smooth texture your cat loves. Each wholesome meal combines 100% complete and balanced nutrition for adult cats with deliciously unique flavors to help keep your cat healthy and happy.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Classic Pat\u00e9 | Real Tuna",
+        "descriptions": "Indulge your cat with our Meow Mix\u00ae Classic Pat\u00e9 With Real Tuna, a tasty pat\u00e9 with the smooth texture your cat loves. Each wholesome meal combines 100% complete and balanced nutrition for adult cats with deliciously unique flavors to help keep your cat healthy and happy.",
         "key_benefits": [
             "Delicious flavor with a smooth texture your cat will love",
             "100% complete and balanced nutrition for adult cats",
@@ -123,13 +128,14 @@
             "Ash (Max.) 4.00%",
             "Taurine (Min.) 0.05%"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy (ME) = 947 kcal/kg; 73 kcal/cup"
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/savory-morsels/savory-morsels-seafood-entree-in-gravy",
-        "title": "Meow Mix® Savory Morsels® | Seafood Entrée in Gravy",
-        "descriptions": "Savory Morsels® Seafood Entrée in Gravy is the ultimate mix of mouthwatering flavors from the sea. And this irresistibly delicious blend contains supplemental nutrients in wholesome gravy to help keep your cat happy healthy and meowing for more.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Savory Morsels\u00ae | Seafood Entr\u00e9e in Gravy",
+        "descriptions": "Savory Morsels\u00ae Seafood Entr\u00e9e in Gravy is the ultimate mix of mouthwatering flavors from the sea. And this irresistibly delicious blend contains supplemental nutrients in wholesome gravy to help keep your cat happy healthy and meowing for more.",
         "key_benefits": [
             "Tasty blend of seafood flavors in gravy",
             "High-quality protein helps maintain overall health",
@@ -144,13 +150,14 @@
             "Ash (Max.) 3.00%",
             "Taurine (Min.) 0.05%"
         ],
-        "calorie": "Meow Mix® Savory Morsels™ Seafood Entrée in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "additive": null,
+        "calorie": "Meow Mix\u00ae Savory Morsels\u2122 Seafood Entr\u00e9e in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/savory-morsels/savory-morsels-with-real-chicken-breast-in-gravy",
-        "title": "Meow Mix® Savory Morsels® | Real Chicken Breast in Gravy",
-        "descriptions": "With juicy strips of chicken breast mixed with savory gravy it's a taste your cat will love. Savory Morsels® With Real Chicken Breast in Gravy also contains supplemental nutrients to help keep your cat healthy with every irresistible bite.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Savory Morsels\u00ae | Real Chicken Breast in Gravy",
+        "descriptions": "With juicy strips of chicken breast mixed with savory gravy it's a taste your cat will love. Savory Morsels\u00ae With Real Chicken Breast in Gravy also contains supplemental nutrients to help keep your cat healthy with every irresistible bite.",
         "key_benefits": [
             "Tasty strips with real chicken breast in gravy",
             "High-quality protein helps maintain overall health",
@@ -165,13 +172,14 @@
             "Ash (Max.) 3.00%",
             "Taurine (Min.) 0.05%"
         ],
-        "calorie": "Meow Mix® Savory Morsels™ With Real Chicken Breast in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "additive": null,
+        "calorie": "Meow Mix\u00ae Savory Morsels\u2122 With Real Chicken Breast in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-chicken-beef-in-sauce",
-        "title": "Meow Mix® Tender Favorites® | Real Chicken & Beef in Sauce Cat Food",
-        "descriptions": "Tender Favorites® With Real Chicken & Beef in Sauce brings together two delicious favorites in a savory sauce. Each cup is also fortified with nutrients and minerals that help keep your cat vibrant and healthy. With wholesome ingredients and irresistible taste it's no wonder that cats ask for it by name!",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Tender Favorites\u00ae | Real Chicken & Beef in Sauce Cat Food",
+        "descriptions": "Tender Favorites\u00ae With Real Chicken & Beef in Sauce brings together two delicious favorites in a savory sauce. Each cup is also fortified with nutrients and minerals that help keep your cat vibrant and healthy. With wholesome ingredients and irresistible taste it's no wonder that cats ask for it by name!",
         "key_benefits": [
             "Shredded real chicken and beef in one cup",
             "High-quality protein helps maintain overall health",
@@ -186,13 +194,14 @@
             "Ash (Max.) 3.0%",
             "Taurine (Min.) 0.05%"
         ],
-        "calorie": "Meow Mix® Tender Favorites® With Real Chicken & Beef in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "additive": null,
+        "calorie": "Meow Mix\u00ae Tender Favorites\u00ae With Real Chicken & Beef in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-chicken-liver-in-sauce",
-        "title": "Meow Mix® Tender Favorites® | Real Chicken & Liver in Sauce Cat Food",
-        "descriptions": "Made with tasty chicken and liver covered in succulent gravy Tender Favorites® With Real Chicken & Liver in Sauce is also fortified with a wholesome blend of vitamins and minerals to help support your cat's health. With nutritious ingredients and irresistible taste this mix makes mealtimes as nutritious as they are delicious!",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Tender Favorites\u00ae | Real Chicken & Liver in Sauce Cat Food",
+        "descriptions": "Made with tasty chicken and liver covered in succulent gravy Tender Favorites\u00ae With Real Chicken & Liver in Sauce is also fortified with a wholesome blend of vitamins and minerals to help support your cat's health. With nutritious ingredients and irresistible taste this mix makes mealtimes as nutritious as they are delicious!",
         "key_benefits": [
             "Tasty mix of real chicken and liver in one cup",
             "High-quality protein helps maintain overall health",
@@ -207,13 +216,14 @@
             "Ash (Max.) 3.0%",
             "Taurine (Min.) 0.05%"
         ],
-        "calorie": "Meow Mix® Tender Favorites® With Real Chicken & Liver in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "additive": null,
+        "calorie": "Meow Mix\u00ae Tender Favorites\u00ae With Real Chicken & Liver in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-salmon-crab-meat-in-sauce",
-        "title": "Tender Favorites® with Real Salmon & Crab Meat in Sauce Cat Food | Meow Mix",
-        "descriptions": "Tender Favorites® With Real Salmon & Crab Meat in Sauce combines delicious cuts of salmon with tender chunks of real crab meat in an irresistibly savory sauce. And each cup contains 100% complete nutrition for kittens and adult maintenance so you'll feel good about feeding at every mealtime.",
+        "brand": "MeowMix",
+        "title": "Tender Favorites\u00ae with Real Salmon & Crab Meat in Sauce Cat Food | Meow Mix",
+        "descriptions": "Tender Favorites\u00ae With Real Salmon & Crab Meat in Sauce combines delicious cuts of salmon with tender chunks of real crab meat in an irresistibly savory sauce. And each cup contains 100% complete nutrition for kittens and adult maintenance so you'll feel good about feeding at every mealtime.",
         "key_benefits": [
             "Tasty mix of real salmon and crab meat",
             "High-quality protein helps maintain overall health",
@@ -228,13 +238,14 @@
             "Ash (Max.) 3.0%",
             "Taurine (Min.) 1.5%"
         ],
-        "calorie": "Meow Mix® Tender Favorites® With Real Salmon & Crab Meat in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "additive": null,
+        "calorie": "Meow Mix\u00ae Tender Favorites\u00ae With Real Salmon & Crab Meat in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-tuna-whole-shrimp-in-sauce",
-        "title": "Meow Mix® Tender Favorites® | Real Tuna & Whole Shrimp in Sauce Cat Food",
-        "descriptions": "Tender Favorites® With Real Tuna & Whole Shrimp in Sauce is a uniquely delicious mix combining real seafood in a savory sauce-all fortified with vitamins and minerals to help maintain your cat's health. This wholesome recipe makes every mealtime as nutritious as it is delicious.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Tender Favorites\u00ae | Real Tuna & Whole Shrimp in Sauce Cat Food",
+        "descriptions": "Tender Favorites\u00ae With Real Tuna & Whole Shrimp in Sauce is a uniquely delicious mix combining real seafood in a savory sauce-all fortified with vitamins and minerals to help maintain your cat's health. This wholesome recipe makes every mealtime as nutritious as it is delicious.",
         "key_benefits": [
             "Tasty real tuna and shrimp flavors in one cup",
             "Healthy blend of wholesome proteins and vitamins",
@@ -249,13 +260,14 @@
             "Ash (Max.) 3.0%",
             "Taurine (Min.) 0.05%"
         ],
-        "calorie": "Meow Mix® Tender Favorites® With Real Tuna & Whole Shrimp in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "additive": null,
+        "calorie": "Meow Mix\u00ae Tender Favorites\u00ae With Real Tuna & Whole Shrimp in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
     },
     {
-        "brand": "MeowMix",
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-turkey-giblets-in-sauce",
-        "title": "Meow Mix® Tender Favorites® | Real Turkey & Giblets in Sauce Cat Food",
-        "descriptions": "Tender Favorites® With Real Turkey & Giblets in Sauce Cat Food has a tender duo of high-quality protein sources in a delicious sauce for a taste that cats find irresistible. Essential nutrients complete this wholesome and tasty meal.",
+        "brand": "MeowMix",
+        "title": "Meow Mix\u00ae Tender Favorites\u00ae | Real Turkey & Giblets in Sauce Cat Food",
+        "descriptions": "Tender Favorites\u00ae With Real Turkey & Giblets in Sauce Cat Food has a tender duo of high-quality protein sources in a delicious sauce for a taste that cats find irresistible. Essential nutrients complete this wholesome and tasty meal.",
         "key_benefits": [
             "Tasty mix of turkey and giblets",
             "High-quality protein helps support overall health",
@@ -270,6 +282,7 @@
             "Ash (Max.) 3.0%",
             "Taurine (Min.) 0.05%"
         ],
-        "calorie": "Meow Mix® Tender Favorites® With Real Turkey & Giblets in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "additive": null,
+        "calorie": "Meow Mix\u00ae Tender Favorites\u00ae With Real Turkey & Giblets in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
     }
 ]

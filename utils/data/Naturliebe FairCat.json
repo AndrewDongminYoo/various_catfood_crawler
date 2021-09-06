@@ -1,13 +1,13 @@
 {
     "url": "https://www.green-petfood.com/catfood/catfood-wet/faircat-balance",
     "brand": "Naturliebe FairCat",
-    "title": "FairCat Balance ✓ | green-petfood.com",
+    "title": "FairCat Balance \u2713 | green-petfood.com",
     "descriptions": "In our FairCat Balance you will find green tea & an extra serving of vitamin C & E that protect your adult four-legged friend from free radicals. Thanks to the grainfree recipe, you not only do your cat good but also help make the world more sustainable every day: because this fair meal is even climate positive and contains only protein from animals raised in a more species-appropriate way.",
     "key_benefits": [
         "Grain-free complete food for your adult feline friend ",
         "Green tea and extra vitamins C & E protect your cat from free radicals ",
         "Climate-positive: through our forest conservation project in Tanzania, we compensate for 125% of our CO2 emissions.",
-        "Paté in jelly",
+        "Pat\u00e9 in jelly",
         "FairCat Balance - Complete feed for adult cats",
         "Antioxidants"
     ],
@@ -21,15 +21,6 @@
         "Metabolisable energy: MJ/100g 0.39",
         "Metabolisable energy: kcal/100g 94.70"
     ],
-    "additives": [
-        "Vitamin D3 I.E. 200",
-        "Vitamin E (all rac-alfa-tocopheryl acetat) mg/kg 25",
-        "Vitamin C (sodium-calcium-ascorbyl phosphate) mg/kg 40",
-        "Zinc (zinc sulphate, monohydrate) mg/kg 25",
-        "Manganese (manganese-II-sulphate, monohydrate) mg/kg 1.40",
-        "Iodine (calcium iodate, anhydrous) mg/kg 0.75",
-        "Copper (copper-II-sulphate, pentahydrate) mg/kg 1",
-        "Taurine mg/kg 1,500"
-    ],
+    "additive": null,
     "calorie": "kcal/100g 94.70"
 }

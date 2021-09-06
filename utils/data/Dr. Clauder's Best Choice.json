@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Dr. Clauder's Best Choice",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Adult%20Grainfree/?id=137&&lang=en",
+        "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
         "descriptions": [
             "grainfree",
@@ -9,13 +9,15 @@
             "ideal for nutritionally sensitive, adult cats between 1st and approximately 8th years of age",
             "with a nutritional value of 920g of fresh meat per 1kg of dry nutrition"
         ],
+        "key_benefits": null,
         "ingredients": "poultry (fresh) 20%, poultry protein (dehydrated) 20%, potato meal, potato starch, poultry fat, buckwheat 5%, liver meal, salmon protein 4%, beet pulp (sugar reduced), hydrolysed protein, potato protein, linseed, eggs (dehydrated) 1%, yeast (dehydrated), cellulose, salmonoil 0.5%, peas (dehydrated), chicory powder (dehydrated), calcium carbonate, safflower oil, mannan-oligosaccharides, yucca shidigera powder.",
         "analysis": "crude protein 32%, crude fat 15%, crude fibre 3.5%, crude ash 7.9%, calcium 1.35%, phosphorus 1.2%, sodium 0.4%, omega3 0.85%, omega6 2.9%.",
-        "additives": "Nutritional additives: vitamins: A 18,000IU, D3 1,500IU, E 145mg, B1 20mg, B2 20mg, B6 20mg, B12 41mcg, biotin 300mcg, folate 2.3mg, niacin 80mg, Calcium D-pantothenate 20mg, choline 3,300mg, taurine 1,300mg trace elements: copper (as cupric sulphate, pentahydrate) 10mg, zinc (as zincoxide) 30mg, zinc (as amino acid zinc chelate, hydrate) 80mg, iodine (E2, as calcium iodine, anhydrous) 2mg, selenium (as sodium selenite) 0.2mg. Technological additives: with antioxidants: EC additives (tocopherol-rich extracts of natural origin, propyl gallate)."
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Dr. Clauder's Best Choice",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Indoor/?id=102&&lang=en",
+        "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
         "descriptions": [
             "easily digestible",
@@ -24,13 +26,15 @@
             "ideal for calmer cats",
             "with a nutritional value of 780g of fresh meat per 1kg of dry nutrition"
         ],
+        "key_benefits": null,
         "ingredients": "rice, poultry protein (dehydrated) 21%, fish protein (5%), liver meal, poultry fat, hydrolysed protein, eggs (dehydrated) 2.8%, linseed, beet pulp (sugar reduced), rice bran, cellulose, fish oil, yeast (dehydrated), chicory powder (dehydrated), potassium chloride.",
         "analysis": "crude protein 28%, crude fat 11%, crude fibre 4%, crude ash 6%, calcium 1.1%, phosphorus 0.95%, sodium 0.3%, omega3 0.57%, omega6 2.11%.",
-        "additives": "Nutritional additives: vitamin: A 15,000IU, D3 1,500IU, E 150mg, B1 20mg, B2 20mg, B6 20mg, B12 40mcg, biotin 275mcg, folate 1mg, niacin 80mg, Calcium D-pantothenate 20mg, choline 2,450mg, taurine 1,300mg, copper (as cupric sulphate, pentahydrate) 10mg, zinc (as zincoxide) 30mg, zinc (as amino acid zinc chelate, hydrate) 40mg, iodine (E2, as calcium iodine, anhydrous) 2mg, selenium (as sodium selenite) 0.2mg. Technological additives: with antioxidants: EC additives (tocopherol-rich extracts of natural origin, propyl gallate)."
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Dr. Clauder's Best Choice",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Kitten/?id=136&&lang=en",
+        "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
         "descriptions": [
             "great palatability",
@@ -39,13 +43,15 @@
             "high content of taurine (1,500mg/kg) optimally supports the growing body during the development phase (up to 12 months)",
             "with a nutritional value of 930g of fresh meat per 1kg of dry nutrition"
         ],
+        "key_benefits": null,
         "ingredients": "poultry protein (dehydrated) 26%, rice 22%, animal fat, rice protein, fish protein 5%, liver meal, hydrolysed protein, eggs (dehydrated) 3%, linseed, beet pulp (sugar reduced), rice bran, cellulose, salmonoil 1%, yeast (dehydrated), peas (dehydrated), chicory powder, potassium chloride.",
         "analysis": "crude protein 33%, crude fat 22.5%, crude fibre 3.3%, crude ash 7.5%, calcium 1.25%, phosphorus 1.1%, sodium 0.38%, omega3 0.8%, omega6 2.9%.",
-        "additives": "Nutritional additives: vitamins: A 17,000IU, D3 1,500IU, E 150mg, B1 20mg, B2 20mg, B6 20mg, B12 40mcg, biotin 300mcg, folate 2mg, niacin 80mg, Calcium D-pantothenate 20mg, choline 3,000mg, taurine 1,500mg, trace elements: copper (as cupric sulphate, pentahydrate) 10mg, zinc (as zincoxide) 30mg, zinc (as amino acid zinc chelate, hydrate) 40mg, iodine (E2, as calcium iodine, anhydrous) 2mg, selenium (as sodium selenite) 0.2mg. Technological additives: (tocopherol-rich extracts of natural origin, propyl gallate)."
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Dr. Clauder's Best Choice",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Outdoor/?id=106&&lang=en",
+        "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
         "descriptions": [
             "providing of appropriate energy and protein",
@@ -53,13 +59,15 @@
             "perfectly tailored to the needs of active cats",
             "with a nutritional value of 945g of fresh meat per 1kg of dry nutrition"
         ],
+        "key_benefits": null,
         "ingredients": "poultry protein (dehydrated) 26.5%, rice, poultry fat, rice protein, fish protein (5%), liver meal, hydrolysed protein, eggs (dehydrated) 3%, linseed, beet pulp (sugar reduced), cellulose, rice bran, fish oil, peas (dehydrated), yeast (dehydrated), chicory powder (dehydrated), potassium chloride, sodium chloride.",
         "analysis": "crude protein 33%, crude fat 20%, crude fibre 3.5%, crude ash 6.7%, calcium 1.15%, phosphorus 1.1%, sodium 0.3%, omega3 0.85%, omega6 2.3%.",
-        "additives": "Nutritional additives: vitamins: A 17,000IU, D3 1,500IU, E 150mg, B1 20mg, B2 20mg, B6 20mg, B12 40mcg, biotin 275mcg, folate 1mg, niacin 80mg, Calcium D-pantothenate 20mg, choline 2,450mg, taurine 1,300mg, copper (as cupric sulphate, pentahydrate) 10mg, zinc (as zincoxide) 30mg, zinc (as amino acid zinc chelate, hydrate) 40mg, iodine (E2, as calcium iodine, anhydrous) 2mg, selenium (as sodium selenite) 0.2mg. Technological additives: with antioxidants: EC additives (tocopherol-rich extracts of natural origin, propyl gallate)."
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Dr. Clauder's Best Choice",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Sterilised%20Senior%20Light/?id=138&&lang=en",
+        "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
         "descriptions": [
             "with a nutritional value of 780g of fresh meat per 1kg of dry nutrition",
@@ -67,8 +75,10 @@
             "ideal for cats over 8 years old or overweight cats",
             "particularly suitable for sterilized cats"
         ],
+        "key_benefits": null,
         "ingredients": "rice, poultry protein (dehydrated) 21%, fish protein (5%), liver meal, poultry fat, hydrolysed protein, eggs (dehydrated) 2.8%, linseed, beet pulp (sugar reduced), rice bran, cellulose, fish oil, peas, chicory powder (dehydrated), yeast (dehydrated), potassium chloride.",
         "analysis": "crude protein 26.5%, crude fat 10%, crude fibre 3.5%, crude ash 6.9%, calcium 1.15%, phosphorus 1%, sodium 0.3%, omega3 0.57%, omega6 2.11%.",
-        "additives": "Nutritional additives: vitamin: A 15,000IU, D3 1,500IU, E 150mg, B1 20mg, B2 20mg, B6 20mg, B12 40mcg, biotin 275mcg, folate 1mg, niacin 80mg, Calcium D-pantothenate 20mg, choline 2,450mg, taurine 1,300mg, copper (as cupric sulphate, pentahydrate) 10mg, zinc (as zincoxide) 30mg, zinc (as amino acid zinc chelate, hydrate) 40mg, iodine (E2, as calcium iodine, anhydrous) 2mg, selenium (as sodium selenite) 0.2mg. Technological additives: with antioxidants: EC additives (tocopherol-rich extracts of natural origin, propyl gallate)."
+        "additive": null,
+        "calorie": null
     }
 ]

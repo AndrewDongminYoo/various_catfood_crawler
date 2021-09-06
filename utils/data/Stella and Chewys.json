@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Stella and Chewys",
         "url": "https://www.stellaandchewys.com/cat-food/absolutely-rabbit-freeze-dried-raw-dinner-morsels/",
+        "brand": "Stella and Chewys",
         "title": "Absolutely Rabbit Freeze-Dried Raw Dinner Morsels | Stella & Chewy's Pet Food",
         "descriptions": [
             "Raw, farm-raised rabbit",
@@ -14,7 +14,7 @@
         ],
         "key_benefits": [
             "FARM-RAISED Responsibly sourced and never any added hormones or antibiotics.",
-            "REAL RAW DIET Formulated to mirror a cat’s ancestral diet with 98% meat, organs, and bone with zero grains.",
+            "REAL RAW DIET Formulated to mirror a cat\u2019s ancestral diet with 98% meat, organs, and bone with zero grains.",
             "COMPLETE & BALANCED Fortified with appropriate levels of vitamins & minerals with added taurine.",
             "NUTRIENT-RICH Enhanced with added probiotics & antioxidants.",
             "CONVENIENT The easiest way to feed your cat a raw diet and what they naturally crave."
@@ -29,11 +29,12 @@
             "Calorie Content 4,630 kcal/kg",
             "(metabolizable energy, calculated): 196 kcal/cup"
         ],
+        "additive": null,
         "calorie": "(metabolizable energy, calculated): 196 kcal/cup"
     },
     {
-        "brand": "Stella and Chewys",
         "url": "https://www.stellaandchewys.com/cat-food/chick-chick-chicken-freeze-dried-raw-dinner-morsels/",
+        "brand": "Stella and Chewys",
         "title": "Chick, Chick Chicken Freeze-Dried Raw Dinner Morsels | Stella & Chewy's Pet Food",
         "descriptions": [
             "Raw, cage-free chicken",
@@ -46,7 +47,7 @@
         ],
         "key_benefits": [
             "CAGE-FREE CHICKEN Responsibly sourced and never any added hormones or antibiotics.",
-            "REAL RAW DIET Formulated to mirror a cat’s ancestral diet with 98% meat, organs, and bone with zero grains.",
+            "REAL RAW DIET Formulated to mirror a cat\u2019s ancestral diet with 98% meat, organs, and bone with zero grains.",
             "COMPLETE & BALANCED Fortified with appropriate levels of vitamins & minerals with added taurine.",
             "NUTRIENT-RICH Enhanced with added probiotics & antioxidants.",
             "CONVENIENT The easiest way to feed your cat a raw diet and what they naturally crave."
@@ -61,11 +62,12 @@
             "Calorie Content 4,630 kcal/kg",
             "(metabolizable energy, calculated): 182 kcal/cup"
         ],
+        "additive": null,
         "calorie": "(metabolizable energy, calculated): 182 kcal/cup"
     },
     {
-        "brand": "Stella and Chewys",
         "url": "https://www.stellaandchewys.com/cat-food/duck-duck-goose-freeze-dried-raw-dinner-morsels-pet-food/",
+        "brand": "Stella and Chewys",
         "title": "Duck Duck Goose Freeze-Dried Raw Dinner Morsels | Stella & Chewy's Pet Food",
         "descriptions": [
             "Raw, cage-free poultry",
@@ -78,7 +80,7 @@
         ],
         "key_benefits": [
             "CAGE-FREE Responsibly sourced and never any added hormones or antibiotics.",
-            "REAL RAW DIET Formulated to mirror a cat’s ancestral diet with 98% meat, organs, and bone with zero grains.",
+            "REAL RAW DIET Formulated to mirror a cat\u2019s ancestral diet with 98% meat, organs, and bone with zero grains.",
             "COMPLETE & BALANCED Fortified with appropriate levels of vitamins & minerals with added taurine.",
             "NUTRIENT-RICH Enhanced with added probiotics & antioxidants.",
             "CONVENIENT The easiest way to feed your cat a raw diet and what they naturally crave."
@@ -93,11 +95,12 @@
             "Calorie Content 5298 kcal/kg",
             "(metabolizable energy, calculated): 224 kcal/cup"
         ],
+        "additive": null,
         "calorie": "(metabolizable energy, calculated): 224 kcal/cup"
     },
     {
-        "brand": "Stella and Chewys",
         "url": "https://www.stellaandchewys.com/cat-food/sea-licious-salmon-cod-freeze-dried-raw-dinner-morsels/",
+        "brand": "Stella and Chewys",
         "title": "Sea-Licious Salmon & Cod Freeze-Dried Raw Dinner Morsels | Stella & Chewy's Pet Food",
         "descriptions": [
             "Raw, wild-caught fish",
@@ -110,7 +113,7 @@
         ],
         "key_benefits": [
             "WILD-CAUGHT Responsibly sourced and never any added hormones or antibiotics.",
-            "REAL RAW DIET Formulated to mirror a cat’s ancestral diet with 98% meat, organs, and bone with zero grains.",
+            "REAL RAW DIET Formulated to mirror a cat\u2019s ancestral diet with 98% meat, organs, and bone with zero grains.",
             "COMPLETE & BALANCED Fortified with appropriate levels of vitamins & minerals with added taurine.",
             "NUTRIENT-RICH Enhanced with added probiotics & antioxidants.",
             "CONVENIENT The easiest way to feed your cat a raw diet and what they naturally crave."
@@ -125,12 +128,13 @@
             "Calorie Content 4,460 kcal/kg",
             "(metabolizable energy, calculated): 190 kcal/cup"
         ],
+        "additive": null,
         "calorie": "(metabolizable energy, calculated): 190 kcal/cup"
     },
     {
-        "brand": "Stella and Chewys",
         "url": "https://www.stellaandchewys.com/cat-food/tummy-ticklin-turkey-freeze-dried-raw-dinner-morsels/",
-        "title": "Tummy Ticklin’ Turkey Freeze-Dried Raw Dinner Morsels | Stella & Chewy's Pet Food",
+        "brand": "Stella and Chewys",
+        "title": "Tummy Ticklin\u2019 Turkey Freeze-Dried Raw Dinner Morsels | Stella & Chewy's Pet Food",
         "descriptions": [
             "Raw, cage-free turkey",
             "98% turkey, nutrient-rich organs, & bone",
@@ -142,7 +146,7 @@
         ],
         "key_benefits": [
             "CAGE-FREE Responsibly sourced and never any added hormones or antibiotics.",
-            "REAL RAW DIET Formulated to mirror a cat’s ancestral diet with 98% meat, organs, and bone with zero grains.",
+            "REAL RAW DIET Formulated to mirror a cat\u2019s ancestral diet with 98% meat, organs, and bone with zero grains.",
             "COMPLETE & BALANCED Fortified with appropriate levels of vitamins & minerals with added taurine.",
             "NUTRIENT-RICH Enhanced with added probiotics & antioxidants.",
             "CONVENIENT The easiest way to feed your cat a raw diet and what they naturally crave."
@@ -157,12 +161,13 @@
             "Calorie Content 4,910 kcal/kg",
             "(metabolizable energy, calculated): 208 kcal/cup"
         ],
+        "additive": null,
         "calorie": "(metabolizable energy, calculated): 208 kcal/cup"
     },
     {
-        "brand": "Stella and Chewys",
         "url": "https://www.stellaandchewys.com/cat-food/yummy-lickin-salmon-chicken-freeze-dried-raw-dinner-morsels/",
-        "title": "Yummy Lickin’ Salmon & Chicken Freeze-Dried Raw Dinner Morsels | Stella & Chewy's Pet Food",
+        "brand": "Stella and Chewys",
+        "title": "Yummy Lickin\u2019 Salmon & Chicken Freeze-Dried Raw Dinner Morsels | Stella & Chewy's Pet Food",
         "descriptions": [
             "Raw, wild-caught fish & cage-free chicken",
             "98% fish & chicken, nutrient-rich organs & bone",
@@ -174,7 +179,7 @@
         ],
         "key_benefits": [
             "WILD-CAUGHT & CAGE-FREE Responsibly sourced and never any added hormones or antibiotics.",
-            "REAL RAW DIET Formulated to mirror a cat’s ancestral diet with 98% meat, organs, and bone with zero grains.",
+            "REAL RAW DIET Formulated to mirror a cat\u2019s ancestral diet with 98% meat, organs, and bone with zero grains.",
             "COMPLETE & BALANCED Fortified with appropriate levels of vitamins & minerals with added taurine.",
             "NUTRIENT-RICH Enhanced with added probiotics & antioxidants.",
             "CONVENIENT The easiest way to feed your cat a raw diet and what they naturally crave."
@@ -192,6 +197,7 @@
             "Calorie Content 4440 kcal/kg",
             "(metabolizable energy, calculated): 188 kcal/cup"
         ],
+        "additive": null,
         "calorie": "(metabolizable energy, calculated): 188 kcal/cup"
     }
 ]

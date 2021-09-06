@@ -1,9 +1,9 @@
 [
     {
-        "brand": "Taste of the Wild",
         "url": "https://www.tasteofthewildpetfood.com/prey/cat-formulas/turkey-formula-cats/",
+        "brand": "Taste of the Wild",
         "title": "Turkey Limited Ingredient Formula for Cats - Taste of the Wild Pet Food",
-        "descriptions": "The fowl your cat’s ancestors hunted didn’t live in a cage, so neither do ours. Cage-free turkey is the main ingredient in this simple but satisfying limited ingredient diet. 98% of protein comes from just two ingredients: 60% from turkey and 38% from lentils. Sunflower oil and carefully selected vitamins and minerals round out this complete diet, while guaranteed probiotics help support digestion. With PREY limited ingredient diets, you can give your cat the complete nutrition they need and a taste they crave — without the hunt.",
+        "descriptions": "The fowl your cat\u2019s ancestors hunted didn\u2019t live in a cage, so neither do ours. Cage-free turkey is the main ingredient in this simple but satisfying limited ingredient diet. 98% of protein comes from just two ingredients: 60% from turkey and 38% from lentils. Sunflower oil and carefully selected vitamins and minerals round out this complete diet, while guaranteed probiotics help support digestion. With PREY limited ingredient diets, you can give your cat the complete nutrition they need and a taste they crave \u2014 without the hunt.",
         "key_benefits": [
             "TURKEY Cage-free turkey is the #1 ingredient. No rendered meats or by-product meals.",
             "LENTILS A superfood packed with protein, fiber, complex carbohydrates and essential nutrients.",
@@ -26,20 +26,21 @@
             "Total Microorganisms*",
             "(Lactobacillus plantarum, Bacillus subtilis, Lactobacillus acidophilus, Enterococcus faecium, Bifidobacterium animalis) not less than 80,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
     },
     {
-        "brand": "Taste of the Wild",
         "url": "https://www.tasteofthewildpetfood.com/taste-of-the-wild/grain-free/cat-formulas/canyon-river-feline-recipe-with-trout-smoked-salmon/",
-        "title": "Canyon River® Feline Recipe with Trout & Smoked Salmon | Taste of the Wild®",
-        "descriptions": "What cat doesn’t crave the taste of a fish dinner? Made with trout and smoked salmon, the only source of animal protein in this recipe is fish, so it can be a good option for cats with food allergies or sensitivities. Nutrient-packed vegetables and fruits provide antioxidants to help support a healthy immune system and overall vitality.",
+        "brand": "Taste of the Wild",
+        "title": "Canyon River\u00ae Feline Recipe with Trout & Smoked Salmon | Taste of the Wild\u00ae",
+        "descriptions": "What cat doesn\u2019t crave the taste of a fish dinner? Made with trout and smoked salmon, the only source of animal protein in this recipe is fish, so it can be a good option for cats with food allergies or sensitivities. Nutrient-packed vegetables and fruits provide antioxidants to help support a healthy immune system and overall vitality.",
         "key_benefits": [
-            "Spring-Fed Trout & Sustainably Sourced Salmon – Trout, the number one ingredient in this formula, and smoked salmon provide highly digestible protein for a healthy body with the great fish taste cats crave.",
-            "Species-Specific Probiotics – Healthy digestive and immune systems are vital to the overall health of your pet. Our proprietary Viables Probiotics are developed specifically for cats and added after the cooking process to ensure viability. Each pound of Taste of the Wild provides 80 million live, active cultures that help support healthy digestive and immune systems.",
-            "Omega Fatty Acid Blend – Balanced levels of omega-6 and omega-3 fatty acids work together to support healthy skin and a shiny coat.",
-            "Taurine – This essential amino acid is beneficial for all cats and helps to maintain healthy heart and eyes.",
-            "All Life Stages Nutrition – Formulated to meet the nutritional needs of your cat throughout all stages of life, from kitten to senior cat.",
-            "Antioxidants – Vegetables and fruits, including sweet potatoes, tomatoes, blueberries and raspberries, provide nutrients that help promote your cat’s overall well-being, while guaranteed levels of zinc, selenium and vitamin E help support the immune system."
+            "Spring-Fed Trout & Sustainably Sourced Salmon \u2013 Trout, the number one ingredient in this formula, and smoked salmon provide highly digestible protein for a healthy body with the great fish taste cats crave.",
+            "Species-Specific Probiotics \u2013 Healthy digestive and immune systems are vital to the overall health of your pet. Our proprietary Viables Probiotics are developed specifically for cats and added after the cooking process to ensure viability. Each pound of Taste of the Wild provides 80 million live, active cultures that help support healthy digestive and immune systems.",
+            "Omega Fatty Acid Blend \u2013 Balanced levels of omega-6 and omega-3 fatty acids work together to support healthy skin and a shiny coat.",
+            "Taurine \u2013 This essential amino acid is beneficial for all cats and helps to maintain healthy heart and eyes.",
+            "All Life Stages Nutrition \u2013 Formulated to meet the nutritional needs of your cat throughout all stages of life, from kitten to senior cat.",
+            "Antioxidants \u2013 Vegetables and fruits, including sweet potatoes, tomatoes, blueberries and raspberries, provide nutrients that help promote your cat\u2019s overall well-being, while guaranteed levels of zinc, selenium and vitamin E help support the immune system."
         ],
         "ingredients": "Trout, ocean fish meal, sweet potatoes, potatoes, pea protein, potato protein, canola oil (preserved with mixed tocopherols), smoked salmon, natural flavor, DL-Methionine, potassium chloride, choline chloride, taurine, dried chicory root, tomatoes, blueberries, raspberries, yucca schidigera extract, dried Lactobacillus plantarum fermentation product, dried Bacillus subtilis fermentation product, dried Lactobacillus acidophilus fermentation product, dried Enterococcus faecium fermentation product, dried Bifidobacterium animalis fermentation product, zinc proteinate, vitamin E supplement, niacin, manganese proteinate, copper proteinate, zinc sulfate, manganese sulfate, copper sulfate, thiamine mononitrate, vitamin A supplement, biotin, potassium iodide, calcium pantothenate, riboflavin, pyridoxine hydrochloride, vitamin B12 supplement, sodium selenite, vitamin D3 supplement, folic acid.",
         "analysis": [
@@ -56,6 +57,7 @@
             "Omega-3 Fatty Acids* 0.3% minimum",
             "Total Microorganisms* (Lactobacillus plantarum, Bacillus subtilis, Lactobacillus acidophilus, Enterococcus faecium, Bifidobacterium animalis) not less than 80,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "3,741 kcal/kg (424 kcal/cup) Calculated Metabolizable Energy"
     }
 ]

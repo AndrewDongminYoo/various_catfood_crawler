@@ -1,7 +1,7 @@
 [
     {
-        "brand": "NOW FRESH",
         "url": "https://nowfresh.com/en-us/adult-recipe-for-cats",
+        "brand": "NOW FRESH",
         "title": "NOW FRESH Cat Food Grain Free Adult Recipe for Cats",
         "descriptions": "Made with fresh turkey, salmon and duck, this minimally processed recipe provides balanced protein & fat to help your adult cat maintain a healthy weight, with over 20 superfoods for essential nutrients and to help support healthy digestion.",
         "key_benefits": [
@@ -25,11 +25,12 @@
             "*Omega 3 (min) 0.5%",
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 3872 kcal/kg or 426 kcal/cup (250 ml)"
     },
     {
-        "brand": "NOW FRESH",
         "url": "https://nowfresh.com/en-us/recipe-for-kittens",
+        "brand": "NOW FRESH",
         "title": "NOW FRESH Kitten Food Grain Free Kitten Recipe",
         "descriptions": "With small-sized kibble for tiny teeth, this whisker-licking recipe provides perfectly balanced nutrition for growing kittens, with balanced proteins, fats, and omega oils to support healthy growth & development, and fresh meats & fish to tempt picky eaters.",
         "key_benefits": [
@@ -53,11 +54,12 @@
             "*Omega 3 (min) 1%",
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 3972 kcal/kg or 437 kcal/cup (250 ml)"
     },
     {
-        "brand": "NOW FRESH",
         "url": "https://nowfresh.com/en-us/senior-recipe-for-cats",
+        "brand": "NOW FRESH",
         "title": "NOW FRESH Grain Free Senior Recipe for Cats",
         "descriptions": "Made simply using fresh turkey, salmon & duck, this recipe for senior cats is perfectly balanced to help maintain a healthy weight and features pumpkin & probiotics to support good digestion, helping to keep them happy and healthy in their golden years.",
         "key_benefits": [
@@ -81,6 +83,7 @@
             "*Omega 3 (min) 0.9%",
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 3528 kcal/kg or 388 kcal/cup (250 ml)"
     }
 ]

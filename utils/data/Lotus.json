@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/chicken-8",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Cooked in small batches and hand-packed in our micro-cannery in California",
@@ -12,6 +12,7 @@
             "Single animal based protein recipes - chicken breast and thighs",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Chicken, Chicken Broth, Calcium Lactate, Carrots, Chicken Fat (Preserved with Mixed Tocopherols and Citric Acid), Potato Starch, Monosodium Phosphate, Agar-Agar, Salmon Oil, Potassium Chloride, Choline Chloride, Taurine, Calcium Carbonate, Zinc Proteinate, Magnesium Oxide, Iron Proteinate, Vitamin E Supplement, Niacin, Manganese Proteinate, Thiamine Mononitrate, Copper Proteinate, Calcium Pantothenate, Riboflavin, Vitamin A Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Biotin, Potassium Iodide, Folic Acid, Vitamin D3 Supplement, Sodium Selenite",
         "analysis": [
             "Protein 15.48 %",
@@ -37,11 +38,12 @@
             "Iodine 0.63 mg/kg",
             "Taurine 0.05 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 963.88 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/pollock-16",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Cooked in small batches and hand-packed in our micro-cannery in California",
@@ -52,6 +54,7 @@
             "Single animal based protein recipes - pollock fillets",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Pollock, Pollock Broth, Carrots, Salmon Oil, Potato Starch, Olive Oil, Sunflower Oil, Monosodium Phosphate, Calcium Carbonate, Potassium Chloride, Salt, Choline Chloride, Agar-Agar, Taurine, Zinc Proteinate, Iron Proteinate, Vitamin E Supplement, Niacin, Manganese Proteinate, Thiamine Mononitrate, Copper Proteinate, Calcium Pantothenate, Riboflavin, Vitamin A Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Biotin, Potassium Iodide, Folic Acid, Vitamin D3 Supplement, Sodium Selenite",
         "analysis": [
             "Protein 8.16 %",
@@ -77,11 +80,12 @@
             "Iodine 0.75 mg/kg",
             "Taurine 0.09 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........753 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/pork-10",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Cooked in small batches and hand-packed in our micro-cannery in California",
@@ -92,6 +96,7 @@
             "Single animal based protein recipes - pork shoulder",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Pork, Pork Broth, Carrots, Potato Starch, Monosodium Phosphate, Calcium Carbonate, Salt, Olive Oil, Salmon Oil, Sunflower Oil, Agar-Agar, Potassium Chloride, Choline Chloride, Taurine, Zinc Proteinate, Iron Proteinate, Vitamin E Supplement, Niacin, Manganese Proteinate, Thiamine Mononitrate, Copper Proteinate, Calcium Pantothenate, Riboflavin, Vitamin A Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Biotin, Potassium Iodide, Folic Acid, Vitamin D3 Supplement, Sodium Selenite",
         "analysis": [
             "Protein 15.13 %",
@@ -116,11 +121,12 @@
             "Iodine 0.63 mg/kg",
             "Taurine 0.05 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 897 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/salmon-47",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Cooked in small batches and hand-packed in our micro-cannery in California",
@@ -131,6 +137,7 @@
             "Single animal based protein recipes - salmon and pollock fillets",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Salmon, Pollock, Salmon Broth, Carrots, Sunflower Oil, Potato Starch, Monosodium Phosphate, Calcium Carbonate, Olive Oil, Salt, Potassium Chloride, Agar-Agar, Choline Chloride, Magnesium Oxide, Zinc Proteinate, Iron Proteinate, Vitamin E Supplement, Niacin, Manganese Proteinate, Thiamine Mononitrate, Copper Proteinate, Calcium Pantothenate, Riboflavin, Vitamin A Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Biotin, Potassium Iodide, Folic Acid, Vitamin D3 Supplement, Sodium Selenite",
         "analysis": [
             "Protein 10.71 %",
@@ -156,11 +163,12 @@
             "Iodine 0.63 mg/kg",
             "Taurine 0.07 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 964 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/turkey-25",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Cooked in small batches and hand-packed in our micro-cannery in California",
@@ -171,6 +179,7 @@
             "Single animal based protein recipes - turkey breast and thighs",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Turkey, Turkey Broth, Carrots, Potato Starch, Calcium Carbonate, Monosodium Phosphate, Salt, Olive Oil, Salmon Oil, Agar-Agar, Potassium Chloride, Choline Chloride, Taurine, Zinc Proteinate, Iron Proteinate, Vitamin E Supplement, Niacin, Manganese Proteinate, Thiamine Mononitrate, Copper Proteinate, Calcium Pantothenate, Riboflavin, Vitamin A Supplement, Pyridoxine Hydrochloride, Vitamin B12 Supplement, Biotin, Potassium Iodide, Folic Acid, Vitamin D3 Supplement, Sodium Selenite",
         "analysis": [
             "Protein 16.24 %",
@@ -196,11 +205,12 @@
             "Iodine 0.60 mg/kg",
             "Taurine 0.05 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 950 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/venison-28",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Cooked in small batches and hand-packed in our micro-cannery in California",
@@ -211,6 +221,7 @@
             "Single animal based protein recipes - venison trim",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Venison, Venison Broth, Carrots, Potato Starch, Calcium Carbonate, Monosodium Phosphate, Sunflower Oil, Salt, Salmon Oil, Choline Chloride, Agar-Agar, Potassium Chloride, Taurine, Zinc Proteinate, Iron Proteinate, Niacin, Vitamin E Supplement, Thiamine Mononitrate, Copper Proteinate, Manganese Proteinate, Sodium Selenite, Calcium Pantothenate, Vitamin A Supplement, Riboflavin, Pyridoxine Hydrochloride, Biotin, Vitamin B12 Supplement, Calcium Iodate, Vitamin D3 Supplement, Folic Acid",
         "analysis": [
             "Protein 16.61 %",
@@ -236,11 +247,12 @@
             "Iodine 0.79 mg/kg",
             "Taurine 0.06 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 950 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/kibble/Chicken-50",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Oven Baked in small batches in Canada",
@@ -252,6 +264,7 @@
             "Helps lower urinary pH for a healthy urinary tract",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Chicken, Chicken Meal, Lentils, Chicken Liver, Chickpeas, Chicken Fat Preserved with Mixed Tocopherols and Citric Acid, Ground Flaxseed, Tapioca Flour, Pea Fiber, Brewers Dried Yeast, Dried Egg Product, Natural Yeast Flavor, Clams, Pumpkin, Apples, Sweet Potatoes, Blueberries, Spinach, Carrots, Calcium Propionate, Calcium Sulfate, Salt, Salmon Oil, Vitamin E Supplement, New Zealand Green Mussels, Dried Kelp, Yucca schidigera, Inulin, Taurine, L Ascorbyl Polyphosphate, Iron Sulfate, DL Methionine, Zinc Sulfate, Zinc Proteinate, Potassium Chloride, Niacin, Manganese Proteinate, Copper Sulfate, Copper Proteinate, Vitamin A Supplement, Manganese Sulfate, Thiamine Mononitrate, Calcium Pantothenate, Pyridixoine Hydrochloride, Biotin, Riboflavin Supplement, Vitamin B Supplement, Vitamin D Supplement, Calcium Iodate, Folic Acid, Sodium Selenite, Rosemary Extract",
         "analysis": [
             "Protein 35.25 %",
@@ -277,11 +290,12 @@
             "Iodine 3.37 mg/kg",
             "Taurine 0.17 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 3697 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/kibble/Duck-29",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Oven-Baked in small batches in Canada",
@@ -293,6 +307,7 @@
             "Helps lower urinary pH for a healthy urinary tract",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Duck, Duck Meal, Peas, Dried Egg Product, Pork Liver, Tapioca, Pea Fiber, Brewers Dried Yeast, Sweet Potato, Ground Flaxseed, Sunflower Oil, Natural Yeast Flavor, Calcium Propionate, Carrots, Apples, Salt, Calcium Sulfate, Garlic, Blueberrries, Pumpkin, Spinach, Taurine, Salmon Oil, Iron Sulfate, Zinc Sulfate, Vitamin E Supplement, Niacin, Copper Sulfate, Vitamin A Supplement, Manganese Sulfate, Thiamine Mononitrate, Potassium Chloride, Dicalcium Phosphate, Dried Kelp, Yucca Schidigera Extract, Inulin, Calcium Pantothenate, Pyridoxine Hydrochloride, Biotin, Riboflavin Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Iodate, Folic Acid, Sodium Selenite, Rosemary Extract",
         "analysis": [
             "Protein 34.74 %",
@@ -318,11 +333,12 @@
             "Iodine 2.26 mg/kg",
             "Taurine 0.13 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 3531 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/kibble/Low%20Fat-3",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Oven-Baked in small batches in Canada",
@@ -333,6 +349,7 @@
             "Our oven-baked recipes are less processed than extruded pet food; This helps protect the nutrients like vitamins, antioxidants (from the fruits and veggies), proteins, and amino acids better than extruded pet foods",
             "Helps lower urinary pH for a healthy urinary tract"
         ],
+        "key_benefits": null,
         "ingredients": "Chicken, Chicken Meal, Lentils, Chickpeas, Tapioca Flour, Pea Fiber, Chicken Liver, White Fish, Brewers Dried Yeast, Chicken Fat (Preserved with Natural Mixed Tocopherols and Citric Acid), Natural Yeast Flavor, Cranberries, Dried Egg Product, Clams, Pumpkin, Apples, Sweet Potatoes, Blueberries, Spinach, Carrots, Calcium Propionate, Calcium Sulfate, Salt, Ground Flaxseed, Salmon Oil, Choline Chloride, New Zealand Green Mussels, Taurine, Dried Kelp, Inulin, Yucca schidigera, Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate, DL Methionine, Zinc Sulfate, Zinc Proteinate, Niacin, Manganese Proteinate, Copper Sulfate, Copper Proteinate, Vitamin A Supplement, Manganese Sulfate, Thiamine Mononitrate, Calcium Pantothenate, Pyridoxine Hydrochloride, Biotin, Riboflavin Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Iodate, Folic Acid, Sodium Selenite, Rosemary Extract",
         "analysis": [
             "Protein 31.15 %",
@@ -358,11 +375,12 @@
             "Iodine 3.34 mg/kg",
             "Taurine 0.15 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 3161 kcal/kg"
     },
     {
-        "brand": "Lotus",
         "url": "https://www.lotuspetfoods.com/product-view/cat/kibble/Sardine-49",
+        "brand": "Lotus",
         "title": "Lotus Pet Foods",
         "descriptions": [
             "Oven-Baked in small batches in Canada",
@@ -374,6 +392,7 @@
             "Helps lower urinary pH for a healthy urinary tract",
             "All life stage recipe"
         ],
+        "key_benefits": null,
         "ingredients": "Sardine, Herring, Herring Meal, Peas, Lentils, Catfish Oil (Preserved with Mixed Tocopherols and Citric Acid), Tapioca, Ground Flaxseed, Natural Fish Flavor, Pea Fiber, Vitamin E Supplement, Brewers Dried Yeast, Calcium Propionate, Carrots, Apples, Dicalcium Phosphate, Choline Chloride, Calcium Sulfate, Salt, Kelp, Spinach, Pumpkin, Blueberries, Taurine, New Zealand Green Mussels, Yucca Schidigera Extract, Inulin, L-Ascorbyl-2-Polyphosphate, Iron Sulfate, DL Methionine, Zinc Sulfate, Zinc Proteinate, Potassium Chloride, Niacin, Manganese Proteinate, Copper Sulfate, Copper Proteinate, Vitamin A Supplement, Manganese Sulfate, Thiamine Mononitrate, Calcium Pantothenate, Pyridoxine Hydrochloride, Biotin, Riboflavin Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Iodate, Folic Acid, Sodium Selenite, Rosemary Extract",
         "analysis": [
             "Protein 34.20 %",
@@ -399,6 +418,7 @@
             "Iodine 2.95 mg/kg",
             "Taurine 0.23 %"
         ],
+        "additive": null,
         "calorie": "Calorie Content........ 3457 kcal/kg"
     }
 ]

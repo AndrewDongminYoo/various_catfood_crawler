@@ -1,10 +1,10 @@
 [
     {
-        "brand": "Tuffy's Purevita",
         "url": "https://nutrisourcepetfoods.com/our-food/grain-free-chicken-peas-entree/",
+        "brand": "Tuffy's Purevita",
         "title": "Chicken & Peas Cat Food | PureVita | NutriSource Pet Foods",
         "descriptions": [
-            "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Chicken & Peas Entrée Cat Food is formulated to meet AAFCO guidelines for all life stages.",
+            "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Chicken & Peas Entr\u00e9e Cat Food is formulated to meet AAFCO guidelines for all life stages.",
             "Pure Vita offerings are specially formulated limited ingredient diets that feature a single source animal protein making them a top choice for pets with allergies.",
             "NutriSource formulas deliver compact nutrition and include pre and pro-biotics to help support a healthy gut. Balanced Omega-3 and Omega-6 fatty acids plus Zinc to support a strong immune system, healthy skin and coat condition.",
             "For more information please visit your local independent pet retailer."
@@ -54,14 +54,16 @@
             "Carbohydrates 25%",
             "Carbohydrates 28 g/cup",
             "pH 5.5"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Tuffy's Purevita",
         "url": "https://nutrisourcepetfoods.com/our-food/grain-free-duck-red-lentils-entree/",
+        "brand": "Tuffy's Purevita",
         "title": "Duck & Red Lentils Cat Food | PureVita | NutriSource Pet Foods",
         "descriptions": [
-            "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Duck & Red Lentils Entrée Cat Food is formulated to meet AAFCO guidelines for all life stages.",
+            "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Duck & Red Lentils Entr\u00e9e Cat Food is formulated to meet AAFCO guidelines for all life stages.",
             "Pure Vita offerings are specially formulated limited ingredient diets that feature a single source animal protein making them a top choice for pets with allergies.",
             "NutriSource formulas deliver compact nutrition and include pre and pro-biotics to help support a healthy gut. Balanced Omega-3 and Omega-6 fatty acids plus Zinc to support a strong immune system, healthy skin and coat condition.",
             "For more information please visit your local independent pet retailer."
@@ -111,14 +113,16 @@
             "Carbohydrates 32%",
             "Carbohydrates 37 g/cup",
             "pH 5.5"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Tuffy's Purevita",
         "url": "https://nutrisourcepetfoods.com/our-food/grain-free-salmon-peas-entree/",
-        "title": "Grain Free Salmon & Peas Entrée | NutriSource Pet Foods",
+        "brand": "Tuffy's Purevita",
+        "title": "Grain Free Salmon & Peas Entr\u00e9e | NutriSource Pet Foods",
         "descriptions": [
-            "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Salmon & Peas Entrée Cat Food is formulated to meet AAFCO guidelines for all life stages.",
+            "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Salmon & Peas Entr\u00e9e Cat Food is formulated to meet AAFCO guidelines for all life stages.",
             "Pure Vita offerings are specially formulated limited ingredient diets that feature a single source animal protein making them a top choice for pets with allergies.",
             "NutriSource formulas deliver compact nutrition and include pre and pro-biotics to help support a healthy gut. Balanced Omega-3 and Omega-6 fatty acids plus Zinc to support a strong immune system, healthy skin and coat condition.",
             "For more information please visit your local independent pet retailer."
@@ -169,11 +173,13 @@
             "Carbohydrates 36%",
             "Carbohydrates 41 g/cup",
             "pH 5.5"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Tuffy's Purevita",
         "url": "https://nutrisourcepetfoods.com/our-food/beef-entree-2/",
+        "brand": "Tuffy's Purevita",
         "title": "Beef Grain-Free Wet Cat Food | PureVita | NutriSource Pet Foods",
         "descriptions": [
             "NutriSource canned pet foods feature meat rich, protein dense recipes.",
@@ -224,11 +230,13 @@
             "Protein 42.9%",
             "Fat 53.3%",
             "Carbohydrates 3.8%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Tuffy's Purevita",
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-entree-2/",
+        "brand": "Tuffy's Purevita",
         "title": "Chicken Grain-Free Wet Cat Food | PureVita | NutriSource Pet Foods",
         "descriptions": [
             "NutriSource canned pet foods feature meat rich, protein dense recipes.",
@@ -279,11 +287,13 @@
             "Protein 35.4%",
             "Fat 64.5%",
             "Carbohydrates 0.1%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Tuffy's Purevita",
         "url": "https://nutrisourcepetfoods.com/our-food/salmon-entree-2/",
+        "brand": "Tuffy's Purevita",
         "title": "Salmon Grain-Free Wet Cat Food | PureVita | NutriSource Pet Foods",
         "descriptions": [
             "NutriSource canned pet foods feature meat rich, protein dense recipes.",
@@ -334,11 +344,13 @@
             "Protein 37.2%",
             "Fat 62.8%",
             "Carbohydrates 0%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Tuffy's Purevita",
         "url": "https://nutrisourcepetfoods.com/our-food/turkey-entree-2/",
+        "brand": "Tuffy's Purevita",
         "title": "Turkey Grain-Free Wet Cat Food | PureVita | NutriSource Pet Foods",
         "descriptions": [
             "NutriSource canned pet foods feature meat rich, protein dense recipes.",
@@ -389,6 +401,8 @@
             "Protein 36.6%",
             "Fat 63.4%",
             "Carbohydrates 0.1%"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Caru",
         "url": "https://carupetfood.com/product/natural-chicken-crab-stew-for-cats/",
+        "brand": "Caru",
         "title": "Classic Chicken & Crab Stew for Cats - Caru - All Natural Stew for Cats",
         "descriptions": [
             "Carefully selected, 100% human grade ingredients",
@@ -16,6 +16,7 @@
             "Prepared in small batches and slow cooked",
             "Looks, smells and tastes like homemade!"
         ],
+        "key_benefits": null,
         "ingredients": "Chicken, Chicken Broth, Crab, Tapioca Starch, Egg Whites, Apples, Carrots, Sweet Potato, Natural Flavor, Tricalcium Phosphate, Potassium Chloride, Taurine, Dandelion Greens, Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, Pyridoxine Hydrochloride, d-Calcium Pantothenate, Riboflavin Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Zinc Amino Acid Chelate, Iron Amino Acid Chelate, Copper Amino Acid Chelate, Manganese Amino Acid Chelate, Magnesium Amino Acid Chelate, Iodine Amino Acid Chelate, Sodium Selenite), Calcium Carbonate, Choline Chloride.",
         "analysis": [
             "Crude Protein (min) 10.0%",
@@ -26,11 +27,12 @@
             "Omega 6 Fatty Acids* (min) 0.50%",
             "Omega 3 Fatty Acids* (min) 0.05%"
         ],
+        "additive": null,
         "calorie": "Calorie Content (calculated) ME 888 kcal/kg, 150 kcal per pack"
     },
     {
-        "brand": "Caru",
         "url": "https://carupetfood.com/product/natural-chicken-stew-for-cats/",
+        "brand": "Caru",
         "title": "Classic Chicken Stew for Cats - Caru - All Natural Stew for Cats",
         "descriptions": [
             "Carefully selected, 100% human grade ingredients",
@@ -45,6 +47,7 @@
             "Prepared in small batches and slow cooked",
             "Looks, smells and tastes like homemade!"
         ],
+        "key_benefits": null,
         "ingredients": "Chicken, Chicken Broth, Tapioca Starch, Egg Whites, Apples, Carrots, Sweet Potato, Natural Flavor, Tricalcium Phosphate, Dandelion Greens, Calcium Carbonate, Potassium Chloride, Taurine, Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, Pyridoxine Hydrochloride, d-Calcium Pantothenate, Riboflavin Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Zinc Amino Acid Chelate, Iron Amino Acid Chelate, Copper Amino Acid Chelate, Manganese Amino Acid Chelate, Magnesium Amino Acid Chelate, Iodine Amino Acid Chelate, Sodium Selenite), Choline Chloride.",
         "analysis": [
             "Crude Protein (min) 10.0%",
@@ -55,11 +58,12 @@
             "Omega 6 Fatty Acids* (min) 0.50%",
             "Omega 3 Fatty Acids* (min) 0.05%"
         ],
+        "additive": null,
         "calorie": "902 kcal/kg, 153 kcal per pack"
     },
     {
-        "brand": "Caru",
         "url": "https://carupetfood.com/product/natural-turkey-stew-for-cats/",
+        "brand": "Caru",
         "title": "Classic Turkey Stew for Cats - Caru - All Natural Stew for Cats",
         "descriptions": [
             "Carefully selected, 100% human grade ingredients",
@@ -74,6 +78,7 @@
             "Prepared in small batches and slow cooked",
             "Looks, smells and tastes like homemade!"
         ],
+        "key_benefits": null,
         "ingredients": "Turkey, Turkey Broth, Tapioca Starch, Egg Whites, Sweet Potato, Apples, Carrots, Natural Flavor, Calcium Carbonate, Tricalcium Phosphate, Potassium Chloride, Taurine, Dandelion Greens, Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, Pyridoxine Hydrochloride, d-Calcium Pantothenate, Riboflavin Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Zinc Amino Acid Chelate, Iron Amino Acid Chelate, Copper Amino Acid Chelate, Manganese Amino Acid Chelate, Magnesium Amino Acid Chelate, Iodine Amino Acid Chelate, Sodium Selenite), Choline Chloride.",
         "analysis": [
             "Crude Protein (min) 11.0%",
@@ -84,11 +89,12 @@
             "Omega 6 Fatty Acids* (min) 0.50%",
             "Omega 3 Fatty Acids* (min) 0.05%"
         ],
+        "additive": null,
         "calorie": "991 kcal/kg, 168 kcal per pack"
     },
     {
-        "brand": "Caru",
         "url": "https://carupetfood.com/product/natural-wild-salmon-turkey-stew-for-cats/",
+        "brand": "Caru",
         "title": "Classic Wild Salmon & Turkey Stew for Cats - Caru - All Natural Stew for Cats",
         "descriptions": [
             "Carefully selected, 100% human grade ingredients",
@@ -103,6 +109,7 @@
             "Prepared in small batches and slow cooked",
             "Looks, smells and tastes like homemade!"
         ],
+        "key_benefits": null,
         "ingredients": "Salmon, Fish Broth, Water Sufficient for Processing, Turkey, Tapioca Starch, Egg Whites, Carrots, Sweet Potato, Apples, Natural Flavor, Calcium Carbonate, Tricalcium Phosphate, Taurine, Dandelion Greens, Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin Supplement, Pyridoxine Hydrochloride, d-Calcium Pantothenate, Riboflavin Supplement, Folic Acid, Biotin, Vitamin B12 Supplement), Minerals (Zinc Amino Acid Chelate, Iron Amino Acid Chelate, Copper Amino Acid Chelate, Manganese Amino Acid Chelate, Magnesium Amino Acid Chelate, Iodine Amino Acid Chelate, Sodium Selenite), Potassium Chloride, Choline Chloride.",
         "analysis": [
             "Crude Protein (min) 9.0%",
@@ -113,6 +120,7 @@
             "Omega 6 Fatty Acids* (min) 0.40%",
             "Omega 3 Fatty Acids* (min) 0.10%"
         ],
+        "additive": null,
         "calorie": "792 kcal/kg, 134 kcal per pack"
     }
 ]

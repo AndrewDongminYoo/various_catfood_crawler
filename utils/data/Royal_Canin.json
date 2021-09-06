@@ -1,496 +1,630 @@
 [
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/ageing-12",
-        "title": "Ageing 12 - 로얄캐닌",
+        "brand": null,
+        "title": "Ageing 12 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Ageing cats have different nutritional needs than their younger counterparts; that's why it's important to modify your cat's diet as it ages, to ensure that those needs are being met and maintained.ROYAL CANIN\u00ae Senior Ageing 12+ is suitable for cats over 12 years of age and is specially formulated with the nutritional needs of senior cats like yours in mind. This food contains highly palatable kibble with a double texture (crunchy outside, soft inside) that helps to stimulate your senior cat's general appetite.ROYAL CANIN\u00ae Senior Ageing 12+ contains a patented complex of antioxidants that support senior cats throughout the ageing process. Thanks to a moderate phosphorus level, ROYAL CANIN\u00ae Senior Ageing 12+ also helps to support healthy kidney function, which is highly beneficial in senior cats.To cater to each cat's individual preferences, ROYAL CANIN\u00ae Senior Ageing 12+ is also available as wet food in either a delicious gravy or succulent jelly. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "높은 기호성, 2 종류의 서로 다른 질감의 씹기 쉬운 키블(알갱이)로 노령묘의 식욕 증진에 도움을 줍니다.",
-            "리코펜과 오메가 지방산이 함유된 항산화제 복합물은 노령묘의 건강한 노화에 도움을 줍니다.",
-            "적당한 인의 함유로 노령묘 신장건강에 도움을 줍니다."
+            "\ub192\uc740 \uae30\ud638\uc131, 2 \uc885\ub958\uc758 \uc11c\ub85c \ub2e4\ub978 \uc9c8\uac10\uc758 \uc539\uae30 \uc26c\uc6b4 \ud0a4\ube14(\uc54c\uac31\uc774)\ub85c \ub178\ub839\ubb18\uc758 \uc2dd\uc695 \uc99d\uc9c4\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub9ac\ucf54\ud39c\uacfc \uc624\uba54\uac00 \uc9c0\ubc29\uc0b0\uc774 \ud568\uc720\ub41c \ud56d\uc0b0\ud654\uc81c \ubcf5\ud569\ubb3c\uc740 \ub178\ub839\ubb18\uc758 \uac74\uac15\ud55c \ub178\ud654\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc801\ub2f9\ud55c \uc778\uc758 \ud568\uc720\ub85c \ub178\ub839\ubb18 \uc2e0\uc7a5\uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "Ageing cats have different nutritional needs than their younger counterparts; that's why it's important to modify your cat's diet as it ages, to ensure that those needs are being met and maintained.ROYAL CANIN® Senior Ageing 12+ is suitable for cats over 12 years of age and is specially formulated with the nutritional needs of senior cats like yours in mind. This food contains highly palatable kibble with a double texture (crunchy outside, soft inside) that helps to stimulate your senior cat's general appetite.ROYAL CANIN® Senior Ageing 12+ contains a patented complex of antioxidants that support senior cats throughout the ageing process. Thanks to a moderate phosphorus level, ROYAL CANIN® Senior Ageing 12+ also helps to support healthy kidney function, which is highly beneficial in senior cats.To cater to each cat's individual preferences, ROYAL CANIN® Senior Ageing 12+ is also available as wet food in either a delicious gravy or succulent jelly. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "밀글루텐, 소맥분, 동물성 지방 (닭, 칠면조, 오리 및 돼지), 육분 (닭, 오리, 칠면조), 쌀, 옥수수, 분말셀룰로스, 동물성 유도단백질 (닭, 칠면조), 치커리 펄프, 혼합광물질류 합제, 어유, 대두유, 효모, 토마토 (라이코펜의 원료), 가수분해효모, 글루코사민, 보리지유, 금잔화 추출물 (루테인의 원료), 뮤코다당단백(콘드로이틴의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 셀레늄, 차 카테킨 (폴리페놀의 원료), 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 30%, 지방 19%, 조섬유 4.4%, 조회분 5.3%, NFE 35.8%"
+        "ingredients": "\ubc00\uae00\ub8e8\ud150, \uc18c\ub9e5\ubd84, \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac \ubc0f \ub3fc\uc9c0), \uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \uc300, \uc625\uc218\uc218, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \uce58\ucee4\ub9ac \ud384\ud504, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc5b4\uc720, \ub300\ub450\uc720, \ud6a8\ubaa8, \ud1a0\ub9c8\ud1a0 (\ub77c\uc774\ucf54\ud39c\uc758 \uc6d0\ub8cc), \uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \uae00\ub8e8\ucf54\uc0ac\ubbfc, \ubcf4\ub9ac\uc9c0\uc720, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c (\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ubba4\ucf54\ub2e4\ub2f9\ub2e8\ubc31(\ucf58\ub4dc\ub85c\uc774\ud2f4\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc140\ub808\ub284, \ucc28 \uce74\ud14c\ud0a8 (\ud3f4\ub9ac\ud398\ub180\uc758 \uc6d0\ub8cc), \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 30%, \uc9c0\ubc29 19%, \uc870\uc12c\uc720 4.4%, \uc870\ud68c\ubd84 5.3%, NFE 35.8%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/ageing-12-jelly",
-        "title": "Ageing 12 Jelly - 로얄캐닌",
+        "brand": null,
+        "title": "Ageing 12 Jelly - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "To ensure that your senior cat (aged 12+) receives the specific nutrition it needs to help maintain optimal health, you will need to feed it a diet that it will consume readily and instinctively. That's why ROYAL CANIN\u00ae Ageing 12+ in Jelly is formulated to match the optimal Macro Nutritional Profile that is instinctively preferred by ageing cats like yours.ROYAL CANIN\u00ae Ageing 12+ in Jelly also provides senior cats with specially formulated food to help maintain healthy joints through a high level of Omega-3 fatty acids \u2013 specifically EPA and DHA.Furthermore, ROYAL CANIN\u00ae Ageing 12+ in Jelly also contains an adapted phosphorus content to help support healthy kidney function and overall renal health.To cater to each cat's individual preferences, ROYAL CANIN\u00ae Ageing 12+ is also available in a delicious gravy, or as dry food with tasty and crunchy kibble.If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "EPA-DHA 지방산을 포함한 최적의 영양소는 관절 건강에 도움을 줍니다.",
-            "반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다. (젤리 타입)",
-            "적절한 인 함량으로 신장 건강에 도움이 됩니다."
+            "EPA-DHA \uc9c0\ubc29\uc0b0\uc744 \ud3ec\ud568\ud55c \ucd5c\uc801\uc758 \uc601\uc591\uc18c\ub294 \uad00\uc808 \uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. (\uc824\ub9ac \ud0c0\uc785)",
+            "\uc801\uc808\ud55c \uc778 \ud568\ub7c9\uc73c\ub85c \uc2e0\uc7a5 \uac74\uac15\uc5d0 \ub3c4\uc6c0\uc774 \ub429\ub2c8\ub2e4."
         ],
-        "descriptions": "To ensure that your senior cat (aged 12+) receives the specific nutrition it needs to help maintain optimal health, you will need to feed it a diet that it will consume readily and instinctively. That's why ROYAL CANIN® Ageing 12+ in Jelly is formulated to match the optimal Macro Nutritional Profile that is instinctively preferred by ageing cats like yours.ROYAL CANIN® Ageing 12+ in Jelly also provides senior cats with specially formulated food to help maintain healthy joints through a high level of Omega-3 fatty acids – specifically EPA and DHA.Furthermore, ROYAL CANIN® Ageing 12+ in Jelly also contains an adapted phosphorus content to help support healthy kidney function and overall renal health.To cater to each cat's individual preferences, ROYAL CANIN® Ageing 12+ is also available in a delicious gravy, or as dry food with tasty and crunchy kibble.If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류(닭, 돼지), 밀글루텐, 옥수수전분, 분말셀룰로스, 해바라기유, 혼합광물질류 합제, 어유, 카라기난, 타우린, 카라멜, 아미노산제 합제, 글루코사민, 금잔화추출물(루테인의 원료), 뮤코다당단백(콘드로이틴의 원료), 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 9.5%, 지방 4.5%, 조섬유 0.9%, 조회분 1.2%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \ubc00\uae00\ub8e8\ud150, \uc625\uc218\uc218\uc804\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ud574\ubc14\ub77c\uae30\uc720, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc5b4\uc720, \uce74\ub77c\uae30\ub09c, \ud0c0\uc6b0\ub9b0, \uce74\ub77c\uba5c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uae00\ub8e8\ucf54\uc0ac\ubbfc, \uae08\uc794\ud654\ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ubba4\ucf54\ub2e4\ub2f9\ub2e8\ubc31(\ucf58\ub4dc\ub85c\uc774\ud2f4\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 9.5%, \uc9c0\ubc29 4.5%, \uc870\uc12c\uc720 0.9%, \uc870\ud68c\ubd84 1.2%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/aroma-exigent",
-        "title": "Aroma Exigent - 로얄캐닌",
+        "brand": null,
+        "title": "Aroma Exigent - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\ud5a5\uc73c\ub85c \uc785\ub9db\uc774 \uae4c\ub2e4\ub85c\uc6b4 \uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \uae30\ud638\uc131 \ub9cc\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\ub9de\ucda4\uc0ac\ub8cc",
         "key_benefits": [
-            "일부 까다로운 반려묘는 생선에서 나는 향에 더욱 끌리게 됩니다. 아로마 엑시전트의 특정 향이 까다로운 반려묘들의 기호성 충족에 도움을 줍니다.",
-            "적절한 에너지는 까다로운 반려묘의 이상적인 체중 유지에 도움을 줍니다.",
-            "다양한 맛, 향 그리고 단백질 등 각 반려묘는 선호하는 기준이 다릅니다. 로얄캐닌 아로마 엑시전트는 세가지 다른 포뮬라로 까다로운 반려묘 기호성 충족에 도움을 줍니다."
+            "\uc77c\ubd80 \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18\ub294 \uc0dd\uc120\uc5d0\uc11c \ub098\ub294 \ud5a5\uc5d0 \ub354\uc6b1 \ub04c\ub9ac\uac8c \ub429\ub2c8\ub2e4. \uc544\ub85c\ub9c8 \uc5d1\uc2dc\uc804\ud2b8\uc758 \ud2b9\uc815 \ud5a5\uc774 \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18\ub4e4\uc758 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc801\uc808\ud55c \uc5d0\ub108\uc9c0\ub294 \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18\uc758 \uc774\uc0c1\uc801\uc778 \uccb4\uc911 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub2e4\uc591\ud55c \ub9db, \ud5a5 \uadf8\ub9ac\uace0 \ub2e8\ubc31\uc9c8 \ub4f1 \uac01 \ubc18\ub824\ubb18\ub294 \uc120\ud638\ud558\ub294 \uae30\uc900\uc774 \ub2e4\ub985\ub2c8\ub2e4. \ub85c\uc584\uce90\ub2cc \uc544\ub85c\ub9c8 \uc5d1\uc2dc\uc804\ud2b8\ub294 \uc138\uac00\uc9c0 \ub2e4\ub978 \ud3ec\ubbac\ub77c\ub85c \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "향으로 입맛이 까다로운 생후 12개월 이후 반려묘의 기호성 만족에 도움을 주는 영양맞춤사료",
-        "ingredients": "옥수수, 어분, 동물성 지방(가금류), 밀, 육분(닭, 칠면조, 오리), 옥수수 글루텐, 밀글루텐, 동물성 유도단백질(닭, 칠면조), 옥수수 분말, 분말셀룰로스, 혼합광물질류 합제, 사탕무박, 효모, 대두유, 어유, 보리지유, 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 33%, 지방 15%, 조섬유 3.3%, 조회분 8.2%, NFE 35%"
+        "ingredients": "\uc625\uc218\uc218, \uc5b4\ubd84, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\uac00\uae08\ub958), \ubc00, \uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ubc00\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \uc625\uc218\uc218 \ubd84\ub9d0, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc0ac\ud0d5\ubb34\ubc15, \ud6a8\ubaa8, \ub300\ub450\uc720, \uc5b4\uc720, \ubcf4\ub9ac\uc9c0\uc720, \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 33%, \uc9c0\ubc29 15%, \uc870\uc12c\uc720 3.3%, \uc870\ud68c\ubd84 8.2%, NFE 35%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/bengal",
-        "title": "Bengal - 로얄캐닌",
+        "brand": null,
+        "title": "Bengal - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "ROYAL CANIN\u00ae Bengal Adult is exclusively formulated with the nutritional needs of your Bengal cat in mind. By containing a high level of protein and an adapted fat content, this food contributes to maintaining your Bengal's muscle mass in order to sustain their highly active lifestyle. A highly digestible, high protein diet is best advised to support healthy digestive function in your Bengal. That's why ROYAL CANIN\u00ae Bengal Adult food contains L.I.P proteins (Low Indigestible Proteins) specially selected for their high digestibility. It also includes prebiotics that help to support a balance in the intestinal flora. Your Bengal's striking coat needs special attention and care in order to keep it in top condition. ROYAL CANIN\u00ae Bengal Adult food contains specific amino acids, vitamins, as well as omega-3 and omega-6 fatty acids to help maintain its glossy coat and healthy skin.",
         "key_benefits": [
-            "최고급 단백질의 함량(40%)과 적절한 지방 함량(18%)은 근육 형성에 도움을 줍니다.",
-            "아미노산, 비타민과 지방산의 조합이 피부와 피모 건강 유지를 도와줍니다.",
-            "소화 흡수율이 높은 단백질이 장내 미생물총 균형을 촉진하고 소화기 건강을 유지해줍니다."
+            "\ucd5c\uace0\uae09 \ub2e8\ubc31\uc9c8\uc758 \ud568\ub7c9(40%)\uacfc \uc801\uc808\ud55c \uc9c0\ubc29 \ud568\ub7c9(18%)\uc740 \uadfc\uc721 \ud615\uc131\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc544\ubbf8\ub178\uc0b0, \ube44\ud0c0\ubbfc\uacfc \uc9c0\ubc29\uc0b0\uc758 \uc870\ud569\uc774 \ud53c\ubd80\uc640 \ud53c\ubaa8 \uac74\uac15 \uc720\uc9c0\ub97c \ub3c4\uc640\uc90d\ub2c8\ub2e4.",
+            "\uc18c\ud654 \ud761\uc218\uc728\uc774 \ub192\uc740 \ub2e8\ubc31\uc9c8\uc774 \uc7a5\ub0b4 \ubbf8\uc0dd\ubb3c\ucd1d \uade0\ud615\uc744 \ucd09\uc9c4\ud558\uace0 \uc18c\ud654\uae30 \uac74\uac15\uc744 \uc720\uc9c0\ud574\uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "ROYAL CANIN® Bengal Adult is exclusively formulated with the nutritional needs of your Bengal cat in mind. By containing a high level of protein and an adapted fat content, this food contributes to maintaining your Bengal's muscle mass in order to sustain their highly active lifestyle. A highly digestible, high protein diet is best advised to support healthy digestive function in your Bengal. That's why ROYAL CANIN® Bengal Adult food contains L.I.P proteins (Low Indigestible Proteins) specially selected for their high digestibility. It also includes prebiotics that help to support a balance in the intestinal flora. Your Bengal's striking coat needs special attention and care in order to keep it in top condition. ROYAL CANIN® Bengal Adult food contains specific amino acids, vitamins, as well as omega-3 and omega-6 fatty acids to help maintain its glossy coat and healthy skin.",
-        "ingredients": "육분 (닭, 오리, 칠면조), 밀글루텐, 밀, 동물성 지방 (가금류, 돼지), 옥수수 글루텐, 옥수수, 동물성 유도단백질 (닭, 칠면조), 쌀, 분말셀룰로스, 치커리 펄프, 어유, 대두유, 효모, 프락토올리고당, 가수분해효모, 보리지유, 금잔화추출물(루테인의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 40%, 지방 18%, 조섬유 3.8%, 조회분 7.7%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \ubc00\uae00\ub8e8\ud150, \ubc00, \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \uc625\uc218\uc218, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \uc300, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uce58\ucee4\ub9ac \ud384\ud504, \uc5b4\uc720, \ub300\ub450\uc720, \ud6a8\ubaa8, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \ubcf4\ub9ac\uc9c0\uc720, \uae08\uc794\ud654\ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 40%, \uc9c0\ubc29 18%, \uc870\uc12c\uc720 3.8%, \uc870\ud68c\ubd84 7.7%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/british-shorthair",
-        "title": "British Shorthair - 로얄캐닌",
+        "brand": null,
+        "title": "British Shorthair - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ube0c\ub9ac\ud2f0\uc26c \uc20f\ud5e4\uc5b4\uc758 \ud2bc\ud2bc\ud558\uace0 \ubb34\uac70\uc6b4 \ubab8\uc744 \uac74\uac15\ud558\uac8c \uc720\uc9c0\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \ubb18\uc885\ubcc4 \uc804\uc6a9\uc0ac\ub8cc",
         "key_benefits": [
-            "풍부한 L-카르니틴의 조합은 건강한 근육 유지에 도움이 됩니다.",
-            "풍부한 오메가 3 지방산(EPA-DHA)이 함유되어 브리티쉬 숏헤어의 뼈와 관절 건강 유지를 도와줍니다.",
-            "타우린, EPA와 DHA가 건강한 심장 유지에 도움을 줍니다."
+            "\ud48d\ubd80\ud55c L-\uce74\ub974\ub2c8\ud2f4\uc758 \uc870\ud569\uc740 \uac74\uac15\ud55c \uadfc\uc721 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc774 \ub429\ub2c8\ub2e4.",
+            "\ud48d\ubd80\ud55c \uc624\uba54\uac00 3 \uc9c0\ubc29\uc0b0(EPA-DHA)\uc774 \ud568\uc720\ub418\uc5b4 \ube0c\ub9ac\ud2f0\uc26c \uc20f\ud5e4\uc5b4\uc758 \ubf08\uc640 \uad00\uc808 \uac74\uac15 \uc720\uc9c0\ub97c \ub3c4\uc640\uc90d\ub2c8\ub2e4.",
+            "\ud0c0\uc6b0\ub9b0, EPA\uc640 DHA\uac00 \uac74\uac15\ud55c \uc2ec\uc7a5 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "생후 12개월 이후 브리티쉬 숏헤어의 튼튼하고 무거운 몸을 건강하게 유지하는데 도움을 주는 묘종별 전용사료",
-        "ingredients": "육분 (닭, 오리, 칠면조), 쌀, 밀글루텐, 동물성 지방 (가금류, 돼지), 옥수수, 옥수수 글루텐, 분말셀룰로스, 동물성 유도단백질 (닭, 칠면조), 치커리 펄프, 어유, 대두유, 효모, 프락토올리고당, 가수분해효모, 보리지유, 글루코사민, 금잔화 추출물 (루테인의 원료), 뮤코다당단백(콘드로이틴의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 34%, 지방 19%, 조섬유 5.3%, 조회분 6.8%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \uc300, \ubc00\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \uc625\uc218\uc218, \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \uce58\ucee4\ub9ac \ud384\ud504, \uc5b4\uc720, \ub300\ub450\uc720, \ud6a8\ubaa8, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \ubcf4\ub9ac\uc9c0\uc720, \uae00\ub8e8\ucf54\uc0ac\ubbfc, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c (\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ubba4\ucf54\ub2e4\ub2f9\ub2e8\ubc31(\ucf58\ub4dc\ub85c\uc774\ud2f4\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 34%, \uc9c0\ubc29 19%, \uc870\uc12c\uc720 5.3%, \uc870\ud68c\ubd84 6.8%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/digest-sensitive-gravy",
-        "title": "Digest Sensitive Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Digest Sensitive Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "ROYAL CANIN\u00ae Digest Sensitive in Gravy provides a diet that is highly digestible for cats that are sometimes have sensitive stomachs, it also contains specially selected nutrients that help to reduce your cat's faecal odour. The high rate of digestibility provided by ROYAL CANIN\u00ae Digest Sensitive in Gravy will ensure that your cat receives more of the nutrients it needs. The low fat content in this diet can also contribute to maintaining an ideal, healthy weight. The protein included is at an optimal level to support muscle and bone strength whilst still maintaining digestive health in your cat's sensitive tummy. It will also ensure that when your cat does its business, the odour won't be distractingly strong - which in itself is a sign of good digestive health. This diet also helps support a health urinary traction through an optimal, reduced concentration of minerals. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Digest Sensitive is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "높은 소화율로 대변의 양과 변냄새를 줄여주는데 도움을 줍니다.",
-            "이상적인 체중유지에 도움을 줍니다.",
-            "수분 섭취가 증가 되어 요로계 건강에 도움을 줍니다."
+            "\ub192\uc740 \uc18c\ud654\uc728\ub85c \ub300\ubcc0\uc758 \uc591\uacfc \ubcc0\ub0c4\uc0c8\ub97c \uc904\uc5ec\uc8fc\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc774\uc0c1\uc801\uc778 \uccb4\uc911\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc218\ubd84 \uc12d\ucde8\uac00 \uc99d\uac00 \ub418\uc5b4 \uc694\ub85c\uacc4 \uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "ROYAL CANIN® Digest Sensitive in Gravy provides a diet that is highly digestible for cats that are sometimes have sensitive stomachs, it also contains specially selected nutrients that help to reduce your cat's faecal odour. The high rate of digestibility provided by ROYAL CANIN® Digest Sensitive in Gravy will ensure that your cat receives more of the nutrients it needs. The low fat content in this diet can also contribute to maintaining an ideal, healthy weight. The protein included is at an optimal level to support muscle and bone strength whilst still maintaining digestive health in your cat's sensitive tummy. It will also ensure that when your cat does its business, the odour won't be distractingly strong - which in itself is a sign of good digestive health. This diet also helps support a health urinary traction through an optimal, reduced concentration of minerals. To cater to each cat's individual preferences, ROYAL CANIN® Digest Sensitive is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류(닭, 돼지), 소맥분, 동물성 유도단백질 (돼지), 분말셀룰로스, 밀 글루텐,  천연착향료, 카라멜, 아미노산제 합제, 제올라이트, 카라기난, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \uc18c\ub9e5\ubd84, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub3fc\uc9c0), \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ubc00 \uae00\ub8e8\ud150,  \ucc9c\uc5f0\ucc29\ud5a5\ub8cc, \uce74\ub77c\uba5c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uc81c\uc62c\ub77c\uc774\ud2b8, \uce74\ub77c\uae30\ub09c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": null,
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/digestive-care",
-        "title": "DIGESTIVE CARE - 로얄캐닌",
+        "brand": null,
+        "title": "DIGESTIVE CARE - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 13\uac1c\uc6d4 \uc774\ud6c4 \ubbfc\uac10\ud55c \uc18c\ud654\uae30\uacc4\ub97c \uac00\uc9c4 \ubc18\ub824\ubb18 \ud639\uc740 \uc18c\ud654\uae30\uacc4 \ucf00\uc5b4\ub97c \uc6d0\ud558\ub294 \uacbd\uc6b0\uc5d0 \uae09\uc5ec",
         "key_benefits": [
-            "소화율이 높은 L.I.P 단백질이 소화를 돕고 영양의 흡수를 도와 배변량 감소를 돕습니다.",
-            "차전자피를 포함한 식이섬유 조합이 소화기계의 유익균의 균형과 소화된 음식물의 이동을 돕습니다.",
-            "반려묘가 사료를 오래 천천히 씹도록 해 구토를 방지하는데 도움을 줍니다."
+            "\uc18c\ud654\uc728\uc774 \ub192\uc740 L.I.P \ub2e8\ubc31\uc9c8\uc774 \uc18c\ud654\ub97c \ub3d5\uace0 \uc601\uc591\uc758 \ud761\uc218\ub97c \ub3c4\uc640 \ubc30\ubcc0\ub7c9 \uac10\uc18c\ub97c \ub3d5\uc2b5\ub2c8\ub2e4.",
+            "\ucc28\uc804\uc790\ud53c\ub97c \ud3ec\ud568\ud55c \uc2dd\uc774\uc12c\uc720 \uc870\ud569\uc774 \uc18c\ud654\uae30\uacc4\uc758 \uc720\uc775\uade0\uc758 \uade0\ud615\uacfc \uc18c\ud654\ub41c \uc74c\uc2dd\ubb3c\uc758 \uc774\ub3d9\uc744 \ub3d5\uc2b5\ub2c8\ub2e4.",
+            "\ubc18\ub824\ubb18\uac00 \uc0ac\ub8cc\ub97c \uc624\ub798 \ucc9c\ucc9c\ud788 \uc539\ub3c4\ub85d \ud574 \uad6c\ud1a0\ub97c \ubc29\uc9c0\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "생후 13개월 이후 민감한 소화기계를 가진 반려묘 혹은 소화기계 케어를 원하는 경우에 급여",
-        "ingredients": "밀 글루텐, 밀, 어분, 쌀, 동물성 지방(닭, 오리, 돼지), 동물성유도단백질(닭, 칠면조), 옥수수 글루텐, 육분(닭, 오리), 옥수수, 분말셀룰로스, 치커리펄프, 혼합광물질류합제, 대두유, 어유, 프락토올리고당, 차전자피 첨가제 (kg당): 비타민A: 18000 IU, 비타민  D3: 900 IU, 철: 42 mg, 요오드: 4.2 mg, 구리: 13 mg, 망간: 54 mg, 아연: 98 mg, 제올라이트: 10 g, 항산화제.",
-        "analysis": "단백질 36% 이상, 지방 13% 이상, 조섬유 3.4% 이하, 조회분 8.5% 이하, NFE 31.3%  Feeding instruction: see table. Batch number, factory registration number and best before date: see information on packaging. To be stored in a cool, dry place."
+        "ingredients": "\ubc00 \uae00\ub8e8\ud150, \ubc00, \uc5b4\ubd84, \uc300, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\ub2ed, \uc624\ub9ac, \ub3fc\uc9c0), \ub3d9\ubb3c\uc131\uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \uc721\ubd84(\ub2ed, \uc624\ub9ac), \uc625\uc218\uc218, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uce58\ucee4\ub9ac\ud384\ud504, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958\ud569\uc81c, \ub300\ub450\uc720, \uc5b4\uc720, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ucc28\uc804\uc790\ud53c \ucca8\uac00\uc81c (kg\ub2f9): \ube44\ud0c0\ubbfcA: 18000 IU, \ube44\ud0c0\ubbfc  D3: 900 IU, \ucca0: 42 mg, \uc694\uc624\ub4dc: 4.2 mg, \uad6c\ub9ac: 13 mg, \ub9dd\uac04: 54 mg, \uc544\uc5f0: 98 mg, \uc81c\uc62c\ub77c\uc774\ud2b8: 10 g, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 36% \uc774\uc0c1, \uc9c0\ubc29 13% \uc774\uc0c1, \uc870\uc12c\uc720 3.4% \uc774\ud558, \uc870\ud68c\ubd84 8.5% \uc774\ud558, NFE 31.3%  Feeding instruction: see table. Batch number, factory registration number and best before date: see information on packaging. To be stored in a cool, dry place.",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/fit-32",
-        "title": "Fit 32 - 로얄캐닌",
+        "brand": null,
+        "title": "Fit 32 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \uac74\uac15\ud55c \uccb4\ud615\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\ub9de\ucda4\uc0ac\ub8cc",
         "key_benefits": [
-            "성묘에게 필요한 균형있는 영양소를 통해 건강을 유지하도록 도와줍니다.",
-            "적절한 에너지는 성묘의 이상적인 체중 유지에 도움을 줍니다.",
-            "차전자피를 포함한 식이섬유가 헤어볼 배출에 도움을 줍니다."
+            "\uc131\ubb18\uc5d0\uac8c \ud544\uc694\ud55c \uade0\ud615\uc788\ub294 \uc601\uc591\uc18c\ub97c \ud1b5\ud574 \uac74\uac15\uc744 \uc720\uc9c0\ud558\ub3c4\ub85d \ub3c4\uc640\uc90d\ub2c8\ub2e4.",
+            "\uc801\uc808\ud55c \uc5d0\ub108\uc9c0\ub294 \uc131\ubb18\uc758 \uc774\uc0c1\uc801\uc778 \uccb4\uc911 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ucc28\uc804\uc790\ud53c\ub97c \ud3ec\ud568\ud55c \uc2dd\uc774\uc12c\uc720\uac00 \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "생후 12개월 이후 반려묘의 건강한 체형유지에 도움을 주는 영양맞춤사료",
-        "ingredients": "육분 (닭, 오리, 칠면조), 쌀, 밀, 동물성 지방 (가금류, 돼지), 옥수수, 분말셀룰로스, 소맥분, 동물성 유도단백질 (닭, 칠면조), 밀글루텐, 옥수수 글루텐, 효모, 사탕무박, 대두유, 차전자피, 혼합광물질류 합제, 가수분해효모, 금잔화 추출물(루테인의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 소르빈산칼륨, 항산화제",
-        "analysis": "단백질 32%, 지방 15%, 조섬유 4.6%, 조회분 7.2%, NFE 35.7%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \uc300, \ubc00, \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \uc625\uc218\uc218, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc18c\ub9e5\ubd84, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \ubc00\uae00\ub8e8\ud150, \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ud6a8\ubaa8, \uc0ac\ud0d5\ubb34\ubc15, \ub300\ub450\uc720, \ucc28\uc804\uc790\ud53c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c",
+        "analysis": "\ub2e8\ubc31\uc9c8 32%, \uc9c0\ubc29 15%, \uc870\uc12c\uc720 4.6%, \uc870\ud68c\ubd84 7.2%, NFE 35.7%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/hairandskin-care",
-        "title": "HAIRandSKIN CARE - 로얄캐닌",
+        "brand": null,
+        "title": "HAIRandSKIN CARE - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc724\uae30 \uc5c6\ub294 \ud53c\ubaa8\uc640 \ubbfc\uac10\ud55c \ud53c\ubd80\ub97c \uac00\uc9c4 \uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \ud53c\ubd80\uc7a5\ubcbd \uac15\ud654\uc640 \ud53c\ubaa8\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uac74\uac15\ucf00\uc5b4\uc0ac\ub8cc",
         "key_benefits": [
-            "급여 후 21일 이내 윤기있는 털 개선에 도움 (로얄캐닌 내부 연구 결과)",
-            "오메가 3, 6 지방산을 포함한 영양소 조합이 피부 장벽 강화에 도움을 줍니다. 특정 아미노산을 함유한 고품질의 단백질은 건강한 피부 발달과 피모 재생 촉진에 도움을 줍니다."
+            "\uae09\uc5ec \ud6c4 21\uc77c \uc774\ub0b4 \uc724\uae30\uc788\ub294 \ud138 \uac1c\uc120\uc5d0 \ub3c4\uc6c0 (\ub85c\uc584\uce90\ub2cc \ub0b4\ubd80 \uc5f0\uad6c \uacb0\uacfc)",
+            "\uc624\uba54\uac00 3, 6 \uc9c0\ubc29\uc0b0\uc744 \ud3ec\ud568\ud55c \uc601\uc591\uc18c \uc870\ud569\uc774 \ud53c\ubd80 \uc7a5\ubcbd \uac15\ud654\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. \ud2b9\uc815 \uc544\ubbf8\ub178\uc0b0\uc744 \ud568\uc720\ud55c \uace0\ud488\uc9c8\uc758 \ub2e8\ubc31\uc9c8\uc740 \uac74\uac15\ud55c \ud53c\ubd80 \ubc1c\ub2ec\uacfc \ud53c\ubaa8 \uc7ac\uc0dd \ucd09\uc9c4\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "윤기 없는 피모와 민감한 피부를 가진 생후 12개월 이후 반려묘의 피부장벽 강화와 피모에 도움을 주는 건강케어사료",
-        "ingredients": "육분(닭, 칠면조, 오리), 동물성 지방(닭, 칠면조), 밀글루텐, 쌀, 분말셀룰로스, 옥수수, 동물성 유도단백질(닭, 칠면조), 밀, 효모, 옥수수 분말, 옥수수 글루텐, 사탕무박, 대두유, 어유, 보리지유, 금잔화 추출물 (루테인의 원료), 아미노산제 합제, 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 소르빈산칼륨, 항산화제."
+        "ingredients": "\uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\ub2ed, \uce60\uba74\uc870), \ubc00\uae00\ub8e8\ud150, \uc300, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc625\uc218\uc218, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \ubc00, \ud6a8\ubaa8, \uc625\uc218\uc218 \ubd84\ub9d0, \uc625\uc218\uc218 \uae00\ub8e8\ud150, \uc0ac\ud0d5\ubb34\ubc15, \ub300\ub450\uc720, \uc5b4\uc720, \ubcf4\ub9ac\uc9c0\uc720, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c (\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": null,
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/hairball-care",
-        "title": "HAIRBALL CARE - 로얄캐닌",
+        "brand": null,
+        "title": "HAIRBALL CARE - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc774 \uc5b4\ub824\uc6b4 \uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc744 \ub3d5\ub294 \uac74\uac15\ucf00\uc5b4\uc0ac\ub8cc",
         "key_benefits": [
-            "급여 후 14일 이내 헤어볼 배출량이 2배 증가 (로얄캐닌 내부 연구 결과)",
-            "헤어볼 케어는 차전자피를 포함한 식이섬유가 함유되어 있으며 점성이 높은 섬유소는 소장운동 촉진에 도움이 됩니다. 그 결과, 장에서 헤어볼이 만들어져 토하는 것보다 변으로 배출되도록 도와줍니다."
+            "\uae09\uc5ec \ud6c4 14\uc77c \uc774\ub0b4 \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\ub7c9\uc774 2\ubc30 \uc99d\uac00 (\ub85c\uc584\uce90\ub2cc \ub0b4\ubd80 \uc5f0\uad6c \uacb0\uacfc)",
+            "\ud5e4\uc5b4\ubcfc \ucf00\uc5b4\ub294 \ucc28\uc804\uc790\ud53c\ub97c \ud3ec\ud568\ud55c \uc2dd\uc774\uc12c\uc720\uac00 \ud568\uc720\ub418\uc5b4 \uc788\uc73c\uba70 \uc810\uc131\uc774 \ub192\uc740 \uc12c\uc720\uc18c\ub294 \uc18c\uc7a5\uc6b4\ub3d9 \ucd09\uc9c4\uc5d0 \ub3c4\uc6c0\uc774 \ub429\ub2c8\ub2e4. \uadf8 \uacb0\uacfc, \uc7a5\uc5d0\uc11c \ud5e4\uc5b4\ubcfc\uc774 \ub9cc\ub4e4\uc5b4\uc838 \ud1a0\ud558\ub294 \uac83\ubcf4\ub2e4 \ubcc0\uc73c\ub85c \ubc30\ucd9c\ub418\ub3c4\ub85d \ub3c4\uc640\uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "헤어볼 배출이 어려운 생후 12개월 이후 반려묘의 헤어볼 배출을 돕는 건강케어사료",
-        "ingredients": "육분 (닭, 오리, 칠면조), 밀글루텐, 옥수수, 분말셀룰로스, 쌀, 동물성 지방 (가금류, 돼지), 동물성 유도단백질 (닭, 칠면조), 밀, 옥수수 분말, 옥수수 글루텐, 사탕무박, 효모, 대두유, 어유, 프락토올리고당, 차전자피, 아미노산 (글리신, 타우린, 메티오닌), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 34%, 지방 15%, 조섬유 6.9%, 조회분 6.9%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \ubc00\uae00\ub8e8\ud150, \uc625\uc218\uc218, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc300, \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \ubc00, \uc625\uc218\uc218 \ubd84\ub9d0, \uc625\uc218\uc218 \uae00\ub8e8\ud150, \uc0ac\ud0d5\ubb34\ubc15, \ud6a8\ubaa8, \ub300\ub450\uc720, \uc5b4\uc720, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ucc28\uc804\uc790\ud53c, \uc544\ubbf8\ub178\uc0b0 (\uae00\ub9ac\uc2e0, \ud0c0\uc6b0\ub9b0, \uba54\ud2f0\uc624\ub2cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 34%, \uc9c0\ubc29 15%, \uc870\uc12c\uc720 6.9%, \uc870\ud68c\ubd84 6.9%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/hairball-care-gravy",
-        "title": "Hairball Care Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Hairball Care Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc774 \uc5b4\ub824\uc6b4 \uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc744 \ub3d5\ub294 \uac74\uac15\ucf00\uc5b4 \uc2b5\uc2dd\uc0ac\ub8cc (\uc721\uc999\uc774 \ud48d\ubd80\ud55c \ud30c\uc6b0\uce58\ud0c0\uc785)",
         "key_benefits": [
-            "급여 후 14일 이내 헤어볼 배출량이 2배 증가(로얄캐닌 내부 연구 결과)",
-            "차전자피를 포함한 식이섬유 함유",
-            "동일한 제품의 건식과 습식의 혼합 급여는 영양학적 효과를 더 크게 해 줍니다. (요로기계 질환 예방, 체중관리에 도움, 기호성 유지에 도움)"
+            "\uae09\uc5ec \ud6c4 14\uc77c \uc774\ub0b4 \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\ub7c9\uc774 2\ubc30 \uc99d\uac00(\ub85c\uc584\uce90\ub2cc \ub0b4\ubd80 \uc5f0\uad6c \uacb0\uacfc)",
+            "\ucc28\uc804\uc790\ud53c\ub97c \ud3ec\ud568\ud55c \uc2dd\uc774\uc12c\uc720 \ud568\uc720",
+            "\ub3d9\uc77c\ud55c \uc81c\ud488\uc758 \uac74\uc2dd\uacfc \uc2b5\uc2dd\uc758 \ud63c\ud569 \uae09\uc5ec\ub294 \uc601\uc591\ud559\uc801 \ud6a8\uacfc\ub97c \ub354 \ud06c\uac8c \ud574 \uc90d\ub2c8\ub2e4. (\uc694\ub85c\uae30\uacc4 \uc9c8\ud658 \uc608\ubc29, \uccb4\uc911\uad00\ub9ac\uc5d0 \ub3c4\uc6c0, \uae30\ud638\uc131 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0)"
         ],
-        "descriptions": "헤어볼 배출이 어려운 생후 12개월 이후 반려묘의 헤어볼 배출을 돕는 건강케어 습식사료 (육즙이 풍부한 파우치타입)",
-        "ingredients": "육류(닭, 돼지), 옥수수가루, 쌀가루, 분말셀룰로스, 옥수수글루텐, 해바라기유, 카라멜, 가수분해 효모(만난 올리고당의 원료), 차전자피, 혼합광물질류 합제, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트. 조단백 5% 이상, 조지방 0.7% 이상, 칼슘 0.25% 이상, 인 0.2% 이상, 조섬유 2% 이하, 조회분 1.8% 이하, 수분 83% 이하"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \uc625\uc218\uc218\uac00\ub8e8, \uc300\uac00\ub8e8, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc625\uc218\uc218\uae00\ub8e8\ud150, \ud574\ubc14\ub77c\uae30\uc720, \uce74\ub77c\uba5c, \uac00\uc218\ubd84\ud574 \ud6a8\ubaa8(\ub9cc\ub09c \uc62c\ub9ac\uace0\ub2f9\uc758 \uc6d0\ub8cc), \ucc28\uc804\uc790\ud53c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8. \uc870\ub2e8\ubc31 5% \uc774\uc0c1, \uc870\uc9c0\ubc29 0.7% \uc774\uc0c1, \uce7c\uc298 0.25% \uc774\uc0c1, \uc778 0.2% \uc774\uc0c1, \uc870\uc12c\uc720 2% \uc774\ud558, \uc870\ud68c\ubd84 1.8% \uc774\ud558, \uc218\ubd84 83% \uc774\ud558",
+        "analysis": null,
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/indoor-27",
-        "title": "Indoor 27 - 로얄캐닌",
+        "brand": null,
+        "title": "Indoor 27 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ud65c\ub3d9\ub7c9\uc774 \uc801\uc740 \uc2e4\ub0b4 \ubc18\ub824\ubb18\uc758 \uac74\uac15\uacfc \ubcc0\ub7c9, \ub0c4\uc0c8\uac10\uc18c\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\ub9de\ucda4\uc0ac\ub8cc",
         "key_benefits": [
-            "운동부족은 장내 음식물의 느린 이동을 유도하여 변냄새를 증가시킬 수 있습니다. 로얄캐닌 인도어는 소화율이 높은 L.I.P 단백질을 포함하여 변의 양과 냄새를 감소시키는데 도움을 줍니다.",
-            "적절한 지방함량으로 운동량이 적은 실내 반려묘에게 맞춰 체중유지에 도움을 줍니다.",
-            "차전자피를 포함한 식이섬유가 헤어볼 배출에 도움을 줍니다."
+            "\uc6b4\ub3d9\ubd80\uc871\uc740 \uc7a5\ub0b4 \uc74c\uc2dd\ubb3c\uc758 \ub290\ub9b0 \uc774\ub3d9\uc744 \uc720\ub3c4\ud558\uc5ec \ubcc0\ub0c4\uc0c8\ub97c \uc99d\uac00\uc2dc\ud0ac \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub85c\uc584\uce90\ub2cc \uc778\ub3c4\uc5b4\ub294 \uc18c\ud654\uc728\uc774 \ub192\uc740 L.I.P \ub2e8\ubc31\uc9c8\uc744 \ud3ec\ud568\ud558\uc5ec \ubcc0\uc758 \uc591\uacfc \ub0c4\uc0c8\ub97c \uac10\uc18c\uc2dc\ud0a4\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc801\uc808\ud55c \uc9c0\ubc29\ud568\ub7c9\uc73c\ub85c \uc6b4\ub3d9\ub7c9\uc774 \uc801\uc740 \uc2e4\ub0b4 \ubc18\ub824\ubb18\uc5d0\uac8c \ub9de\ucdb0 \uccb4\uc911\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ucc28\uc804\uc790\ud53c\ub97c \ud3ec\ud568\ud55c \uc2dd\uc774\uc12c\uc720\uac00 \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "생후 12개월 이후 활동량이 적은 실내 반려묘의 건강과 변량, 냄새감소에 도움을 주는 영양맞춤사료",
-        "ingredients": "육분 (닭, 오리, 칠면조), 쌀, 밀, 옥수수, 밀글루텐, 동물성 지방 (가금류, 돼지), 동물성 유도단백질 (닭, 칠면조), 소맥분, 분말셀룰로스, 사탕무박, 효모, 대두유, 혼합광물질류 합제, 프락토올리고당, 어유, 차전자피, 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 27%, 지방 13%, 조섬유 4%, 조회분 7.3%, NFE 43.2%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \uc300, \ubc00, \uc625\uc218\uc218, \ubc00\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \uc18c\ub9e5\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc0ac\ud0d5\ubb34\ubc15, \ud6a8\ubaa8, \ub300\ub450\uc720, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \uc5b4\uc720, \ucc28\uc804\uc790\ud53c, \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 27%, \uc9c0\ubc29 13%, \uc870\uc12c\uc720 4%, \uc870\ud68c\ubd84 7.3%, NFE 43.2%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/indoor-7",
-        "title": "Indoor 7 - 로얄캐닌",
+        "brand": null,
+        "title": "Indoor 7 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 7\ub144 \uc774\ud6c4 \ud65c\ub3d9\uc131\uc774 \uc801\uc740 \uc2e4\ub0b4\uc5d0\uc11c \uc0dd\ud65c\ud558\ub294 \ub178\ub839\ubb18\uc758 \ud65c\ub825\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\ub9de\ucda4\uc0ac\ub8cc",
         "key_benefits": [
-            "인도어 7+의 그린티폴리페놀, 비타민C, EPA와 DHA의 항산화 영양소들이 노화의 첫 징후가 나타나는 노령묘의 활력을 유지하는데 도움을 줍니다.",
-            "운동부족은 장내 음식물의 느린 이동을 유도하여 변냄새를 증가시킬 수 있습니다. 로얄캐닌 인도어 롱헤어는 소화율이 높은 L.I.P 단백질을 포함하여 변의 양과 냄새를 감소시키는데 도움을 줍니다.",
-            "적절한 인 함량으로 신장건강에 도움이 됩니다."
+            "\uc778\ub3c4\uc5b4 7+\uc758 \uadf8\ub9b0\ud2f0\ud3f4\ub9ac\ud398\ub180, \ube44\ud0c0\ubbfcC, EPA\uc640 DHA\uc758 \ud56d\uc0b0\ud654 \uc601\uc591\uc18c\ub4e4\uc774 \ub178\ud654\uc758 \uccab \uc9d5\ud6c4\uac00 \ub098\ud0c0\ub098\ub294 \ub178\ub839\ubb18\uc758 \ud65c\ub825\uc744 \uc720\uc9c0\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc6b4\ub3d9\ubd80\uc871\uc740 \uc7a5\ub0b4 \uc74c\uc2dd\ubb3c\uc758 \ub290\ub9b0 \uc774\ub3d9\uc744 \uc720\ub3c4\ud558\uc5ec \ubcc0\ub0c4\uc0c8\ub97c \uc99d\uac00\uc2dc\ud0ac \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub85c\uc584\uce90\ub2cc \uc778\ub3c4\uc5b4 \ub871\ud5e4\uc5b4\ub294 \uc18c\ud654\uc728\uc774 \ub192\uc740 L.I.P \ub2e8\ubc31\uc9c8\uc744 \ud3ec\ud568\ud558\uc5ec \ubcc0\uc758 \uc591\uacfc \ub0c4\uc0c8\ub97c \uac10\uc18c\uc2dc\ud0a4\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc801\uc808\ud55c \uc778 \ud568\ub7c9\uc73c\ub85c \uc2e0\uc7a5\uac74\uac15\uc5d0 \ub3c4\uc6c0\uc774 \ub429\ub2c8\ub2e4."
         ],
-        "descriptions": "생후 7년 이후 활동성이 적은 실내에서 생활하는 노령묘의 활력유지에 도움을 주는 영양맞춤사료",
-        "ingredients": "옥수수, 육분(닭, 칠면조, 오리), 보리, 옥수수 분말, 밀, 밀글루텐, 동물성 지방(가금류), 옥수수 글루텐, 동물성 유도단백질(닭, 칠면조), 분말셀룰로스, 사탕무박, 혼합광물질류 합제, 대두유, 효모, 어유, 프락토올리고당, 차전자피, 글루코사민, 금잔화 추출물 (루테인의 원료), 뮤코다당단백 (콘드로이틴의 원료), 비타민A, 비타민D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 차 카테킨(폴리페놀의 원료), 염화암모늄, 소르빈산칼륨, 항산화제",
-        "analysis": "단백질질 27%, 지방 13%, 조섬유 3.6%, 조회분 6.9%, 44%"
+        "ingredients": "\uc625\uc218\uc218, \uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \ubcf4\ub9ac, \uc625\uc218\uc218 \ubd84\ub9d0, \ubc00, \ubc00\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\uac00\uae08\ub958), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc0ac\ud0d5\ubb34\ubc15, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ub300\ub450\uc720, \ud6a8\ubaa8, \uc5b4\uc720, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ucc28\uc804\uc790\ud53c, \uae00\ub8e8\ucf54\uc0ac\ubbfc, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c (\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ubba4\ucf54\ub2e4\ub2f9\ub2e8\ubc31 (\ucf58\ub4dc\ub85c\uc774\ud2f4\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfcA, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \ucc28 \uce74\ud14c\ud0a8(\ud3f4\ub9ac\ud398\ub180\uc758 \uc6d0\ub8cc), \uc5fc\ud654\uc554\ubaa8\ub284, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c",
+        "analysis": "\ub2e8\ubc31\uc9c8\uc9c8 27%, \uc9c0\ubc29 13%, \uc870\uc12c\uc720 3.6%, \uc870\ud68c\ubd84 6.9%, 44%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/indoor-7-morsels-in-sauce",
-        "title": "Indoor 7 Morsels in Sauce - 로얄캐닌",
+        "brand": null,
+        "title": "Indoor 7 Morsels in Sauce - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 7\ub144 \uc774\ud6c4 \ud65c\ub3d9\uc131\uc774 \uc801\uc740 \uc2e4\ub0b4\uc5d0\uc11c \uc0dd\ud65c\ud558\ub294 \ub178\ub839\ubb18\uc758 \ud65c\ub825\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc2b5\uc2dd\uc0ac\ub8cc (\uc721\uc999\uc774 \ud48d\ubd80\ud55c \ud30c\uc6b0\uce58\ud0c0\uc785)",
         "key_benefits": [
-            "그린티폴리페놀, 비타민C, EPA와 DHA의 항산화 영양소",
-            "소화율이 높은 L.I.P 단백질을 포함",
-            "적절한 인 함량"
+            "\uadf8\ub9b0\ud2f0\ud3f4\ub9ac\ud398\ub180, \ube44\ud0c0\ubbfcC, EPA\uc640 DHA\uc758 \ud56d\uc0b0\ud654 \uc601\uc591\uc18c",
+            "\uc18c\ud654\uc728\uc774 \ub192\uc740 L.I.P \ub2e8\ubc31\uc9c8\uc744 \ud3ec\ud568",
+            "\uc801\uc808\ud55c \uc778 \ud568\ub7c9"
         ],
-        "descriptions": "생후 7년 이후 활동성이 적은 실내에서 생활하는 노령묘의 활력유지에 도움을 주는 습식사료 (육즙이 풍부한 파우치타입)",
-        "ingredients": "육류(닭, 돼지), 옥수수가루, 동물성 유도단백질(돼지), 분말셀룰로스, 혼합광물질류 합제, 어유, 카라멜, 금잔화추출물, 글루코사민, 카라기난, 아미노산제 합제, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트. 조단백 8.4% 이상, 조지방 0.8% 이상, 칼슘 0.184% 이상, 인 0.136% 이상, 조섬유 1.8% 이하, 조회분 1.8% 이하, 수분 81.7% 이하"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \uc625\uc218\uc218\uac00\ub8e8, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub3fc\uc9c0), \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc5b4\uc720, \uce74\ub77c\uba5c, \uae08\uc794\ud654\ucd94\ucd9c\ubb3c, \uae00\ub8e8\ucf54\uc0ac\ubbfc, \uce74\ub77c\uae30\ub09c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8. \uc870\ub2e8\ubc31 8.4% \uc774\uc0c1, \uc870\uc9c0\ubc29 0.8% \uc774\uc0c1, \uce7c\uc298 0.184% \uc774\uc0c1, \uc778 0.136% \uc774\uc0c1, \uc870\uc12c\uc720 1.8% \uc774\ud558, \uc870\ud68c\ubd84 1.8% \uc774\ud558, \uc218\ubd84 81.7% \uc774\ud558",
+        "analysis": null,
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/indoor-long-hair",
-        "title": "Indoor Long Hair - 로얄캐닌",
+        "brand": null,
+        "title": "Indoor Long Hair - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \uc7a5\ubaa8 \ubc18\ub824\ubb18\uc758 \ud138 \uad00\ub9ac\uc640 \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\ub9de\ucda4\uc0ac\ub8cc",
         "key_benefits": [
-            "실내에서 생활하는 장모 반려묘는 헤어볼 생성이 쉽습니다. 인도어 롱헤어는 헤어볼의 장내 이동을 돕고 차전자피를 포함한 식이섬유가 자연적인 방법으로 헤어볼 배출을 하도록 돕습니다.",
-            "운동부족은 장내 음식물의 느린 이동을 유도하여 변냄새를 증가시킬 수 있습니다. 로얄캐닌 인도어 롱헤어는 소화율이 높은 L.I.P 단백질을 포함하여 변의 양과 냄새를 감소시키는데 도움을 줍니다.",
-            "EPA와 DHA를 함유하여 빛나는 피모의 상태를 유지하는데 도움을 줍니다."
+            "\uc2e4\ub0b4\uc5d0\uc11c \uc0dd\ud65c\ud558\ub294 \uc7a5\ubaa8 \ubc18\ub824\ubb18\ub294 \ud5e4\uc5b4\ubcfc \uc0dd\uc131\uc774 \uc27d\uc2b5\ub2c8\ub2e4. \uc778\ub3c4\uc5b4 \ub871\ud5e4\uc5b4\ub294 \ud5e4\uc5b4\ubcfc\uc758 \uc7a5\ub0b4 \uc774\ub3d9\uc744 \ub3d5\uace0 \ucc28\uc804\uc790\ud53c\ub97c \ud3ec\ud568\ud55c \uc2dd\uc774\uc12c\uc720\uac00 \uc790\uc5f0\uc801\uc778 \ubc29\ubc95\uc73c\ub85c \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc744 \ud558\ub3c4\ub85d \ub3d5\uc2b5\ub2c8\ub2e4.",
+            "\uc6b4\ub3d9\ubd80\uc871\uc740 \uc7a5\ub0b4 \uc74c\uc2dd\ubb3c\uc758 \ub290\ub9b0 \uc774\ub3d9\uc744 \uc720\ub3c4\ud558\uc5ec \ubcc0\ub0c4\uc0c8\ub97c \uc99d\uac00\uc2dc\ud0ac \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub85c\uc584\uce90\ub2cc \uc778\ub3c4\uc5b4 \ub871\ud5e4\uc5b4\ub294 \uc18c\ud654\uc728\uc774 \ub192\uc740 L.I.P \ub2e8\ubc31\uc9c8\uc744 \ud3ec\ud568\ud558\uc5ec \ubcc0\uc758 \uc591\uacfc \ub0c4\uc0c8\ub97c \uac10\uc18c\uc2dc\ud0a4\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "EPA\uc640 DHA\ub97c \ud568\uc720\ud558\uc5ec \ube5b\ub098\ub294 \ud53c\ubaa8\uc758 \uc0c1\ud0dc\ub97c \uc720\uc9c0\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "생후 12개월 이후 장모 반려묘의 털 관리와 헤어볼 배출에 도움을 주는 영양맞춤사료",
-        "ingredients": "육분(닭, 칠면조, 오리), 옥수수, 쌀, 밀글루텐, 밀, 동물성 지방(가금류), 동물성 유도단백질(닭, 칠면조), 소맥분, 분말셀룰로스, 대두유, 사탕무박, 혼합광물질류 합제, 효모, 어유, 프락토올리고당, 차전자피, 보리지유, 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 30%, 지방 15%, 조섬유 4.1%, 조회분 8.1%, NFE 37.3%"
+        "ingredients": "\uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc625\uc218\uc218, \uc300, \ubc00\uae00\ub8e8\ud150, \ubc00, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\uac00\uae08\ub958), \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \uc18c\ub9e5\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ub300\ub450\uc720, \uc0ac\ud0d5\ubb34\ubc15, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ud6a8\ubaa8, \uc5b4\uc720, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ucc28\uc804\uc790\ud53c, \ubcf4\ub9ac\uc9c0\uc720, \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 30%, \uc9c0\ubc29 15%, \uc870\uc12c\uc720 4.1%, \uc870\ud68c\ubd84 8.1%, NFE 37.3%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/indoor-sterilized-morsels-in-gravy",
-        "title": "Indoor Sterilized Morsels in Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Indoor Sterilized Morsels in Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4   12\uac1c\uc6d4 \uc774\ud6c4 \ud65c\ub3d9\ub7c9\uc774 \uc801\uc740 \uc2e4\ub0b4 \ubc18\ub824\ubb18\uc758 \uac74\uac15\uacfc \ubcc0\ub7c9, \ub0c4\uc0c8\uac10\uc18c\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc2b5\uc2dd\uc0ac\ub8cc (\uc721\uc999\uc774 \ud48d\ubd80\ud55c \ud30c\uc6b0\uce58\ud0c0\uc785)",
         "key_benefits": [
-            "소화율이 높은 L.I.P 단백질을 포함",
-            "적절한 지방함량",
-            "차전자피를 포함한 식이섬유"
+            "\uc18c\ud654\uc728\uc774 \ub192\uc740 L.I.P \ub2e8\ubc31\uc9c8\uc744 \ud3ec\ud568",
+            "\uc801\uc808\ud55c \uc9c0\ubc29\ud568\ub7c9",
+            "\ucc28\uc804\uc790\ud53c\ub97c \ud3ec\ud568\ud55c \uc2dd\uc774\uc12c\uc720"
         ],
-        "descriptions": "생후   12개월 이후 활동량이 적은 실내 반려묘의 건강과 변량, 냄새감소에 도움을 주는 습식사료 (육즙이 풍부한 파우치타입)",
-        "ingredients": "육류(닭, 돼지), 옥수수가루, 분말셀룰로스, 옥수수전분, 동물성 유도단백질(돼지), 해바라기유, 어유, 혼합광물질류 합제, 카라멜, 카라기난, 아미노산제 합제, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트."
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \uc625\uc218\uc218\uac00\ub8e8, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc625\uc218\uc218\uc804\ubd84, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub3fc\uc9c0), \ud574\ubc14\ub77c\uae30\uc720, \uc5b4\uc720, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uce74\ub77c\uba5c, \uce74\ub77c\uae30\ub09c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8.",
+        "analysis": null,
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/instinctive-7-gravy",
-        "title": "Instinctive 7 Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Instinctive 7 Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Suitable for cats over 7 years of age, ROYAL CANIN\u00ae Instinctive 7+ in Gravy is specially formulated with all the nutritional needs of your adult cat in mind. As your cat gets older, its activity levels will naturally decrease over time. ROYAL CANIN\u00ae Instinctive 7+ in Gravy contains an exclusive complex of antioxidants that help to support your cat's vitality. Another thing that can change over time is your cat's preferences - certain food that may have been agreeable to its palate before, may no longer be satisfying your cat. That's why ROYAL CANIN\u00ae Instinctive 7+ in Gravy is specifically formulated to match the optimal Macro Nutritional Profile instinctively preferred by adult cats like yours. What's more, ROYAL CANIN\u00ae Instinctive 7+ in Gravy contains an adapted phosphorus content. This helps to support your cat's healthy kidney function. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Instinctive 7+ is also available in a succulent jelly.",
         "key_benefits": [
-            "항산화제 복합물이 노령묘의 활성산소 중화에 도움을 줍니다.",
-            "반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다. (육즙이 풍부한 덩어리 타입)",
-            "적절한 인의 성분이 신장 건강에 도움을 줍니다."
+            "\ud56d\uc0b0\ud654\uc81c \ubcf5\ud569\ubb3c\uc774 \ub178\ub839\ubb18\uc758 \ud65c\uc131\uc0b0\uc18c \uc911\ud654\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. (\uc721\uc999\uc774 \ud48d\ubd80\ud55c \ub369\uc5b4\ub9ac \ud0c0\uc785)",
+            "\uc801\uc808\ud55c \uc778\uc758 \uc131\ubd84\uc774 \uc2e0\uc7a5 \uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "Suitable for cats over 7 years of age, ROYAL CANIN® Instinctive 7+ in Gravy is specially formulated with all the nutritional needs of your adult cat in mind. As your cat gets older, its activity levels will naturally decrease over time. ROYAL CANIN® Instinctive 7+ in Gravy contains an exclusive complex of antioxidants that help to support your cat's vitality. Another thing that can change over time is your cat's preferences - certain food that may have been agreeable to its palate before, may no longer be satisfying your cat. That's why ROYAL CANIN® Instinctive 7+ in Gravy is specifically formulated to match the optimal Macro Nutritional Profile instinctively preferred by adult cats like yours. What's more, ROYAL CANIN® Instinctive 7+ in Gravy contains an adapted phosphorus content. This helps to support your cat's healthy kidney function. To cater to each cat's individual preferences, ROYAL CANIN® Instinctive 7+ is also available in a succulent jelly.",
-        "ingredients": "육류(닭, 돼지), 쌀분말, 동물성 유도단백질(돼지), 밀 글루텐, 분말셀룰로스, 천연 착향료, 카라멜, 금잔화 추출물(루테인의 주원료), 글루코사민, 뮤코다당단백(콘드로이틴의 원료), 아미노산제 합제, 카라기난, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 10.5%, 지방 2.5%, 조섬유 1.4%, 조회분 1.1%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \uc300\ubd84\ub9d0, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub3fc\uc9c0), \ubc00 \uae00\ub8e8\ud150, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ucc9c\uc5f0 \ucc29\ud5a5\ub8cc, \uce74\ub77c\uba5c, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc8fc\uc6d0\ub8cc), \uae00\ub8e8\ucf54\uc0ac\ubbfc, \ubba4\ucf54\ub2e4\ub2f9\ub2e8\ubc31(\ucf58\ub4dc\ub85c\uc774\ud2f4\uc758 \uc6d0\ub8cc), \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uce74\ub77c\uae30\ub09c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 10.5%, \uc9c0\ubc29 2.5%, \uc870\uc12c\uc720 1.4%, \uc870\ud68c\ubd84 1.1%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/instinctive-gravy",
-        "title": "Instinctive Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Instinctive Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "When feeding your cat, it is possible to align what it actually wants to eat with what it needs to eat in order to maintain nutritional health. Choosing the right food for your cat is essential in supporting a healthy lifestyle, and the benefit of your cat enjoying its food makes it all the better. ROYAL CANIN\u00ae Instinctive in Gravy is formulated to match the optimal Macro Nutritional Profile instinctively preferred by adult cats. With carefully selected nutrients included for optimal palatability, the end product is a dish that your cat simply won't be able to resist. Thanks to the inclusion of a vast assortment of vitamins, minerals and amino acids (all needed to maintain general health and regular growth), your cat will be consuming a highly-digestible and nutritionally-balanced food. The combination of nutrients has not only been designed to be instinctively edible and nutritionally healthy, they've also been formulated to help your cat maintain an ideal weight and support a healthy urinary system. ROYAL CANIN\u00ae Instinctive in Gravy contains an optimal level of fat content for provision of energy levels. Additionally, the fibre blend and protein contributes to the feeling of being full. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Instinctive is also available in succulent jelly or as a tasty loaf.",
         "key_benefits": [
-            "반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다. (육즙이 풍부한 덩어리 타입)",
-            "요로기계 건강 향상을 도와 줍니다.",
-            "이상적인 체중유지에 도움을 줍니다."
+            "\ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. (\uc721\uc999\uc774 \ud48d\ubd80\ud55c \ub369\uc5b4\ub9ac \ud0c0\uc785)",
+            "\uc694\ub85c\uae30\uacc4 \uac74\uac15 \ud5a5\uc0c1\uc744 \ub3c4\uc640 \uc90d\ub2c8\ub2e4.",
+            "\uc774\uc0c1\uc801\uc778 \uccb4\uc911\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "When feeding your cat, it is possible to align what it actually wants to eat with what it needs to eat in order to maintain nutritional health. Choosing the right food for your cat is essential in supporting a healthy lifestyle, and the benefit of your cat enjoying its food makes it all the better. ROYAL CANIN® Instinctive in Gravy is formulated to match the optimal Macro Nutritional Profile instinctively preferred by adult cats. With carefully selected nutrients included for optimal palatability, the end product is a dish that your cat simply won't be able to resist. Thanks to the inclusion of a vast assortment of vitamins, minerals and amino acids (all needed to maintain general health and regular growth), your cat will be consuming a highly-digestible and nutritionally-balanced food. The combination of nutrients has not only been designed to be instinctively edible and nutritionally healthy, they've also been formulated to help your cat maintain an ideal weight and support a healthy urinary system. ROYAL CANIN® Instinctive in Gravy contains an optimal level of fat content for provision of energy levels. Additionally, the fibre blend and protein contributes to the feeling of being full. To cater to each cat's individual preferences, ROYAL CANIN® Instinctive is also available in succulent jelly or as a tasty loaf.",
-        "ingredients": "육류(돼지, 닭), 어분(연어), 밀글루텐, 소맥분, 동물성 유도단백질(닭), 옥수수전분, 분말셀룰로스, 천연 착향료, 카라멜, 아미노산제 합제, 카라기난, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 12%, 지방 2.8%, 조섬유 0.9%, 조회분 1.5%"
+        "ingredients": "\uc721\ub958(\ub3fc\uc9c0, \ub2ed), \uc5b4\ubd84(\uc5f0\uc5b4), \ubc00\uae00\ub8e8\ud150, \uc18c\ub9e5\ubd84, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed), \uc625\uc218\uc218\uc804\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ucc9c\uc5f0 \ucc29\ud5a5\ub8cc, \uce74\ub77c\uba5c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uce74\ub77c\uae30\ub09c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 12%, \uc9c0\ubc29 2.8%, \uc870\uc12c\uc720 0.9%, \uc870\ud68c\ubd84 1.5%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/instinctive-jelly",
-        "title": "Instinctive Jelly - 로얄캐닌",
+        "brand": null,
+        "title": "Instinctive Jelly - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \uccb4\uc911\uc720\uc9c0\uc640 \uc694\ub85c\uae30\uacc4\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\ub9de\ucda4 \uc2b5\uc2dd\uc0ac\ub8cc (\ud30c\uc6b0\uce58\ud0c0\uc785)",
         "key_benefits": [
-            "반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다. (젤리 타입)",
-            "이상적인 체중유지에 도움을 줍니다.",
-            "이상적인 체중유지에 도움을 줍니다."
+            "\ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. (\uc824\ub9ac \ud0c0\uc785)",
+            "\uc774\uc0c1\uc801\uc778 \uccb4\uc911\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc774\uc0c1\uc801\uc778 \uccb4\uc911\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "생후 12개월 이후 반려묘의 체중유지와 요로기계에 도움을 주는 영양맞춤 습식사료 (파우치타입)",
-        "ingredients": "육류(닭, 돼지, 칠면조), 동물성 유도단백질(돼지), 밀글루텐, 해바라기유, 분말셀룰로스, 천연착향료, 카라멜, 아미노산제 합제, 카라기난, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 11.8%, 지방 4.5%, 조섬유 0.8%, 조회분 1.3%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0, \uce60\uba74\uc870), \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub3fc\uc9c0), \ubc00\uae00\ub8e8\ud150, \ud574\ubc14\ub77c\uae30\uc720, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ucc9c\uc5f0\ucc29\ud5a5\ub8cc, \uce74\ub77c\uba5c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uce74\ub77c\uae30\ub09c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 11.8%, \uc9c0\ubc29 4.5%, \uc870\uc12c\uc720 0.8%, \uc870\ud68c\ubd84 1.3%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/intense-beauty-gravy",
-        "title": "Intense Beauty Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Intense Beauty Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Maintaining your cat's coat can be challenging, particularly in long-haired breeds. However, providing your cat with the right nutrients will greatly contribute to a healthy, shiny coat that truly shows off its natural beauty. ROYAL CANIN\u00ae Intense Beauty in Gravy contains high levels of omega-3 & omega-6 fatty acids to help your cat maintain a beautiful coat and healthy skin. ROYAL CANIN\u00ae Intense Beauty in Gravy also helps your cat maintain an ideal weight - with a low fat content to help prevent excess weight gain, and an optimal protein level for healthy muscle development and growth. A healthy urinary system is also supported by ROYAL CANIN\u00ae Intense Beauty in Gravy, it helps maintain your cat's bladder function. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Intense Beauty is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "급여 후 21일 이내 윤기있는 털 개선에 도움 (로얄캐닌 내부 연구 결과)",
-            "오메가 3, 6 지방산을 포함한 영양소 조합이 피부 장벽 강화에 도움을 줍니다. 특정 아미노산을 함유한 고품질의 단백질은 건강한 피부 발달과 피모 재생 촉진에 도움을 줍니다.",
-            "동일한 제품의 건식과 습식의 혼합 급여는 영양학적 효과를 더 크게 해 줍니다. (요로기계 질환 예방, 체중관리에 도움, 기호성 유지에 도움)"
+            "\uae09\uc5ec \ud6c4 21\uc77c \uc774\ub0b4 \uc724\uae30\uc788\ub294 \ud138 \uac1c\uc120\uc5d0 \ub3c4\uc6c0 (\ub85c\uc584\uce90\ub2cc \ub0b4\ubd80 \uc5f0\uad6c \uacb0\uacfc)",
+            "\uc624\uba54\uac00 3, 6 \uc9c0\ubc29\uc0b0\uc744 \ud3ec\ud568\ud55c \uc601\uc591\uc18c \uc870\ud569\uc774 \ud53c\ubd80 \uc7a5\ubcbd \uac15\ud654\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. \ud2b9\uc815 \uc544\ubbf8\ub178\uc0b0\uc744 \ud568\uc720\ud55c \uace0\ud488\uc9c8\uc758 \ub2e8\ubc31\uc9c8\uc740 \uac74\uac15\ud55c \ud53c\ubd80 \ubc1c\ub2ec\uacfc \ud53c\ubaa8 \uc7ac\uc0dd \ucd09\uc9c4\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub3d9\uc77c\ud55c \uc81c\ud488\uc758 \uac74\uc2dd\uacfc \uc2b5\uc2dd\uc758 \ud63c\ud569 \uae09\uc5ec\ub294 \uc601\uc591\ud559\uc801 \ud6a8\uacfc\ub97c \ub354 \ud06c\uac8c \ud574 \uc90d\ub2c8\ub2e4. (\uc694\ub85c\uae30\uacc4 \uc9c8\ud658 \uc608\ubc29, \uccb4\uc911\uad00\ub9ac\uc5d0 \ub3c4\uc6c0, \uae30\ud638\uc131 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0)"
         ],
-        "descriptions": "Maintaining your cat's coat can be challenging, particularly in long-haired breeds. However, providing your cat with the right nutrients will greatly contribute to a healthy, shiny coat that truly shows off its natural beauty. ROYAL CANIN® Intense Beauty in Gravy contains high levels of omega-3 & omega-6 fatty acids to help your cat maintain a beautiful coat and healthy skin. ROYAL CANIN® Intense Beauty in Gravy also helps your cat maintain an ideal weight - with a low fat content to help prevent excess weight gain, and an optimal protein level for healthy muscle development and growth. A healthy urinary system is also supported by ROYAL CANIN® Intense Beauty in Gravy, it helps maintain your cat's bladder function. To cater to each cat's individual preferences, ROYAL CANIN® Intense Beauty is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류(닭, 돼지, 연어), 동물성 유도단백질(돼지), 밀글루텐, 소맥분, 해바라기유, 분말셀룰로스, 옥수수 전분, 동물성 유도단백질(닭), 어유, 천연착향료, 카라멜, 아미노산제 합제, 카라기난, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 12%, 지방 3.7%, 조섬유 1.1%, 조회분 1.3%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0, \uc5f0\uc5b4), \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub3fc\uc9c0), \ubc00\uae00\ub8e8\ud150, \uc18c\ub9e5\ubd84, \ud574\ubc14\ub77c\uae30\uc720, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc625\uc218\uc218 \uc804\ubd84, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed), \uc5b4\uc720, \ucc9c\uc5f0\ucc29\ud5a5\ub8cc, \uce74\ub77c\uba5c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uce74\ub77c\uae30\ub09c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 12%, \uc9c0\ubc29 3.7%, \uc870\uc12c\uc720 1.1%, \uc870\ud68c\ubd84 1.3%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/intense-beauty-jelly",
-        "title": "Intense Beauty Jelly - 로얄캐닌",
+        "brand": null,
+        "title": "Intense Beauty Jelly - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Your cat's coat is a thing of beauty, which is why consuming an ideal level of nutrients is essential, otherwise the general health and appearance of its coat can be less than optimal. ROYAL CANIN\u00ae Intense Beauty in Jelly contains a patented complex of antioxidants and fatty acids (omega-3 & omega-6) specially formulated to help support and maintain the beauty and health of your cat's coat, as well as its skin. ROYAL CANIN\u00ae Intense Beauty in Jelly also helps your cat maintain an ideal weight - with a fat content of just 3.7% to prevent excess weight gain, and an optimal level of protein to contribute to healthy muscular growth and development. A healthy urinary system is also supported by ROYAL CANIN\u00ae Intense Beauty in Gravy, it helps maintain your cat's bladder function. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Intense Beauty is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "급여 후 21일 이내 윤기있는 털 개선에 도움 (로얄캐닌 내부 연구 결과)",
-            "오메가 3, 6 지방산을 포함한 영양소 조합이 피부 장벽 강화에 도움을 줍니다. 특정 아미노산을 함유한 고품질의 단백질은 건강한 피부 발달과 피모 재생 촉진에 도움을 줍니다.",
-            "동일한 제품의 건식과 습식의 혼합 급여는 영양학적 효과를 더 크게 해 줍니다. (요로기계 질환 예방, 체중관리에 도움, 기호성 유지에 도움)",
-            "요로계 건강 향상에 도움을 줍니다."
+            "\uae09\uc5ec \ud6c4 21\uc77c \uc774\ub0b4 \uc724\uae30\uc788\ub294 \ud138 \uac1c\uc120\uc5d0 \ub3c4\uc6c0 (\ub85c\uc584\uce90\ub2cc \ub0b4\ubd80 \uc5f0\uad6c \uacb0\uacfc)",
+            "\uc624\uba54\uac00 3, 6 \uc9c0\ubc29\uc0b0\uc744 \ud3ec\ud568\ud55c \uc601\uc591\uc18c \uc870\ud569\uc774 \ud53c\ubd80 \uc7a5\ubcbd \uac15\ud654\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. \ud2b9\uc815 \uc544\ubbf8\ub178\uc0b0\uc744 \ud568\uc720\ud55c \uace0\ud488\uc9c8\uc758 \ub2e8\ubc31\uc9c8\uc740 \uac74\uac15\ud55c \ud53c\ubd80 \ubc1c\ub2ec\uacfc \ud53c\ubaa8 \uc7ac\uc0dd \ucd09\uc9c4\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub3d9\uc77c\ud55c \uc81c\ud488\uc758 \uac74\uc2dd\uacfc \uc2b5\uc2dd\uc758 \ud63c\ud569 \uae09\uc5ec\ub294 \uc601\uc591\ud559\uc801 \ud6a8\uacfc\ub97c \ub354 \ud06c\uac8c \ud574 \uc90d\ub2c8\ub2e4. (\uc694\ub85c\uae30\uacc4 \uc9c8\ud658 \uc608\ubc29, \uccb4\uc911\uad00\ub9ac\uc5d0 \ub3c4\uc6c0, \uae30\ud638\uc131 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0)",
+            "\uc694\ub85c\uacc4 \uac74\uac15 \ud5a5\uc0c1\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "Your cat's coat is a thing of beauty, which is why consuming an ideal level of nutrients is essential, otherwise the general health and appearance of its coat can be less than optimal. ROYAL CANIN® Intense Beauty in Jelly contains a patented complex of antioxidants and fatty acids (omega-3 & omega-6) specially formulated to help support and maintain the beauty and health of your cat's coat, as well as its skin. ROYAL CANIN® Intense Beauty in Jelly also helps your cat maintain an ideal weight - with a fat content of just 3.7% to prevent excess weight gain, and an optimal level of protein to contribute to healthy muscular growth and development. A healthy urinary system is also supported by ROYAL CANIN® Intense Beauty in Gravy, it helps maintain your cat's bladder function. To cater to each cat's individual preferences, ROYAL CANIN® Intense Beauty is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류(닭, 돼지, 연어), 동물성 유도단백질(가금류, 돼지), 쌀분말, 소맥분, 밀 글루텐, 해바라기유, 분말셀룰로오스, 옥수수 전분, 어유, 카라멜, 아미노산제 합제, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 10.50%, 지방 4%, 조섬유 1%, 조회분 1.50%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0, \uc5f0\uc5b4), \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\uac00\uae08\ub958, \ub3fc\uc9c0), \uc300\ubd84\ub9d0, \uc18c\ub9e5\ubd84, \ubc00 \uae00\ub8e8\ud150, \ud574\ubc14\ub77c\uae30\uc720, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc624\uc2a4, \uc625\uc218\uc218 \uc804\ubd84, \uc5b4\uc720, \uce74\ub77c\uba5c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 10.50%, \uc9c0\ubc29 4%, \uc870\uc12c\uc720 1%, \uc870\ud68c\ubd84 1.50%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/kitten-2018",
-        "title": "Kitten 2018 - 로얄캐닌",
+        "brand": null,
+        "title": "Kitten 2018 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc0dd\ud6c4 4\uac1c\uc6d4 \uc774\ud6c4\ubd80\ud130 12\uac1c\uc6d4\uae4c\uc9c0 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc758 \uba74\uc5ed\uae30\ub2a5, \uc18c\ud654\uae30\uacc4\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc131\uc7a5\uae30 \uc601\uc591\ub9de\ucda4\uc0ac\ub8cc",
         "key_benefits": [
-            "성장기는 어린 반려묘의 급격한 성장과 면역체계 형성 등 평생의 건강에 있어 매우 중요한 시기입니다. 로얄캐닌 키튼은 비타민 E를 포함한 독자적인 항산화 물질의 복합체를 함유해 어린 반려묘의 면역 기능에 도움을 줍니다.",
-            "소화기계의 건강과 장내 미생물의 균형 유지를 돕기 위해 양질의 단백질(L.I.P.*)과 프리바이오틱스(FOS)를 함유하고 있습니다.",
-            "소화 흡수율이 높은 단백질과 비타민 D, 미네랄이 골고루 포함되어 어린 반려묘의 성장에 도움을 주고 성장시기에 필요한 에너지를 충족시켰습니다."
+            "\uc131\uc7a5\uae30\ub294 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc758 \uae09\uaca9\ud55c \uc131\uc7a5\uacfc \uba74\uc5ed\uccb4\uacc4 \ud615\uc131 \ub4f1 \ud3c9\uc0dd\uc758 \uac74\uac15\uc5d0 \uc788\uc5b4 \ub9e4\uc6b0 \uc911\uc694\ud55c \uc2dc\uae30\uc785\ub2c8\ub2e4. \ub85c\uc584\uce90\ub2cc \ud0a4\ud2bc\uc740 \ube44\ud0c0\ubbfc E\ub97c \ud3ec\ud568\ud55c \ub3c5\uc790\uc801\uc778 \ud56d\uc0b0\ud654 \ubb3c\uc9c8\uc758 \ubcf5\ud569\uccb4\ub97c \ud568\uc720\ud574 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc758 \uba74\uc5ed \uae30\ub2a5\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc18c\ud654\uae30\uacc4\uc758 \uac74\uac15\uacfc \uc7a5\ub0b4 \ubbf8\uc0dd\ubb3c\uc758 \uade0\ud615 \uc720\uc9c0\ub97c \ub3d5\uae30 \uc704\ud574 \uc591\uc9c8\uc758 \ub2e8\ubc31\uc9c8(L.I.P.*)\uacfc \ud504\ub9ac\ubc14\uc774\uc624\ud2f1\uc2a4(FOS)\ub97c \ud568\uc720\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+            "\uc18c\ud654 \ud761\uc218\uc728\uc774 \ub192\uc740 \ub2e8\ubc31\uc9c8\uacfc \ube44\ud0c0\ubbfc D, \ubbf8\ub124\ub784\uc774 \uace8\uace0\ub8e8 \ud3ec\ud568\ub418\uc5b4 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc758 \uc131\uc7a5\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\uace0 \uc131\uc7a5\uc2dc\uae30\uc5d0 \ud544\uc694\ud55c \uc5d0\ub108\uc9c0\ub97c \ucda9\uc871\uc2dc\ucf30\uc2b5\ub2c8\ub2e4."
         ],
-        "descriptions": "생후 4개월 이후부터 12개월까지 어린 반려묘의 면역기능, 소화기계에 도움을 주는 성장기 영양맞춤사료",
-        "ingredients": "육분 (닭, 오리, 칠면조), 쌀, 밀글루텐, 동물성 지방(가금류, 돼지), 옥수수 분말, 동물성 유도단백질 (닭, 칠면조), 소맥분, 옥수수글루텐, 효모, 사탕무박, 분말셀룰로스, 어유, 대두유, 혼합광물질류 합제, 프락토올리고당, 차전자피, 가수분해효모, 효모 추출물 (베타글루칸의 원료), 금잔화 추출물(루테인의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 소르빈산칼륨, 항산화제",
-        "analysis": "단백질 36%, 지방 18%, 조섬유 2.3%, 조회분 7.7%, NFE 30.5%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \uc300, \ubc00\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\uac00\uae08\ub958, \ub3fc\uc9c0), \uc625\uc218\uc218 \ubd84\ub9d0, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \uc18c\ub9e5\ubd84, \uc625\uc218\uc218\uae00\ub8e8\ud150, \ud6a8\ubaa8, \uc0ac\ud0d5\ubb34\ubc15, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc5b4\uc720, \ub300\ub450\uc720, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ucc28\uc804\uc790\ud53c, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \ud6a8\ubaa8 \ucd94\ucd9c\ubb3c (\ubca0\ud0c0\uae00\ub8e8\uce78\uc758 \uc6d0\ub8cc), \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c",
+        "analysis": "\ub2e8\ubc31\uc9c8 36%, \uc9c0\ubc29 18%, \uc870\uc12c\uc720 2.3%, \uc870\ud68c\ubd84 7.7%, NFE 30.5%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/kitten-gravy",
-        "title": "Kitten Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Kitten Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Giving your kitten the best start in life all begins with the right nutrition. Providing it with the essential nutrients it needs will properly support your kitten's development and growth at critical stages and beyond. Weaning kittens from their mother's milk can be difficult - particularly if the food isn't specifically tailored to your kitten's needs and palatability. That's why ROYAL CANIN\u00ae Kitten Instinctive in Gravy is formulated to match the optimal nutritional profile instinctively preferred by kittens. Feeding your kitten a palatable diet that takes taste, scent and texture into account will lead to long-term, instinctive acceptance of the nutritious food that you provide. ROYAL CANIN\u00ae Kitten Instinctive in Gravy provides all the essential nutrients needed to sustain high energy requirements and support bone strengthening as well as good overall health maintenance. During the second growth stage (4-12 months), your kitten's immune system will not be fully developed yet. ROYAL CANIN Kitten Instinctive helps strengthen the natural body defences of your kitten with a complex of antioxidants such as vitamin E, vitamin C, taurine and lutein. ROYAL CANIN\u00ae Kitten Instinctive in Gravy is specifically designed for easy chewing, and it's also suitable to feed to mother cats. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Kitten Instinctive is also available as wet food in succulent jelly or a soft and tasty loaf.",
         "key_benefits": [
-            "면역력을 강화하는데 도움을 줍니다.",
-            "육즙이 풍부한 작은 덩어리 타입으로 이루어져 있어 씹기 쉽습니다.",
-            "어린 반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다."
+            "\uba74\uc5ed\ub825\uc744 \uac15\ud654\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc721\uc999\uc774 \ud48d\ubd80\ud55c \uc791\uc740 \ub369\uc5b4\ub9ac \ud0c0\uc785\uc73c\ub85c \uc774\ub8e8\uc5b4\uc838 \uc788\uc5b4 \uc539\uae30 \uc27d\uc2b5\ub2c8\ub2e4.",
+            "\uc5b4\ub9b0 \ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4."
         ],
-        "descriptions": "Giving your kitten the best start in life all begins with the right nutrition. Providing it with the essential nutrients it needs will properly support your kitten's development and growth at critical stages and beyond. Weaning kittens from their mother's milk can be difficult - particularly if the food isn't specifically tailored to your kitten's needs and palatability. That's why ROYAL CANIN® Kitten Instinctive in Gravy is formulated to match the optimal nutritional profile instinctively preferred by kittens. Feeding your kitten a palatable diet that takes taste, scent and texture into account will lead to long-term, instinctive acceptance of the nutritious food that you provide. ROYAL CANIN® Kitten Instinctive in Gravy provides all the essential nutrients needed to sustain high energy requirements and support bone strengthening as well as good overall health maintenance. During the second growth stage (4-12 months), your kitten's immune system will not be fully developed yet. ROYAL CANIN Kitten Instinctive helps strengthen the natural body defences of your kitten with a complex of antioxidants such as vitamin E, vitamin C, taurine and lutein. ROYAL CANIN® Kitten Instinctive in Gravy is specifically designed for easy chewing, and it's also suitable to feed to mother cats. To cater to each cat's individual preferences, ROYAL CANIN® Kitten Instinctive is also available as wet food in succulent jelly or a soft and tasty loaf.",
-        "ingredients": "육류(닭, 돼지), 밀 글루텐, 동물성 유도단백질(돼지), 쌀분말, 옥수수 전분, 분말셀룰로스, 해바라기유, 어유, 천연착향료, 효모추출물(만난 올리고당의 원료), 카라멜, 금잔화 추출물(루테인의 주원료), 베타카로틴, 아미노산제 합제, 카라기난, 혼합광물질류 합제, 비타민 D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 12%, 지방 4%, 조섬유 0.9%, 조회분 1.8%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \ubc00 \uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub3fc\uc9c0), \uc300\ubd84\ub9d0, \uc625\uc218\uc218 \uc804\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ud574\ubc14\ub77c\uae30\uc720, \uc5b4\uc720, \ucc9c\uc5f0\ucc29\ud5a5\ub8cc, \ud6a8\ubaa8\ucd94\ucd9c\ubb3c(\ub9cc\ub09c \uc62c\ub9ac\uace0\ub2f9\uc758 \uc6d0\ub8cc), \uce74\ub77c\uba5c, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc8fc\uc6d0\ub8cc), \ubca0\ud0c0\uce74\ub85c\ud2f4, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uce74\ub77c\uae30\ub09c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 12%, \uc9c0\ubc29 4%, \uc870\uc12c\uc720 0.9%, \uc870\ud68c\ubd84 1.8%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/kitten-jelly",
-        "title": "Kitten Jelly - 로얄캐닌",
+        "brand": null,
+        "title": "Kitten Jelly - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Transitioning from mother's milk to solid food is one of the most important stages of your kitten's life.This means that providing your kitten with food that it likes as well as the food that it needs is vital for normal eating routines and essential nutrition intake.That's why ROYAL CANIN\u00ae Kitten Instinctive in Gravy is formulated to match the optimal nutritional profile instinctively preferred by kittens. Feeding your kitten a palatable diet that takes taste, scent and texture into account will lead to long-term, instinctive acceptance of the nutritious food that you provide.ROYAL CANIN\u00ae Kitten Instinctive in Gravy provides all the essential nutrients needed to sustain high energy requirements and support bone strengthening as well as good overall health maintenance.During the second growth stage (4-12 months), your kitten's immune system will not be fully developed yet. ROYAL CANIN Kitten Instinctive helps strengthen the natural body defences of your kitten with a complex of antioxidants such as vitamin E, vitamin C, taurine and lutein.ROYAL CANIN\u00ae Kitten Instinctive in Gravy is specifically designed for easy chewing, and it's also suitable to feed to mother cats. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Kitten Instinctive is also available as wet food in succulent jelly or a soft and tasty loaf.",
         "key_benefits": [
-            "면역력을 강화하는데 도움을 줍니다.",
-            "젤리타입의 작은 덩어리 타입으로 이루어져 있어 씹기 쉽습니다.",
-            "어린 반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다."
+            "\uba74\uc5ed\ub825\uc744 \uac15\ud654\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc824\ub9ac\ud0c0\uc785\uc758 \uc791\uc740 \ub369\uc5b4\ub9ac \ud0c0\uc785\uc73c\ub85c \uc774\ub8e8\uc5b4\uc838 \uc788\uc5b4 \uc539\uae30 \uc27d\uc2b5\ub2c8\ub2e4.",
+            "\uc5b4\ub9b0 \ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4."
         ],
-        "descriptions": "Transitioning from mother's milk to solid food is one of the most important stages of your kitten's life.This means that providing your kitten with food that it likes as well as the food that it needs is vital for normal eating routines and essential nutrition intake.That's why ROYAL CANIN® Kitten Instinctive in Gravy is formulated to match the optimal nutritional profile instinctively preferred by kittens. Feeding your kitten a palatable diet that takes taste, scent and texture into account will lead to long-term, instinctive acceptance of the nutritious food that you provide.ROYAL CANIN® Kitten Instinctive in Gravy provides all the essential nutrients needed to sustain high energy requirements and support bone strengthening as well as good overall health maintenance.During the second growth stage (4-12 months), your kitten's immune system will not be fully developed yet. ROYAL CANIN Kitten Instinctive helps strengthen the natural body defences of your kitten with a complex of antioxidants such as vitamin E, vitamin C, taurine and lutein.ROYAL CANIN® Kitten Instinctive in Gravy is specifically designed for easy chewing, and it's also suitable to feed to mother cats. To cater to each cat's individual preferences, ROYAL CANIN® Kitten Instinctive is also available as wet food in succulent jelly or a soft and tasty loaf.",
-        "ingredients": "육류(닭, 돼지), 밀글루텐, 분말셀룰로스, 천연 착향료, 어유, 효모추출물(만난올리고당의 원료), 카라멜, 금잔화추출물(루테인의 원료), 베타카로틴, 아미노산제 합제, 카라기닌, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 12%, 지방 4%, 조섬유 0.6%, 조회분 1.7%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \ubc00\uae00\ub8e8\ud150, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ucc9c\uc5f0 \ucc29\ud5a5\ub8cc, \uc5b4\uc720, \ud6a8\ubaa8\ucd94\ucd9c\ubb3c(\ub9cc\ub09c\uc62c\ub9ac\uace0\ub2f9\uc758 \uc6d0\ub8cc), \uce74\ub77c\uba5c, \uae08\uc794\ud654\ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ubca0\ud0c0\uce74\ub85c\ud2f4, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uce74\ub77c\uae30\ub2cc, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 12%, \uc9c0\ubc29 4%, \uc870\uc12c\uc720 0.6%, \uc870\ud68c\ubd84 1.7%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/kitten-sterilised-2018",
-        "title": "Kitten Sterilised 2018 - 로얄캐닌",
+        "brand": null,
+        "title": "Kitten Sterilised 2018 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "As your kitten begins to grow and explore its surroundings with a new-found sense of curiosity, this period of new discoveries at 6 to 12 months old means that your kitten's immune system will need extra support - particularly if it has been sterilised. ROYAL CANIN\u00ae Kitten Sterilised is designed with your kitten's needs in mind at this crucial time in its development. With nutrients included to help support your kitten's natural defences after being spayed or neutered, you can help maintain its health throughout its second age life stage. ROYAL CANIN\u00ae Kitten Sterilised food contains a special combination of proteins, vitamins, minerals, and a patented complex of antioxidants - all designed to keep your kitten healthy as it grows into a strong adult cat. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Kitten Sterilised is also available as wet food in either a delicious gravy or succulent jelly. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "성장기는 어린 반려묘의 급격한 성장과 면역체계 형성 등 평생의 건강에 있어 매우 중요한 시기입니다. 로얄캐닌 키튼 스테럴라이즈드는 비타민 E를 포함한 독자적인 항산화 물질의 복합체를 함유해 어린 반려묘의 면역 기능에 도움을 줍니다.",
-            "중성화 후 어린 반려묘의 영양 요구량이 바뀌며 과체중 위험이 증가합니다. 제한된 수준의 지방으로 체중 증가를 막고 건강한 성장에 필요한 단백질, 칼슘 그리고 인성분의 흡수를 잃지 않으면서 조화로운 성장을 도와줍니다.",
-            "소화기계의 건강과 장내 미생물의 균형 유지를 돕기 위해 양질의 단백질(L.I.P.*)과 프리바이오틱스(FOS)를 함유하고 있습니다."
+            "\uc131\uc7a5\uae30\ub294 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc758 \uae09\uaca9\ud55c \uc131\uc7a5\uacfc \uba74\uc5ed\uccb4\uacc4 \ud615\uc131 \ub4f1 \ud3c9\uc0dd\uc758 \uac74\uac15\uc5d0 \uc788\uc5b4 \ub9e4\uc6b0 \uc911\uc694\ud55c \uc2dc\uae30\uc785\ub2c8\ub2e4. \ub85c\uc584\uce90\ub2cc \ud0a4\ud2bc \uc2a4\ud14c\ub7f4\ub77c\uc774\uc988\ub4dc\ub294 \ube44\ud0c0\ubbfc E\ub97c \ud3ec\ud568\ud55c \ub3c5\uc790\uc801\uc778 \ud56d\uc0b0\ud654 \ubb3c\uc9c8\uc758 \ubcf5\ud569\uccb4\ub97c \ud568\uc720\ud574 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc758 \uba74\uc5ed \uae30\ub2a5\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc911\uc131\ud654 \ud6c4 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc758 \uc601\uc591 \uc694\uad6c\ub7c9\uc774 \ubc14\ub00c\uba70 \uacfc\uccb4\uc911 \uc704\ud5d8\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4. \uc81c\ud55c\ub41c \uc218\uc900\uc758 \uc9c0\ubc29\uc73c\ub85c \uccb4\uc911 \uc99d\uac00\ub97c \ub9c9\uace0 \uac74\uac15\ud55c \uc131\uc7a5\uc5d0 \ud544\uc694\ud55c \ub2e8\ubc31\uc9c8, \uce7c\uc298 \uadf8\ub9ac\uace0 \uc778\uc131\ubd84\uc758 \ud761\uc218\ub97c \uc783\uc9c0 \uc54a\uc73c\uba74\uc11c \uc870\ud654\ub85c\uc6b4 \uc131\uc7a5\uc744 \ub3c4\uc640\uc90d\ub2c8\ub2e4.",
+            "\uc18c\ud654\uae30\uacc4\uc758 \uac74\uac15\uacfc \uc7a5\ub0b4 \ubbf8\uc0dd\ubb3c\uc758 \uade0\ud615 \uc720\uc9c0\ub97c \ub3d5\uae30 \uc704\ud574 \uc591\uc9c8\uc758 \ub2e8\ubc31\uc9c8(L.I.P.*)\uacfc \ud504\ub9ac\ubc14\uc774\uc624\ud2f1\uc2a4(FOS)\ub97c \ud568\uc720\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4."
         ],
-        "descriptions": "As your kitten begins to grow and explore its surroundings with a new-found sense of curiosity, this period of new discoveries at 6 to 12 months old means that your kitten's immune system will need extra support - particularly if it has been sterilised. ROYAL CANIN® Kitten Sterilised is designed with your kitten's needs in mind at this crucial time in its development. With nutrients included to help support your kitten's natural defences after being spayed or neutered, you can help maintain its health throughout its second age life stage. ROYAL CANIN® Kitten Sterilised food contains a special combination of proteins, vitamins, minerals, and a patented complex of antioxidants - all designed to keep your kitten healthy as it grows into a strong adult cat. To cater to each cat's individual preferences, ROYAL CANIN® Kitten Sterilised is also available as wet food in either a delicious gravy or succulent jelly. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육분 (닭, 오리, 칠면조), 분말셀룰로스, 밀글루텐, 소맥분, 동물성 유도단백질 (가금류, 어류), 동물성지방 (가금류, 돼지), 옥수수 분말, 쌀, 옥수수, 옥수수 글루텐, 사탕무박, 대두유, 효모, 어유, 프락토올리고당, 차전자피, 가수분해효모, 효모 추출물 (베타글루칸의 원료), 금잔화 추출물(루테인의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 34%, 지방 12%, 조섬유 9.8%, 조회분 7.2%, NFE 31.5%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ubc00\uae00\ub8e8\ud150, \uc18c\ub9e5\ubd84, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\uac00\uae08\ub958, \uc5b4\ub958), \ub3d9\ubb3c\uc131\uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \uc625\uc218\uc218 \ubd84\ub9d0, \uc300, \uc625\uc218\uc218, \uc625\uc218\uc218 \uae00\ub8e8\ud150, \uc0ac\ud0d5\ubb34\ubc15, \ub300\ub450\uc720, \ud6a8\ubaa8, \uc5b4\uc720, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ucc28\uc804\uc790\ud53c, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \ud6a8\ubaa8 \ucd94\ucd9c\ubb3c (\ubca0\ud0c0\uae00\ub8e8\uce78\uc758 \uc6d0\ub8cc), \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 34%, \uc9c0\ubc29 12%, \uc870\uc12c\uc720 9.8%, \uc870\ud68c\ubd84 7.2%, NFE 31.5%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/mother-and-babycat",
-        "title": "Mother and Babycat - 로얄캐닌",
+        "brand": null,
+        "title": "Mother and Babycat - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc784\uc2e0 \ub9d0\uae30\ubd80\ud130 \uc218\uc720\uae30/\uc0dd\ud6c4 4\uac1c\uc6d4\uae4c\uc9c0 \ubc18\ub824\ubb18\uc758 \uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc784\uc2e0 \ubc0f \uc131\uc7a5\uae30 \uc601\uc591\ub9de\ucda4 \uc2b5\uc2dd\uc0ac\ub8cc (\uce94\ud0c0\uc785)",
         "key_benefits": [
-            "로얄캐닌 마더 앤 베이비캣의 영양과 질감은 어린 반려묘가 모유에서 사료로 전환하는데 있어 최적의 시작 입니다.",
-            "어린 반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다.",
-            "면역력을 강화하는데 도움을 줍니다."
+            "\ub85c\uc584\uce90\ub2cc \ub9c8\ub354 \uc564 \ubca0\uc774\ube44\ucea3\uc758 \uc601\uc591\uacfc \uc9c8\uac10\uc740 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uac00 \ubaa8\uc720\uc5d0\uc11c \uc0ac\ub8cc\ub85c \uc804\ud658\ud558\ub294\ub370 \uc788\uc5b4 \ucd5c\uc801\uc758 \uc2dc\uc791 \uc785\ub2c8\ub2e4.",
+            "\uc5b4\ub9b0 \ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+            "\uba74\uc5ed\ub825\uc744 \uac15\ud654\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "임신 말기부터 수유기/생후 4개월까지 반려묘의 건강에 도움을 주는 임신 및 성장기 영양맞춤 습식사료 (캔타입)",
-        "ingredients": "육류(닭, 돼지), 밀글루텐, 유도단백질(돼지), 쌀분말, 옥수수전분, 분말셀룰로스, 해바라기유, 어유, 천연 착향료, 가수분해효모(만난 올리고당의 주원료), 카라멜, 금잔화 추출물(루테인의 주원료), 베타카로틴, 카세인칼슘, 아미노산제 합제, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 10.5%, 지방 5.5%, 조섬유 0.9%, 조회분 1.9%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \ubc00\uae00\ub8e8\ud150, \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub3fc\uc9c0), \uc300\ubd84\ub9d0, \uc625\uc218\uc218\uc804\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ud574\ubc14\ub77c\uae30\uc720, \uc5b4\uc720, \ucc9c\uc5f0 \ucc29\ud5a5\ub8cc, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8(\ub9cc\ub09c \uc62c\ub9ac\uace0\ub2f9\uc758 \uc8fc\uc6d0\ub8cc), \uce74\ub77c\uba5c, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc8fc\uc6d0\ub8cc), \ubca0\ud0c0\uce74\ub85c\ud2f4, \uce74\uc138\uc778\uce7c\uc298, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 10.5%, \uc9c0\ubc29 5.5%, \uc870\uc12c\uc720 0.9%, \uc870\ud68c\ubd84 1.9%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/mother-and-babycat-2018",
-        "title": "Mother and Babycat 2018 - 로얄캐닌",
+        "brand": null,
+        "title": "Mother and Babycat 2018 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc784\uc2e0 \ub9d0\uae30\ubd80\ud130 \uc218\uc720\uae30/\uc0dd\ud6c4 4\uac1c\uc6d4\uae4c\uc9c0 \ubc18\ub824\ubb18\uc758 \uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc784\uc2e0 \ubc0f \uc131\uc7a5\uae30 \uc601\uc591\ub9de\ucda4 \uc0ac\ub8cc",
         "key_benefits": [
-            "로얄캐닌 마더 앤 베이비캣은 비타민E를 포함한 독자적인 항산화제 복합체를 함유하여 어린 반려묘의 면역기능에 도움을 줍니다.",
-            "로얄캐닌 마더 앤 베이비캣의 키블(알갱이)은 어미와 어린 반려묘에게 수분을 공급하기 용이하도록 죽과 같은 형태로 쉽게 불려집니다. 물에 불려진 죽 형태는 기호성 증진에 도움을 줍니다.",
-            "소화기계의 건강과 장내 미생물의 균형 유지를 돕기 위해 양질의 단백질(L.I.P.*)과 프리바이오틱스(FOS)를 함유하고 있습니다."
+            "\ub85c\uc584\uce90\ub2cc \ub9c8\ub354 \uc564 \ubca0\uc774\ube44\ucea3\uc740 \ube44\ud0c0\ubbfcE\ub97c \ud3ec\ud568\ud55c \ub3c5\uc790\uc801\uc778 \ud56d\uc0b0\ud654\uc81c \ubcf5\ud569\uccb4\ub97c \ud568\uc720\ud558\uc5ec \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc758 \uba74\uc5ed\uae30\ub2a5\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub85c\uc584\uce90\ub2cc \ub9c8\ub354 \uc564 \ubca0\uc774\ube44\ucea3\uc758 \ud0a4\ube14(\uc54c\uac31\uc774)\uc740 \uc5b4\ubbf8\uc640 \uc5b4\ub9b0 \ubc18\ub824\ubb18\uc5d0\uac8c \uc218\ubd84\uc744 \uacf5\uae09\ud558\uae30 \uc6a9\uc774\ud558\ub3c4\ub85d \uc8fd\uacfc \uac19\uc740 \ud615\ud0dc\ub85c \uc27d\uac8c \ubd88\ub824\uc9d1\ub2c8\ub2e4. \ubb3c\uc5d0 \ubd88\ub824\uc9c4 \uc8fd \ud615\ud0dc\ub294 \uae30\ud638\uc131 \uc99d\uc9c4\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc18c\ud654\uae30\uacc4\uc758 \uac74\uac15\uacfc \uc7a5\ub0b4 \ubbf8\uc0dd\ubb3c\uc758 \uade0\ud615 \uc720\uc9c0\ub97c \ub3d5\uae30 \uc704\ud574 \uc591\uc9c8\uc758 \ub2e8\ubc31\uc9c8(L.I.P.*)\uacfc \ud504\ub9ac\ubc14\uc774\uc624\ud2f1\uc2a4(FOS)\ub97c \ud568\uc720\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4."
         ],
-        "descriptions": "임신 말기부터 수유기/생후 4개월까지 반려묘의 건강에 도움을 주는 임신 및 성장기 영양맞춤 사료",
-        "ingredients": "육분 (닭, 오리, 칠면조), 동물성 지방 (가금류, 돼지), 옥수수 분말, 쌀, 동물성 유도단백질 (닭, 칠면조 및 어류 단백질), 밀글루텐, 효모, 어유, 사탕무박, 분말셀룰로스, 대두유, 혼합광물질류 합제, 프락토올리고당, 가수분해효모, 효모 추출물(베타글루칸의 원료), 금잔화 추출물(루테인의 원료). 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 34%, 지방 25%, 조섬유 1.9%, 조회분 7.4%, NFE 26.2%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \uc625\uc218\uc218 \ubd84\ub9d0, \uc300, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870 \ubc0f \uc5b4\ub958 \ub2e8\ubc31\uc9c8), \ubc00\uae00\ub8e8\ud150, \ud6a8\ubaa8, \uc5b4\uc720, \uc0ac\ud0d5\ubb34\ubc15, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ub300\ub450\uc720, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \ud6a8\ubaa8 \ucd94\ucd9c\ubb3c(\ubca0\ud0c0\uae00\ub8e8\uce78\uc758 \uc6d0\ub8cc), \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc). \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 34%, \uc9c0\ubc29 25%, \uc870\uc12c\uc720 1.9%, \uc870\ud68c\ubd84 7.4%, NFE 26.2%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/norwegian-forest-cat",
-        "title": "Norwegian Forest Cat - 로얄캐닌",
+        "brand": null,
+        "title": "Norwegian Forest Cat - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "ROYAL CANIN\u00ae Norwegian Forest Cat Adult food is formulated with the specific needs of the Norwegian Forest breed in mind. Its tailor-made, three-tier kibble is adapted to the Norwegian Forest Cat's strong jaw and encourages prolonged chewing in order to reduce the speed at which it eats.A specific blend of fibres helps to naturally stimulate your cat's intestinal transit and helps to reduce and control the formation of hairballs.The Norwegian Forest Cat has a thick coat consisting of a water-repellent upper coat and a woolly, thick undercoat for insulation. The exclusive complex of nutrients in ROYAL CANIN\u00ae Norwegian Forest Cat Adult food helps to support the skin's barrier role to effectively maintain an ideal skin health and good coat condition.Containing an adapted formula that helps to maintain an ideal bodyweight, ROYAL CANIN\u00ae Norwegian Forest Cat Adult food also helps support healthy bones and joints. It's enriched with L-Carnitine, an important nutrient that's involved in maintaining a healthy fat metabolism.",
         "key_benefits": [
-            "오메가 3와 오메가 6 지방산은 피부 장벽을 강화하고 건강한 피모 & 피부 건강에 도움을 줍니다.",
-            "섬유소의 조합이 장운동을 촉진하여 헤어볼 배출에 도움을 줍니다.",
-            "풍부한 L-카르니틴이 함유된 포뮬라는 이상적인 체중 유지와 건강한 뼈 & 관절에 도움을 줍니다."
+            "\uc624\uba54\uac00 3\uc640 \uc624\uba54\uac00 6 \uc9c0\ubc29\uc0b0\uc740 \ud53c\ubd80 \uc7a5\ubcbd\uc744 \uac15\ud654\ud558\uace0 \uac74\uac15\ud55c \ud53c\ubaa8 & \ud53c\ubd80 \uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc12c\uc720\uc18c\uc758 \uc870\ud569\uc774 \uc7a5\uc6b4\ub3d9\uc744 \ucd09\uc9c4\ud558\uc5ec \ud5e4\uc5b4\ubcfc \ubc30\ucd9c\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ud48d\ubd80\ud55c L-\uce74\ub974\ub2c8\ud2f4\uc774 \ud568\uc720\ub41c \ud3ec\ubbac\ub77c\ub294 \uc774\uc0c1\uc801\uc778 \uccb4\uc911 \uc720\uc9c0\uc640 \uac74\uac15\ud55c \ubf08 & \uad00\uc808\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "ROYAL CANIN® Norwegian Forest Cat Adult food is formulated with the specific needs of the Norwegian Forest breed in mind. Its tailor-made, three-tier kibble is adapted to the Norwegian Forest Cat's strong jaw and encourages prolonged chewing in order to reduce the speed at which it eats.A specific blend of fibres helps to naturally stimulate your cat's intestinal transit and helps to reduce and control the formation of hairballs.The Norwegian Forest Cat has a thick coat consisting of a water-repellent upper coat and a woolly, thick undercoat for insulation. The exclusive complex of nutrients in ROYAL CANIN® Norwegian Forest Cat Adult food helps to support the skin's barrier role to effectively maintain an ideal skin health and good coat condition.Containing an adapted formula that helps to maintain an ideal bodyweight, ROYAL CANIN® Norwegian Forest Cat Adult food also helps support healthy bones and joints. It's enriched with L-Carnitine, an important nutrient that's involved in maintaining a healthy fat metabolism.",
-        "ingredients": "육분 (닭, 오리, 칠면조), 옥수수, 쌀, 밀글루텐, 동물성 지방 (가금류, 돼지), 밀, 분말셀룰로스, 소맥분, 동물성 유도단백질 (닭, 칠면조), 옥수수 글루텐, 치커리 펄프, 어유, 혼합광물질류 합제 복합물, 대두유, 차전자피, 효모, 프락토올리고당, 가수분해효모, 보리지유, 글루코사민, 금잔화 추출물 (루테인의 원료), 뮤코다당단백(콘드로이틴의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 셀레늄, 제올라이트, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 30%, 지방 16%, 조섬유 5.6%, 조회분 7.4%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \uc625\uc218\uc218, \uc300, \ubc00\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \ubc00, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc18c\ub9e5\ubd84, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \uce58\ucee4\ub9ac \ud384\ud504, \uc5b4\uc720, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c \ubcf5\ud569\ubb3c, \ub300\ub450\uc720, \ucc28\uc804\uc790\ud53c, \ud6a8\ubaa8, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \ubcf4\ub9ac\uc9c0\uc720, \uae00\ub8e8\ucf54\uc0ac\ubbfc, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c (\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ubba4\ucf54\ub2e4\ub2f9\ub2e8\ubc31(\ucf58\ub4dc\ub85c\uc774\ud2f4\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc140\ub808\ub284, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 30%, \uc9c0\ubc29 16%, \uc870\uc12c\uc720 5.6%, \uc870\ud68c\ubd84 7.4%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/oral-care",
-        "title": "ORAL CARE - 로얄캐닌",
+        "brand": null,
+        "title": "ORAL CARE - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "ROYAL CANIN\u00ae Oral Care is a precisely-balanced nutritional formula that helps maintain your cat's oral health by reducing the formation of dental plaque. It also contains a high protein content to support and strengthen your cat's muscles, bones, and teeth.When looking for a diet that benefits your cat's teeth and oral vicinity, it's important to be aware that ROYAL CANIN\u00ae Oral Care performs two actions: Mechanical and Chemical.ROYAL CANIN\u00ae Oral Care is specifically designed for targeted action, the Oral Care kibble size, texture and shape encourages cats to chew thoroughly. This mechanical action produces a daily tooth brushing effect that helps reduce the formation of dental plaque on teeth.This formula is also enriched with an \u2018active dental agent' (calcium chelators) which performs a chemical action by trapping the salivary calcium to help limit dental plaque mineralisation.ROYAL CANIN\u00ae Oral Care has been clinically proven to show results after just 28 days of continued use, reducing up to 59% of tartar formation.",
         "key_benefits": [
-            "급여 후 28일 이내 59% 이상 치석 형성 감소에 도움 (로얄캐닌 내부 연구 결과)",
-            "침 속에 있는 칼슘이 치아에 흡착하는 것을 막아 치석 형성 방지에 도움을 줍니다.",
-            "사료 모양과 질감이 사료를 삼키지 않고 천천히 치아로 씹어 먹게 되어 치석관리에 도움을 주며 칫솔질 효과를 가져다 줍니다."
+            "\uae09\uc5ec \ud6c4 28\uc77c \uc774\ub0b4 59% \uc774\uc0c1 \uce58\uc11d \ud615\uc131 \uac10\uc18c\uc5d0 \ub3c4\uc6c0 (\ub85c\uc584\uce90\ub2cc \ub0b4\ubd80 \uc5f0\uad6c \uacb0\uacfc)",
+            "\uce68 \uc18d\uc5d0 \uc788\ub294 \uce7c\uc298\uc774 \uce58\uc544\uc5d0 \ud761\ucc29\ud558\ub294 \uac83\uc744 \ub9c9\uc544 \uce58\uc11d \ud615\uc131 \ubc29\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc0ac\ub8cc \ubaa8\uc591\uacfc \uc9c8\uac10\uc774 \uc0ac\ub8cc\ub97c \uc0bc\ud0a4\uc9c0 \uc54a\uace0 \ucc9c\ucc9c\ud788 \uce58\uc544\ub85c \uc539\uc5b4 \uba39\uac8c \ub418\uc5b4 \uce58\uc11d\uad00\ub9ac\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\uba70 \uce6b\uc194\uc9c8 \ud6a8\uacfc\ub97c \uac00\uc838\ub2e4 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "ROYAL CANIN® Oral Care is a precisely-balanced nutritional formula that helps maintain your cat's oral health by reducing the formation of dental plaque. It also contains a high protein content to support and strengthen your cat's muscles, bones, and teeth.When looking for a diet that benefits your cat's teeth and oral vicinity, it's important to be aware that ROYAL CANIN® Oral Care performs two actions: Mechanical and Chemical.ROYAL CANIN® Oral Care is specifically designed for targeted action, the Oral Care kibble size, texture and shape encourages cats to chew thoroughly. This mechanical action produces a daily tooth brushing effect that helps reduce the formation of dental plaque on teeth.This formula is also enriched with an ‘active dental agent' (calcium chelators) which performs a chemical action by trapping the salivary calcium to help limit dental plaque mineralisation.ROYAL CANIN® Oral Care has been clinically proven to show results after just 28 days of continued use, reducing up to 59% of tartar formation.",
-        "ingredients": "육분(닭, 칠면조, 오리), 옥수수, 분말셀룰로스, 밀글루텐, 옥수수글루텐, 동물성 유도단백질(닭, 칠면조), 쌀, 밀, 동물성 지방(닭, 칠면조, 오리), 혼합광물질류 합제, 사탕무박, 효모, 어유, 차전자피, 대두유, 비타민A, 비타민D3, 철, 요오드, 구리, 망간, 아연, 셀레늄, L-카르니틴, 항산화제"
+        "ingredients": "\uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc625\uc218\uc218, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ubc00\uae00\ub8e8\ud150, \uc625\uc218\uc218\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \uc300, \ubc00, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc0ac\ud0d5\ubb34\ubc15, \ud6a8\ubaa8, \uc5b4\uc720, \ucc28\uc804\uc790\ud53c, \ub300\ub450\uc720, \ube44\ud0c0\ubbfcA, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc140\ub808\ub284, L-\uce74\ub974\ub2c8\ud2f4, \ud56d\uc0b0\ud654\uc81c",
+        "analysis": null,
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/persian",
-        "title": "Persian - 로얄캐닌",
+        "brand": null,
+        "title": "Persian - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "The Persian cat has the longest and densest coat of all cat breeds. This means that it typically needs to consume more skin-health focused nutrients than other cat breeds. That\u2019s why ROYAL CANIN\u00ae Persian Adult contains an exclusive complex of nutrients to help the skin\u2019s barrier defence role to maintain good skin and coat health. Due to their long fur, Persian cats are prone to the formation of hairballs, which can cause discomfort. However, thanks to ROYAL CANIN\u00ae Persian Adult, loose ingested hair is eliminated, hairball formation is controlled and intestinal transit is naturally stimulated through a specific blend of fibres (including psyllium rich in mucilage). Digestive performance is also maintained through low indigestible proteins (L.I.P), prebiotics and omega 3 & 6 fatty acids. Not only this, but ROYAL CANIN\u00ae Persian Adult\u2019s tailor-made kibble is almond shaped with an optimal contact surface area \u2013 making it easy for Persian cats to pick up and chew. To cater to each cat\u2019s individual preferences, ROYAL CANIN\u00ae Persian Adult is also available as wet food in a soft and tasty loaf. If you\u2019re considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "빽빽하게 내려오는 길고, 풍성한 피모는 페르시안의 특징입니다. 피부를 건강하게하고 피모를 윤기있게 하는 여러 영양소가 피부 장벽 강화에 도움을 주고, 풍부한 EPA & DHA구성이 피부와 피모를 건강하게 유지하는데 도움을 줍니다.",
-            "섬유질의 특정 혼합물(점액이 풍부한 차전자피 포함)은 자연적으로 장의 이동을 자극하고, 섭취된 모발을 배출하고 헤어볼 형성을 조절하는데 도움을 줍니다.",
-            "소화 흡수율이 좋은 엄선된 단백질(L.I.P.*), 차전자피와 프리바이오틱스의 조합이 장내 정상 미생물 총의 균형을 맞춰주고 소화건강에 도움을 줍니다. *엄선된 단백질은 소화 증대를 돕습니다."
+            "\ube7d\ube7d\ud558\uac8c \ub0b4\ub824\uc624\ub294 \uae38\uace0, \ud48d\uc131\ud55c \ud53c\ubaa8\ub294 \ud398\ub974\uc2dc\uc548\uc758 \ud2b9\uc9d5\uc785\ub2c8\ub2e4. \ud53c\ubd80\ub97c \uac74\uac15\ud558\uac8c\ud558\uace0 \ud53c\ubaa8\ub97c \uc724\uae30\uc788\uac8c \ud558\ub294 \uc5ec\ub7ec \uc601\uc591\uc18c\uac00 \ud53c\ubd80 \uc7a5\ubcbd \uac15\ud654\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\uace0, \ud48d\ubd80\ud55c EPA & DHA\uad6c\uc131\uc774 \ud53c\ubd80\uc640 \ud53c\ubaa8\ub97c \uac74\uac15\ud558\uac8c \uc720\uc9c0\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc12c\uc720\uc9c8\uc758 \ud2b9\uc815 \ud63c\ud569\ubb3c(\uc810\uc561\uc774 \ud48d\ubd80\ud55c \ucc28\uc804\uc790\ud53c \ud3ec\ud568)\uc740 \uc790\uc5f0\uc801\uc73c\ub85c \uc7a5\uc758 \uc774\ub3d9\uc744 \uc790\uadf9\ud558\uace0, \uc12d\ucde8\ub41c \ubaa8\ubc1c\uc744 \ubc30\ucd9c\ud558\uace0 \ud5e4\uc5b4\ubcfc \ud615\uc131\uc744 \uc870\uc808\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc18c\ud654 \ud761\uc218\uc728\uc774 \uc88b\uc740 \uc5c4\uc120\ub41c \ub2e8\ubc31\uc9c8(L.I.P.*), \ucc28\uc804\uc790\ud53c\uc640 \ud504\ub9ac\ubc14\uc774\uc624\ud2f1\uc2a4\uc758 \uc870\ud569\uc774 \uc7a5\ub0b4 \uc815\uc0c1 \ubbf8\uc0dd\ubb3c \ucd1d\uc758 \uade0\ud615\uc744 \ub9de\ucdb0\uc8fc\uace0 \uc18c\ud654\uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. *\uc5c4\uc120\ub41c \ub2e8\ubc31\uc9c8\uc740 \uc18c\ud654 \uc99d\ub300\ub97c \ub3d5\uc2b5\ub2c8\ub2e4."
         ],
-        "descriptions": "The Persian cat has the longest and densest coat of all cat breeds. This means that it typically needs to consume more skin-health focused nutrients than other cat breeds. That’s why ROYAL CANIN® Persian Adult contains an exclusive complex of nutrients to help the skin’s barrier defence role to maintain good skin and coat health. Due to their long fur, Persian cats are prone to the formation of hairballs, which can cause discomfort. However, thanks to ROYAL CANIN® Persian Adult, loose ingested hair is eliminated, hairball formation is controlled and intestinal transit is naturally stimulated through a specific blend of fibres (including psyllium rich in mucilage). Digestive performance is also maintained through low indigestible proteins (L.I.P), prebiotics and omega 3 & 6 fatty acids. Not only this, but ROYAL CANIN® Persian Adult’s tailor-made kibble is almond shaped with an optimal contact surface area – making it easy for Persian cats to pick up and chew. To cater to each cat’s individual preferences, ROYAL CANIN® Persian Adult is also available as wet food in a soft and tasty loaf. If you’re considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육분 (닭, 오리, 칠면조), 동물성 지방 (가금류, 돼지), 쌀, 밀글루텐, 옥수수, 분말셀룰로스, 옥수수 분말, 동물성 유도단백질 (닭, 칠면조), 옥수수 글루텐, 혼합광물질류 합제, 치커리 추출물, 어유, 차전자피, 대두유, 프락토올리고당,가수분해효모, 보리지유, 금잔화 추출물(루테인의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 33%, 지방 22%, 조섬유 4.7%, 조회분 7.4%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958, \ub3fc\uc9c0), \uc300, \ubc00\uae00\ub8e8\ud150, \uc625\uc218\uc218, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc625\uc218\uc218 \ubd84\ub9d0, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uce58\ucee4\ub9ac \ucd94\ucd9c\ubb3c, \uc5b4\uc720, \ucc28\uc804\uc790\ud53c, \ub300\ub450\uc720, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9,\uac00\uc218\ubd84\ud574\ud6a8\ubaa8, \ubcf4\ub9ac\uc9c0\uc720, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 33%, \uc9c0\ubc29 22%, \uc870\uc12c\uc720 4.7%, \uc870\ud68c\ubd84 7.4%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/persian-kitten",
-        "title": "Persian Kitten - 로얄캐닌",
+        "brand": null,
+        "title": "Persian Kitten - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Persian kittens have typical breed characteristics that need to be taken into account when you choose its food. Your Persian kitten's wellbeing and growth deserves special attention, especially while its immune system is still developing.ROYAL CANIN\u00ae Persian Kitten is formulated with the specific needs of your Persian kitten in mind. By giving them food with the very best nutritional support, you're giving them the healthiest start in life.It's been noted by breeders that your Persian kitten's digestive system will develop gradually and remain immature for a while. That's why ROYAL CANIN\u00ae Persian Kitten is formulated with highly digestible protein that's of the highest quality. It also contains an adapted fibre content (including psyllium) and prebiotics to help support a good balance in the intestinal flora.The type of kibble in ROYAL CANIN\u00ae Persian Kitten is designed with your Persian kitten's jaw and head shape in mind; its small, rectangular shape and soft texture makes it easy for it to successfully pick it up and chew. What's more, this specially formulated food includes a patented complex of antioxidants, including vitamin E, that help to support your kitten's natural defences.",
         "key_benefits": [
-            "적합한 단백질 함량과 정확하게 균형 잡힌 비타민과 미네랄(칼슘과 인)의 조합은 건강한 피부와 모질에 도움을 줍니다.",
-            "소화 흡수율이 좋은 엄선된 단백질(L.I.P.*), 차전자피와 프리바이오틱스의 조합이 장내 정상 미생물 총의 균형을 맞춰주고 소화건강에 도움을 줍니다. *엄선된 단백질은 소화 증대를 돕습니다.",
-            "비타민 E를 포함하는 독자적인 항산화 복합물이 면역 기능 증진에 도움을 줍니다."
+            "\uc801\ud569\ud55c \ub2e8\ubc31\uc9c8 \ud568\ub7c9\uacfc \uc815\ud655\ud558\uac8c \uade0\ud615 \uc7a1\ud78c \ube44\ud0c0\ubbfc\uacfc \ubbf8\ub124\ub784(\uce7c\uc298\uacfc \uc778)\uc758 \uc870\ud569\uc740 \uac74\uac15\ud55c \ud53c\ubd80\uc640 \ubaa8\uc9c8\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc18c\ud654 \ud761\uc218\uc728\uc774 \uc88b\uc740 \uc5c4\uc120\ub41c \ub2e8\ubc31\uc9c8(L.I.P.*), \ucc28\uc804\uc790\ud53c\uc640 \ud504\ub9ac\ubc14\uc774\uc624\ud2f1\uc2a4\uc758 \uc870\ud569\uc774 \uc7a5\ub0b4 \uc815\uc0c1 \ubbf8\uc0dd\ubb3c \ucd1d\uc758 \uade0\ud615\uc744 \ub9de\ucdb0\uc8fc\uace0 \uc18c\ud654\uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. *\uc5c4\uc120\ub41c \ub2e8\ubc31\uc9c8\uc740 \uc18c\ud654 \uc99d\ub300\ub97c \ub3d5\uc2b5\ub2c8\ub2e4.",
+            "\ube44\ud0c0\ubbfc E\ub97c \ud3ec\ud568\ud558\ub294 \ub3c5\uc790\uc801\uc778 \ud56d\uc0b0\ud654 \ubcf5\ud569\ubb3c\uc774 \uba74\uc5ed \uae30\ub2a5 \uc99d\uc9c4\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "Persian kittens have typical breed characteristics that need to be taken into account when you choose its food. Your Persian kitten's wellbeing and growth deserves special attention, especially while its immune system is still developing.ROYAL CANIN® Persian Kitten is formulated with the specific needs of your Persian kitten in mind. By giving them food with the very best nutritional support, you're giving them the healthiest start in life.It's been noted by breeders that your Persian kitten's digestive system will develop gradually and remain immature for a while. That's why ROYAL CANIN® Persian Kitten is formulated with highly digestible protein that's of the highest quality. It also contains an adapted fibre content (including psyllium) and prebiotics to help support a good balance in the intestinal flora.The type of kibble in ROYAL CANIN® Persian Kitten is designed with your Persian kitten's jaw and head shape in mind; its small, rectangular shape and soft texture makes it easy for it to successfully pick it up and chew. What's more, this specially formulated food includes a patented complex of antioxidants, including vitamin E, that help to support your kitten's natural defences.",
-        "ingredients": "육분(닭, 칠면조, 오리), 쌀, 동물성지방(가금류, 돼지), 옥수수, 밀글루텐, 동물성 유도단백질(닭, 칠면조, 어류), 분말셀룰로스, 사탕무박, 효모, 어유, 대두유, 혼합광물질류 합제, 차전자피, 프락토올리고당, 가수분해효모(만난 올리고당의 원료), 효모추출물(베타글루칸의 원료), 금잔화추출물(루테인의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 셀레늄, 제올라이트, 소르빈산칼륨, 항산화제",
-        "analysis": "단백질 32%, 지방 22%, 조섬유 2.7%, 조회분 7.9%, NFE 29.9%"
+        "ingredients": "\uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc300, \ub3d9\ubb3c\uc131\uc9c0\ubc29(\uac00\uae08\ub958, \ub3fc\uc9c0), \uc625\uc218\uc218, \ubc00\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870, \uc5b4\ub958), \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc0ac\ud0d5\ubb34\ubc15, \ud6a8\ubaa8, \uc5b4\uc720, \ub300\ub450\uc720, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ucc28\uc804\uc790\ud53c, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \uac00\uc218\ubd84\ud574\ud6a8\ubaa8(\ub9cc\ub09c \uc62c\ub9ac\uace0\ub2f9\uc758 \uc6d0\ub8cc), \ud6a8\ubaa8\ucd94\ucd9c\ubb3c(\ubca0\ud0c0\uae00\ub8e8\uce78\uc758 \uc6d0\ub8cc), \uae08\uc794\ud654\ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc140\ub808\ub284, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c",
+        "analysis": "\ub2e8\ubc31\uc9c8 32%, \uc9c0\ubc29 22%, \uc870\uc12c\uc720 2.7%, \uc870\ud68c\ubd84 7.9%, NFE 29.9%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/protein-exigent",
-        "title": "Protein Exigent - 로얄캐닌",
+        "brand": null,
+        "title": "Protein Exigent - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\ub2e8\ubc31\uc9c8, \ud0c4\uc218\ud654\ubb3c, \uc9c0\ubc29\uc758 \uc644\ubcbd\ud55c \ube44\uc728\ub85c \uc785\ub9db\uc774 \uae4c\ub2e4\ub85c\uc6b4 \uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \uae30\ud638\uc131 \ub9cc\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\ub9de\ucda4\uc0ac\ub8cc",
         "key_benefits": [
-            "각 반려묘들은 개별적 선호도에 따라서 음식을 먹은 후의 느낌을 해석합니다. 특정한 단백질, 탄수화물, 지방의 완벽한 비율로 배합된 프로틴 엑시전트는 입맛이 까다로운 반려묘의 기호성 충족에 도움을 줍니다.",
-            "적절한 에너지는 까다로운 반려묘의 이상적인 체중 유지에 도움을 줍니다.",
-            "다양한 맛, 향 그리고 단백질 등 각 반려묘는 선호하는 기준이 다릅니다. 로얄캐닌 아로마 엑시전트는 세가지 다른 포뮬라로 까다로운 반려묘 기호성 충족에 도움을 줍니다."
+            "\uac01 \ubc18\ub824\ubb18\ub4e4\uc740 \uac1c\ubcc4\uc801 \uc120\ud638\ub3c4\uc5d0 \ub530\ub77c\uc11c \uc74c\uc2dd\uc744 \uba39\uc740 \ud6c4\uc758 \ub290\ub08c\uc744 \ud574\uc11d\ud569\ub2c8\ub2e4. \ud2b9\uc815\ud55c \ub2e8\ubc31\uc9c8, \ud0c4\uc218\ud654\ubb3c, \uc9c0\ubc29\uc758 \uc644\ubcbd\ud55c \ube44\uc728\ub85c \ubc30\ud569\ub41c \ud504\ub85c\ud2f4 \uc5d1\uc2dc\uc804\ud2b8\ub294 \uc785\ub9db\uc774 \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18\uc758 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc801\uc808\ud55c \uc5d0\ub108\uc9c0\ub294 \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18\uc758 \uc774\uc0c1\uc801\uc778 \uccb4\uc911 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub2e4\uc591\ud55c \ub9db, \ud5a5 \uadf8\ub9ac\uace0 \ub2e8\ubc31\uc9c8 \ub4f1 \uac01 \ubc18\ub824\ubb18\ub294 \uc120\ud638\ud558\ub294 \uae30\uc900\uc774 \ub2e4\ub985\ub2c8\ub2e4. \ub85c\uc584\uce90\ub2cc \uc544\ub85c\ub9c8 \uc5d1\uc2dc\uc804\ud2b8\ub294 \uc138\uac00\uc9c0 \ub2e4\ub978 \ud3ec\ubbac\ub77c\ub85c \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "단백질, 탄수화물, 지방의 완벽한 비율로 입맛이 까다로운 생후 12개월 이후 반려묘의 기호성 만족에 도움을 주는 영양맞춤사료",
-        "ingredients": "육분(닭, 칠면조, 오리), 옥수수, 밀글루텐, 밀, 동물성지방(닭, 칠면조, 오리), 옥수수 글루텐, 동물성 유도단백질(닭, 칠면조), 사탕무박, 분말셀룰로스, 혼합광물질류합제, 효모, 대두유, 보리지유, 비타민A, 비타민D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 41%, 지방 15%, 조섬유 3.1%, 조회분 8.7%, NFE 26.7%"
+        "ingredients": "\uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc625\uc218\uc218, \ubc00\uae00\ub8e8\ud150, \ubc00, \ub3d9\ubb3c\uc131\uc9c0\ubc29(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \uc0ac\ud0d5\ubb34\ubc15, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958\ud569\uc81c, \ud6a8\ubaa8, \ub300\ub450\uc720, \ubcf4\ub9ac\uc9c0\uc720, \ube44\ud0c0\ubbfcA, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 41%, \uc9c0\ubc29 15%, \uc870\uc12c\uc720 3.1%, \uc870\ud68c\ubd84 8.7%, NFE 26.7%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/savour-exigent",
-        "title": "Savour Exigent - 로얄캐닌",
+        "brand": null,
+        "title": "Savour Exigent - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Some cats have fussy appetites and might refuse to eat the food you give them. However, this behaviour is not an inherent trait in cats and can therefore be rectified by selecting food that not only contains healthy nutrients, but that also appeals to your cat's particular appetite.Some cats that exhibit signs of fussiness are attracted by diversity in the food bowl. To stimulate your cat's natural preference, Savour Exigent contains two synergistic types of kibbles, each with a different formula and texture to enhance dual savour sensation in even the fussiest of cats.What's more, the specifically adapted energy content in ROYAL CANIN\u00ae Savour Exigent helps to maintain the ideal bodyweight of an adult cat like yours.Suitable for both indoor and outdoor cats, ROYAL CANIN\u00ae Savour Exigent will continue to stimulate your cat's appetite and provide it with all the nutrients it needs to remain active and healthy.",
         "key_benefits": [
-            "일부 까다로운 반려묘는 사료 그릇 안에 다양한 키블(알갱이)에 매력을 느끼기도 합니다. 세이버 엑시전트는 2가지 다른 모양의 키블을 가지고 있어 각각 입안에서 느껴지는 질감과 느낌이 달라 입맛이 까다로운 반려묘의 기호성 충족에 도움을 줍니다.",
-            "적절한 에너지는 까다로운 반려묘의 이상적인 체중 유지에 도움을 줍니다.",
-            "다양한 맛, 향 그리고 단백질 등 각 반려묘는 선호하는 기준이 다릅니다. 로얄캐닌 세이버 엑시전트는 세가지 다른 포뮬라로 까다로운 반려묘 기호성 충족에 도움을 줍니다."
+            "\uc77c\ubd80 \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18\ub294 \uc0ac\ub8cc \uadf8\ub987 \uc548\uc5d0 \ub2e4\uc591\ud55c \ud0a4\ube14(\uc54c\uac31\uc774)\uc5d0 \ub9e4\ub825\uc744 \ub290\ub07c\uae30\ub3c4 \ud569\ub2c8\ub2e4. \uc138\uc774\ubc84 \uc5d1\uc2dc\uc804\ud2b8\ub294 2\uac00\uc9c0 \ub2e4\ub978 \ubaa8\uc591\uc758 \ud0a4\ube14\uc744 \uac00\uc9c0\uace0 \uc788\uc5b4 \uac01\uac01 \uc785\uc548\uc5d0\uc11c \ub290\uaef4\uc9c0\ub294 \uc9c8\uac10\uacfc \ub290\ub08c\uc774 \ub2ec\ub77c \uc785\ub9db\uc774 \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18\uc758 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc801\uc808\ud55c \uc5d0\ub108\uc9c0\ub294 \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18\uc758 \uc774\uc0c1\uc801\uc778 \uccb4\uc911 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub2e4\uc591\ud55c \ub9db, \ud5a5 \uadf8\ub9ac\uace0 \ub2e8\ubc31\uc9c8 \ub4f1 \uac01 \ubc18\ub824\ubb18\ub294 \uc120\ud638\ud558\ub294 \uae30\uc900\uc774 \ub2e4\ub985\ub2c8\ub2e4. \ub85c\uc584\uce90\ub2cc \uc138\uc774\ubc84 \uc5d1\uc2dc\uc804\ud2b8\ub294 \uc138\uac00\uc9c0 \ub2e4\ub978 \ud3ec\ubbac\ub77c\ub85c \uae4c\ub2e4\ub85c\uc6b4 \ubc18\ub824\ubb18 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "Some cats have fussy appetites and might refuse to eat the food you give them. However, this behaviour is not an inherent trait in cats and can therefore be rectified by selecting food that not only contains healthy nutrients, but that also appeals to your cat's particular appetite.Some cats that exhibit signs of fussiness are attracted by diversity in the food bowl. To stimulate your cat's natural preference, Savour Exigent contains two synergistic types of kibbles, each with a different formula and texture to enhance dual savour sensation in even the fussiest of cats.What's more, the specifically adapted energy content in ROYAL CANIN® Savour Exigent helps to maintain the ideal bodyweight of an adult cat like yours.Suitable for both indoor and outdoor cats, ROYAL CANIN® Savour Exigent will continue to stimulate your cat's appetite and provide it with all the nutrients it needs to remain active and healthy.",
-        "ingredients": "옥수수, 육분(닭, 칠면조, 오리), 쌀, 밀글루텐, 동물성 지방(가금류), 옥수수 글루텐, 동물성 유도단백질(닭, 칠면조), 분말셀룰로스, 효모, 혼합광물질류 합제, 사탕무박, 대두유, 프락토올리고당, 보리지유. 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 염화암모늄, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 33%, 지방 16%, 조섬유 3.1%, 조회분 7.2%, NFE 35.2%"
+        "ingredients": "\uc625\uc218\uc218, \uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc300, \ubc00\uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\uac00\uae08\ub958), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ud6a8\ubaa8, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc0ac\ud0d5\ubb34\ubc15, \ub300\ub450\uc720, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ubcf4\ub9ac\uc9c0\uc720. \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc5fc\ud654\uc554\ubaa8\ub284, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 33%, \uc9c0\ubc29 16%, \uc870\uc12c\uc720 3.1%, \uc870\ud68c\ubd84 7.2%, NFE 35.2%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/sensible-33",
-        "title": "Sensible 33 - 로얄캐닌",
+        "brand": null,
+        "title": "Sensible 33 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\ubbfc\uac10\ud55c \uc18c\ud654\uae30\uacc4\ub97c \uac00\uc9c4 \uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \uac74\uac15\ud55c \uccb4\ud615\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\ub9de\ucda4\uc0ac\ub8cc",
         "key_benefits": [
-            "민감한 소화기계를 가진 반려묘를 위한 센서블은 선별된 영양소를 사용하여 최적의 소화를 도와주고 장내 미생물총의 균형을 잡아주는데 도움을 줍니다.",
-            "3종류의 키블(알갱)의 모양과 풍미는 반려묘의 기호성에 도움을 줍니다.",
-            "높은 에너지 밀도로 민감한 소화기계를 가진 반려묘가 필요로 하는 높은 에너지 요구량 충족에 도움을 줍니다."
+            "\ubbfc\uac10\ud55c \uc18c\ud654\uae30\uacc4\ub97c \uac00\uc9c4 \ubc18\ub824\ubb18\ub97c \uc704\ud55c \uc13c\uc11c\ube14\uc740 \uc120\ubcc4\ub41c \uc601\uc591\uc18c\ub97c \uc0ac\uc6a9\ud558\uc5ec \ucd5c\uc801\uc758 \uc18c\ud654\ub97c \ub3c4\uc640\uc8fc\uace0 \uc7a5\ub0b4 \ubbf8\uc0dd\ubb3c\ucd1d\uc758 \uade0\ud615\uc744 \uc7a1\uc544\uc8fc\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "3\uc885\ub958\uc758 \ud0a4\ube14(\uc54c\uac31)\uc758 \ubaa8\uc591\uacfc \ud48d\ubbf8\ub294 \ubc18\ub824\ubb18\uc758 \uae30\ud638\uc131\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub192\uc740 \uc5d0\ub108\uc9c0 \ubc00\ub3c4\ub85c \ubbfc\uac10\ud55c \uc18c\ud654\uae30\uacc4\ub97c \uac00\uc9c4 \ubc18\ub824\ubb18\uac00 \ud544\uc694\ub85c \ud558\ub294 \ub192\uc740 \uc5d0\ub108\uc9c0 \uc694\uad6c\ub7c9 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "민감한 소화기계를 가진 생후 12개월 이후 반려묘의 건강한 체형유지에 도움을 주는 영양맞춤사료",
-        "ingredients": "육분(닭, 칠면조, 오리), 쌀, 동물성 지방(가금류), 밀글루텐, 옥수수, 소맥분, 동물성 유도단백질(닭, 칠면조), 옥수수 글루텐, 효모, 사탕무박, 어유, 분말셀룰로스, 대두유, 혼합광물질류 합제, 프락토올리고당, 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 셀레늄, 소르빈산칼륨, 항산화제",
-        "analysis": "단백질 33%, 지방 22%, 조섬유 1.6%, 조회분 7.4%, NFE 30.5%"
+        "ingredients": "\uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc300, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\uac00\uae08\ub958), \ubc00\uae00\ub8e8\ud150, \uc625\uc218\uc218, \uc18c\ub9e5\ubd84, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ud6a8\ubaa8, \uc0ac\ud0d5\ubb34\ubc15, \uc5b4\uc720, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ub300\ub450\uc720, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc140\ub808\ub284, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c",
+        "analysis": "\ub2e8\ubc31\uc9c8 33%, \uc9c0\ubc29 22%, \uc870\uc12c\uc720 1.6%, \uc870\ud68c\ubd84 7.4%, NFE 30.5%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/siamese",
-        "title": "Siamese - 로얄캐닌",
+        "brand": null,
+        "title": "Siamese - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "ROYAL CANIN\u00ae Siamese Adult food is formulated with the specific needs of Siamese cats like yours in mind. When you give your cat Adult Siamese food, you're ensuring that it receives all the nutritional support it requires.Suitable for adult Siamese cats over 12 months of age, ROYAL CANIN\u00ae Siamese Adult food has an increased level of protein (38%) and a moderate fat level (16%) to help preserve your cat's long, slender and muscular body type. It's also enriched with L-Carnitine, an important nutrient that's involved in maintaining a healthy fat metabolism.The specially designed, tube-shaped kibble is easy for your Siamese cat's long and narrow muzzle to grasp; it also encourages prolonged chewing to help support good oral hygiene. ROYAL CANIN\u00ae Siamese Adult food contains highly digestible protein and prebiotics to help support a balance of intestinal flora. The inclusion of a balanced level of minerals will further benefit your cat by helping to support healthy urinary function.",
         "key_benefits": [
-            "고품질 단백질 함량을 높이고(38%), 적절한 지방 함량(16%)과 풍부한 L-카르니틴의 조합은 샴의 날씬하고 근육질의 몸매를 유지하는데 도움을 줍니다.",
-            "소화 흡수율이 좋은 엄선된 단백질(L.I.P.*), 차전자피와 프리바이오틱스의 조합이 장내 정상 미생물 총의 균형을 맞춰주고 소화건강에 도움을 줍니다. *엄선된 단백질은 소화 증대를 돕습니다.",
-            "아미노산, 비타민과 오메가3, 6 지방산의 조합이 건강하고 윤기있는 피부와 털 유지에 도움을 줍니다."
+            "\uace0\ud488\uc9c8 \ub2e8\ubc31\uc9c8 \ud568\ub7c9\uc744 \ub192\uc774\uace0(38%), \uc801\uc808\ud55c \uc9c0\ubc29 \ud568\ub7c9(16%)\uacfc \ud48d\ubd80\ud55c L-\uce74\ub974\ub2c8\ud2f4\uc758 \uc870\ud569\uc740 \uc0f4\uc758 \ub0a0\uc52c\ud558\uace0 \uadfc\uc721\uc9c8\uc758 \ubab8\ub9e4\ub97c \uc720\uc9c0\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc18c\ud654 \ud761\uc218\uc728\uc774 \uc88b\uc740 \uc5c4\uc120\ub41c \ub2e8\ubc31\uc9c8(L.I.P.*), \ucc28\uc804\uc790\ud53c\uc640 \ud504\ub9ac\ubc14\uc774\uc624\ud2f1\uc2a4\uc758 \uc870\ud569\uc774 \uc7a5\ub0b4 \uc815\uc0c1 \ubbf8\uc0dd\ubb3c \ucd1d\uc758 \uade0\ud615\uc744 \ub9de\ucdb0\uc8fc\uace0 \uc18c\ud654\uac74\uac15\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. *\uc5c4\uc120\ub41c \ub2e8\ubc31\uc9c8\uc740 \uc18c\ud654 \uc99d\ub300\ub97c \ub3d5\uc2b5\ub2c8\ub2e4.",
+            "\uc544\ubbf8\ub178\uc0b0, \ube44\ud0c0\ubbfc\uacfc \uc624\uba54\uac003, 6 \uc9c0\ubc29\uc0b0\uc758 \uc870\ud569\uc774 \uac74\uac15\ud558\uace0 \uc724\uae30\uc788\ub294 \ud53c\ubd80\uc640 \ud138 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "ROYAL CANIN® Siamese Adult food is formulated with the specific needs of Siamese cats like yours in mind. When you give your cat Adult Siamese food, you're ensuring that it receives all the nutritional support it requires.Suitable for adult Siamese cats over 12 months of age, ROYAL CANIN® Siamese Adult food has an increased level of protein (38%) and a moderate fat level (16%) to help preserve your cat's long, slender and muscular body type. It's also enriched with L-Carnitine, an important nutrient that's involved in maintaining a healthy fat metabolism.The specially designed, tube-shaped kibble is easy for your Siamese cat's long and narrow muzzle to grasp; it also encourages prolonged chewing to help support good oral hygiene. ROYAL CANIN® Siamese Adult food contains highly digestible protein and prebiotics to help support a balance of intestinal flora. The inclusion of a balanced level of minerals will further benefit your cat by helping to support healthy urinary function.",
-        "ingredients": "육분, 밀글루텐, 옥수수, 밀, 동물성 지방(가금류), 옥수수 글루텐, 쌀, 동물성 유도단백질(닭, 칠면조), 사탕무박, 혼합광물질류 합제, 어유, 효모, 프락토올리고당, 대두유, 가수분해 효모(만난올리고당의 원료), 보리지유, 금잔화 추출물(루테인의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 셀레늄, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 38%, 지방 16%, 조섬유 1.4%, 조회분 7.7%"
+        "ingredients": "\uc721\ubd84, \ubc00\uae00\ub8e8\ud150, \uc625\uc218\uc218, \ubc00, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\uac00\uae08\ub958), \uc625\uc218\uc218 \uae00\ub8e8\ud150, \uc300, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \uc0ac\ud0d5\ubb34\ubc15, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc5b4\uc720, \ud6a8\ubaa8, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ub300\ub450\uc720, \uac00\uc218\ubd84\ud574 \ud6a8\ubaa8(\ub9cc\ub09c\uc62c\ub9ac\uace0\ub2f9\uc758 \uc6d0\ub8cc), \ubcf4\ub9ac\uc9c0\uc720, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc140\ub808\ub284, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 38%, \uc9c0\ubc29 16%, \uc870\uc12c\uc720 1.4%, \uc870\ud68c\ubd84 7.7%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/sterilised-37",
-        "title": "Sterilised 37 - 로얄캐닌",
+        "brand": null,
+        "title": "Sterilised 37 - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "After your cat has been neutered, a change of diet may be required to ensure that the nutrients it consumes supports its somewhat altered energy needs.ROYAL CANIN\u00ae Sterilised 37 contains a moderate level of fat when served in adequate daily rations - this helps your cat to maintain an ideal bodyweight after it's been sterilised.What's more, ROYAL CANIN\u00ae Sterilised 37 food also contains a carefully considered balance of minerals that help to support and maintain a healthy urinary system for your cat, while the increased protein content in this food helps to maintain your cat's healthy muscle mass.To cater to each cat's individual preferences, ROYAL CANIN\u00ae Sterilised 37 is also available as wet food in either delicious gravy or succulent jelly. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "중성화 수술한 반려묘는 에너지 요구량이 감소되어 체중 증가 우려가 있습니다. 적절한 지방(12%)이 함유되어 칼로리 조절에 도움이 됩니다.",
-            "요로계 건강 유지에 도움이 되도록 설계되었습니다.",
-            "고품질의 단백질은 근육을 유지하면서 이상적인 체중 유지에 도움을 줍니다. L-카르니틴과 섬유질이 풍부하여 중성화 수술을 한 반려묘가 적은 칼로리를 섭취하는데 도움을 줍니다."
+            "\uc911\uc131\ud654 \uc218\uc220\ud55c \ubc18\ub824\ubb18\ub294 \uc5d0\ub108\uc9c0 \uc694\uad6c\ub7c9\uc774 \uac10\uc18c\ub418\uc5b4 \uccb4\uc911 \uc99d\uac00 \uc6b0\ub824\uac00 \uc788\uc2b5\ub2c8\ub2e4. \uc801\uc808\ud55c \uc9c0\ubc29(12%)\uc774 \ud568\uc720\ub418\uc5b4 \uce7c\ub85c\ub9ac \uc870\uc808\uc5d0 \ub3c4\uc6c0\uc774 \ub429\ub2c8\ub2e4.",
+            "\uc694\ub85c\uacc4 \uac74\uac15 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc774 \ub418\ub3c4\ub85d \uc124\uacc4\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+            "\uace0\ud488\uc9c8\uc758 \ub2e8\ubc31\uc9c8\uc740 \uadfc\uc721\uc744 \uc720\uc9c0\ud558\uba74\uc11c \uc774\uc0c1\uc801\uc778 \uccb4\uc911 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. L-\uce74\ub974\ub2c8\ud2f4\uacfc \uc12c\uc720\uc9c8\uc774 \ud48d\ubd80\ud558\uc5ec \uc911\uc131\ud654 \uc218\uc220\uc744 \ud55c \ubc18\ub824\ubb18\uac00 \uc801\uc740 \uce7c\ub85c\ub9ac\ub97c \uc12d\ucde8\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "After your cat has been neutered, a change of diet may be required to ensure that the nutrients it consumes supports its somewhat altered energy needs.ROYAL CANIN® Sterilised 37 contains a moderate level of fat when served in adequate daily rations - this helps your cat to maintain an ideal bodyweight after it's been sterilised.What's more, ROYAL CANIN® Sterilised 37 food also contains a carefully considered balance of minerals that help to support and maintain a healthy urinary system for your cat, while the increased protein content in this food helps to maintain your cat's healthy muscle mass.To cater to each cat's individual preferences, ROYAL CANIN® Sterilised 37 is also available as wet food in either delicious gravy or succulent jelly. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육분(닭, 칠면조, 오리), 옥수수, 밀글루텐, 분말셀룰로스, 동물성 지방(가금류), 동물성 유도단백질(닭, 칠면조), 쌀, 밀, 사탕무박, 옥수수 글루텐, 효모, 혼합광물질류 합제, 어유, 프락토올리고당, 대두유, 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 제올라이트, 염화암모늄, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 37%, 지방 12%, 조섬유 6.2%, 조회분 8.2%, NFE 31.1%"
+        "ingredients": "\uc721\ubd84(\ub2ed, \uce60\uba74\uc870, \uc624\ub9ac), \uc625\uc218\uc218, \ubc00\uae00\ub8e8\ud150, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ub3d9\ubb3c\uc131 \uc9c0\ubc29(\uac00\uae08\ub958), \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \uce60\uba74\uc870), \uc300, \ubc00, \uc0ac\ud0d5\ubb34\ubc15, \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ud6a8\ubaa8, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc5b4\uc720, \ud504\ub77d\ud1a0\uc62c\ub9ac\uace0\ub2f9, \ub300\ub450\uc720, \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8, \uc5fc\ud654\uc554\ubaa8\ub284, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 37%, \uc9c0\ubc29 12%, \uc870\uc12c\uc720 6.2%, \uc870\ud68c\ubd84 8.2%, NFE 31.1%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/sterilised-gravy",
-        "title": "Sterilised Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Sterilised Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Sterilised cats have different requirements compared to cats that haven't been neutered or spayed. That's why ROYAL CANIN\u00ae Sterilised in Gravy is specially formulated with the nutritional needs of your neutered adult cat in mind. With a controlled energy content and a moderate level of fat, ROYAL CANIN\u00ae Sterilised in Gravy helps to limit the chances of your cat gaining an excess weight; particularly when served in adequate daily rations. ROYAL CANIN\u00ae Sterilised in Gravy is formulated to match the optimal nutritional profile instinctively preferred by adult cats - to ensure that they consume the nutrients they need to maintain good overall health. ROYAL CANIN\u00ae Sterilised in Gravy also contains a carefully-considered balance of minerals that helps to support the health of your cat's urinary system. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Sterilised is also available as wet food in a soft and tasty loaf, or delicious gravy, as well as dry food in a tasty and crunchy kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "중성화 이후 이상적인 체중유지에 도움을 줍니다.",
-            "중성화 수술한 반려묘의 요로기계 건강 향상을 도와줍니다.",
-            "반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다. (육즙이 풍부한 덩어리 타입)"
+            "\uc911\uc131\ud654 \uc774\ud6c4 \uc774\uc0c1\uc801\uc778 \uccb4\uc911\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc911\uc131\ud654 \uc218\uc220\ud55c \ubc18\ub824\ubb18\uc758 \uc694\ub85c\uae30\uacc4 \uac74\uac15 \ud5a5\uc0c1\uc744 \ub3c4\uc640\uc90d\ub2c8\ub2e4.",
+            "\ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. (\uc721\uc999\uc774 \ud48d\ubd80\ud55c \ub369\uc5b4\ub9ac \ud0c0\uc785)"
         ],
-        "descriptions": "Sterilised cats have different requirements compared to cats that haven't been neutered or spayed. That's why ROYAL CANIN® Sterilised in Gravy is specially formulated with the nutritional needs of your neutered adult cat in mind. With a controlled energy content and a moderate level of fat, ROYAL CANIN® Sterilised in Gravy helps to limit the chances of your cat gaining an excess weight; particularly when served in adequate daily rations. ROYAL CANIN® Sterilised in Gravy is formulated to match the optimal nutritional profile instinctively preferred by adult cats - to ensure that they consume the nutrients they need to maintain good overall health. ROYAL CANIN® Sterilised in Gravy also contains a carefully-considered balance of minerals that helps to support the health of your cat's urinary system. To cater to each cat's individual preferences, ROYAL CANIN® Sterilised is also available as wet food in a soft and tasty loaf, or delicious gravy, as well as dry food in a tasty and crunchy kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류(닭, 돼지), 소맥분, 분말셀룰로스, 동물성 유도단백질 (돼지), 천연착향료, 밀 글루텐, 카라멜, 아미노산제 합제, 카라기난, 제올라이트, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연.",
-        "analysis": "단백질 9%, 지방 2.6%, 조섬유 1.8%, 조회분 1.3%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \uc18c\ub9e5\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub3fc\uc9c0), \ucc9c\uc5f0\ucc29\ud5a5\ub8cc, \ubc00 \uae00\ub8e8\ud150, \uce74\ub77c\uba5c, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uce74\ub77c\uae30\ub09c, \uc81c\uc62c\ub77c\uc774\ud2b8, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0.",
+        "analysis": "\ub2e8\ubc31\uc9c8 9%, \uc9c0\ubc29 2.6%, \uc870\uc12c\uc720 1.8%, \uc870\ud68c\ubd84 1.3%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/sterilised-jelly",
-        "title": "Sterilised Jelly - 로얄캐닌",
+        "brand": null,
+        "title": "Sterilised Jelly - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "When cats are sterilised, their nutritional requirements change compared to cats that haven\u2019t been spayed or neutered. As a result of sterilisation, your cat will have lower energy needs and could be less active. With a controlled energy content and a moderate level of fat, ROYAL CANIN\u00ae Sterilised in Jelly helps to support and maintain a healthy weight; particularly when served in accurate daily rations. ROYAL CANIN\u00ae Sterilised in Jelly is formulated to match the optimal nutritional profile instinctively preferred by adult cats. This ensures that your cat will readily consume the nutrients that it needs to maintain good overall health. ROYAL CANIN\u00ae Sterilised in Jelly also contains a carefully-considered balance of minerals that helps to support the health of your cat\u2019s urinary system. To cater to each cat\u2019s individual preferences, ROYAL CANIN\u00ae Sterilised is also available in a delicious gravy, in a soft and tasty loaf, or as dry food in a tasty and crunchy kibble. If you\u2019re considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "중성화 이후 이상적인 체중유지에 도움을 줍니다.",
-            "중성화 수술한 반려묘의 요로기계 건강 향상을 도와줍니다.",
-            "반려묘가 본능적으로 선호하는 기호성 충족에 도움을 주는 영양소를 포함하고 있습니다. (젤리 타입)"
+            "\uc911\uc131\ud654 \uc774\ud6c4 \uc774\uc0c1\uc801\uc778 \uccb4\uc911\uc720\uc9c0\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\uc911\uc131\ud654 \uc218\uc220\ud55c \ubc18\ub824\ubb18\uc758 \uc694\ub85c\uae30\uacc4 \uac74\uac15 \ud5a5\uc0c1\uc744 \ub3c4\uc640\uc90d\ub2c8\ub2e4.",
+            "\ubc18\ub824\ubb18\uac00 \ubcf8\ub2a5\uc801\uc73c\ub85c \uc120\ud638\ud558\ub294 \uae30\ud638\uc131 \ucda9\uc871\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uc601\uc591\uc18c\ub97c \ud3ec\ud568\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. (\uc824\ub9ac \ud0c0\uc785)"
         ],
-        "descriptions": "When cats are sterilised, their nutritional requirements change compared to cats that haven’t been spayed or neutered. As a result of sterilisation, your cat will have lower energy needs and could be less active. With a controlled energy content and a moderate level of fat, ROYAL CANIN® Sterilised in Jelly helps to support and maintain a healthy weight; particularly when served in accurate daily rations. ROYAL CANIN® Sterilised in Jelly is formulated to match the optimal nutritional profile instinctively preferred by adult cats. This ensures that your cat will readily consume the nutrients that it needs to maintain good overall health. ROYAL CANIN® Sterilised in Jelly also contains a carefully-considered balance of minerals that helps to support the health of your cat’s urinary system. To cater to each cat’s individual preferences, ROYAL CANIN® Sterilised is also available in a delicious gravy, in a soft and tasty loaf, or as dry food in a tasty and crunchy kibble. If you’re considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류(닭, 오리, 돼지), 동물성 유도단백질(닭, 돼지), 옥수수전분, 분말셀룰로스, 밀글루텐, 아미노산제 합제, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연, 제올라이트",
-        "analysis": "단백질 9%, 지방 2.10%, 조섬유 1.50%, 조회분 1.50%"
+        "ingredients": "\uc721\ub958(\ub2ed, \uc624\ub9ac, \ub3fc\uc9c0), \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \ub3fc\uc9c0), \uc625\uc218\uc218\uc804\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ubc00\uae00\ub8e8\ud150, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc81c\uc62c\ub77c\uc774\ud2b8",
+        "analysis": "\ub2e8\ubc31\uc9c8 9%, \uc9c0\ubc29 2.10%, \uc870\uc12c\uc720 1.50%, \uc870\ud68c\ubd84 1.50%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/ultra-light-gravy",
-        "title": "Ultra Light Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Ultra Light Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Keeping your cat at an optimum weight for its age and breed type is essential, but sometimes this can prove to be quite difficult. However, you don't have to reduce its food intake to help manage your cat's weight, as long as what you feed it is tailored to its specific requirements. ROYAL CANIN\u00ae Ultra Light in Gravy helps reduce the calorie intake of cats by as much as 19% to help limit weight gain and maintain a healthy weight bracket. The nutrients are also enriched with L-Carnitine to help support and stimulate a healthy and fast-acting metabolism. When consuming a type of food to maintain a healthy weight, your cat's diet will play a big part in the maintenance of muscle mass and keeping fat levels at an optimum level. That's why ROYAL CANIN\u00ae Ultra Light in Gravy contains a high protein content to contribute to muscle mass, without compromising the calorie reduction needed to limit weight gain - resulting in a lean, healthy body type for your cat. Additionally, the nutrients in this product support a healthy urinary system for healthy bladder function maintenance. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Ultra Light is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "-17% 낮은 칼로리 (자사 일반 성묘사료 대비)",
-            "고품질의 단백질은 근육량 유지, 저지방은 체중관리에 도움을 줍니다. 균형잡힌 섬유질의 이상적인 조합은 반려묘가 포만감을 느끼도록 도와주며 지방 대사를 촉진 시키는 L-carnitine을 통해 이상적인 체중을 유지하는데 도움을 줍니다.",
-            "동일한 제품의 건식과 습식의 혼합 급여는 영양학적 효과를 더 크게 해 줍니다. (요로기계 질환 예방, 체중관리에 도움, 기호성 유지에 도움)"
+            "-17% \ub0ae\uc740 \uce7c\ub85c\ub9ac (\uc790\uc0ac \uc77c\ubc18 \uc131\ubb18\uc0ac\ub8cc \ub300\ube44)",
+            "\uace0\ud488\uc9c8\uc758 \ub2e8\ubc31\uc9c8\uc740 \uadfc\uc721\ub7c9 \uc720\uc9c0, \uc800\uc9c0\ubc29\uc740 \uccb4\uc911\uad00\ub9ac\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. \uade0\ud615\uc7a1\ud78c \uc12c\uc720\uc9c8\uc758 \uc774\uc0c1\uc801\uc778 \uc870\ud569\uc740 \ubc18\ub824\ubb18\uac00 \ud3ec\ub9cc\uac10\uc744 \ub290\ub07c\ub3c4\ub85d \ub3c4\uc640\uc8fc\uba70 \uc9c0\ubc29 \ub300\uc0ac\ub97c \ucd09\uc9c4 \uc2dc\ud0a4\ub294 L-carnitine\uc744 \ud1b5\ud574 \uc774\uc0c1\uc801\uc778 \uccb4\uc911\uc744 \uc720\uc9c0\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub3d9\uc77c\ud55c \uc81c\ud488\uc758 \uac74\uc2dd\uacfc \uc2b5\uc2dd\uc758 \ud63c\ud569 \uae09\uc5ec\ub294 \uc601\uc591\ud559\uc801 \ud6a8\uacfc\ub97c \ub354 \ud06c\uac8c \ud574 \uc90d\ub2c8\ub2e4. (\uc694\ub85c\uae30\uacc4 \uc9c8\ud658 \uc608\ubc29, \uccb4\uc911\uad00\ub9ac\uc5d0 \ub3c4\uc6c0, \uae30\ud638\uc131 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0)"
         ],
-        "descriptions": "Keeping your cat at an optimum weight for its age and breed type is essential, but sometimes this can prove to be quite difficult. However, you don't have to reduce its food intake to help manage your cat's weight, as long as what you feed it is tailored to its specific requirements. ROYAL CANIN® Ultra Light in Gravy helps reduce the calorie intake of cats by as much as 19% to help limit weight gain and maintain a healthy weight bracket. The nutrients are also enriched with L-Carnitine to help support and stimulate a healthy and fast-acting metabolism. When consuming a type of food to maintain a healthy weight, your cat's diet will play a big part in the maintenance of muscle mass and keeping fat levels at an optimum level. That's why ROYAL CANIN® Ultra Light in Gravy contains a high protein content to contribute to muscle mass, without compromising the calorie reduction needed to limit weight gain - resulting in a lean, healthy body type for your cat. Additionally, the nutrients in this product support a healthy urinary system for healthy bladder function maintenance. To cater to each cat's individual preferences, ROYAL CANIN® Ultra Light is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류 및 유도단백질(닭, 돼지, 연어), 쌀 분말, 분말셀룰로스, 밀 글루텐, 천연착향료, 아미노산제 합제, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연"
+        "ingredients": "\uc721\ub958 \ubc0f \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \ub3fc\uc9c0, \uc5f0\uc5b4), \uc300 \ubd84\ub9d0, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ubc00 \uae00\ub8e8\ud150, \ucc9c\uc5f0\ucc29\ud5a5\ub8cc, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": null,
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/ultra-light-jelly",
-        "title": "Ultra Light Jelly - 로얄캐닌",
+        "brand": null,
+        "title": "Ultra Light Jelly - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "Maintaining your cat's ideal weight is vital for its general health. However, sometimes this can be is easier said than done, particularly when it has a tendency to gain weight but it's still hungry only at meal times - and isn't overeating. ROYAL CANIN\u00ae Ultra Light in Jelly helps reduce the calorie intake of cats by as much as 19% to help limit weight gain and maintain a healthy weight bracket. The nutrients are also enriched with L-Carnitine to help support and stimulate a healthy and fast-acting metabolism. When consuming a type of food to maintain a healthy weight, your cat's diet will play a big part in the maintenance of muscle mass and keeping fat levels at an optimum level. That's why ROYAL CANIN\u00ae Ultra Light in Jelly contains a high protein content (10%) to contribute to muscle mass, without compromising the calorie reduction needed to limit weight gain. Additionally, the nutrients in this product support a healthy urinary system for healthy bladder function maintenance. To cater to each cat's individual preferences, ROYAL CANIN\u00ae Ultra Light is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "-17% 낮은 칼로리 (자사 일반 성묘사료 대비)",
-            "고품질의 단백질은 근육량 유지, 저지방은 체중관리에 도움을 줍니다. 균형잡힌 섬유질의 이상적인 조합은 반려묘가 포만감을 느끼도록 도와주며 지방 대사를 촉진 시키는 L-carnitine을 통해 이상적인 체중을 유지하는데 도움을 줍니다.",
-            "동일한 제품의 건식과 습식의 혼합 급여는 영양학적 효과를 더 크게 해 줍니다. (요로기계 질환 예방, 체중관리에 도움, 기호성 유지에 도움)"
+            "-17% \ub0ae\uc740 \uce7c\ub85c\ub9ac (\uc790\uc0ac \uc77c\ubc18 \uc131\ubb18\uc0ac\ub8cc \ub300\ube44)",
+            "\uace0\ud488\uc9c8\uc758 \ub2e8\ubc31\uc9c8\uc740 \uadfc\uc721\ub7c9 \uc720\uc9c0, \uc800\uc9c0\ubc29\uc740 \uccb4\uc911\uad00\ub9ac\uc5d0 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4. \uade0\ud615\uc7a1\ud78c \uc12c\uc720\uc9c8\uc758 \uc774\uc0c1\uc801\uc778 \uc870\ud569\uc740 \ubc18\ub824\ubb18\uac00 \ud3ec\ub9cc\uac10\uc744 \ub290\ub07c\ub3c4\ub85d \ub3c4\uc640\uc8fc\uba70 \uc9c0\ubc29 \ub300\uc0ac\ub97c \ucd09\uc9c4 \uc2dc\ud0a4\ub294 L-carnitine\uc744 \ud1b5\ud574 \uc774\uc0c1\uc801\uc778 \uccb4\uc911\uc744 \uc720\uc9c0\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub3d9\uc77c\ud55c \uc81c\ud488\uc758 \uac74\uc2dd\uacfc \uc2b5\uc2dd\uc758 \ud63c\ud569 \uae09\uc5ec\ub294 \uc601\uc591\ud559\uc801 \ud6a8\uacfc\ub97c \ub354 \ud06c\uac8c \ud574 \uc90d\ub2c8\ub2e4. (\uc694\ub85c\uae30\uacc4 \uc9c8\ud658 \uc608\ubc29, \uccb4\uc911\uad00\ub9ac\uc5d0 \ub3c4\uc6c0, \uae30\ud638\uc131 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0)"
         ],
-        "descriptions": "Maintaining your cat's ideal weight is vital for its general health. However, sometimes this can be is easier said than done, particularly when it has a tendency to gain weight but it's still hungry only at meal times - and isn't overeating. ROYAL CANIN® Ultra Light in Jelly helps reduce the calorie intake of cats by as much as 19% to help limit weight gain and maintain a healthy weight bracket. The nutrients are also enriched with L-Carnitine to help support and stimulate a healthy and fast-acting metabolism. When consuming a type of food to maintain a healthy weight, your cat's diet will play a big part in the maintenance of muscle mass and keeping fat levels at an optimum level. That's why ROYAL CANIN® Ultra Light in Jelly contains a high protein content (10%) to contribute to muscle mass, without compromising the calorie reduction needed to limit weight gain. Additionally, the nutrients in this product support a healthy urinary system for healthy bladder function maintenance. To cater to each cat's individual preferences, ROYAL CANIN® Ultra Light is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류 및 유도단백질(닭, 돼지, 연어), 쌀 분말, 분말셀룰로스, 밀 글루텐, 천연착향료, 아미노산제 합제, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연"
+        "ingredients": "\uc721\ub958 \ubc0f \uc720\ub3c4\ub2e8\ubc31\uc9c8(\ub2ed, \ub3fc\uc9c0, \uc5f0\uc5b4), \uc300 \ubd84\ub9d0, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \ubc00 \uae00\ub8e8\ud150, \ucc9c\uc5f0\ucc29\ud5a5\ub8cc, \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": null,
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/urinary-care",
-        "title": "URINARY CARE - 로얄캐닌",
+        "brand": null,
+        "title": "URINARY CARE - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "\uc694\ub85c\uae30\uacc4 \uac74\uac15\uad00\ub9ac\uac00 \ud544\uc694\ud55c \uc0dd\ud6c4 12\uac1c\uc6d4 \uc774\ud6c4 \ubc18\ub824\ubb18\uc758 \uac74\uac15\ud55c \uc694\ub85c\uae30\uacc4 \uad00\ub9ac\uc5d0 \ub3c4\uc6c0\uc744 \uc8fc\ub294 \uac74\uac15\ucf00\uc5b4\uc0ac\ub8cc",
         "key_benefits": [
-            "결석 생성 위험 2배 감소, 및 예방 (로얄캐닌 내부 연구 결과)",
-            "정밀하고 균형에 맞는 포뮬라는 균형있는 미네랄을 통해 건강한 소변 PH를 유지하여 요로기계 건강을 관리 및 예방하는데 도움을 줍니다."
+            "\uacb0\uc11d \uc0dd\uc131 \uc704\ud5d8 2\ubc30 \uac10\uc18c, \ubc0f \uc608\ubc29 (\ub85c\uc584\uce90\ub2cc \ub0b4\ubd80 \uc5f0\uad6c \uacb0\uacfc)",
+            "\uc815\ubc00\ud558\uace0 \uade0\ud615\uc5d0 \ub9de\ub294 \ud3ec\ubbac\ub77c\ub294 \uade0\ud615\uc788\ub294 \ubbf8\ub124\ub784\uc744 \ud1b5\ud574 \uac74\uac15\ud55c \uc18c\ubcc0 PH\ub97c \uc720\uc9c0\ud558\uc5ec \uc694\ub85c\uae30\uacc4 \uac74\uac15\uc744 \uad00\ub9ac \ubc0f \uc608\ubc29\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4."
         ],
-        "descriptions": "요로기계 건강관리가 필요한 생후 12개월 이후 반려묘의 건강한 요로기계 관리에 도움을 주는 건강케어사료",
-        "ingredients": "육분 (닭, 오리, 칠면조), 옥수수, 밀글루텐, 쌀, 밀, 동물성 지방 (가금류), 분말셀룰로스, 옥수수 글루텐, 동물성 유도단백질 (닭, 칠면조), 옥수수 분말, 혼합광물질류 합제, 사탕무박, 효모, 대두유, 어유, 금잔화 추출물 (루테인의 원료), 비타민 A, 비타민 D3, 철, 요오드, 구리, 망간, 아연, 소르빈산칼륨, 항산화제.",
-        "analysis": "단백질 33%, 지방 13%, 조섬유 5%, 조회분 6.6%"
+        "ingredients": "\uc721\ubd84 (\ub2ed, \uc624\ub9ac, \uce60\uba74\uc870), \uc625\uc218\uc218, \ubc00\uae00\ub8e8\ud150, \uc300, \ubc00, \ub3d9\ubb3c\uc131 \uc9c0\ubc29 (\uac00\uae08\ub958), \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uc625\uc218\uc218 \uae00\ub8e8\ud150, \ub3d9\ubb3c\uc131 \uc720\ub3c4\ub2e8\ubc31\uc9c8 (\ub2ed, \uce60\uba74\uc870), \uc625\uc218\uc218 \ubd84\ub9d0, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \uc0ac\ud0d5\ubb34\ubc15, \ud6a8\ubaa8, \ub300\ub450\uc720, \uc5b4\uc720, \uae08\uc794\ud654 \ucd94\ucd9c\ubb3c (\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \ube44\ud0c0\ubbfc A, \ube44\ud0c0\ubbfc D3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0, \uc18c\ub974\ube48\uc0b0\uce7c\ub968, \ud56d\uc0b0\ud654\uc81c.",
+        "analysis": "\ub2e8\ubc31\uc9c8 33%, \uc9c0\ubc29 13%, \uc870\uc12c\uc720 5%, \uc870\ud68c\ubd84 6.6%",
+        "additive": null,
+        "calorie": null
     },
     {
         "url": "https://www.royalcanin.com/kr/cats/products/retail-products/urinary-care-gravy",
-        "title": "Urinary Care Gravy - 로얄캐닌",
+        "brand": null,
+        "title": "Urinary Care Gravy - \ub85c\uc584\uce90\ub2cc",
+        "descriptions": "If you've noticed your cat urinating at a much more frequent rate and with less regard to the appropriate places to do its business, (i.e. outside or in its litter tray) then your cat may have a urinary health issue. Even if you haven't noticed anything unusual with your cat's toilet habits, it's always worth checking with your vet as health issues aren't always immediately visible on the outside. ROYAL CANIN\u00ae Urinary Care in Gravy is specially tailored to help maintain a healthy balance of minerals within your cat's urine to support a healthy urinary tract. We know urinary problems are more frequent in overweight cats, so helping your cat maintain its ideal body weight will also contribute to keeping its urinary system healthy. This food contains a nutrient profile that is instinctively preferred by adult cats to increase palatability and full consumption. ROYAL CANIN\u00ae Urinary Care is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
         "key_benefits": [
-            "결석 생성 위험 2배 감소, 및 예방 (로얄캐닌 내부 연구 결과)",
-            "정밀하고 균형에 맞는 포뮬라는 균형있는 미네랄을 통해 건강한 소변 PH를 유지하여 요로기계 건강을 관리 및 예방하는데 도움을 줍니다.",
-            "동일한 제품의 건식과 습식의 혼합 급여는 영양학적 효과를 더 크게 해 줍니다. (요로기계 질환 예방, 체중관리에 도움, 기호성 유지에 도움)"
+            "\uacb0\uc11d \uc0dd\uc131 \uc704\ud5d8 2\ubc30 \uac10\uc18c, \ubc0f \uc608\ubc29 (\ub85c\uc584\uce90\ub2cc \ub0b4\ubd80 \uc5f0\uad6c \uacb0\uacfc)",
+            "\uc815\ubc00\ud558\uace0 \uade0\ud615\uc5d0 \ub9de\ub294 \ud3ec\ubbac\ub77c\ub294 \uade0\ud615\uc788\ub294 \ubbf8\ub124\ub784\uc744 \ud1b5\ud574 \uac74\uac15\ud55c \uc18c\ubcc0 PH\ub97c \uc720\uc9c0\ud558\uc5ec \uc694\ub85c\uae30\uacc4 \uac74\uac15\uc744 \uad00\ub9ac \ubc0f \uc608\ubc29\ud558\ub294\ub370 \ub3c4\uc6c0\uc744 \uc90d\ub2c8\ub2e4.",
+            "\ub3d9\uc77c\ud55c \uc81c\ud488\uc758 \uac74\uc2dd\uacfc \uc2b5\uc2dd\uc758 \ud63c\ud569 \uae09\uc5ec\ub294 \uc601\uc591\ud559\uc801 \ud6a8\uacfc\ub97c \ub354 \ud06c\uac8c \ud574 \uc90d\ub2c8\ub2e4. (\uc694\ub85c\uae30\uacc4 \uc9c8\ud658 \uc608\ubc29, \uccb4\uc911\uad00\ub9ac\uc5d0 \ub3c4\uc6c0, \uae30\ud638\uc131 \uc720\uc9c0\uc5d0 \ub3c4\uc6c0)"
         ],
-        "descriptions": "If you've noticed your cat urinating at a much more frequent rate and with less regard to the appropriate places to do its business, (i.e. outside or in its litter tray) then your cat may have a urinary health issue. Even if you haven't noticed anything unusual with your cat's toilet habits, it's always worth checking with your vet as health issues aren't always immediately visible on the outside. ROYAL CANIN® Urinary Care in Gravy is specially tailored to help maintain a healthy balance of minerals within your cat's urine to support a healthy urinary tract. We know urinary problems are more frequent in overweight cats, so helping your cat maintain its ideal body weight will also contribute to keeping its urinary system healthy. This food contains a nutrient profile that is instinctively preferred by adult cats to increase palatability and full consumption. ROYAL CANIN® Urinary Care is also available as dry food, with crunchy and tasty kibble. If you're considering mixed feeding, simply follow our feeding guidelines to ensure your cat gets an accurate amount of both wet and dry food for optimal benefit.",
-        "ingredients": "육류(닭, 돼지), 소맥분, 분말셀룰로스, 카라멜, 천연착향료, 금잔화추출물(루테인의 원료), 아미노산제 합제, 카라기난, 혼합광물질류 합제, 비타민D3, 철, 요오드, 구리, 망간, 아연",
-        "analysis": "단백질 9.2%, 지방 3%, 조섬유 0.9%, 조회분 1.4%"
+        "ingredients": "\uc721\ub958(\ub2ed, \ub3fc\uc9c0), \uc18c\ub9e5\ubd84, \ubd84\ub9d0\uc140\ub8f0\ub85c\uc2a4, \uce74\ub77c\uba5c, \ucc9c\uc5f0\ucc29\ud5a5\ub8cc, \uae08\uc794\ud654\ucd94\ucd9c\ubb3c(\ub8e8\ud14c\uc778\uc758 \uc6d0\ub8cc), \uc544\ubbf8\ub178\uc0b0\uc81c \ud569\uc81c, \uce74\ub77c\uae30\ub09c, \ud63c\ud569\uad11\ubb3c\uc9c8\ub958 \ud569\uc81c, \ube44\ud0c0\ubbfcD3, \ucca0, \uc694\uc624\ub4dc, \uad6c\ub9ac, \ub9dd\uac04, \uc544\uc5f0",
+        "analysis": "\ub2e8\ubc31\uc9c8 9.2%, \uc9c0\ubc29 3%, \uc870\uc12c\uc720 0.9%, \uc870\ud68c\ubd84 1.4%",
+        "additive": null,
+        "calorie": null
     }
 ]

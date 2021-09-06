@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Earthborn",
         "url": "https://www.earthbornholisticpetfood.com/product/intl/intl-cat-food/primitive-feline-2/",
+        "brand": "Earthborn",
         "title": "Primitive Feline | Earthborn Holistic Pet Food International",
         "descriptions": "Earthborn Holistic Primitive Feline is advanced, alternative grain-free, gluten-free feline nutrition. Formulated with wholesome, nourishing ingredients such as chicken & fruits & vegetables. Primitive Feline provides complete nutrition and a balanced diet without the use of grains, artificial colors, flavors or preservatives.",
         "key_benefits": [
@@ -11,21 +11,21 @@
         ],
         "ingredients": "Chicken Meal, Peas, Chicken Fat (preserved with mixed Tocopherols), Pea Starch, Pea Protein, Flaxseed, Natural Flavors, Pea Fiber, Eggs, Whitefish Meal, Apples, Blueberries, Cranberries, Carrots, Spinach, Taurine, L-Lysine, DL-Methionine, L-Carnitine, Beta-Carotene, Vitamins, Minerals, Probiotics.",
         "analysis": [
-            "Protein ≥40%",
-            "Fat ≥18%",
-            "Ash ≤8%",
-            "Fiber ≤2.5%",
-            "Moisture ≤10%",
-            "Sodium ≤0.2%",
-            "Calcium ≥1.7%",
-            "Phosphorus ≥1.1%"
+            "Protein \u226540%",
+            "Fat \u226518%",
+            "Ash \u22648%",
+            "Fiber \u22642.5%",
+            "Moisture \u226410%",
+            "Sodium \u22640.2%",
+            "Calcium \u22651.7%",
+            "Phosphorus \u22651.1%"
         ],
-        "additive": "Vitamin A ≥14,000 IU/kg, Vitamin D3 ≥750 IU/kg, Vitamin C ≥100 mg/kg, Vitamin E (α-tocopherol) ≥300 IU/kg, Copper (copper sulfate) ≥16 mg/kg, Omega-6 ≥3.4%, Omega-3 ≥0.8%, DL-Methionine ≥0.75%, L-Lysine ≥2.1%, Taurine ≥0.25%, L-Carnitine ≥50 mg/kg, Beta-Carotene ≥5 mg/kg, Docosahexaenoic Acid (DHA) ≥0.01%",
+        "additive": "Vitamin A \u226514,000 IU/kg, Vitamin D3 \u2265750 IU/kg, Vitamin C \u2265100 mg/kg, Vitamin E (\u03b1-tocopherol) \u2265300 IU/kg, Copper (copper sulfate) \u226516 mg/kg, Omega-6 \u22653.4%, Omega-3 \u22650.8%, DL-Methionine \u22650.75%, L-Lysine \u22652.1%, Taurine \u22650.25%, L-Carnitine \u226550 mg/kg, Beta-Carotene \u22655 mg/kg, Docosahexaenoic Acid (DHA) \u22650.01%",
         "calorie": ""
     },
     {
-        "brand": "Earthborn",
         "url": "https://www.earthbornholisticpetfood.com/product/intl/intl-cat-food/wild-sea-catch-2/",
+        "brand": "Earthborn",
         "title": "Wild Sea Catch | Earthborn Holistic Pet Food International",
         "descriptions": "Earthborn Holistic Wild Sea Catch is advanced, alternative grain-free, gluten-free feline nutrition. Formulated with wholesome, nourishing ingredients such as chicken & fruits & vegetables. Wild Sea Catch provides complete nutrition and a balanced diet without the use of grains, artificial colors, flavors or preservatives.",
         "key_benefits": [
@@ -35,18 +35,18 @@
         ],
         "ingredients": "Menhaden Fish Meal, Whitefish Meal, Peas, Pea Protein, Pea Starch, Canola Oil (preserved with mixed Tocopherols), Eggs, Natural Flavors, Flaxseed, Pea Fiber, Apples, Blueberries, Cranberries, Carrots, Spinach, Taurine, L-Lysine, DL-Methionine, L-Carnitine, Beta-Carotene, Vitamins, Minerals, Probiotics.",
         "analysis": [
-            "Protein ≥40%",
-            "Fat ≥18%",
-            "Ash ≤9%",
-            "Fiber ≤2.5%",
-            "Moisture ≤10%",
-            "Sodium ≤0.35%",
-            "Calcium ≥1.8%",
-            "Phosphorus ≥1.25%",
-            "Magnesium ≤0.1%",
+            "Protein \u226540%",
+            "Fat \u226518%",
+            "Ash \u22649%",
+            "Fiber \u22642.5%",
+            "Moisture \u226410%",
+            "Sodium \u22640.35%",
+            "Calcium \u22651.8%",
+            "Phosphorus \u22651.25%",
+            "Magnesium \u22640.1%",
             "Kilocalories 3,800/kg"
         ],
-        "additive": "Vitamin A ≥18,000 IU/kg, Vitamin D3 ≥750 IU/kg, Vitamin C ≥100 mg/kg, Vitamin E (α-tocopherol) ≥300 IU/kg, Copper (copper sulfate) ≥16 mg/kg, Omega-6 ≥3.45%, Omega-3 ≥2%, DL-Methionine ≥1%, L-Lysine ≥2.8%, Taurine ≥0.25%, L-Carnitine ≥50 mg/kg, Beta-Carotene ≥5 mg/kg, Docosahexaenoic Acid (DHA) ≥0.35%",
+        "additive": "Vitamin A \u226518,000 IU/kg, Vitamin D3 \u2265750 IU/kg, Vitamin C \u2265100 mg/kg, Vitamin E (\u03b1-tocopherol) \u2265300 IU/kg, Copper (copper sulfate) \u226516 mg/kg, Omega-6 \u22653.45%, Omega-3 \u22652%, DL-Methionine \u22651%, L-Lysine \u22652.8%, Taurine \u22650.25%, L-Carnitine \u226550 mg/kg, Beta-Carotene \u22655 mg/kg, Docosahexaenoic Acid (DHA) \u22650.35%",
         "calorie": "3,800/kg"
     }
 ]

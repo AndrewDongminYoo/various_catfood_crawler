@@ -1,9 +1,10 @@
 [
     {
-        "brand": "MEOW Cat Food",
         "url": "https://www.nznaturalpetfood.com/meow-fd-lamb-king-salmon",
+        "brand": "MEOW Cat Food",
         "title": "MEOW FD Lamb & King Salmon | The NZ Natural Pet Food Co.",
         "descriptions": "MEOW is made using only the highest quality ingredients aimed at nourishing your pet's health. We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out. ",
+        "key_benefits": null,
         "ingredients": "Ingredients: Lamb | King Salmon with ground bone | Lamb Green Tripe | Lamb Heart | Lamb Liver | Lamb Kidney | Kelp | New Zealand Green Mussel | Honey | Rosemary | Coconut Oil | Hoki Oil | Taurine | Choline Chloride | Zinc Amino Acid Complex | Iron Amino Acid Complex | Copper Amino Acid Complex | Vitamin B1 (Thiamine Mononitrate) | Manganese Amino Acid Complex | Salt ",
         "analysis": [
             "Crude Protein Min 37%",
@@ -16,13 +17,15 @@
             "Omega-3 Fatty Acids* Min 1.91% ",
             "Omega-6 Fatty Acids* Min 2.23% "
         ],
+        "additive": null,
         "calorie": "Calorie Content ME (calculated): 6647 kcal/kg | 346 kcal/cup"
     },
     {
-        "brand": "MEOW Cat Food",
         "url": "https://www.nznaturalpetfood.com/meow-fd-chicken-king-salmon",
+        "brand": "MEOW Cat Food",
         "title": "MEOW FD Chicken & King Salmon | The NZ Natural Pet Food Co.",
         "descriptions": "MEOW is made using only the highest quality ingredients aimed at nourishing your pet's health. We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out. ",
+        "key_benefits": null,
         "ingredients": "Ingredients: Chicken with ground bone | Chicken Heart | Lamb Green Tripe | King Salmon with ground bone | Chicken Liver | Kelp | New Zealand Green Mussel | Honey | Rosemary | Coconut Oil | Hoki Oil | Taurine | Choline Chloride | Zinc Amino Acid Complex | Iron Amino Acid Complex | Copper Amino Acid Complex | Vitamin B1 (Thiamine Mononitrate) | Manganese Amino Acid Complex | Salt",
         "analysis": [
             "Crude Protein Min 43%",
@@ -35,13 +38,15 @@
             "Omega-3 Fatty Acids* Min 1.6% ",
             "Omega-6 Fatty Acids* Min 11.11% "
         ],
+        "additive": null,
         "calorie": "Calorie Content ME (calculated): 5149 kcal/kg | 288 kcal/cup"
     },
     {
-        "brand": "MEOW Cat Food",
         "url": "https://www.nznaturalpetfood.com/meow-fd-lamb-hoki",
+        "brand": "MEOW Cat Food",
         "title": "MEOW FD Lamb & Hoki | The NZ Natural Pet Food Co.",
         "descriptions": "MEOW is made using only the highest quality ingredients aimed at nourishing your pet's health. We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out. ",
+        "key_benefits": null,
         "ingredients": "Ingredients: Lamb | Hoki with ground bone | Lamb Green Tripe | Lamb Heart | Lamb Liver | Lamb Kidney | Kelp | New Zealand Green Mussel | Honey | Rosemary | Coconut Oil | Hoki Oil | Taurine | Choline Chloride | Zinc Amino Acid Complex | Iron Amino Acid Complex | Copper Amino Acid Complex | Vitamin B1 (Thiamine Mononitrate) | Manganese Amino Acid Complex | Salt ",
         "analysis": [
             "Crude Protein Min 55%",
@@ -54,13 +59,15 @@
             "Omega-3 Fatty Acids* Min 2.10% ",
             "Omega-6 Fatty Acids* Min 3.61% "
         ],
+        "additive": null,
         "calorie": "Calorie Content ME (calculated): 4542 kcal/kg | 213 kcal/cup"
     },
     {
-        "brand": "MEOW Cat Food",
         "url": "https://www.nznaturalpetfood.com/meow-fd-duck",
+        "brand": "MEOW Cat Food",
         "title": "MEOW FD Duck | The NZ Natural Pet Food Co.",
         "descriptions": "MEOW is made using only the highest quality ingredients aimed at nourishing your pet's health. We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out. ",
+        "key_benefits": null,
         "ingredients": "Ingredients: Duck with ground bone | Lamb Green Tripe | Lamb Heart | Duck Liver | Kelp | New Zealand Green Mussel | Honey | Rosemary | Coconut Oil | Hoki Oil | Taurine | Choline Chloride | Zinc Amino Acid Complex | Iron Amino Acid Complex | Copper Amino Acid Complex | Vitamin B1 (Thiamine Mononitrate) | Manganese Amino Acid Complex | Salt ",
         "analysis": [
             "Crude Protein Min 46%",
@@ -72,13 +79,15 @@
             "Phosphorous 1%",
             "Omega-3 Fatty Acids* Min 1.95% "
         ],
+        "additive": null,
         "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup"
     },
     {
-        "brand": "MEOW Cat Food",
         "url": "https://www.nznaturalpetfood.com/meow-fd-beef-hoki",
+        "brand": "MEOW Cat Food",
         "title": "MEOW FD Beef & Hoki | The NZ Natural Pet Food Co.",
         "descriptions": "MEOW is made using only the highest quality ingredients aimed at nourishing your pet's health. We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out. ",
+        "key_benefits": null,
         "ingredients": "Ingredients: Beef | Hoki with ground bone | Beef Tripe | Beef Heart | Beef Liver | Beef Kidney | Kelp | New Zealand Green Mussel | Honey | Rosemary | Coconut Oil | Hoki Oil | Taurine | Choline Chloride | Zinc Amino Acid Complex | Iron Amino Acid Complex | Copper Amino Acid Complex | Vitamin B1 (Thiamine Mononitrate) | Manganese Amino Acid Complex | Salt",
         "analysis": [
             "Crude Protein Min 55%",
@@ -91,13 +100,15 @@
             "Omega-3 Fatty Acids* Min 1.95% ",
             "Omega-6 Fatty Acids* Min 2.25% "
         ],
+        "additive": null,
         "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup"
     },
     {
-        "brand": "MEOW Cat Food",
         "url": "https://www.nznaturalpetfood.com/meow-fd-venison",
+        "brand": "MEOW Cat Food",
         "title": "MEOW FD Venison | The NZ Natural Pet Food Co.",
         "descriptions": "MEOW is made using only the highest quality ingredients aimed at nourishing your pet's health. We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out. ",
+        "key_benefits": null,
         "ingredients": "Ingredients: Venison | Lamb | Lamb Green Tripe | Lamb Heart | Lamb Liver | Lamb Kidney | Ground Lamb Bone | Kelp | New Zealand Green Mussel | Honey | Rosemary | Coconut Oil | Hoki Oil | Taurine | Choline Chloride | Zinc Amino Acid Complex | Iron Amino Acid Complex | Copper Amino Acid Complex | Vitamin B1 (Thiamine Mononitrate) | Manganese Amino Acid Complex | Salt",
         "analysis": [
             "Crude Protein Min 60%",
@@ -109,13 +120,15 @@
             "Phosphorous 1%",
             "Omega-3 Fatty Acids* Min 1% "
         ],
+        "additive": null,
         "calorie": "Calorie Content ME (calculated): 3473 kcal/kg | 159 kcal/cup"
     },
     {
-        "brand": "MEOW Cat Food",
         "url": "https://www.nznaturalpetfood.com/meow-fd-brushtail",
+        "brand": "MEOW Cat Food",
         "title": "MEOW FD Brushtail | The NZ Natural Pet Food Co.",
         "descriptions": "MEOW is made using only the highest quality ingredients aimed at nourishing your pet's health. We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out. ",
+        "key_benefits": null,
         "ingredients": "Ingredients: Brushtail with ground bone | Lamb Green Tripe | Lamb Heart | Lamb Liver | Lamb Kidney | Kelp | New Zealand Green Mussel | Honey | Rosemary | Coconut Oil | Hoki Oil | Taurine | Choline Chloride | Zinc Amino Acid Complex | Iron Amino Acid Complex | Copper Amino Acid Complex | Vitamin B1 (Thiamine Mononitrate) | Manganese Amino Acid Complex | Salt ",
         "analysis": [
             "Crude Protein Min 62%",
@@ -127,6 +140,7 @@
             "Phosphorous 1%",
             "Omega-3 Fatty Acids* Min 2.4% "
         ],
+        "additive": null,
         "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup"
     }
 ]

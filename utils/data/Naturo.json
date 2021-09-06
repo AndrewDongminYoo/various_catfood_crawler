@@ -1,9 +1,10 @@
 [
     {
-        "brand": "Naturo",
         "url": "https://www.naturopetfoods.com/adult-cat-chicken-mousse",
+        "brand": "Naturo",
         "title": "Adult Cat Chicken Mousse",
         "descriptions": "With 80% Chicken and Grain Free, a complete food for adult cats.  All Natural adult wet cat food with 80% Chicken.  Naturo adult wet cat foods contain no artificial colours, flavours or preservatives and are free from grains which can often cause allergies.  Naturo Grain Free Cat Food contains added Taurine for normal heart function and vision and is supplemented with essential vitamins, minerals and oils for healthy skin and shiny coat.",
+        "key_benefits": null,
         "ingredients": [
             "Chicken 70%",
             "Chicken Broth 10% (from 0.35% Chicken Stock Powder)",
@@ -29,10 +30,11 @@
         "calorie": "Kcal/100g: 119"
     },
     {
-        "brand": "Naturo",
         "url": "https://www.naturopetfoods.com/adult-cat-salmon-mousse",
+        "brand": "Naturo",
         "title": "Adult Cat Salmon Mousse",
         "descriptions": "With 80% Salmon and Chicken, and Grain Free, a complete food for adult cats.  All Natural adult wet cat food with 80% Salmon and Chicken. Naturo adult wet cat foods contain no artificial colours, flavours or preservatives and are free from grains which can often cause allergies.  Naturo Grain Free Cat Food contains added Taurine for normal heart function and vision and is supplemented with essential vitamins, minerals and oils for healthy skin and shiny coat.",
+        "key_benefits": null,
         "ingredients": [
             "Salmon 26%",
             "Chicken 24%",
@@ -60,10 +62,11 @@
         "calorie": "Kcal/100g: 126"
     },
     {
-        "brand": "Naturo",
         "url": "https://www.naturopetfoods.com/adult-cat-tuna-mousse",
+        "brand": "Naturo",
         "title": "Adult Cat Tuna Mousse",
         "descriptions": "With 80% Tuna and Chicken, and Grain Free, a complete food for adult cats.  All Natural adult wet cat food with 80% Tuna and Chicken. Naturo adult wet cat foods contain no artificial colours, flavours or preservatives and are free from grains which can often cause allergies.  Naturo Grain Free Cat Food contains added Taurine for normal heart function and vision and is supplemented with essential vitamins, minerals and oils for healthy skin and shiny coat.",
+        "key_benefits": null,
         "ingredients": [
             "Tuna 26%",
             "Chicken 24%",
@@ -91,10 +94,11 @@
         "calorie": "Kcal/100g: 126"
     },
     {
-        "brand": "Naturo",
         "url": "https://www.naturopetfoods.com/adult-cat-turkey-mousse",
+        "brand": "Naturo",
         "title": "Adult Cat Turkey Mousse",
         "descriptions": "With 80% Turkey and Chicken, and Grain Free, a complete food for adult cats.  All Natural adult wet cat food with 80% Turkey and Chicken.  Naturo adult wet cat foods contain no artificial colours, flavours or preservatives and are free from grains which can often cause allergies.  Naturo Grain Free Cat Food contains added Taurine for normal heart function and vision and is supplemented with essential vitamins, minerals and oils for healthy skin and shiny coat.",
+        "key_benefits": null,
         "ingredients": [
             "Turkey 36%",
             "Chicken 34%",

@@ -1,8 +1,10 @@
 [
     {
-        "brand": "TUSCAN NATURAL",
         "url": "https://tuscannatural.com/for-cats/carne-grain-free-recipe/",
+        "brand": "TUSCAN NATURAL",
         "title": "Carne Grain-Free Recipe | Tuscan Natural",
+        "descriptions": null,
+        "key_benefits": null,
         "ingredients": "Humanely Raised Turkey Humanely Raised Chickens Chicken Meal from Humanely Raised Chicken Sustainably Farmed Pea Protein Herring Meal from Ocean Caught Herring Sustainably Farmed Peas (Dried) Essential Fatty Acids from Chicken Fat (preserved with mixed tocopherols) Turkey Meal from Humanely Raised Turkeys Sustainably Farmed Flaxseed Sustainably Farmed Russet Potatoes Olive Oil from Old Growth Trees (preserved with mixed tocopherols) Natural Flavor Sustainably Farmed Pea Fiber Herring Oil from Ocean Caught Herring Sustainably Farmed Dried Chickory Root Sustainably Farmed Dehydrated Alfalfa Meal DL-Methionine Sustainably Farmed Apples Sustainably Farmed Carrots Sustainably Farmed Cranberries Sustainably Farmed Tomatoes Sustainably Farmed Pumpkin Vitamin E Supplement Calcium Carbonate Vitamin B-3 Supplement Calcium Pantothenate Vitamin B-12 Supplement Vitamin A Acetate Biotin Riboflavin Supplement Thiamine Mononitrate Pyridoxine Hydrochloride Folic Acid Iron Proteinate Zinc Proteinate Manganese Proteinate Copper Proteinate Sodium Selenite Cobalt Protenate Ethylenediamine Dihydroiodide Dried Lactobacillus Acidophilus Fermentation Product Dried Lactobacillus Casei Fermentation Product Dried Lactobacillus Plantarum Fermentation Product Dried Enterococcus Faecium Fermentation Product",
         "analysis": [
             "Moisture 6.45 %",
@@ -69,12 +71,15 @@
             "Vitamin E (delta-tocopherol) 22 IU/kg",
             "Vitamin E (gamma-tocopherol) 83.4 IU/kg"
         ],
+        "additive": null,
         "calorie": "3,903 Kcal/kg 514 kcal/cup 1 cup=4.8 oz. (130 g)"
     },
     {
-        "brand": "TUSCAN NATURAL",
         "url": "https://tuscannatural.com/for-cats/harvest-turkey-chicken-recipe/",
+        "brand": "TUSCAN NATURAL",
         "title": "Harvest Turkey & Chicken Recipe | Tuscan Natural",
+        "descriptions": null,
+        "key_benefits": null,
         "ingredients": "Chicken Meal from Humanely Raised Chickens Turkey Meal from Humanely Raised Turkeys Humanely Raised Turkey Humanely Raised Chicken Sustainably Farmed Lentils Sustainably Farmed Sweet Potatoes Olive Oil from Old Growth Trees (preserved with mixed tocopherols) Essential Fatty Acids from Chicken Fat (preserved with mixed tocopherols) Salmon Meal from Ocean Caught Salmon Sustainably Farmed Flaxseed Natural Flavor Salmon Oil from Ocean Caught Salmon (preserved with mixed tocopherols) Sustainably Farmed Dried Kelp Herring Meal from Ocean Caught Herring Thiamine Riboflavin Niacin Vitamin B6 Supplement Sustainably Farmed Blueberries Sustainably Farmed Apples Sustainably Farmed Pomegranate Sustainably Farmed Cranberries Sustainably Farmed Carrots Vitamin B5 Supplement Vitamin B12 Supplement Vitamin A Acetate Vitamin D3 Supplement d-Biotin Iron Proteinate Zinc Proteinate Manganese Proteinate Copper Proteinate Sodium Selenite Cobalt Protenate Ethylenediamine Dihydroiodide Dried Lactobacillus Acidophilus Enterococcus Faecium Dried Spergillus niger Dried Trichoderma longibrachiatum Dried Basillus subtilis fermentation products",
         "analysis": [
             "Moisture 6.28 %",
@@ -141,12 +146,15 @@
             "Vitamin E (delta-tocopherol) 5.1 IU/kg",
             "Vitamin E (gamma-tocopherol) 40.3 IU/kg"
         ],
-        "calorie": "Calorie Content (ME, calculated) 4,067 kcal/kg – 531 kcal/cup 1 cup=4.8 oz. (130 g)"
+        "additive": null,
+        "calorie": "Calorie Content (ME, calculated) 4,067 kcal/kg \u2013 531 kcal/cup 1 cup=4.8 oz. (130 g)"
     },
     {
-        "brand": "TUSCAN NATURAL",
         "url": "https://tuscannatural.com/for-cats/simply-pure-ocean-extreme-recipe/",
+        "brand": "TUSCAN NATURAL",
         "title": "Simply Pure Ocean Extreme Recipe | Tuscan Natural",
+        "descriptions": null,
+        "key_benefits": null,
         "ingredients": "Ocean Caught Deboned Whitefish Herring Meal from Ocean Caught Herring Sustainably Farmed Sweet Potato Sustainably Farmed Chickpea Sustainably Farmed Flaxseed Olive Oil From Old Growth Trees (preserved with mixed tocopherols) Natural Flavor Thiamine Riboflavin Niacin Pantothenic Acid Pyridoxine Folic Acid Biotin Vitamin E Supplement d-Calcium Pantothenate Vitamin B-12 Supplement Vitamin A Acetate Vitamin D-3 Supplement Iron Proteinate Zinc Proteinate Manganese Proteinate Copper Proteinate Sodium Selenite Cobalt Proteinate Ethylenediamine Dihydroiodide",
         "analysis": [
             "Moisture 7.33 %",
@@ -213,6 +221,7 @@
             "Vitamin E (delta-tocopherol) 6.3 IU/kg",
             "Vitamin E (gamma-tocopherol) 34.8 IU/kg"
         ],
+        "additive": null,
         "calorie": "Metabolizable Energy (calculated) 3,630 Kcal/kg 446 kcal/cup 1 cup=4.4 oz. (125 g)"
     }
 ]

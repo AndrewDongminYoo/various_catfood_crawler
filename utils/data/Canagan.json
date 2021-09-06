@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Canagan",
         "url": "https://www.canagan.co.uk/canagan-country-game-for-cats.html",
+        "brand": "Canagan",
         "title": "Canagan Country Game Grain Free Food For Cats",
         "descriptions": "Canagan Country Game for Cats is the defining statement in grain free nutrition. With even higher levels of super digestible protein delivered by an unprecedented selection of delicious natural ingredients. Our freshly prepared duck and venison are produced to an equivalent human food standard and are perfectly complimented with vegetables and botanicals. Let your cat show you this is the ultimate taste experience.",
         "key_benefits": [
@@ -32,11 +32,12 @@
             "Manganous Sulphate Monohydrate 90 mg",
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.60 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Canagan",
         "url": "https://www.canagan.co.uk/canagan-dental-for-cats.html",
+        "brand": "Canagan",
         "title": "Canagan Turkey Dental with PlaqueOff Grain Free Food For Cats",
         "descriptions": [
             "Canagan is a special grain free cat food formulated by our experts to deliver nutrition, close to their ancestral diet, with the correct ratio of protein to carbohydrate and a host of vegetables and botanicals.",
@@ -45,7 +46,7 @@
         "key_benefits": [
             "FREE-RUN TURKEY Turkey is an excellent source of protein, vitamins, phosphorous and selenium which is good for the immune system.",
             "SWEET POTATO A highly digestible premium source of slow-release energy, rich in anti-oxidants and a great source of soluble fibre.",
-            "PRODEN PLAQUEOFF® Contains the clinically effective ingredient ProDen PlaqueOff® which reduces plaque naturally, combined with a special kibble shape to help keep teeth cleaner.",
+            "PRODEN PLAQUEOFF\u00ae Contains the clinically effective ingredient ProDen PlaqueOff\u00ae which reduces plaque naturally, combined with a special kibble shape to help keep teeth cleaner.",
             "MARIGOLD, CRANBERRY AND CAMOMILE Marigold stimulates white blood cell production and strengthens the immune system. Cranberry is rich in Vitamin C and helps promote a healthy urinary tract. Camomile is thought to reduce stress."
         ],
         "ingredients": "Freshly Prepared Deboned Turkey (30%), Dried Chicken (22.5%), Sweet Potato, Potato, Dried Turkey (8%), Peas, Chicken Fat (4%), Alfalfa, Dried Egg (3%), Chicken Gravy (1.5%), Salmon Oil (1%), Minerals, Vitamins, ProDen PlaqueOff (2,500 mg/kg), Fructooligosaccharides, Peppermint, Parsley, Apple, Carrot, Spinach, Psyllium, Seaweed, Camomile, Marigold, Cranberry, Aniseed & Fenugreek",
@@ -73,13 +74,14 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.64 mg",
             "Methionine 1,800 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Canagan",
         "url": "https://www.canagan.co.uk/canagan-free-range-chicken-for-cats.html",
+        "brand": "Canagan",
         "title": "Canagan Free-Range Chicken Grain Free Food For Cats",
-        "descriptions": "Canagan Free Range Chicken For Cats is a special grain free cat food with over 65% chicken to provide the protein rich diet your cat will thrive on. Formulated by our experts to deliver nutrition with low carbohydrates, no grains and a host of vegetables and botanicals to more closely mimic your cat’s natural diet.",
+        "descriptions": "Canagan Free Range Chicken For Cats is a special grain free cat food with over 65% chicken to provide the protein rich diet your cat will thrive on. Formulated by our experts to deliver nutrition with low carbohydrates, no grains and a host of vegetables and botanicals to more closely mimic your cat\u2019s natural diet.",
         "key_benefits": [
             "FREE-RANGE CHICKEN Chicken is an excellent source of protein, vitamins, phosphorous and selenium which is good for the immune system.",
             "SWEET POTATO A highly digestible premium source of slow-release energy, rich in anti-oxidants and a great source of soluble fibre.",
@@ -108,11 +110,12 @@
             "Manganous Sulphate Monohydrate 90 mg",
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.64 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Canagan",
         "url": "https://www.canagan.co.uk/canagan-light-senior-for-catss.html",
+        "brand": "Canagan",
         "title": "Canagan Light/Senior Grain Free Food For Cats",
         "descriptions": "Canagan Light / Senior / Sterilised is for overweight, senior or sterilised cats. This gorgeous recipe features high levels of super digestible protein delivered by an unprecedented selection of delicious natural ingredients.Our master chefs add glucosamine, MSM and chondroitin for healthy joints, Salmon Oil for great skin and coat and a myriad of succulent vegetables and botanicals.",
         "key_benefits": [
@@ -143,11 +146,12 @@
             "Manganous Sulphate Monohydrate 90 mg",
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.60 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Canagan",
         "url": "https://www.canagan.co.uk/canagan-scottish-salmon-for-cats.html",
+        "brand": "Canagan",
         "title": "Canagan Scottish Salmon Grain Free Food For Cats",
         "descriptions": "Canagan Scottish Salmon For Cats is a carefully balanced grain free food containing over 75% fish providing your cat with a unique blend of super protein availability. Our freshly prepared deboned Scottish Salmon is produced to an equivalent human food standard this wonderful food is further boosted with the inclusion of herring, trout and white fish. The delicious selection of natural ingredients will excite even the fussiest of felines.",
         "key_benefits": [
@@ -187,6 +191,7 @@
             "Manganous Sulphate Monohydrate 90 mg",
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.64 mg"
-        ]
+        ],
+        "calorie": null
     }
 ]

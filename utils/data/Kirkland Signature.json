@@ -1,10 +1,10 @@
 {
     "url": "https://www.costco.com/kirkland-signature-chicken-and-rice-cat-food-25-lbs..product.100334973.html",
     "brand": "Kirkland Signature",
-    "title": "Kirkland Signature Chicken and Rice Cat Food 25 lbs. | Costco",
+    "title": "Kirkland Signature Chicken and Rice Cat Food 25 lbs.\u00a0| Costco",
     "descriptions": [
         "Kirkland Signature Super Premium Maintenance Cat Chicken & Rice Formula is designed for the special nutritional needs of your cat. This formula contains the right amount of protein and fat to keep your cat in optimal body condition. Plus, the added health benefits of probiotics for digestive health, omega fatty acid balance, antioxidants and fresh chicken help your cat lead a happy, healthy life.",
-        "Probiotics and natural prebiotic fiber from dried chicory root help maintain the proper balance of beneficial bacteria in your cat’s intestines. These probiotics are processed under strict human-grade standards to ensure purity. Each cup of food provides live, active cultures that help support healthy digestion and help your cat maintain an active lifestyle."
+        "Probiotics and natural prebiotic fiber from dried chicory root help maintain the proper balance of beneficial bacteria in your cat\u2019s intestines. These probiotics are processed under strict human-grade standards to ensure purity. Each cup of food provides live, active cultures that help support healthy digestion and help your cat maintain an active lifestyle."
     ],
     "key_benefits": [
         "Ideal Protein Sources: This formula is made with fresh chicken as the number one ingredient for great taste. Chicken and chicken meal are highly digestible and ideal protein sources for your cat.",
@@ -27,6 +27,6 @@
         "Omega-3 Fatty Acids* 0.5% Minimum",
         "Total Microorganisms* Not Less Than 1,000,000 CFU/lb (Lactobacillus acidophilus, Bifidobacterium animalis)"
     ],
-    "additives": "",
+    "additive": null,
     "calorie": "4,008 kcals/kg (443 kcals/cup) Calculated Metabolizable Energy"
 }

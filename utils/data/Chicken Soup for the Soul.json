@@ -1,14 +1,15 @@
 [
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-adult-cat-dry-food-chicken-brown-rice-recipe",
+        "brand": "Chicken Soup for the Soul",
         "title": "Classic Adult Cat Dry Food - Chicken & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
             "No by-product meals",
             "No wheat, corn or soy",
             "No artificial colors, preservatives or flavors",
-            "Lovingly prepared in the USA with the world’s finest ingredients"
+            "Lovingly prepared in the USA with the world\u2019s finest ingredients"
         ],
         "ingredients": "Chicken, chicken meal, turkey meal, brown rice, peas, faba beans, chicken fat (preserved with mixed tocopherols), ground flaxseed, cracked pearled barley, dried egg product, potato protein, natural flavor, turkey, duck, salmon, sodium bisulfate, calcium carbonate, choline chloride, salt, taurine, mixed tocopherols (preservative), citric acid (preservative), dried chicory root, dried kelp, carrots, apples, tomatoes, blueberries, spinach, cranberries, rosemary extract, parsley flakes, vitamin E supplement, zinc proteinate, zinc oxide, niacin supplement, L-ascorbyl-2-polyphosphate, ferrous sulfate, yucca schidigera extract, manganous oxide, manganese proteinate, vitamin A supplement, copper sulfate, d-calcium pantothenate, thiamine mononitrate, riboflavin supplement, pyridoxine hydrochloride, sodium selenite, copper proteinate, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, vitamin D3 supplement, calcium iodate, folic acid, cobalt carbonate, inositol, biotin, vitamin B12 supplement.",
         "analysis": [
@@ -22,12 +23,14 @@
             "Omega-6 Fatty Acids* 3.2% Minimum",
             "Omega-3 Fatty Acids* 0.6% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 3,737 kcal/kg 397 kcal/cup"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-adult-cat-wet-food-chicken-turkey-recipe-pate",
-        "title": "Classic Adult Cat Wet Food - Chicken & Turkey Recipe Pâté | Chicken Soup for the Soul Pet Food",
+        "brand": "Chicken Soup for the Soul",
+        "title": "Classic Adult Cat Wet Food - Chicken & Turkey Recipe P\u00e2t\u00e9 | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Chicken",
             "No by-product meals",
@@ -45,18 +48,20 @@
             "Magnesium 0.035% Maximum",
             "Taurine 0.10% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 1296 kcal/kg 198 kcal/can 5.5oz (156 g)"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-adult-dry-cat-food-salmon-brown-rice-recipe",
+        "brand": "Chicken Soup for the Soul",
         "title": "Classic Adult Dry Cat Food - Salmon & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Salmon",
             "No by-product meals",
             "No wheat, corn or soy",
             "No artificial colors, preservatives or flavors",
-            "Lovingly prepared in the USA with the world’s finest ingredients"
+            "Lovingly prepared in the USA with the world\u2019s finest ingredients"
         ],
         "ingredients": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles.",
         "analysis": [
@@ -70,18 +75,20 @@
             "Omega-6 Fatty Acids* 2.5% Minimum",
             "Omega-3 Fatty Acids* 2.2% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 3,775 kcal/kg 1,712 kcal/lb 401 kcal/cup"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-indoor-cat-dry-food-chicken-brown-rice-recipe",
+        "brand": "Chicken Soup for the Soul",
         "title": "Classic Indoor Cat Dry Food - Chicken & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
             "No by-product meals",
             "No wheat, corn or soy",
             "No artificial colors, preservatives or flavors",
-            "Lovingly prepared in the USA with the world’s finest ingredients"
+            "Lovingly prepared in the USA with the world\u2019s finest ingredients"
         ],
         "ingredients": "Chicken, chicken meal, turkey meal, brown rice, peas, faba beans, cracked pearled barley, ground flaxseed, chicken fat (preserved with mixed tocopherols), natural flavor, powdered cellulose, turkey, duck, salmon, dried egg product, sodium bisulfate, calcium carbonate, choline chloride, salt, taurine, mixed tocopherols (preservative), citric acid (preservative), dried chicory root, dried kelp, carrots, apples, tomatoes, blueberries, spinach, cranberries, rosemary extract, parsley flakes, vitamin E supplement, zinc proteinate, zinc oxide, niacin supplement, L-ascorbyl-2-polyphosphate, ferrous sulfate, yucca schidigera extract, manganous oxide, manganese proteinate, vitamin A supplement, copper sulfate, d-calcium pantothenate, thiamine mononitrate, riboflavin supplement, pyridoxine hydrochloride, sodium selenite, copper proteinate, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, vitamin D3 supplement, calcium iodate, folic acid, cobalt carbonate, inositol, biotin, vitamin B12 supplement.",
         "analysis": [
@@ -95,12 +102,14 @@
             "Omega-6 Fatty Acids* 2.4% Minimum",
             "Omega-3 Fatty Acids* 0.4% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 3,436 kcal/kg 358 kcal/cup"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-indoor-cat-dry-food-tuna-brown-rice-recipe",
+        "brand": "Chicken Soup for the Soul",
         "title": "Classic Indoor Cat Dry Food - Tuna & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": "",
         "ingredients": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles.",
         "analysis": [
@@ -114,12 +123,14 @@
             "Omega-6 Fatty Acids* 2.0% Minimum",
             "Omega-3 Fatty Acids* 0.6% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 3,419 kcal/kg 1,551 kcal/lb 369 kcal/cup"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-indoor-cat-wet-food-chicken-salmon-recipe-pate",
-        "title": "Classic Indoor Cat Wet Food - Chicken & Salmon Recipe Pâté | Chicken Soup for the Soul Pet Food",
+        "brand": "Chicken Soup for the Soul",
+        "title": "Classic Indoor Cat Wet Food - Chicken & Salmon Recipe P\u00e2t\u00e9 | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Chicken",
             "No by-product meals",
@@ -137,18 +148,20 @@
             "Magnesium 0.038% Maximum",
             "Taurine 0.10% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 1298 kcal/kg 202 kcal/can 5.5oz (156 g)"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-kitten-dry-food-chicken-brown-rice-pea-recipe",
+        "brand": "Chicken Soup for the Soul",
         "title": "Classic Kitten Dry Food - Chicken, Brown Rice & Pea Recipe | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
             "No by-product meals",
             "No wheat, corn or soy",
             "No artificial colors, preservatives or flavors",
-            "Lovingly prepared in the USA with the world’s finest ingredients"
+            "Lovingly prepared in the USA with the world\u2019s finest ingredients"
         ],
         "ingredients": "Chicken, chicken meal, turkey meal, brown rice, cracked pearled barley, peas, chicken fat (preserved with mixed tocopherols), ground flaxseed, menhaden fish meal, dried egg product, natural flavor, turkey, duck, salmon, calcium carbonate, choline chloride, taurine, mixed tocopherols (preservative), citric acid (preservative), zinc proteinate, dried chicory root, dried kelp, carrots, apples, tomatoes, blueberries, spinach, cranberries, rosemary extract, parsley flakes, zinc oxide, vitamin E supplement, ferrous sulfate, niacin supplement, L-ascorbyl-2-polyphosphate, yucca schidigera extract, manganous oxide, manganese proteinate, copper sulfate, vitamin A supplement, d-calcium pantothenate, thiamine mononitrate, sodium selenite, copper proteinate, riboflavin supplement, pyridoxine hydrochloride, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, calcium iodate, vitamin D3 supplement, folic acid, cobalt carbonate, inositol, biotin, vitamin B12 supplement.",
         "analysis": [
@@ -164,12 +177,14 @@
             "Omega-6 Fatty Acids* 3.4% Minimum",
             "Omega-3 Fatty Acids* 0.6% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 3,796 kcal/kg 396 kcal/cup"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-kitten-wet-food-chicken-turkey-recipe-pate",
-        "title": "Classic Kitten Wet Food - Chicken & Turkey Recipe Pâté | Chicken Soup for the Soul Pet Food",
+        "brand": "Chicken Soup for the Soul",
+        "title": "Classic Kitten Wet Food - Chicken & Turkey Recipe P\u00e2t\u00e9 | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Chicken",
             "No by-product meals",
@@ -187,18 +202,20 @@
             "Docosahexaenoic Acid (DHA)* 0.04% Minimum",
             "Taurine* 0.10% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 1347 kcal/kg 210 kcal/can 5.5oz (156 g)"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-weight-mature-care-dry-cat-food-chicken-brown-rice-recipe",
+        "brand": "Chicken Soup for the Soul",
         "title": "Classic Weight & Mature Care Dry Cat Food - Chicken & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
             "No by-product meals",
             "No wheat, corn or soy",
             "No artificial colors, preservatives or flavors",
-            "Lovingly prepared in the USA with the world’s finest ingredients"
+            "Lovingly prepared in the USA with the world\u2019s finest ingredients"
         ],
         "ingredients": "Chicken, chicken meal, turkey meal, brown rice, peas, faba beans, cracked pearled barley, tomato pomace, natural flavor, potato protein, turkey, duck, salmon, chicken fat (preserved with mixed tocopherols), powdered cellulose, sodium bisulfate, calcium carbonate, choline chloride, salt, taurine, mixed tocopherols (preservative), citric acid (preservative), dried chicory root, dried kelp, carrots, apples, tomatoes, blueberries, spinach, cranberries, rosemary extract, parsley flakes, vitamin E supplement, zinc proteinate, zinc oxide, niacin supplement, L-ascorbyl-2-polyphosphate, ferrous sulfate, yucca schidigera extract, manganous oxide, manganese proteinate, vitamin A supplement, copper sulfate, d-calcium pantothenate, thiamine mononitrate, riboflavin supplement, pyridoxine hydrochloride, sodium selenite, copper proteinate, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, vitamin D3 supplement, calcium iodate, folic acid, cobalt carbonate, inositol, biotin, vitamin B12 supplement.",
         "analysis": [
@@ -213,12 +230,14 @@
             "Omega-6 Fatty Acids* 1.2% Minimum",
             "Omega-3 Fatty Acids* 0.1% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 3,118 kcal/kg 325 kcal/cup"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/classic-weight-mature-care-wet-cat-food-ocean-fish-chicken-turkey-pate",
-        "title": "Classic Weight & Mature Care Wet Cat Food - Ocean Fish, Chicken & Turkey Pâté | Chicken Soup for the Soul Pet Food",
+        "brand": "Chicken Soup for the Soul",
+        "title": "Classic Weight & Mature Care Wet Cat Food - Ocean Fish, Chicken & Turkey P\u00e2t\u00e9 | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Ocean Fish",
             "No by-product meals",
@@ -237,18 +256,20 @@
             "Magnesium 0.032% Maximum",
             "Taurine 0.10% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 963 kcal/kg 150 kcal/can 5.5oz (156 g)"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/grain-free-cat-food-chicken-legumes-recipe",
+        "brand": "Chicken Soup for the Soul",
         "title": "Grain Free Cat Food - Chicken & Legumes Recipe | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
             "No by-product meals",
             "No wheat, corn or soy",
             "No artificial colors, preservatives or flavors",
-            "Lovingly prepared in the USA with the world’s finest ingredients"
+            "Lovingly prepared in the USA with the world\u2019s finest ingredients"
         ],
         "ingredients": "Chicken, chicken meal, peas, faba beans, pea protein, lentils, chicken fat (preserved with mixed tocopherols), ground flaxseed, natural flavor, salmon oil (preserved with mixed tocopherols), calcium carbonate, salt, choline chloride, taurine, mixed tocopherols (preservative), citric acid (preservative), zinc proteinate, zinc oxide, vitamin E supplement, ferrous sulfate, niacin supplement, L-ascorbyl-2-polyphosphate, manganous oxide, manganese proteinate, copper sulfate, vitamin A supplement, d-calcium pantothenate, thiamine mononitrate, sodium selenite, riboflavin supplement, copper proteinate, pyridoxine hydrochloride, calcium iodate, vitamin D3 supplement, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, folic acid, cobalt carbonate, inositol, biotin, vitamin B12 supplement, rosemary extract.",
         "analysis": [
@@ -262,18 +283,20 @@
             "Omega-6 Fatty Acids* 2.5% Minimum",
             "Omega-3 Fatty Acids* 0.5% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 3,583 kcal/kg 380 kcal/cup"
     },
     {
-        "brand": "Chicken Soup for the Soul",
         "url": "https://chickensouppets.com/cats/grain-free-cat-food-salmon-legumes-recipe",
+        "brand": "Chicken Soup for the Soul",
         "title": "Grain Free Cat Food - Salmon & Legumes Recipe | Chicken Soup for the Soul Pet Food",
+        "descriptions": null,
         "key_benefits": [
             "Real Salmon #1 Ingredient",
             "No by-product meals",
             "No wheat, corn or soy",
             "No artificial colors, preservatives or flavors",
-            "Lovingly prepared in the USA with the world’s finest ingredients"
+            "Lovingly prepared in the USA with the world\u2019s finest ingredients"
         ],
         "ingredients": "Salmon, menhaden fish meal, peas, lentils, pea protein, faba beans, canola oil (preserved with mixed tocopherols), ground flaxseed, natural flavor, calcium carbonate, salt, choline chloride, taurine, zinc proteinate, DL-methionine, mixed tocopherols (preservative), citric acid (preservative), zinc oxide, vitamin E supplement, ferrous sulfate, niacin supplement, L-ascorbyl-2-polyphosphate, manganous oxide, manganese proteinate, copper sulfate, sodium selenite, copper proteinate, thiamine mononitrate, vitamin A supplement, d-calcium pantothenate, calcium iodate, riboflavin supplement, pyridoxine hydrochloride, dried Lactobacillus acidophilus fermentation product, dried Lactobacillus casei fermentation product, dried Lactobacillus plantarum fermentation product, dried Enterococcus faecium fermentation product, vitamin D3 supplement, cobalt carbonate, folic acid, inositol, biotin, vitamin B12 supplement, rosemary extract.",
         "analysis": [
@@ -288,6 +311,7 @@
             "Omega-6 Fatty Acids* 1.8% Minimum",
             "Omega-3 Fatty Acids* 1.8% Minimum"
         ],
+        "additive": null,
         "calorie": "Calculated Metabolizable Energy (ME) 3,596 kcal/kg 371 kcal/cup"
     }
 ]

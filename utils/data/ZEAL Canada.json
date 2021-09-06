@@ -1,7 +1,7 @@
 [
     {
-        "brand": "ZEAL Canada",
         "url": "http://zealpetfood.ca/pet-food/air-dried-chicken-cat-food/",
+        "brand": "ZEAL Canada",
         "title": "Air-dried Chicken Cat Food - Zeal Canada",
         "descriptions": "Chicken is a popular choice for pets with sensitivities to Turkey. Chicken is a good nutritional source of iron, zinc, potassium and phosphorous and contains vitamin B6 and niacin. Air-drying turns our food into deliciously satisfying jerky-like pieces that even the pickiest eaters dig into. We also boost each recipe with naturally sourced vitamins, minerals and ingredients.",
         "key_benefits": [
@@ -18,11 +18,12 @@
             "Moisture (max) 14.0%",
             "Taurine 0.2%"
         ],
+        "additive": null,
         "calorie": "Calculated ME: 4305 Kcal ME / Kg Kcal ME / Level Scoop*: 366"
     },
     {
-        "brand": "ZEAL Canada",
         "url": "http://zealpetfood.ca/pet-food/air-dried-chicken-freeze-dried-salmon-cat-food/",
+        "brand": "ZEAL Canada",
         "title": "Air-Dried Chicken with freeze-dried Salmon Cat Food - Zeal Canada",
         "descriptions": [
             "Made with 96% pure meat and organs (heart and liver) Chicken is a popular choice for cats with sensitivities to chicken. Air-drying turns our food into deliciously satisfying jerky-like pieces that even the pickiest eaters dig into. Chicken is a good nutritional source of iron, zinc, potassium and phosphorous and contains vitamin B6 and niacin. We also boost each recipe with naturally sourced vitamins, minerals and ingredients.",
@@ -42,11 +43,12 @@
             "Moisture (max) 14.0%",
             "Taurine 0.2%"
         ],
+        "additive": null,
         "calorie": "Calculated ME: 4305 Kcal ME / Kg Kcal ME / Level Scoop*: 366"
     },
     {
-        "brand": "ZEAL Canada",
         "url": "http://zealpetfood.ca/pet-food/air-dried-okanagan-blend-cat-food/",
+        "brand": "ZEAL Canada",
         "title": "Air-dried Okanagan blend Cat Food - Zeal Canada",
         "descriptions": "The Okanagan blend, made of Fish, chicken, and pork, is a popular choice for pets with sensitivities to these ingredients. Turkey is a good nutritional source of iron, zinc, potassium and phosphorous and contains vitamin B6 and niacin. Air-drying turns our food into deliciously satisfying jerky-like pieces that even the pickiest eaters dig into. We also boost each recipe with naturally sourced vitamins, minerals and ingredients.",
         "key_benefits": [
@@ -63,11 +65,12 @@
             "Moisture (max) 14.0%",
             "Taurine 0.2%"
         ],
+        "additive": null,
         "calorie": "Calculated ME: 4372 Kcal ME / Kg Kcal ME / Level Scoop*: 372"
     },
     {
-        "brand": "ZEAL Canada",
         "url": "http://zealpetfood.ca/pet-food/air-dried-salmon-turkey-cat-food/",
+        "brand": "ZEAL Canada",
         "title": "Air-dried Salmon and Turkey Cat Food - Zeal Canada",
         "descriptions": "Turkey and salmon are popular choices for pets with sensitivities to chicken. Turkey is a good nutritional source of iron, zinc, potassium and phosphorous and contains vitamin B6 and niacin. We use wild BC salmon, rich with oils and omega fatty acids that nourish and moisturize skin and fur. Air-drying turns our food into deliciously satisfying jerky-like pieces that even the pickiest eaters dig into. We also boost each recipe with naturally sourced vitamins, minerals and ingredients. Air-drying turns our food into deliciously satisfying jerky-like pieces that even the pickiest eaters dig into.",
         "key_benefits": [
@@ -88,6 +91,7 @@
             "Water-soluble Chlorides (min) 0.3%",
             "Taurine 0.2%"
         ],
+        "additive": null,
         "calorie": "Calculated ME: 3650 Kcal ME / Kg Kcal ME / Level Scoop*: 310"
     }
 ]

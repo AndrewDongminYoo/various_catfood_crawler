@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Josera",
         "url": "https://www.josera.com/marinesse-p735#82937",
+        "brand": "Josera",
         "title": "MARINESSE | Josera Petfood GmbH & Co.Kg.",
         "descriptions": [
             "Salmon, potato, and peas as selected protein sources for the best tolerability",
@@ -23,11 +23,13 @@
             "calcium 1.20 %",
             "phosphorus 1.00 %",
             "magnesium 0,65 %"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Josera",
         "url": "https://www.josera.com/senior-p1042",
+        "brand": "Josera",
         "title": "SENIOR | Josera Petfood GmbH & Co.Kg.",
         "descriptions": [
             "ideal for older cats",
@@ -35,9 +37,9 @@
             "valuable antioxidants like vitamin C & E and taurine counteract cell-aging",
             "the careful selection of the best ingredients guarantees high acceptance and best compatibility"
         ],
-        "key_benefits": "The special selection of ingredients ensures a reduced phosphorus content and therefore supports the cat’s kidney function. This is particularly important for older cats. In addition, valuable antioxidants such as vitamins C and E and taurine counter cell ageing and thus protect the kidney tissue from free radicals.",
+        "key_benefits": "The special selection of ingredients ensures a reduced phosphorus content and therefore supports the cat\u2019s kidney function. This is particularly important for older cats. In addition, valuable antioxidants such as vitamins C and E and taurine counter cell ageing and thus protect the kidney tissue from free radicals.",
         "ingredients": [
-            "The special selection of ingredients ensures a reduced phosphorus content and therefore supports the cat’s kidney function. This is particularly important for older cats. In addition, valuable antioxidants such as vitamins C and E and taurine counter cell ageing and thus protect the kidney tissue from free radicals.",
+            "The special selection of ingredients ensures a reduced phosphorus content and therefore supports the cat\u2019s kidney function. This is particularly important for older cats. In addition, valuable antioxidants such as vitamins C and E and taurine counter cell ageing and thus protect the kidney tissue from free radicals.",
             "Valuable anti-oxidants such as Vitamin E, Vitamin C and taurine counter cell ageing. L-Carnitine helps to prevent the muscle loss associated with ageing. The reduced phosphorus content supports kidney function.",
             "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system."
         ],
@@ -49,14 +51,16 @@
             "calcium 0.60 %",
             "phosphorus 0.45 %",
             "magnesium 0,65 %"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Josera",
         "url": "https://www.josera.com/kitten-p1019#111055",
+        "brand": "Josera",
         "title": "KITTEN | Josera Petfood GmbH & Co.Kg.",
         "descriptions": [
-            "excellent for the first year of your cat’s life and during pregnancy and lactation",
+            "excellent for the first year of your cat\u2019s life and during pregnancy and lactation",
             "with plenty of energy and protein as well as valuable salmon oil for the special requirements in the most important phases of life",
             "easy to digest",
             "contains dietary fibre to help prevent hairball formation"
@@ -75,11 +79,13 @@
             "calcium 1.40 %",
             "phosphorus 1.10 %",
             "magnesium 0,60 %"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Josera",
         "url": "https://www.josera.com/sensicat-p746#88204",
+        "brand": "Josera",
         "title": "SENSICAT | Josera Petfood GmbH & Co.Kg.",
         "descriptions": [
             "ideal for adult cats and cats with a sensitive digestive system",
@@ -101,11 +107,13 @@
             "calcium 1.30 %",
             "phosphorus 1.00 %",
             "magnesium 0,60 %"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Josera",
         "url": "https://www.josera.com/dailycat-p1007#109191",
+        "brand": "Josera",
         "title": "DAILYCAT | Josera Petfood GmbH & Co.Kg.",
         "descriptions": [
             "the daily extra portion of tasty poultry (equivalent to about 130 g of fresh meat per 100 g of kibble)",
@@ -127,11 +135,13 @@
             "calcium 1.25 %",
             "phosphorus 0.95 %",
             "magnesium 0,60 %"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Josera",
         "url": "https://www.josera.com/naturecat-p751#88217",
+        "brand": "Josera",
         "title": "NATURECAT | Josera Petfood GmbH & Co.Kg.",
         "descriptions": [
             "with 30 % dried poultry and 10 % dried salmon (corresponds to roughly 130 g of fresh meat per 100 g kibble)",
@@ -153,11 +163,13 @@
             "calcium 1.30 %",
             "phosphorus 1.00 %",
             "magnesium 0,60 %"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     },
     {
-        "brand": "Josera",
         "url": "https://www.josera.com/naturelle-p771#99354",
+        "brand": "Josera",
         "title": "NATURELLE | Josera Petfood GmbH & Co.Kg.",
         "descriptions": [
             "with delicious lentil and trout",
@@ -179,6 +191,8 @@
             "calcium 1.15 %",
             "phosphorus 0.90 %",
             "magnesium 0,60 %"
-        ]
+        ],
+        "additive": null,
+        "calorie": null
     }
 ]

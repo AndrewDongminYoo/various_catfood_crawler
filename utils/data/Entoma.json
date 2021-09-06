@@ -1,4 +1,7 @@
 {
+    "url": null,
+    "brand": null,
+    "title": null,
     "descriptions": "Entoma's natural dry food is a complete nutritional solution for your cat in line with our values: 100% natural, grain free, rich in omegas 3 and 6, natural hypoallergenic properties and eco-friendly.",
     "key_benefits": [
         "Rich in amino acids for its energy!",
@@ -23,6 +26,6 @@
         "OMEGA-6 1,7%",
         "ENERGY  369 Kcal"
     ],
-    "additives": "Vitamin A 30000IU, Vitamin D3 900IU, Vitamin C 10.61 mg, Vitamin E 500mg, Vitamin K3 0,11 mg, Vitamin B1 7.39 mg, Vitamin B2 23.45 mg, Vitamin B6 15.14 mg, Vitamin B12 0.16 mg, Calcium - D- panthothenate 36.91 mg, Folic acid 0.4 mg, Biotin 0.3 mg, Niacin 53.37 mg, Choline Chloride 715.86 mg, Ferrous sulphate monohydrate 100 mg, Copper sulphate pentahydrate 6 mg, Copper of amino acid hydrate 6mg, Manganese oxide 45 mg, Manganese chelate of amino acids hydrate 20 mg, Zinc sulphate monohydrate 90 mg, Zinc chelate of amino acids hydrates 60mg, Potassium iodide 2.5 mg, Sodium selenite 0.25 mg, Taurine 1200mg, Contains natural antioxidants.",
+    "additive": null,
     "calorie": "369 Kcal"
 }

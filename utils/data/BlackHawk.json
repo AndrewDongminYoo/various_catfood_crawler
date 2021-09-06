@@ -1,7 +1,7 @@
 [
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/grain-free-cat-food-chicken-and-turkey",
+        "brand": "BlackHawk",
         "title": "Grain Free Cat Food | Chicken and Turkey | Black Hawk",
         "descriptions": "Australian hormone free chicken and turkey is fortified with vitamins, minerals and antioxidants for strong muscles, healthy bones and vitality. With no grains, using tapioca and potato as alternative sources of carbohydrate, this highly palatable formula offers great flavour variety to keeps cats interested at meal time.",
         "key_benefits": [
@@ -19,11 +19,12 @@
             "Taurine (min) 0.25 %",
             "ME Kcal/kg 3,650"
         ],
+        "additive": null,
         "calorie": "ME Kcal/kg 3,650"
     },
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/grain-free-cat-food-duck-and-fish",
+        "brand": "BlackHawk",
         "title": "Grain Free Cat Food | Duck and Fish | Black Hawk",
         "descriptions": "Our Australian sustainably farmed duck and fish formula is rich in vitamins, minerals and oils for healthy skin and coat, as well as overall health and vitality. With no grains, using tapioca and sweet potato as alternative sources of carbohydrate, this highly palatable formula offers great flavour variety to keeps cats interested at meal time.",
         "key_benefits": [
@@ -41,11 +42,12 @@
             "Taurine (min) 0.25 %",
             "ME Kcal/kg 3,680"
         ],
+        "additive": null,
         "calorie": "ME Kcal/kg 3,680"
     },
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/kitten-wet-food-chicken-with-peas",
+        "brand": "BlackHawk",
         "title": "Kitten Wet Food | Chicken with Peas | Black Hawk",
         "descriptions": [
             "Black Hawk grain free kitten food provides a complete diet for kittens. This recipe has the protein, nutrients and minerals to keep your growing kitten healthy. ",
@@ -67,11 +69,12 @@
             "Ash 2.0% (max)",
             "Moisture 80% (max)"
         ],
+        "additive": null,
         "calorie": ""
     },
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-beef-and-lamb",
+        "brand": "BlackHawk",
         "title": "Wet Cat Food | Chicken with Beef & Lamb | Black Hawk",
         "descriptions": "A high protein, grain free wet cat food in convenient pouches. With chicken as the main ingredient, it also contains peas, beef and lamb for extra protein and flavour. Also contains real cranberries and blueberries as natural antioxidants.",
         "key_benefits": [
@@ -90,11 +93,12 @@
             "Ash 2.0% (max)",
             "Moisture 80% (max)"
         ],
+        "additive": null,
         "calorie": ""
     },
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-lamb",
+        "brand": "BlackHawk",
         "title": "Wet Cat Food | Chicken with Lamb | Black Hawk",
         "descriptions": "A high protein wet cat food in convenient pouches, with chicken as the main ingredient. Can be used as a complete diet to maximise water intake, or mixed with dry food. Also contains real lamb and peas for extra protein, and emu oil as a natural source of omega 3 & 6 fatty acids. ",
         "key_benefits": [
@@ -113,11 +117,12 @@
             "Ash 2.0% (max)",
             "Moisture 80% (max)"
         ],
+        "additive": null,
         "calorie": ""
     },
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-peas",
+        "brand": "BlackHawk",
         "title": "Wet Cat Food | Chicken with Peas | Black Hawk",
         "descriptions": "A grain free wet cat food for adult cats, with chicken as the number 1 ingredient. These convenient pouches can be used as a complete diet to increase water intake, or mixed with dry food. Contains emu oil as a natural source of omega 3 & 6 fatty acids.",
         "key_benefits": [
@@ -136,11 +141,12 @@
             "Ash 2.0% (max)",
             "Moisture 80% (max)"
         ],
+        "additive": null,
         "calorie": ""
     },
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-tuna-and-ocean-fish",
+        "brand": "BlackHawk",
         "title": "Wet Cat Food | Chicken with Tuna & Ocean Fish | Black Hawk",
         "descriptions": "A wet cat food with protein and omega 3 fatty acids, and absolutely no grain or fillers. Ideal to be used as a complete diet or mixed with dry food. This wet cat food has chicken as the main ingredient, along with added tuna and ocean fish.",
         "key_benefits": [
@@ -159,11 +165,12 @@
             "Ash 2.0% (max)",
             "Moisture 80% (max)"
         ],
+        "additive": null,
         "calorie": ""
     },
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-for-mature-cats-chicken-and-salmon",
+        "brand": "BlackHawk",
         "title": "Wet Cat Food for Mature Cats | Chicken with Salmon | Black Hawk",
         "descriptions": "A specially formulated wet cat food for mature cats aged 7 years and over. Contains chicken as the main ingredient, as well as salmon and ocean fish for added omega 3 fatty acids. This special recipe is also lower in calories, which is ideal for less active older cats.",
         "key_benefits": [
@@ -182,11 +189,12 @@
             "Ash 2.0% (max)",
             ""
         ],
+        "additive": null,
         "calorie": ""
     },
     {
-        "brand": "BlackHawk",
         "url": "https://blackhawkpetcare.com/au/cat-food/kitten-food/wet-kitten-food-chicken-with-peas",
+        "brand": "BlackHawk",
         "title": "Grain Free Kitten Wet Food | Chicken with Peas | Black Hawk",
         "descriptions": [
             "Black Hawk grain free kitten food provides a complete diet for kittens. This recipe has the protein, nutrients and minerals to keep your growing kitten healthy. ",
@@ -208,6 +216,7 @@
             "Ash 2.0% (max)",
             "Moisture 80% (max)"
         ],
+        "additive": null,
         "calorie": ""
     }
 ]

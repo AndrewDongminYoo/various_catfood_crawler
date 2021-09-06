@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Supreme Source",
         "url": "https://www.supremesourcepet.com/chicken-meal-turkey-meal-recipe-cat-food/",
+        "brand": "Supreme Source",
         "title": "Chicken Meal & Turkey Meal Cat Food - Supreme Source",
         "descriptions": "Our Chicken Meal & Turkey Meal recipe is advanced nutrition for cats who deserve only the best. Sourced from trusted, passionate farmers, our premium ingredients provide all the vitamins, protein and antioxidants your cat needs to thrive.",
         "key_benefits": [
@@ -31,16 +31,17 @@
             "Omega-3 Fatty Acids 0.5% Min.",
             "Omega-6 Fatty Acids 1.1% Min."
         ],
+        "additive": null,
         "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED CALORIE CONTENT (ME): 3,650 kcal/kg., 394 kcal/cup."
     },
     {
-        "brand": "Supreme Source",
         "url": "https://www.supremesourcepet.com/whitefish-meal-and-salmon-meal-recipe/",
+        "brand": "Supreme Source",
         "title": "Whitefish Meal and Salmon Cat Food | Supreme Source",
         "descriptions": "Our Whitefish Meal and Salmon Meal Cat Food recipe is advanced nutrition for cats who deserve only the best. Sourced from trusted, passionate farmers, our premium ingredients provide all the vitamins, protein and antioxidants your cat needs to thrive.",
         "key_benefits": [
             "Whitefish Meal A great source of high-quality protein that contains more protein than fresh whitefish. Whitefish meal is a delicious and highly digestible protein that helps your cat maintain strong muscles.",
-            "Salmon Meal A naturally rich source of protein and Omega-3 fatty acids to help maintain your cat’s healthy skin and shiny coat.",
+            "Salmon Meal A naturally rich source of protein and Omega-3 fatty acids to help maintain your cat\u2019s healthy skin and shiny coat.",
             "Peas A valuable source of essential nutrients like linoleic acid. They also offer natural fiber and quality carbohydrates.",
             "Chickpeas Provide dietary fiber and are packed with protein as well as vitamins A and E. They also contain manganese which may help support proper bone health and brain function."
         ],
@@ -64,6 +65,7 @@
             "Omega-3 Fatty Acids* 0.7% Min.",
             "Omega-6 Fatty Acids* 2.1% Min."
         ],
+        "additive": null,
         "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED CALORIE CONTENT (ME): 3,660 kcal/kg., 395 kcal/cup."
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Go! Solutions",
         "url": "https://go-solutions.com/en-us/carnivore-grain-free-chicken-turkey-duck-recipe-for-cats",
+        "brand": "Go! Solutions",
         "title": "GO! SOLUTIONS CARNIVORE Grain-Free Chicken, Turkey + Duck Recipe for Cats",
         "descriptions": "This delicious grain-free, protein-rich GO! SOLUTIONS CARNIVORE Recipe has been specially formulated to support strong, lean muscles in meat-loving cats, with added pre and probiotics to maintain healthy digestion and help keep your cat healthy, fit and playful.",
         "key_benefits": [
@@ -24,11 +24,12 @@
             "*Omega 3 (min) 0.3%",
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 4298 kcal/kg or 473 kcal/cup (250 ml)"
     },
     {
-        "brand": "Go! Solutions",
         "url": "https://go-solutions.com/en-us/carnivore-grain-free-lamb-wild-boar-recipe-for-cats",
+        "brand": "Go! Solutions",
         "title": "GO! SOLUTIONS CARNIVORE Grain-Free Lamb + Wild Boar recipe for Cats",
         "descriptions": "Crafted by our nutritional experts from Lamb, Wild boar and Salmon, our drool-worthy, grain-free GO! SOLUTIONS CARNIVORE recipe is packed full of delicious animal protein, with added pre and probiotics and cranberries to support urinary tract health.",
         "key_benefits": [
@@ -51,11 +52,12 @@
             "*Omega 3 (min) 0.6%",
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 4147 kcal/kg or 456 kcal/cup (250 ml)"
     },
     {
-        "brand": "Go! Solutions",
         "url": "https://go-solutions.com/en-us/carnivore-grain-free-salmon-cod-recipe-for-cats",
+        "brand": "Go! Solutions",
         "title": "GO! CARNIVORE Grain-Free Salmon + Cod Recipe for Cats",
         "descriptions": "Specially created for your fish-loving feline, this delicious grain-free, protein-rich GO! SOLUTIONS CARNIVORE recipe uses Salmon, Cod and Trout to provide Omega-3 fatty acids, and support strong muscles in fit, happy, and playful cats.",
         "key_benefits": [
@@ -78,11 +80,12 @@
             "*Omega 3 (min) 0.9%",
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 4239 kcal/kg or 466 kcal/cup (250 ml)"
     },
     {
-        "brand": "Go! Solutions",
         "url": "https://go-solutions.com/en-us/sensitivities-limited-ingredient-grain-free-duck-recipe-for-cats",
+        "brand": "Go! Solutions",
         "title": "GO! SOLUTIONS SENSITIVITIES Limited Ingredient Grain-Free Duck Recipe for Cats",
         "descriptions": "Using premium cage-free Duck as a single source of tasty poultry protein, this GO! SOLUTIONS Limited Ingredient recipe is formulated for cats with sensitive dietary needs, with Prebiotic fiber for sensitive stomachs, and Omega oils for healthy skin and coats.",
         "key_benefits": [
@@ -102,11 +105,12 @@
             "*Omega 6 (min) 2.5%",
             "*Omega 3 (min) 0.7%"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 4222 kcal/kg or 464 kcal/cup (250 ml)"
     },
     {
-        "brand": "Go! Solutions",
         "url": "https://go-solutions.com/en-us/skin-coat-care-chicken-recipe-with-grains-for-cats",
+        "brand": "Go! Solutions",
         "title": "GO! SOULTIONS SKIN + COAT CARE Chicken Recipe for Cats",
         "descriptions": "Formulated from premium cage-free Chicken and whole grains, this whisker-licking GO! SOLUTIONS SKIN + COAT CARE recipe is rich in omega oils to help control shedding and promote healthy skin and coats, with antioxidants from fruit and veggies to support immune function.",
         "key_benefits": [
@@ -129,13 +133,14 @@
             "*Omega 3 (min) 0.4%",
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 4604 kcal/kg or 552 kcal/cup (250 ml)"
     },
     {
-        "brand": "Go! Solutions",
         "url": "https://go-solutions.com/en-us/skin-coat-care-grain-free-salmon-recipe-for-cats",
+        "brand": "Go! Solutions",
         "title": "GO! SOLUTIONS SKIN + COAT CARE Grain-Free Salmon Recipe for Cats",
-        "descriptions": "Crafted from premium-quality salmon, this delicious GO! SOLUTIONS recipe helps control shedding and supports healthy skin and coats, with added fruit and veggies to support your feline friend’s immune function, and pre and probiotic fiber for healthy digestion.",
+        "descriptions": "Crafted from premium-quality salmon, this delicious GO! SOLUTIONS recipe helps control shedding and supports healthy skin and coats, with added fruit and veggies to support your feline friend\u2019s immune function, and pre and probiotic fiber for healthy digestion.",
         "key_benefits": [
             "Omega fatty acids support healthy, hydrated skin + a shiny coat",
             "Probiotics + prebiotic fiber to support healthy gut bacteria and good digestion",
@@ -156,6 +161,7 @@
             "*Omega 3 (min) 1.4%",
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "ME (calculated) = 4122 kcal/kg or 453 kcal/cup (250 ml)"
     }
 ]

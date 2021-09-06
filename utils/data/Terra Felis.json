@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/beef-rabbit.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Beef & Rabbit",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -20,11 +20,12 @@
         ],
         "ingredients": "rabbit meat (35 %), Beef heart muscle meat (31 %), beef lung (10 %), beef liver (10 %), beef muscle meat (4 %), carrot (4 %), tomato powder, rapeseed oil, catnip*, minerals *dried",
         "analysis": "Protein: 12,6 % fat content: 6,3 % crude fibre: 0,3 % crude ash: 1,3 % moisture: 78,5 %",
-        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/beef.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Beef",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -43,11 +44,12 @@
         ],
         "ingredients": "Beef heart muscle meat (58 %), beef lung (14 %), beef liver (14 %), beef muscle meat (4 %), carrot (4 %), tomato powder, rapeseed oil, catnip*, minerals  *dried",
         "analysis": "Protein: 13 % fat content: 6,5 % crude fibre: 0,3 % crude ash: 1,4 % moisture: 77,2 %",
-        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/chicken-lamb.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Chicken & Lamb",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -66,11 +68,12 @@
         ],
         "ingredients": "Lamb heart muscle meat (43 %), chicken stomach (16 %), chicken muscle meat (11 %), chicken liver (10 %), chicken skin (10 %), courgette (4 %), tomato powder, rapeseed oil, catnip*, minerals  *dried",
         "analysis": "Protein: 11,6 % fat content: 9 % crude fibre: 0,4 % crude ash: 1,3 % moisture: 76,9 %",
-        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/chicken-turkey.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Chicken & Turkey",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -89,11 +92,12 @@
         ],
         "ingredients": "Chicken heart (20 %), chicken stomach (20 %), turkey muscle meat (15 %), turkey heart (15 %), chicken liver (10 %), chicken skin (10 %), pumpkin (4 %), tomato powder, rapeseed oil, catnip*, minerals  *dried",
         "analysis": "Protein: 11,6 % fat content: 5,3 % crude fibre: 0,2 % crude ash: 1,2 % moisture: 80,6 %",
-        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/chicken.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Chicken",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -112,11 +116,12 @@
         ],
         "ingredients": "Chicken heart (30 %), chicken stomach (26 %), chicken skin (14 %) chicken muscle meat (10 %), chicken liver (10 %), butternut squash (4 %), tomato powder, rapeseed oil, catnip*, minerals *dried",
         "analysis": "Protein: 11,2 % fat content: 6,4 % crude fibre: 0,2 % crude ash: 1,5 % moisture: 80 %",
-        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/rabbit-turkey.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Rabbit & Turkey",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -135,11 +140,12 @@
         ],
         "ingredients": "Rabbit meat (53 %), turkey liver (21 %), turkey muscle meat (8 %), turkey skin (8 %), broccoli (4 %), tomato powder, rapeseed oil, catnip*, minerals  *dried",
         "analysis": "Protein: 12,1 % fat content: 5,5 % crude fibre: 0,3 % crude ash: 1,6 % moisture: 79,6 %",
-        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/rabbit.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Rabbit",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -158,11 +164,12 @@
         ],
         "ingredients": "Rabbit meat (90 %), butternut squash (4 %), tomato powder, rapeseed oil, catnip*, minerals  *dried",
         "analysis": "Protein: 12,3 % fat content: 4,5 % crude fibre: 0,2 % crude ash: 1,6 % moisture: 81 %",
-        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/salmon-chicken.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Salmon & Chicken",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -181,11 +188,12 @@
         ],
         "ingredients": "Salmon fillet (62 %), chicken liver (15 %), chicken muscle meat (8 %), chicken skin (6 %), butternut squash (4 %), tomato powder, catnip*  *dried",
         "analysis": "Protein: 13,1 % fat content: 8,5 % crude fibre: 0,3 % crude ash: 1,1 % moisture: 76,3 %",
-        "additive": "Nutritional additives/kg: Taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/salmon.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Salmon",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -204,11 +212,12 @@
         ],
         "ingredients": "Salmon fillet (90 %), courgette (4 %), tomato powder, catnip*  *dried",
         "analysis": "Protein: 13,2 % fat content: 6,6 % crude fibre: 0,1 % crude ash: 1,2 % moisture: 79,1 %",
-        "additive": "Nutritional additives/kg: Taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Taurine (3a370): 2750 mg",
+        "calorie": null
     },
     {
-        "brand": "Terra Fellis",
         "url": "https://www.terrafelis.com/en-eu/turkey.html",
+        "brand": "Terra Fellis",
         "title": "Terra Felis Adult Turkey",
         "descriptions": [
             "100% human-grade quality of all ingredients",
@@ -227,6 +236,7 @@
         ],
         "ingredients": "Turkey heart (49 %), turkey liver (17 %), turkey skin (14 %), turkey muscle meat (10 %), broccoli (4 %), tomato powder, rapeseed oil, catnip*, minerals  *dried",
         "analysis": "Protein: 11,9 % fat content: 6,4 % crude fibre: 0,3 % crude ash: 1,5 % moisture: 79,2 %",
-        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg"
+        "additive": "Nutritional additives/kg: Vitamin A (3a672a): 1000 IE, Vitamin D3 (3a671): 200 IE, Vitamin E (3a700): 60 IE, copper (3b405): 2.5 mg, manganese (3b502): 2.5 mg, iodine (3b202): 1 mg, zinc (3b603): 16 mg, taurine (3a370): 2750 mg",
+        "calorie": null
     }
 ]

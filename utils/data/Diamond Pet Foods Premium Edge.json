@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Diamond Pet Foods Premium Edge",
         "url": "https://www.diamondpet.com/cat/diamond-care/urinary-support-adult-cats/",
+        "brand": "Diamond Pet Foods Premium Edge",
         "title": "Urinary Support Cat Food Formula for Adult Cats | Diamond CARE",
         "descriptions": [
             "Reduces pH level in urine for urinary tract health",
@@ -30,11 +30,12 @@
             "Omega-6 Fatty Acids* 2.4% Minimum",
             "Omega-3 Fatty Acids* 0.4% Minimum"
         ],
+        "additive": null,
         "calorie": "3,728 kcal/kg (423 kcal/cup) Calculated Metabolizable Energy"
     },
     {
-        "brand": "Diamond Pet Foods Premium Edge",
         "url": "https://www.diamondpet.com/cat/diamond-care/weight-management/",
+        "brand": "Diamond Pet Foods Premium Edge",
         "title": "Diamond CARE Adult Cat Weight Management Formula | Diamond Pet Foods",
         "descriptions": "*The facility in which this food is made also makes food that may contain other ingredients, such as grains. Trace amounts of these other ingredients may be present.",
         "key_benefits": [
@@ -60,6 +61,7 @@
             "Omega-3 Fatty Acids* 0.3% Minimum",
             "Total Microorganisms* (Lactobacillus plantarum, Bacillus subtilis, Lactobacillus acidophilus, Enterococcus faecium, Bifidobacterium animalis in descending amounts) Not Less Than 80,000,000 CFU/lb"
         ],
+        "additive": null,
         "calorie": "3,080 kcal/kg (314 kcal/cup) Calculated Metabolizable Energy"
     }
 ]

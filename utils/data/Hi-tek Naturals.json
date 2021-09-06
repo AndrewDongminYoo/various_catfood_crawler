@@ -3,8 +3,8 @@
     "brand": "Hi-tek Naturals",
     "title": "Hi-Tek Naturals Cat Food (Dry) Review And Nutrition Analysis",
     "descriptions": [
-        "Hi-Tek’s product line includes 1 dry recipe/flavor.",
-        "Each recipe below includes its related AAFCO nutrient profile when available on the product’s official webpage or packaging: Growth (G), Maintenance (M), All Life Stages (A), Supplemental (S) or Unspecified (U).",
+        "Hi-Tek\u2019s product line includes 1 dry recipe/flavor.",
+        "Each recipe below includes its related AAFCO nutrient profile when available on the product\u2019s official webpage or packaging: Growth (G), Maintenance (M), All Life Stages (A), Supplemental (S) or Unspecified (U).",
         "The star rating is a rough average of all of the flavors in a single line of food. If an individual recipe scored lower or higher, we will mark that below, next to the flavor."
     ],
     "key_benefits": [
@@ -20,6 +20,6 @@
         "Dry Matter Basis 43% 20% 23%",
         "Calorie Weighted Basis 37% 43% 20%"
     ],
-    "additives": "",
+    "additive": null,
     "calorie": ""
 }

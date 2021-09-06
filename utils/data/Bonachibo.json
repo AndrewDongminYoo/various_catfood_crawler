@@ -1,8 +1,8 @@
 [
     {
-        "brand": "Bonachibo",
         "url": "https://www.bonacibo.com/bonacibo-adult-cat-chicken/",
-        "title": "Bonacibo Adult Cat Chicken – Bonacibo Cat & Dog Food",
+        "brand": "Bonachibo",
+        "title": "Bonacibo Adult Cat Chicken \u2013 Bonacibo Cat & Dog Food",
         "descriptions": "BonaCibo Adult Cat is formulated with the optimum balance of protein, fats and carbohydrates to provide energy and vitality throughout life. Enriched with antioxidant vitamins and plant extracts BonaCibo Adult Cat also maximises health and immunity.",
         "key_benefits": [
             "Ideal Weight",
@@ -29,12 +29,13 @@
             "Vitamin B6 13,36 mg/kg",
             "Vitamin B12 0,08 mg/kg",
             "Pantothenic Acid 14,98 mg/kg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Bonachibo",
         "url": "https://www.bonacibo.com/bonacibo-adult-cat-lamb-rice/",
-        "title": "Bonacibo Adult Cat L&R – Bonacibo Cat & Dog Food",
+        "brand": "Bonachibo",
+        "title": "Bonacibo Adult Cat L&R \u2013 Bonacibo Cat & Dog Food",
         "descriptions": "BonaCibo Adult Cat Lamb & Rice is formulated with the optimum balance of protein, fats and carbohydrates to provide energy and vitality throughout life. It is also ideal for cats that prefer the delicious taste of lamb.",
         "key_benefits": [
             "Digestive Care",
@@ -61,12 +62,13 @@
             "Vitamin B6 13,36 mg/kg",
             "Vitamin B12 0,08 mg/kg",
             "Pantothenic Acid 14,98 mg/kg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Bonachibo",
         "url": "https://www.bonacibo.com/bonacibo-adult-cat-light-sterilised/",
-        "title": "Bonacibo Adult Cat L&S – Bonacibo Cat & Dog Food",
+        "brand": "Bonachibo",
+        "title": "Bonacibo Adult Cat L&S \u2013 Bonacibo Cat & Dog Food",
         "descriptions": "BonaCibo Adult Cat Light & Sterilised; is formulated for neutered or over weight cats. It contains carefullly balanced protein and fat levels to provide weight control in a healthy way, whilst still providing all of the essential nutrients in a delicious food.",
         "key_benefits": [
             "Weight Control Formula",
@@ -93,12 +95,13 @@
             "Vitamin B6 13,36 mg/kg",
             "Vitamin B12 0,08 mg/kg",
             "Pantothenic Acid 14,98 mg/kg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Bonachibo",
         "url": "https://www.bonacibo.com/bonacibo-kitten-chicken/",
-        "title": "Bonacibo Kitten Chicken – Bonacibo Cat & Dog Food",
+        "brand": "Bonachibo",
+        "title": "Bonacibo Kitten Chicken \u2013 Bonacibo Cat & Dog Food",
         "descriptions": "BonaCibo Kitten is formulated with the optimum balance of protein, fats and carbohydrates to provide healthy growth. It is also enriched with Omega-3 fats and essential minerals & vitamins to promote healthy metabolism and bone development.",
         "key_benefits": [
             "Healty Development",
@@ -125,6 +128,7 @@
             "Vitamin B6 17,53 mg/kg",
             "Vitamin B12 0,10 mg/kg",
             "Pantothenic Acid 20,61 mg/kg"
-        ]
+        ],
+        "calorie": null
     }
 ]

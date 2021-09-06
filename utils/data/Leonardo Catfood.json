@@ -1,9 +1,9 @@
 [
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/detail/0311540067d64322b0f3d6e98dd6ee77",
-        "title": "LEONARDO® Adult Duck - Size in kg: 0.4 kg",
-        "descriptions": "LEONARDO® Adult Duck is a tasty flavour for cats who love poultry. The recipe has also been improved with the addition of chia seed and delicious krill – crustaceans from the Antarctic. The high level of Omega-3 fatty acids, together with lecithin, helps keep skin healthy and coats shiny.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Adult Duck - Size in kg: 0.4 kg",
+        "descriptions": "LEONARDO\u00ae Adult Duck is a tasty flavour for cats who love poultry. The recipe has also been improved with the addition of chia seed and delicious krill \u2013 crustaceans from the Antarctic. The high level of Omega-3 fatty acids, together with lecithin, helps keep skin healthy and coats shiny.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
             "EASILY DIGESTIBLE",
@@ -11,17 +11,18 @@
             "HEALTHY, NATURAL ANTI-AGING SUPPLEMENT FOR CARDIOVASCULAR FITNESS AND VITALITY",
             "ALSO RECOMMENDED FOR LONG-HAIRED CATS"
         ],
-        "ingredients": "Fresh poultry meat (30 %); Duck protein, dried (18 %); Rice; Poultry protein, low ash, dried (10 %); Potato starch; Poultry fat; Poultry liver, hydrolysed; Rye, malted; Egg, dried; Fish meal from sea fish (2.5 %); Marine zooplankton, ground (Krill, 2.5 %); Brewers’ yeast, dried; Grape pips expeller (1.5 %); Chia seeds (1.3 %); Carob pods, dried; Guar gum; Sodium chloride; Potassium chloride; Chicory inulin",
+        "ingredients": "Fresh poultry meat (30 %); Duck protein, dried (18 %); Rice; Poultry protein, low ash, dried (10 %); Potato starch; Poultry fat; Poultry liver, hydrolysed; Rye, malted; Egg, dried; Fish meal from sea fish (2.5 %); Marine zooplankton, ground (Krill, 2.5 %); Brewers\u2019 yeast, dried; Grape pips expeller (1.5 %); Chia seeds (1.3 %); Carob pods, dried; Guar gum; Sodium chloride; Potassium chloride; Chicory inulin",
         "analysis": "Protein 32 %; Fat content 20 %; Crude ash 7.9 %; Crude fibre 2.3 %; Moisture 10 %; Calcium 1.2 %; Phosphorus 0.8 %; Sodium 0.4 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/detail/1ec3a178bea147c982afb735261b4bed",
-        "title": "LEONARDO® Adult Maxi GF - Size in kg: 0.3 kg",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Adult Maxi GF - Size in kg: 0.3 kg",
         "descriptions": "Big cat breeds, like the Norwegian Forest cat and the Maine Coon, have particular food requirements. The extra-large croquettes take the cats longer to chew, which is good for their teeth. This stimulates the flow of saliva.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
@@ -30,74 +31,78 @@
             "RECIPE WITH AMARANTH INSTEAD OF GRAIN",
             "PARTICULARLY SUITABLE FOR LARGE BREEDS"
         ],
-        "ingredients": "Fresh poultry meat (30 %); Poultry protein, low ash, dried (21 %); Amaranth (15 %); Pea flour; Potato starch; Poultry liver, hydrolysed; Poultry fat; Egg, dried; Marine zooplankton, ground (Krill, 2.5 %); Fish meal from sea fish (2.5 %); Brewers’ yeast, dried (2.5 %); Grape pips expeller; Chia seeds (1.3 %); Carob pods, dried; Guar gum; Sodium chloride; Potassium chloride; Dicalcium phosphate; Chicory inulin",
+        "ingredients": "Fresh poultry meat (30 %); Poultry protein, low ash, dried (21 %); Amaranth (15 %); Pea flour; Potato starch; Poultry liver, hydrolysed; Poultry fat; Egg, dried; Marine zooplankton, ground (Krill, 2.5 %); Fish meal from sea fish (2.5 %); Brewers\u2019 yeast, dried (2.5 %); Grape pips expeller; Chia seeds (1.3 %); Carob pods, dried; Guar gum; Sodium chloride; Potassium chloride; Dicalcium phosphate; Chicory inulin",
         "analysis": "Protein 32 %; Fat content 18 %; Crude ash 8.2 %; Crude fibre 2.8 %; Moisture 10 %; Calcium 1.0 %; Phosphorus 0.8 %; Sodium 0.4 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; L-carnitine 50 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/detail/42e5dba4529940a9b177265ce48fef56",
-        "title": "LEONARDO® Adult Poultry GF - Size in kg: 0.3 kg",
-        "descriptions": "No gluten or cereals are used in LEONARDO® Adult Poultry GF. Cereals have been replaced in this recipe by nutrient-rich amaranth. LEONARDO® Adult Poultry GF is the perfect solution for cats with food intolerances and cats that tend to suffer from allergies.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Adult Poultry GF - Size in kg: 0.3 kg",
+        "descriptions": "No gluten or cereals are used in LEONARDO\u00ae Adult Poultry GF. Cereals have been replaced in this recipe by nutrient-rich amaranth. LEONARDO\u00ae Adult Poultry GF is the perfect solution for cats with food intolerances and cats that tend to suffer from allergies.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
             "IDEAL FOR FOOD INTOLERANCES",
             "RECIPE WITH AMARANTH INSTEAD OF GRAIN",
             "SUITABLE FOR SENSITIVE CATS"
         ],
-        "ingredients": "Fresh poultry meat (30 %); Poultry protein, low ash, dried (22 %); Amaranth (15 %); Potato starch; Pea flour; Poultry fat; Poultry liver, hydrolysed; Marine zooplankton, ground (Krill, 2.5 %); Fish meal from sea fish (2.5 %); Brewers’ yeast, dried (2.5 %); Egg, dried; Grape pips expeller; Chia seeds (1.3 %); Carob pods, dried; Sodium chloride; Potassium chloride; Dicalcium phosphate; Chicory inulin",
+        "ingredients": "Fresh poultry meat (30 %); Poultry protein, low ash, dried (22 %); Amaranth (15 %); Potato starch; Pea flour; Poultry fat; Poultry liver, hydrolysed; Marine zooplankton, ground (Krill, 2.5 %); Fish meal from sea fish (2.5 %); Brewers\u2019 yeast, dried (2.5 %); Egg, dried; Grape pips expeller; Chia seeds (1.3 %); Carob pods, dried; Sodium chloride; Potassium chloride; Dicalcium phosphate; Chicory inulin",
         "analysis": "Protein 32 %; Fat content 18 %; Crude ash 8.2 %; Crude fibre 2.8 %; Moisture 10 %; Calcium 1.0 %; Phosphorus 0.7 %; Sodium 0.4 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2.000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/detail/6397426c23ca420992d33efb847a1d0c",
-        "title": "LEONARDO® Adult Fish - Size in kg: 0.4 kg",
-        "descriptions": "LEONARDO® Adult Fish offers a healthy selection of seafood ingredients. Enhanced with revitalizing krill (crustaceans from the Antarctic), the delicious croquettes from the LEONARDO® Adult range are a delight for fish lovers. The natural omega-3 fatty acids from the sea fish ensure a silky coat and healthy skin.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Adult Fish - Size in kg: 0.4 kg",
+        "descriptions": "LEONARDO\u00ae Adult Fish offers a healthy selection of seafood ingredients. Enhanced with revitalizing krill (crustaceans from the Antarctic), the delicious croquettes from the LEONARDO\u00ae Adult range are a delight for fish lovers. The natural omega-3 fatty acids from the sea fish ensure a silky coat and healthy skin.",
         "key_benefits": [
             "WITH EXTRA FRESH SALMON",
             "EASILY DIGESTIBLE",
             "KRILL AND CHIA SEEDS PROVIDE VALUABLE OMEGA-3 FATTY ACIDS",
             "ALSO RECOMMENDED FOR LONG-HAIRED CATS"
         ],
-        "ingredients": "Fresh salmon (30 %); Rice; Fish meal from sea fish (12.5 %); Poultry protein, low ash, dried (12.5 %); Maize; Poultry fat; Marine zooplankton, ground (Krill, 5 %); Poultry liver, hydrolysed; Rye, malted; Egg, dried; Brewers’ yeast, dried (2.5 %); Grape pips expeller (1.5 %); Chia seeds (1.3 %); Carob pods, dried; Sodium chloride; Potassium chloride; Chicory inulin",
+        "ingredients": "Fresh salmon (30 %); Rice; Fish meal from sea fish (12.5 %); Poultry protein, low ash, dried (12.5 %); Maize; Poultry fat; Marine zooplankton, ground (Krill, 5 %); Poultry liver, hydrolysed; Rye, malted; Egg, dried; Brewers\u2019 yeast, dried (2.5 %); Grape pips expeller (1.5 %); Chia seeds (1.3 %); Carob pods, dried; Sodium chloride; Potassium chloride; Chicory inulin",
         "analysis": "Protein 32 %; Fat content 20 %; Crude ash 8.5 %; Crude fibre 2.3 %; Moisture 10 %; Calcium 1.2 %; Phosphorus 0.8 %; Sodium 0.4 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/detail/65b88298209e4035b0f38f081d577aa6",
-        "title": "LEONARDO® Kitten - Size in kg: 0.4 kg",
-        "descriptions": "LEONARDO® Kitten is particularly easy to digest because it contains more fresh poultry, as well as chia seeds to regulate the gut. In the first few months of a kitten’s life, good digestion is particularly important for wellbeing.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Kitten - Size in kg: 0.4 kg",
+        "descriptions": "LEONARDO\u00ae Kitten is particularly easy to digest because it contains more fresh poultry, as well as chia seeds to regulate the gut. In the first few months of a kitten\u2019s life, good digestion is particularly important for wellbeing.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
             "PERFECTLY SIZED CROQUETTES",
             "EASILY DIGESTIBLE",
             "ADDED MALT FOR EXTRA FLAVOUR",
             "ALSO FOR QUEENS",
-            "STRENGTHENS THE BODY´S DEFENCE SYSTEM"
+            "STRENGTHENS THE BODY\u00b4S DEFENCE SYSTEM"
         ],
-        "ingredients": "Fresh poultry meat (30 %); Poultry protein, low ash, dried (27 %); Rice; Poultry fat; Maize; Poultry liver, hydrolysed; Rye, malted (3.8 %); Egg, dried; Whey powder; Marine zooplankton, ground (Krill, 2.5 %); Fish meal from sea fish (2.5 %); Brewers’ yeast, dried (2.5 %); Chia seeds (1.3 %); Carob pods, dried; Dicalcium phosphate; Potassium chloride; Sodium chloride; Chicory inulin",
+        "ingredients": "Fresh poultry meat (30 %); Poultry protein, low ash, dried (27 %); Rice; Poultry fat; Maize; Poultry liver, hydrolysed; Rye, malted (3.8 %); Egg, dried; Whey powder; Marine zooplankton, ground (Krill, 2.5 %); Fish meal from sea fish (2.5 %); Brewers\u2019 yeast, dried (2.5 %); Chia seeds (1.3 %); Carob pods, dried; Dicalcium phosphate; Potassium chloride; Sodium chloride; Chicory inulin",
         "analysis": "Protein 34 %; Fat content 22 %; Crude ash 8.5 %; Crude fibre 1.5 %; Moisture 10 %; Calcium 1.3 %; Phosphorus 0.9 %; Sodium 0.4 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/detail/8b75a697868240c898e963a69e8597bc",
-        "title": "LEONARDO® Senior - Size in kg: 0.4 kg",
-        "descriptions": "As cats grow older, their nutritional requirements change. Their energy requirements decrease and their immune systems weaken with age. LEONARDO® Senior is adapted to these changes with a special formulation to keep your cat ﬁt and healthy to a ripe old age.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Senior - Size in kg: 0.4 kg",
+        "descriptions": "As cats grow older, their nutritional requirements change. Their energy requirements decrease and their immune systems weaken with age. LEONARDO\u00ae Senior is adapted to these changes with a special formulation to keep your cat \ufb01t and healthy to a ripe old age.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
             "REDUCED ENERGY CONTENT FOR A GOOD FIGURE",
@@ -105,36 +110,38 @@
             "HEALTHY, NATURAL ANTI-AGING SUPPLEMENT FOR CARDIOVASCULAR FITNESS AND VITALITY",
             "SPECIAL DIETARY FIBRE FROM CHIA SEEDS REDUCE THE RISK OF CONSTIPATION"
         ],
-        "ingredients": "Fresh poultry meat (30 %); Rice; Poultry protein, low ash, dried (15 %); Maize; Poultry liver, hydrolysed; Fish meal from sea fish (4.5 %); Rye, malted; Poultry fat; Egg, dried; Marine zooplankton, ground (Krill, 2.5 %); Brewers’ yeast, dried (2.5 %); Chia seeds (2.5 %); Grape pips expeller (2.0 %); Carob pods, dried; Potassium chloride; Sodium chloride; Chicory inulin",
+        "ingredients": "Fresh poultry meat (30 %); Rice; Poultry protein, low ash, dried (15 %); Maize; Poultry liver, hydrolysed; Fish meal from sea fish (4.5 %); Rye, malted; Poultry fat; Egg, dried; Marine zooplankton, ground (Krill, 2.5 %); Brewers\u2019 yeast, dried (2.5 %); Chia seeds (2.5 %); Grape pips expeller (2.0 %); Carob pods, dried; Potassium chloride; Sodium chloride; Chicory inulin",
         "analysis": "Protein 28 %; Fat content 15 %; Crude ash 7.2 %; Crude fibre 2.8 %; Moisture 10 %; Calcium 0.9 %; Phosphorus 0.65 %; Sodium 0.3 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 17,000 IU; Vitamin D3 1,700 IU; Vitamin E 170 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; L-carnitine 50 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/leonardo-adult-complete-32-16",
-        "title": "LEONARDO® Adult Complete 32/16 - Size in kg: 15 kg",
-        "descriptions": "LEONARDO® Adult Complete 32/16, the tasty LEONARDO® Adult food with a moderate energy content (16% fat) for cats with low activity levels.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Adult Complete 32/16 - Size in kg: 15 kg",
+        "descriptions": "LEONARDO\u00ae Adult Complete 32/16, the tasty LEONARDO\u00ae Adult food with a moderate energy content (16% fat) for cats with low activity levels.",
         "key_benefits": [
             "THE LOW-COST RECIPE FOR ALL CATS",
             "REDUCED ENERGY CONTENT FOR A GOOD FIGURE",
             "LINSEED CONTAINS VALUABLE OMEGA-3 FATTY AND TOGETHER WITH LECITHIN, IT HELPS TO ENSURE HEALTHY SKIN AND BEAUTIFULLY GLOSSY FUR",
             "FOR CATS WITH LOW ACTIVITY LEVELS"
         ],
-        "ingredients": "Poultry protein, low ash, dried (33 %); Maize; Poultry fat; Wheat; Fish meal from sea fish (5 %); Rice; Rye, malted (4 %); Poultry liver, hydrolysed; Egg, dried; Brewers’ yeast, dried (2.5 %); Linseed (1.1 %); Sodium chloride; Potassium chloride; Chicory inulin",
+        "ingredients": "Poultry protein, low ash, dried (33 %); Maize; Poultry fat; Wheat; Fish meal from sea fish (5 %); Rice; Rye, malted (4 %); Poultry liver, hydrolysed; Egg, dried; Brewers\u2019 yeast, dried (2.5 %); Linseed (1.1 %); Sodium chloride; Potassium chloride; Chicory inulin",
         "analysis": "Protein 32 %; Fat content 16 %; Crude ash 7.2 %; Crude fibre 1.9 %; Moisture 10 %; Calcium 1.0 %; Phosphorus 0.9 %; Sodium 0.45 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/leonardo-adult-lamb",
-        "title": "LEONARDO® Adult Lamb - Size in kg: 0.4 kg",
-        "descriptions": "LEONARDO® Adult Lamb has a very special flavour. The high proportion of lamb in this formulation of the LEONARDO® Adult product line makes it particularly suitable for cats requiring special care because of food intolerances or intestinal problems.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Adult Lamb - Size in kg: 0.4 kg",
+        "descriptions": "LEONARDO\u00ae Adult Lamb has a very special flavour. The high proportion of lamb in this formulation of the LEONARDO\u00ae Adult product line makes it particularly suitable for cats requiring special care because of food intolerances or intestinal problems.",
         "key_benefits": [
             "WITH EXTRA FRESH LAMB",
             "VERY WELL TOLERATED",
@@ -142,47 +149,50 @@
             "SATISFIES WITHOUT OVERBURDENING",
             "ALSO RECOMMENDED FOR LONG-HAIRED CATS"
         ],
-        "ingredients": "Fresh lamb meat, liver, lung (total: 30%); Lamb protein, dried (14 %); Poultry protein, low ash, dried (14 %); Rice; Maize; Poultry fat; Poultry liver, hydrolysed; Rye, malted; Egg, dried; Marine zooplankton, ground (Krill, 2.5 %); Brewers’ yeast, dried (2.5 %); Fish meal from sea fish; Grape pips expeller; Chia seeds (1.3 %); Carob pods, dried; Sodium chloride; Potassium chloride; Chicory inulin; Herbs, dried (total: 0.05 %; Chamomile, Fennel, Mistletoe, Caraway, Gentian)",
+        "ingredients": "Fresh lamb meat, liver, lung (total: 30%); Lamb protein, dried (14 %); Poultry protein, low ash, dried (14 %); Rice; Maize; Poultry fat; Poultry liver, hydrolysed; Rye, malted; Egg, dried; Marine zooplankton, ground (Krill, 2.5 %); Brewers\u2019 yeast, dried (2.5 %); Fish meal from sea fish; Grape pips expeller; Chia seeds (1.3 %); Carob pods, dried; Sodium chloride; Potassium chloride; Chicory inulin; Herbs, dried (total: 0.05 %; Chamomile, Fennel, Mistletoe, Caraway, Gentian)",
         "analysis": "Protein 32 %; Fat content 20 %; Crude ash 8.5 %; Crude fibre 2.3 %; Moisture 10 %; Calcium 1.4 %; Phosphorus 1.0 %; Sodium 0.4 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/leonardo-adult-light",
-        "title": "LEONARDO® Adult Light - Size in kg: 2 kg",
-        "descriptions": "There are many causes of excess weight. Whether it is a consequence of incorrect feeding with too many treats, or due to hormones after castration, in all cases it reduces the agility of your pet and significantly increases the risk of illness. The early adjustment of diet by using a lower energy content cat food such as LEONARDO® Adult Light thus makes an important contribution to the health of the cat and helps put it back in top shape.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Adult Light - Size in kg: 2 kg",
+        "descriptions": "There are many causes of excess weight. Whether it is a consequence of incorrect feeding with too many treats, or due to hormones after castration, in all cases it reduces the agility of your pet and significantly increases the risk of illness. The early adjustment of diet by using a lower energy content cat food such as LEONARDO\u00ae Adult Light thus makes an important contribution to the health of the cat and helps put it back in top shape.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
             "REDUCED ENERGY CONTENT - HIGH PROTEIN CONTENT",
             "SATISFIES WITHOUT OVERBURDENING",
             "ALSO SUITABLE FOR STERILISED CATS"
         ],
-        "ingredients": "Fresh poultry meat (30 %); Poultry protein, low ash, dried (23 %); Rice; Maize; Fish meal from sea fish (9 %); Apple pomace, dried (4 %); Poultry liver, hydrolysed; Rye, malted; Egg, dried; Marine zooplankton, ground (Krill, 2.5 %); Oat bran (2.5 %); Brewers’ yeast, dried; Chia seeds (1.3 %); Poultry fat; Sodium chloride; Potassium chloride; Chicory inulin",
+        "ingredients": "Fresh poultry meat (30 %); Poultry protein, low ash, dried (23 %); Rice; Maize; Fish meal from sea fish (9 %); Apple pomace, dried (4 %); Poultry liver, hydrolysed; Rye, malted; Egg, dried; Marine zooplankton, ground (Krill, 2.5 %); Oat bran (2.5 %); Brewers\u2019 yeast, dried; Chia seeds (1.3 %); Poultry fat; Sodium chloride; Potassium chloride; Chicory inulin",
         "analysis": "Protein 35 %; Fat content 12.5 %; Crude ash 7.8 %; Crude fibre 3.5 %; Moisture 10 %; Calcium 1.0 %; Phosphorus 0.8 %; Sodium 0.4 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; L-carnitine 200 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     },
     {
-        "brand": "Leonardo Catfood",
         "url": "https://www.leonardo-catfood.com/leonardo-adult-salmon-gf",
-        "title": "LEONARDO® Adult Salmon GF - Size in kg: 0.3 kg",
-        "descriptions": "Tasty salmon for real fish fans. This LEONARDO® recipe has been specially developed for cats with food intolerances and cats that tend to suffer from allergies. It does not contain any gluten or cereals. Cereals have been replaced in this recipe by nutrient-rich amaranth.",
+        "brand": "Leonardo Catfood",
+        "title": "LEONARDO\u00ae Adult Salmon GF - Size in kg: 0.3 kg",
+        "descriptions": "Tasty salmon for real fish fans. This LEONARDO\u00ae recipe has been specially developed for cats with food intolerances and cats that tend to suffer from allergies. It does not contain any gluten or cereals. Cereals have been replaced in this recipe by nutrient-rich amaranth.",
         "key_benefits": [
             "WITH EXTRA FRESH SALMON",
             "IDEAL FOR FOOD INTOLERANCES",
             "RECIPE WITH AMARANTH INSTEAD OF GRAIN",
             "SUITABLE FOR SENSITIVE CATS"
         ],
-        "ingredients": "Fresh salmon (30 %); Fish meal from sea fish (20 %); Amaranth (15 %); Pea flour; Potato starch; Poultry fat; Marine zooplankton, ground (Krill, 5 %); Egg, dried (5 %); Poultry liver, hydrolysed; Brewers’ yeast, dried (2.5 %); Grape pips expeller; Chia seeds (1.3 %); Carob pods, dried; Potassium chloride; Chicory inulin",
+        "ingredients": "Fresh salmon (30 %); Fish meal from sea fish (20 %); Amaranth (15 %); Pea flour; Potato starch; Poultry fat; Marine zooplankton, ground (Krill, 5 %); Egg, dried (5 %); Poultry liver, hydrolysed; Brewers\u2019 yeast, dried (2.5 %); Grape pips expeller; Chia seeds (1.3 %); Carob pods, dried; Potassium chloride; Chicory inulin",
         "analysis": "Protein 32 %; Fat content 20 %; Crude ash 8.4 %; Crude fibre 2.8 %; Moisture 10 %; Calcium 1.1 %; Phosphorus 0.8 %; Sodium 0.4 %; Magnesium 0.09 %",
         "additive": [
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
-        ]
+        ],
+        "calorie": null
     }
 ]

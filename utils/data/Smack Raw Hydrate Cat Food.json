@@ -1,9 +1,10 @@
 [
     {
-        "brand": "Smack Raw Hydrate Cat Food",
         "url": "https://ca.smackpetfood.com/collections/cats/products/pacific-fish-feast",
-        "title": "Pacific Fish Feast (CAT) – Smack Pet Food",
+        "brand": "Smack Raw Hydrate Cat Food",
+        "title": "Pacific Fish Feast (CAT) \u2013 Smack Pet Food",
         "descriptions": "",
+        "key_benefits": null,
         "ingredients": "Wild Rockfish, Wild Herring, Pumpkin*, Spinach*, Celery*, Apple*, Parsley*, Kale*, Turmeric*, Tocopherols*.",
         "analysis": [
             "Crude Protein (min.) - 50.0%",
@@ -15,13 +16,15 @@
             "Carbohydrates (max.) - 3.5%",
             "Taurine (min.) - 0.27%"
         ],
+        "additive": null,
         "calorie": "CALORIE CONTENT (CALCULATED): 5500 kcal/kg, 550 kcal/cup"
     },
     {
-        "brand": "Smack Raw Hydrate Cat Food",
         "url": "https://ca.smackpetfood.com/collections/cats/products/purrfect-pork",
-        "title": "Purrfect Pork (CAT) – Smack Pet Food",
+        "brand": "Smack Raw Hydrate Cat Food",
+        "title": "Purrfect Pork (CAT) \u2013 Smack Pet Food",
         "descriptions": "",
+        "key_benefits": null,
         "ingredients": "Pork (Bone-In), Pork Organs (Heart, Liver, Kidney, Tongue, and Spleen), Pumpkin*, Kale*, Apple*, Celery*, Blueberry*, Cranberry*, Turmeric*, Tocopherols*.",
         "analysis": [
             "Crude Protein (min.) - 40.0%",
@@ -33,13 +36,15 @@
             "Phosphorus (min.) - 1.22%",
             "Taurine (min.) - 0.27%"
         ],
+        "additive": null,
         "calorie": "CALORIE CONTENT (CALCULATED): 4600 kcal/kg, 460 kcal/cup"
     },
     {
-        "brand": "Smack Raw Hydrate Cat Food",
         "url": "https://ca.smackpetfood.com/collections/cats/products/very-berry-for-cats-crunchy-style-240-g",
-        "title": "Very Berry for Cats – Smack Pet Food",
+        "brand": "Smack Raw Hydrate Cat Food",
+        "title": "Very Berry for Cats \u2013 Smack Pet Food",
         "descriptions": "",
+        "key_benefits": null,
         "ingredients": "Chicken*, Wild Salmon, Chicken Liver, Chicken Gizzard, Chicken Heart, Cranberry*, Blueberry*, Parsley*, Thyme*, Strawberry*, Spinach*, Celery*, Tocopherols*.",
         "analysis": [
             "Crude Protein (min.) - 52.0%",
@@ -55,6 +60,7 @@
             "Zinc (min.) - 84mg/kg",
             "Taurine (min.) - 0.23%"
         ],
+        "additive": null,
         "calorie": "CALORIE CONTENT (CALCULATED): 4740 kcal/kg, 474 kcal/cup"
     }
 ]

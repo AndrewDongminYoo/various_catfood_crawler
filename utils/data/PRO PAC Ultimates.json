@@ -1,7 +1,7 @@
 [
     {
-        "brand": "PRO PAC Ultimates",
         "url": "http://catfooddb.com/product/pro%20pac/Deep+Sea+Select+Indoor+Formula",
+        "brand": "PRO PAC Ultimates",
         "title": "Pro Pac Deep Sea Select Indoor Formula Cat Food Review (2021)",
         "descriptions": "Overall, Pro Pac Deep Sea Select Indoor Formula is a below average cat food, earning 5 out of a possible 10 paws based on its nutritional analysis and ingredient list. For more information on our cat food analysis techniques, please click here.",
         "key_benefits": [
@@ -13,11 +13,12 @@
         ],
         "ingredients": "Whitefish Meal, Peas, Pea Protein, Canola Oil (Preserved with Mixed Tocopherols), Dried Egg Product, Chickpeas, Tapioca, Dried Beet Pulp, Powdered Cellulose, Natural Flavors, Apples, Blueberries, Cranberries, Carrots, Spinach, Potassium Chloride, Choline Chloride, Taurine, DL-Methionine, L-Lysine, Calcium Sulfate, Beta-Carotene, Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Zinc Sulfate, Niacin, Ferrous Sulfate, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Calcium Pantothenate, Thiamine Mononitrate, Copper Sulfate, Riboflavin Supplement, Pyridoxine Hydrochloride, Manganese Sulfate, Zinc Proteinate, Folic Acid, Calcium Iodate, Manganese Proteinate, Copper Proteinate, Biotin, Sodium Selenite, Cobalt Carbonate, Vitamin B12 Supplement, Yucca Schidigera Extract, Rosemary Extract",
         "analysis": "Protein: (min) 32.0% Fat: (min) 15.0% Fiber: (max) 9.0%   Carbs: (est) 34.0% Ash: (est) 0.0% Moisture: (max) 10.0%",
+        "additive": null,
         "calorie": "Using the calculations provided by the AAFCO, Pro Pac Deep Sea Select Indoor Formula has approximately 359 calories per 100g (101 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
     },
     {
-        "brand": "PRO PAC Ultimates",
         "url": "http://catfooddb.com/product/pro%20pac/Savanna+Pride+Indoor+Formula",
+        "brand": "PRO PAC Ultimates",
         "title": "Pro Pac Savanna Pride Indoor Formula Cat Food Review (2021)",
         "descriptions": "Overall, Pro Pac Savanna Pride Indoor Formula is an average cat food, earning 6 out of a possible 10 paws based on its nutritional analysis and ingredient list. For more information on our cat food analysis techniques, please click here.",
         "key_benefits": [
@@ -29,6 +30,7 @@
         ],
         "ingredients": "Chicken Meal, Peas, Chicken Fat (Preserved with Mixed Tocopherols), Chickpeas, Tapioca, Dried Beet Pulp, Whitefish Meal, Powdered Cellulose, Pea Protein, Natural Flavors, Flaxseed, Dried Egg Product, Apples, Blueberries, Cranberries, Carrots, Spinach, Potassium Chloride, Choline Chloride, Taurine, DL-Methionine, L-Lysine, Calcium Sulfate, Beta-Carotene, Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Zinc Sulfate, Niacin, Ferrous Sulfate, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Calcium Pantothenate, Thiamine Mononitrate, Copper Sulfate, Riboflavin Supplement, Pyridoxine Hydrochloride, Manganese Sulfate, Zinc Proteinate, Folic Acid, Calcium Iodate, Manganese Proteinate, Copper Proteinate, Biotin, Sodium Selenite, Cobalt Carbonate, Vitamin B12 Supplement, Yucca Schidigera Extract, Rosemary Extract",
         "analysis": "Protein: (min) 34.0% Fat: (min) 15.0% Fiber: (max) 9.0%   Carbs: (est) 32.0% Ash: (est) 0.0% Moisture: (max) 10.0%",
+        "additive": null,
         "calorie": "Using the calculations provided by the AAFCO, Pro Pac Savanna Pride Indoor Formula has approximately 359 calories per 100g (101 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
     }
 ]

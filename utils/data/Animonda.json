@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Animonda",
         "url": "https://www.animonda.de/en/product/carny-katze-ocean-adult-tuna-seafood-dose",
+        "brand": "Animonda",
         "title": "Carny Ocean Tuna + seafood | Fish Fillets | animonda",
         "descriptions": "Carny Ocean, with its fine fish fillets stands for tasty delicacies at the highest level for adult cats. Tender, wholesome fish expertly blended with delicious ingredients like beef, calamari or shrimp, guaranteeing true pleasure.",
         "key_benefits": [
@@ -20,11 +20,12 @@
             "crude ash2 %",
             "moisture83 %."
         ],
+        "additive": null,
         "calorie": "Metabolizable energy per 100g in MJ: 0,27"
     },
     {
-        "brand": "Animonda",
         "url": "https://www.animonda.de/en/product/carny-katze-ocean-adult-white-tuna-beef-dose",
+        "brand": "Animonda",
         "title": "Carny Ocean White tuna + beef | Fish Fillets | animonda",
         "descriptions": "Carny Ocean, with its fine fish fillets stands for tasty delicacies at the highest level for adult cats. Tender, wholesome fish expertly blended with delicious ingredients like beef, calamari or shrimp, guaranteeing true pleasure.",
         "key_benefits": [
@@ -43,11 +44,12 @@
             "crude ash2 %",
             "moisture83 %."
         ],
+        "additive": null,
         "calorie": "Metabolizable energy per 100g in MJ: 0,27"
     },
     {
-        "brand": "Animonda",
         "url": "https://www.animonda.de/en/product/carny-katze-ocean-adult-white-tuna-red-snapper-dose",
+        "brand": "Animonda",
         "title": "Carny Ocean White tuna + red snapper | Fish Fillets | animonda",
         "descriptions": "Carny Ocean, with its fine fish fillets stands for tasty delicacies at the highest level for adult cats. Tender, wholesome fish expertly blended with delicious ingredients like beef, calamari or shrimp, guaranteeing true pleasure.",
         "key_benefits": [
@@ -60,6 +62,7 @@
         ],
         "ingredients": "White tuna (40 %), red snapper (6 %).",
         "analysis": "Metabolizable energy per 100g in MJ: 0,27",
+        "additive": null,
         "calorie": [
             "Protein11 %",
             "fat content1 %",
@@ -69,8 +72,8 @@
         ]
     },
     {
-        "brand": "Animonda",
         "url": "https://www.animonda.de/en/product/carny-katze-ocean-adult-white-tuna-shrimps-dose",
+        "brand": "Animonda",
         "title": "Carny Ocean White tuna + shrimps | Fish Fillets | animonda",
         "descriptions": "Carny Ocean, with its fine fish fillets stands for tasty delicacies at the highest level for adult cats. Tender, wholesome fish expertly blended with delicious ingredients like beef, calamari or shrimp, guaranteeing true pleasure.",
         "key_benefits": [
@@ -89,11 +92,12 @@
             "crude ash 2 %",
             "moisture 83 %."
         ],
+        "additive": null,
         "calorie": "Metabolizable energy per 100g in MJ: 0,27"
     },
     {
-        "brand": "Animonda",
         "url": "https://www.animonda.de/produkt/integra-protect-katze-diabetes-adult-mit-gefluegel-schale",
+        "brand": "Animonda",
         "title": "INTEGRA PROTECT Diabetes with poultry | animonda",
         "descriptions": [
             "INTEGRA PROTECT Diabetes was specially developed for cats with diabetes mellitus. The high content of protein and the modest supply of carbohydrates ensure a moderate increase of blood glucose after feed intake. INTEGRA PROTECT Diabetes therefore provides an above-average 45 % of its energy in the form of proteins.",
@@ -119,11 +123,12 @@
             "totalsugar n.d.",
             "taurine0,6 g/kg."
         ],
+        "additive": null,
         "calorie": "Metabolizable energy per 100g in MJ: 0,4"
     },
     {
-        "brand": "Animonda",
         "url": "https://www.animonda.de/produkt/integra-protect-katze-diabetes-adult-mit-lachs-schale",
+        "brand": "Animonda",
         "title": "INTEGRA PROTECT Diabetes with salmon | animonda",
         "descriptions": [
             "INTEGRA PROTECT Diabetes was specially developed for cats with diabetes mellitus. The high content of protein and the modest supply of carbohydrates ensure a moderate increase of blood glucose after feed intake. INTEGRA PROTECT Diabetes therefore provides an above-average 45 % of its energy in the form of proteins.",
@@ -149,11 +154,12 @@
             "totalsugar n.d.",
             "taurine0,6 g/kg."
         ],
+        "additive": null,
         "calorie": "Metabolizable energy per 100g in MJ: 0,4"
     },
     {
-        "brand": "Animonda",
         "url": "https://www.animonda.de/produkt/integra-protect-katze-diabetes-adult-mit-rind-schale",
+        "brand": "Animonda",
         "title": "INTEGRA PROTECT Diabetes with beef | animonda",
         "descriptions": [
             "INTEGRA PROTECT Diabetes was specially developed for cats with diabetes mellitus. The high content of protein and the modest supply of carbohydrates ensure a moderate increase of blood glucose after feed intake. INTEGRA PROTECT Diabetes therefore provides an above-average 45 % of its energy in the form of proteins.",
@@ -179,6 +185,7 @@
             "totalsugar n.d.",
             "taurine0,6 g/kg."
         ],
+        "additive": null,
         "calorie": "Metabolizable energy per 100g in MJ: 0,4"
     }
 ]

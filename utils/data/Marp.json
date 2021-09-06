@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Marp",
         "url": "https://www.marppetfood.com/marp-holistic-pure-beef-for-cats-100g",
+        "brand": "Marp",
         "title": "Marp | Marp Holistic Pure Beef | Marp Holistic | Canned food for cats | For cats, Products",
         "descriptions": "We know that cat is carnivore and therefore we respect it as such. Marp Pure canned food contains 100% proteins from animal sources. They contain only meat, offal, broth and minerals. We do not use any artificial preservatives, colorants, fillers and so on. Marp canned food with beef grain free is suitable for cats with sensitive digestion and in our experience is very suitable for cats with food allergies.",
         "key_benefits": [
@@ -15,11 +15,12 @@
         ],
         "ingredients": "Ingredients: 70% (Beef Hearts, Beef Meat, Beef Liver, Beef Lung), 28,5% Broth, 1% Minerals, 0,5% Sunflower Oil.",
         "analysis": "Analytical Constituents: Crude Protein 10.80% Crude Fat 6.90% Crude Fiber 0.30% Crude Ash 2.10% Moisture 78%",
-        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Taurine 1500 mg."
+        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Taurine 1500 mg.",
+        "calorie": null
     },
     {
-        "brand": "Marp",
         "url": "https://www.marppetfood.com/marp-holistic-pure-chicken-for-cats-100g",
+        "brand": "Marp",
         "title": "Marp | Marp Holistic Pure Chicken | Marp Holistic | Canned food for cats | For cats, Products",
         "descriptions": "We know that cat is carnivore and therefore we respect it as such. Marp Pure canned food contains 100% proteins from animal sources. They contain only meat, offal, broth and minerals. We do not use any artificial preservatives, colorants, fillers and so on. Marp canned food with chicken grain free is suitable for cats with sensitive digestion and in our experience is very suitable for cats with food allergies.",
         "key_benefits": [
@@ -33,11 +34,12 @@
         ],
         "ingredients": "Ingredients: 70% (Chicken Hearts, Chicken Meat, Chicken Liver, Chicken Stomach, Chicken Necks), 29% Broth, 1% Minerals.",
         "analysis": "Analytical Constituents: Crude Protein 10.30% Crude Fat 5.20% Crude Fiber 0.50% Crude Ash 2.50% Moisture 80%",
-        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Copper as cupric-sulfate, Pentahydrate (E4) 0,5 mg, Taurine 1500 mg."
+        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Copper as cupric-sulfate, Pentahydrate (E4) 0,5 mg, Taurine 1500 mg.",
+        "calorie": null
     },
     {
-        "brand": "Marp",
         "url": "https://www.marppetfood.com/marp-holistic-pure-salmon-for-cats-100g",
+        "brand": "Marp",
         "title": "Marp | Marp Holistic Pure Salmon | Marp Holistic | Canned food for cats | For cats, Products",
         "descriptions": "We know that cat is carnivore and therefore we respect it as such. Marp Pure canned food contains 100% proteins from animal sources. They contain only meat, offal, broth and minerals. We do not use any artificial preservatives, colorants, fillers and so on. Marp canned food with salmon grain free is suitable for cats with sensitive digestion and in our experience is very suitable for cats with food allergies.",
         "key_benefits": [
@@ -51,6 +53,7 @@
         ],
         "ingredients": "Ingredients: 70% Salmon, 29% Broth, 1% Minerals.",
         "analysis": "Analytical Constituents: Crude Protein 9.80% Crude Fat 8.00% Crude Fiber 0.40% Crude Ash 3.00% Moisture 78%",
-        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Copper as cupric-sulfate, Pentahydrate (E4) 2 mg, Taurine 1500 mg."
+        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Copper as cupric-sulfate, Pentahydrate (E4) 2 mg, Taurine 1500 mg.",
+        "calorie": null
     }
 ]

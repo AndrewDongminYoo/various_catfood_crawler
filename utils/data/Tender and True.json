@@ -1,7 +1,7 @@
 [
     {
-        "brand": "Tender and True",
         "url": "https://tenderandtruepet.com/catfoodrecipes/ocean_whitefish_dry/",
+        "brand": "Tender and True",
         "title": "Ocean Whitefish and Potato Dry Cat Food - Tender and True Pet",
         "descriptions": "We start with ocean-caught whitefish as the #1 ingredient. Our recipes are made with a precise blend of natural ingredients, antioxidants, vitamins and minerals expressly blended for optimal nutrition.",
         "key_benefits": [
@@ -25,17 +25,18 @@
             "Omega 6 Fatty Acids* Min 2.75%",
             "Omega 3 Fatty Acids* Min  2.65%"
         ],
+        "additive": null,
         "calorie": "Calorie Content (ME Calculated as Fed): 3,650 kcal/kg; 365 kcal/cup"
     },
     {
-        "brand": "Tender and True",
         "url": "https://tenderandtruepet.com/catfoodrecipes/salmon-sweet-potato-recipe-dry-cat-food/",
+        "brand": "Tender and True",
         "title": "Salmon and Sweet Potato Dry Cat Food - Tender and True Pet",
         "descriptions": "We start with wild-caught Alaskan salmon as the #1 ingredient. Our recipes are made with a precise blend of natural ingredients, antioxidants, vitamins and minerals expressly blended for optimal nutrition.",
         "key_benefits": [
             "#1 ingredient is wild-caught Alaskan salmon",
             "MSC certified sustainable seafood",
-            "Limited ingredient diet – no poultry",
+            "Limited ingredient diet \u2013 no poultry",
             "Grain free recipe",
             "100% balanced nutrition, with added vitamins, minerals & other trace nutrients",
             "No artificial preservatives, colors or flavors",
@@ -55,17 +56,18 @@
             "Omega 6 Fatty Acids* Min 1.25%",
             "Omega 3 Fatty Acids* Min  2.25%"
         ],
+        "additive": null,
         "calorie": "Calorie Content (ME Calculated as Fed): 4,700 kcal/kg; 470 kcal/cup"
     },
     {
-        "brand": "Tender and True",
         "url": "https://tenderandtruepet.com/catfoodrecipes/turkey_and_brown_rice_dry/",
+        "brand": "Tender and True",
         "title": "Turkey and Brown Rice Dry Cat Food - Tender and True Pet",
         "descriptions": "We start with natural turkey Raised Without Antibiotics as the #1 ingredient. Our recipes are made with a precise blend of natural ingredients, antioxidants, vitamins and minerals expressly blended for optimal nutrition.",
         "key_benefits": [
             "#1 ingredient: all natural farm raised without antibiotics turkey",
             "100% balanced nutrition, with added vitamins, minerals & other trace nutrients",
-            "GAP Certified – Step 1 humanely raised turkey",
+            "GAP Certified \u2013 Step 1 humanely raised turkey",
             "No corn, wheat or soy recipe",
             "No artificial preservatives, colors or flavors",
             "No added hormones*",
@@ -84,11 +86,12 @@
             "Omega 6 Fatty Acids* Min 3%",
             "Omega 3 Fatty Acids* Min 2%"
         ],
+        "additive": null,
         "calorie": "Calorie Content (ME Calculated as Fed): 3,500 kcal/kg; 350 kcal/cup"
     },
     {
-        "brand": "Tender and True",
         "url": "https://tenderandtruepet.com/chicken-and-brown-rice-dry-cat-food/",
+        "brand": "Tender and True",
         "title": "Chicken and Brown Rice Dry Cat Food - Tender and True Pet",
         "descriptions": "We start with natural chicken Raised Without Antibiotics as the #1 ingredient. Our recipes are made with a precise blend of natural ingredients, antioxidants, vitamins and minerals expressly blended for optimal nutrition.",
         "key_benefits": [
@@ -113,18 +116,19 @@
             "Omega 6 Fatty Acids* Min 3%",
             "Omega 3 Fatty Acids* Min  2%"
         ],
+        "additive": null,
         "calorie": "Calorie Content (ME Calculated as Fed): 3,700 kcal/kg; 370 kcal/cup"
     },
     {
-        "brand": "Tender and True",
         "url": "https://tenderandtruepet.com/chicken-liver-organic-dry-cat-food/",
+        "brand": "Tender and True",
         "title": "Organic Chicken & Liver Dry Cat Food - Tender and True Pet",
         "descriptions": "We start with organic chicken as the #1 ingredient within all of our organic pet foods. Our recipes are made with a precise blend of organic ingredients, antioxidants, vitamins and minerals expressly blended for optimal nutrition.",
         "key_benefits": [
             "#1 ingredient: organic U.S. farm raised chicken",
             "Grain free recipe",
             "100% balanced nutrition, with added vitamins, minerals & other trace nutrients",
-            "GAP Certified – Step 3 humanely raised chicken",
+            "GAP Certified \u2013 Step 3 humanely raised chicken",
             "No corn, wheat or soy recipe",
             "No artificial preservatives, colors or flavors",
             "No added hormones*",
@@ -143,18 +147,19 @@
             "Omega 6 Fatty Acids* Min 4%",
             "Omega 3 Fatty Acids* Min  1.7%"
         ],
+        "additive": null,
         "calorie": "Calorie Content (ME Calculated as Fed): 3,500 kcal/kg; 350 kcal/cup"
     },
     {
-        "brand": "Tender and True",
         "url": "https://tenderandtruepet.com/org-turkey-liver-dry-cat-food/",
+        "brand": "Tender and True",
         "title": "Organic Turkey & Liver Dry Cat Food - Tender and True Pet",
         "descriptions": "We start with organic turkey as the #1 ingredient. Our recipes are made with a precise blend of organic ingredients, antioxidants, vitamins and minerals expressly blended for optimal nutrition.",
         "key_benefits": [
             "#1 ingredient: organic U.S. farm raised turkey",
             "Grain free recipe",
             "100% balanced nutrition, with added vitamins, minerals & other trace nutrients",
-            "GAP Certified – Step 1 humanely raised turkey",
+            "GAP Certified \u2013 Step 1 humanely raised turkey",
             "No corn, wheat or soy recipe",
             "No artificial preservatives, colors or flavors",
             "No added hormones*",
@@ -173,6 +178,7 @@
             "Omega 6 Fatty Acids* Min 3.75%",
             "Omega 3 Fatty Acids* Min  1.5%"
         ],
+        "additive": null,
         "calorie": "Calorie Content (ME Calculated as Fed): 3,650 kcal/kg; 365 kcal/cup"
     }
 ]
