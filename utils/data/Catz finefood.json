@@ -5,9 +5,31 @@
         "title": "catz finefood Classic Kitten N° 03 Geflügel 85g | Pets Nature Online-Shop",
         "descriptions": "Inspiration für unsere Rezepturen sind die natürlichen Beutetiere von Katzen: catz finefood Classic Kitten enthält viel frisches Fleisch, Innereien und Kochsud, ergänzt mit weiteren sinnvollen Zutaten. Alle Sorten enthalten Eierschalen, die ein natürlicher Lieferant für Calcium sind. Calcium trägt zu einer normalen Muskelfunktion bei und wird für den Erhalt normaler Knochen benötigt.",
         "key_benefits": null,
-        "ingredients": "Geflügel 69 % (bestehend aus Muskelfleisch, Herz, Magen, Leber und Hals), Geflügelsud 26,65 %, Preiselbeeren 2 %, Löwenzahn 1 %, Mineralstoffe 1 %, Distelöl 0,15 %, Eierschalenmehl 0,1 %, Ringelblume 0,1 %",
-        "analysis": "Rohprotein 11 %, Fettgehalt 5,9 %, Rohasche 2,2 %, Rohfaser 0,5 %, Feuchtigkeit 80 %",
-        "additive": "Vitamin D3 (3a671) 200 I.E., Zink (3b603) 25mg, Mangan (3b503) 1,4mg, Kupfer (3b405) 1 mg, Jod (3b202) 0,75mg, Taurin (3a370) 1500mg",
+        "ingredients": [
+            "Geflügel 69 % (bestehend aus Muskelfleisch, Herz, Magen, Leber und Hals)",
+            "Geflügelsud 26;65 %",
+            "Preiselbeeren 2 %",
+            "Löwenzahn 1 %",
+            "Mineralstoffe 1 %",
+            "Distelöl 0;15 %",
+            "Eierschalenmehl 0;1 %",
+            "Ringelblume 0;1 %"
+        ],
+        "analysis": [
+            "Rohprotein 11 %",
+            "Fettgehalt 5,9 %",
+            "Rohasche 2,2 %",
+            "Rohfaser 0,5 %",
+            "Feuchtigkeit 80 %"
+        ],
+        "additive": [
+            "Vitamin D3 (3a671) 200 I.E.",
+            "Zink (3b603) 25mg",
+            "Mangan (3b503) 1;4mg",
+            "Kupfer (3b405) 1 mg",
+            "Jod (3b202) 0;75mg",
+            "Taurin (3a370) 1500mg"
+        ],
         "calorie": ""
     },
     {
@@ -16,9 +38,31 @@
         "title": "catz finefood Fillets N°403 - Huhn in Jelly | Pets Nature Online-Shop",
         "descriptions": "Mit catz finefood Fillets in Jelly servieren Sie Ihren Samtpfoten schmackhaftes Filetfleisch in delikatem Gelee. Natürliche Zutaten und die Verwendung von bestem Filetfleisch sorgen für große Akzeptanz auch bei besonders wählerischen Katzen. Viele Stubentiger und Outdoor-Abenteurer lieben zartes Filetfleisch, jedoch sind die meisten erhältlichen Katzenfutter dieser Art nur Ergänzungsfutter. Nicht so unser catz finefood Fillets in Jelly!",
         "key_benefits": null,
-        "ingredients": "Hühnerfilet 50 %, Brühe 38,6 %, Hühnerleber 5 %, Hühnerfett 5 %, Mineralstoffe 1 %, Chiasamen 0,2 %, Nachtkerzenöl 0,2 %",
-        "analysis": "Feuchtigkeit 80 %, Rohprotein 10,8 %, Fettgehalt 5,6 %, Rohasche 2 %, Rohfaser 0,4 %",
-        "additive": "Vitamin D3 200 I.E., Taurin 1500 mg, Zinksulfat, Monohydrat 15 mg, Mangan-II-Sulfat, Monohydrat 3 mg, Calciumjodat wasserfrei 0,75 mg",
+        "ingredients": [
+            "Hühnerfilet 50 %",
+            "Brühe 38,6 %",
+            "Hühnerleber 5 %",
+            "Hühnerfett 5 %",
+            "Mineralstoffe 1 %",
+            "Chiasamen 0,2 %",
+            "Nachtkerzenöl 0,2 %"
+        ],
+        "analysis": [
+            "Feuchtigkeit 80 %",
+            "Rohprotein 10,8 %",
+            "Fettgehalt 5,6 %",
+            "Rohasche 2 %",
+            "Rohfaser 0,4 %"
+        ],
+        "additive": [
+            "Vitamin D3 200 I.E.",
+            "Taurin 1500 mg",
+            "Zinksulfat",
+            "Monohydrat 15 mg",
+            "Mangan-II-Sulfat",
+            "Monohydrat 3 mg",
+            "Calciumjodat wasserfrei 0,75 mg"
+        ],
         "calorie": "95,45 kcal/100g"
     },
     {
@@ -27,9 +71,32 @@
         "title": "catz finefood Fillets N°405 - Pute, Huhn & Lachs in Jelly | Pets Nature Online-Shop",
         "descriptions": "Mit catz finefood Fillets in Jelly servieren Sie Ihren Samtpfoten schmackhaftes Filetfleisch in delikatem Gelee. Natürliche Zutaten und die Verwendung von bestem Filetfleisch sorgen für große Akzeptanz auch bei besonders wählerischen Katzen. Viele Stubentiger und Outdoor-Abenteurer lieben zartes Filetfleisch, jedoch sind die meisten erhältlichen Katzenfutter dieser Art nur Ergänzungsfutter. Nicht so unser catz finefood Fillets in Jelly!",
         "key_benefits": null,
-        "ingredients": "Putenfilet 40 %, Brühe 38,6 %, Lachs 10 %, Putenleber 5 %, Hühnerfett 5 %, Mineralstoffe 1 %, Chiasamen 0,2 %, Lachsöl 0,2 %",
-        "analysis": "Feuchtigkeit 80 %, Rohprotein 10,6 %, Fettgehalt 5,6 %, Rohasche 2 %, Rohfaser 0,4 %",
-        "additive": "Vitamin D3 200 I.E., Taurin 1500 mg, Zinksulfat, Monohydrat 15 mg, Mangan-II-Sulfat, Monohydrat 3 mg, Calciumjodat wasserfrei 0,75 mg",
+        "ingredients": [
+            "Putenfilet 40 %",
+            "Brühe 38,6 %",
+            "Lachs 10 %",
+            "Putenleber 5 %",
+            "Hühnerfett 5 %",
+            "Mineralstoffe 1 %",
+            "Chiasamen 0,2 %",
+            "Lachsöl 0,2 %"
+        ],
+        "analysis": [
+            "Feuchtigkeit 80 %",
+            "Rohprotein 10,6 %",
+            "Fettgehalt 5,6 %",
+            "Rohasche 2 %",
+            "Rohfaser 0,4 %"
+        ],
+        "additive": [
+            "Vitamin D3 200 I.E.",
+            "Taurin 1500 mg",
+            "Zinksulfat",
+            "Monohydrat 15 mg",
+            "Mangan-II-Sulfat",
+            "Monohydrat 3 mg",
+            "Calciumjodat wasserfrei 0,75 mg"
+        ],
         "calorie": "95,37 kcal/100g"
     },
     {
@@ -38,9 +105,32 @@
         "title": "catz finefood Fillets N°409 - Pute, Huhn & Kaninchen in Jelly | Pets Nature Online-Shop",
         "descriptions": "Mit catz finefood Fillets in Jelly servieren Sie Ihren Samtpfoten schmackhaftes Filetfleisch in delikatem Gelee. Natürliche Zutaten und die Verwendung von bestem Filetfleisch sorgen für große Akzeptanz auch bei besonders wählerischen Katzen. Viele Stubentiger und Outdoor-Abenteurer lieben zartes Filetfleisch, jedoch sind die meisten erhältlichen Katzenfutter dieser Art nur Ergänzungsfutter. Nicht so unser catz finefood Fillets in Jelly!",
         "key_benefits": null,
-        "ingredients": "Putenfilet 40 %, Brühe 38,6 %, Kaninchenherzen 10 %, Putenleber 5 %, Hühnerfett 5 %, Mineralstoffe 1 %, Chiasamen 0,2 %, Borretschöl 0,2 %",
-        "analysis": "Feuchtigkeit 80 %, Rohprotein 10,9 %, Fettgehalt 5 %, Rohasche 2,1 %, Rohfaser 0,4 %",
-        "additive": "Vitamin D3 200 I.E., Taurin 1500 mg, Zinksulfat, Monohydrat 15 mg, Mangan-II-Sulfat, Monohydrat 3 mg, Calciumjodat wasserfrei 0,75 mg",
+        "ingredients": [
+            "Putenfilet 40 %",
+            "Brühe 38,6 %",
+            "Kaninchenherzen 10 %",
+            "Putenleber 5 %",
+            "Hühnerfett 5 %",
+            "Mineralstoffe 1 %",
+            "Chiasamen 0,2 %",
+            "Borretschöl 0,2 %"
+        ],
+        "analysis": [
+            "Feuchtigkeit 80 %",
+            "Rohprotein 10,9 %",
+            "Fettgehalt 5 %",
+            "Rohasche 2,1 %",
+            "Rohfaser 0,4 %"
+        ],
+        "additive": [
+            "Vitamin D3 200 I.E.",
+            "Taurin 1500 mg",
+            "Zinksulfat",
+            "Monohydrat 15 mg",
+            "Mangan-II-Sulfat",
+            "Monohydrat 3 mg",
+            "Calciumjodat wasserfrei 0,75 mg"
+        ],
         "calorie": "92,31 kcal/100g"
     },
     {
@@ -49,9 +139,32 @@
         "title": "catz finefood Fillets N°413 - Huhn & Thunfisch in Jelly | Pets Nature Online-Shop",
         "descriptions": "Mit catz finefood Fillets in Jelly servieren Sie Ihren Samtpfoten schmackhaftes Filetfleisch in delikatem Gelee. Natürliche Zutaten und die Verwendung von bestem Filetfleisch sorgen für große Akzeptanz auch bei besonders wählerischen Katzen. Viele Stubentiger und Outdoor-Abenteurer lieben zartes Filetfleisch, jedoch sind die meisten erhältlichen Katzenfutter dieser Art nur Ergänzungsfutter. Nicht so unser catz finefood Fillets in Jelly!",
         "key_benefits": null,
-        "ingredients": "Hühnerfilet 40 %, Brühe 38,6 %, Thunfisch 10 %, Hühnerleber 5 %, Hühnerfett 5 %, Mineralstoffe 1 %, Chiasamen 0,2 %, Sonnenblumenöl 0,2 %",
-        "analysis": "Feuchtigkeit 80 %, Rohprotein 10,4 %, Fettgehalt 6,1 %, Rohasche 2 %, Rohfaser 0,4 %",
-        "additive": "Vitamin D3 200 I.E., Taurin 1500 mg, Zinksulfat, Monohydrat 15 mg, Mangan-II-Sulfat, Monohydrat 3 mg, Calciumjodat wasserfrei 0,75 mg",
+        "ingredients": [
+            "Hühnerfilet 40 %",
+            "Brühe 38,6 %",
+            "Thunfisch 10 %",
+            "Hühnerleber 5 %",
+            "Hühnerfett 5 %",
+            "Mineralstoffe 1 %",
+            "Chiasamen 0,2 %",
+            "Sonnenblumenöl 0,2 %"
+        ],
+        "analysis": [
+            "Feuchtigkeit 80 %",
+            "Rohprotein 10,4 %",
+            "Fettgehalt 6,1 %",
+            "Rohasche 2 %",
+            "Rohfaser 0,4 %"
+        ],
+        "additive": [
+            "Vitamin D3 200 I.E.",
+            "Taurin 1500 mg",
+            "Zinksulfat",
+            "Monohydrat 15 mg",
+            "Mangan-II-Sulfat",
+            "Monohydrat 3 mg",
+            "Calciumjodat wasserfrei 0,75 mg"
+        ],
         "calorie": "97,64 kcal/100g"
     },
     {
@@ -60,9 +173,31 @@
         "title": "catz finefood Fillets N°415 - Huhn & Känguru in Jelly | Pets Nature Online-Shop",
         "descriptions": "Mit catz finefood Fillets in Jelly servieren Sie Ihren Samtpfoten schmackhaftes Filetfleisch in delikatem Gelee. Natürliche Zutaten und die Verwendung von bestem Filetfleisch sorgen für große Akzeptanz auch bei besonders wählerischen Katzen. Viele Stubentiger und Outdoor-Abenteurer lieben zartes Filetfleisch, jedoch sind die meisten erhältlichen Katzenfutter dieser Art nur Ergänzungsfutter. Nicht so unser catz finefood Fillets in Jelly!",
         "key_benefits": null,
-        "ingredients": "Hühnerfilet 40 %, Brühe 38,6 %, Känguru 10 %, Hühnerleber 5 %, Hühnerfett 5 %, Mineralstoffe 1 %, Chiasamen 0,2 %, Hanföl 0,2 %",
-        "analysis": "Feuchtigkeit 78 %, Rohprotein 14,8 %, Fettgehalt 5,6 %, Rohasche 2 %, Rohfaser 0,3 %",
-        "additive": "Ernährungsphysiologische Zusatzstoffe je kg: Vitamin D3 (3a671) 200 I.E., Zink (3b605) 25 mg, Mangan (3b503) 1,4 mg, Kupfer (3b405) 1 mg, Jod (3b202) 0,75 mg, Taurin (3a370) 1500 mg",
+        "ingredients": [
+            "Hühnerfilet 40 %",
+            "Brühe 38,6 %",
+            "Känguru 10 %",
+            "Hühnerleber 5 %",
+            "Hühnerfett 5 %",
+            "Mineralstoffe 1 %",
+            "Chiasamen 0,2 %",
+            "Hanföl 0,2 %"
+        ],
+        "analysis": [
+            "Feuchtigkeit 78 %",
+            "Rohprotein 14,8 %",
+            "Fettgehalt 5,6 %",
+            "Rohasche 2 %",
+            "Rohfaser 0,3 %"
+        ],
+        "additive": [
+            "Ernährungsphysiologische Zusatzstoffe je kg: Vitamin D3 (3a671) 200 I.E.",
+            "Zink (3b605) 25 mg",
+            "Mangan (3b503) 1;4 mg",
+            "Kupfer (3b405) 1 mg",
+            "Jod (3b202) 0;75 mg",
+            "Taurin (3a370) 1500 mg"
+        ],
         "calorie": "96,65 kcal/ 100g"
     },
     {
@@ -71,9 +206,23 @@
         "title": "catz finefood Purrrr N° 103 - Huhn 400g | Pets Nature Online-Shop",
         "descriptions": "Monoprotein-Feinkost für Katzen zur artgerechten Ernährung unserer Samtpfoten. catz finefood Purrrr N° 103 enthält leckeres und gut verträgliches Huhn, Kochbrühe vom Huhn, Mineralstoffe und Macadamianussöl. Damit ist es ein sehr hochwertiges Katzennassfutter, welches nicht nur super schmeckt, sondern auch für ernährungssensible oder von Futtermittelunverträglichkeiten geplagte Katzen bestens geeignet ist. In der Kürze der Zutatenliste liegt die Qualität! catz finefood Purrrr ist ein Alleinfuttermittel. Garantiert ohne Konservierungsstoffe, ohne Geschmacksverstärker, ohne Farbstoffe und ohne Cassia Gum. Gentechnikfrei. Mmmmiau!",
         "key_benefits": null,
-        "ingredients": "Zusammensetzung: Huhn 70% (bestehend aus Herzen, Muskelfleisch, Leber, Mägen, Hälsen), Hühnersud 28,8%, Mineralstoffe 1%, Macadamianussöl 0,2%",
-        "analysis": "Rohprotein 10,2%, Fettgehalt 5,2%, Rohasche 2,45%, Rohfaser 0,4%, Feuchtigkeit 80%",
-        "additive": "Vitamin D3 (3a671) 200 I.E., Zink (3b605)) 25mg, Mangan (3b503) 1,4mg, Kupfer (3b405) 1mg, Jod (3b202) 0,75mg, Taurin (3a370) 1500mg",
+        "ingredients": [
+            "Zusammensetzung: Huhn 70% (bestehend aus Herzen, Muskelfleisch, Leber, Mägen, Hälsen)",
+            "Hühnersud 28;8%",
+            "Mineralstoffe 1%",
+            "Macadamianussöl 0;2%"
+        ],
+        "analysis": [
+            "Rohprotein 10,2%",
+            "Fettgehalt 5,2%",
+            "Rohasche 2,45%",
+            "Rohfaser 0,4%",
+            "Feuchtigkeit 80%"
+        ],
+        "additive": [
+            "Vitamin D3 (3a671) 200 I.E.",
+            "Zink (3b605)) 25mg, Mangan (3b503) 1,4mg, Kupfer (3b405) 1mg, Jod (3b202) 0,75mg, Taurin (3a370) 1500mg"
+        ],
         "calorie": "Umsetzbare Energie: 94,45kcal/100g"
     },
     {
@@ -82,9 +231,26 @@
         "title": "catz finefood Purrrr N° 107 - Känguru 400g | Pets Nature Online-Shop",
         "descriptions": "Monoprotein-Feinkost für Katzen zur artgerechten Ernährung unserer Samtpfoten. catz finefood Purrrr N° 107 enthält leckeres und gut verträgliches Känguru, Kochbrühe vom Känguru, Mineralstoffe und Borretschöl. Damit ist es ein sehr hochwertiges Katzennassfutter, welches nicht nur super schmeckt, sondern auch für ernährungssensible oder von Futtermittelunverträglichkeiten geplagte Katzen bestens geeignet ist. In der Kürze der Zutatenliste liegt die Qualität! catz finefood Purrrr ist ein Alleinfuttermittel. Garantiert ohne Konservierungsstoffe, ohne Geschmacksverstärker, ohne Farbstoffe und ohne Cassia Gum. Gentechnikfrei. Mmmmiau!",
         "key_benefits": null,
-        "ingredients": "Zusammensetzung: Känguru 70% (bestehend aus Herzen, Muskelfleisch, Leber), Kängurusud 28,8%, Mineralstoffe 1%, Borretschöl 0,2%",
-        "analysis": "Rohprotein 10,9%, Fettgehalt 4,5%, Rohasche 2,5%, Rohfaser 0,4%, Feuchtigkeit 79%",
-        "additive": "Vitamin D3 (3a671) 200 I.E., Zink (3b605) 25mg, Mangan (3b503) 1,4mg, Jod (3b202) 0,75mg, Taurin (3a370) 1500mg",
+        "ingredients": [
+            "Zusammensetzung: Känguru 70% (bestehend aus Herzen, Muskelfleisch, Leber)",
+            "Kängurusud 28;8%",
+            "Mineralstoffe 1%",
+            "Borretschöl 0;2%"
+        ],
+        "analysis": [
+            "Rohprotein 10,9%",
+            "Fettgehalt 4,5%",
+            "Rohasche 2,5%",
+            "Rohfaser 0,4%",
+            "Feuchtigkeit 79%"
+        ],
+        "additive": [
+            "Vitamin D3 (3a671) 200 I.E.",
+            "Zink (3b605) 25mg",
+            "Mangan (3b503) 1;4mg",
+            "Jod (3b202) 0;75mg",
+            "Taurin (3a370) 1500mg"
+        ],
         "calorie": "Umsetzbare Energie: 98,52kcal/100g"
     },
     {
@@ -93,9 +259,27 @@
         "title": "catz finefood Purrrr N° 109 - Wildschwein 400g | Pets Nature Online-Shop",
         "descriptions": "Monoprotein-Feinkost für Katzen zur artgerechten Ernährung unserer Samtpfoten. catz finefood Purrrr N° 109 enthält leckeres und gut verträgliches Wildschwein, Kochbrühe vom Wildschwein, Mineralstoffe und Traubenkernöl. Damit ist es ein sehr hochwertiges Katzennassfutter, welches nicht nur super schmeckt, sondern auch für ernährungssensible oder von Futtermittelunverträglichkeiten geplagte Katzen bestens geeignet ist. In der Kürze der Zutatenliste liegt die Qualität! catz finefood Purrrr ist ein Alleinfuttermittel. Garantiert ohne Konservierungsstoffe, ohne Geschmacksverstärker, ohne Farbstoffe und ohne Cassia Gum. Gentechnikfrei. Mmmmiau!",
         "key_benefits": null,
-        "ingredients": "Zusammensetzung: Wildschwein 70 %, Wildschweinsud 28,8 %, Mineralstoffe 1%, Traubenkernöl 0,2%",
-        "analysis": "Rohprotein 10,5%, Fettgehalt 6,5%, Rohasche 2,8%, Rohfaser 0,4%, Feuchtigkeit 77%",
-        "additive": "Vitamin D3 (3a671) 200 I.E., Zink (3b605), Mangan (3b503) 1,4mg, Kupfer (3b405) 0,5mg, Jod (3b202) 0,75mg, Taurin (3a370) 1500mg",
+        "ingredients": [
+            "Zusammensetzung: Wildschwein 70 %",
+            "Wildschweinsud 28,8 %",
+            "Mineralstoffe 1%",
+            "Traubenkernöl 0,2%"
+        ],
+        "analysis": [
+            "Rohprotein 10,5%",
+            "Fettgehalt 6,5%",
+            "Rohasche 2,8%",
+            "Rohfaser 0,4%",
+            "Feuchtigkeit 77%"
+        ],
+        "additive": [
+            "Vitamin D3 (3a671) 200 I.E.",
+            "Zink (3b605)",
+            "Mangan (3b503) 1;4mg",
+            "Kupfer (3b405) 0;5mg",
+            "Jod (3b202) 0;75mg",
+            "Taurin (3a370) 1500mg"
+        ],
         "calorie": "Umsetzbare Energie: 97,31kcal/100g"
     }
 ]

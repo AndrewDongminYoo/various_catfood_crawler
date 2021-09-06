@@ -12,9 +12,33 @@
             "Hypoallergenic - Formulated without wheat, beef or dairy",
             "Naturally Nutritious - With quality natural ingredients, added vitamins and minerals"
         ],
-        "ingredients": "Ingredients (Composition) Chicken 80% (Freshly prepared Chicken 60%, Dried Chicken 18.5%, Chicken Gravy 1.5%), Sweet Potato, Brewer’s Yeast, Chicory Pulp (1% as a source of Prebiotic FOS), Parsley 0.5%, Minerals, Dandelion 0.1%.",
-        "analysis": "Crude Protein 41%, Crude Fat 15%, Crude Fibre 2.5%, Crude Ash 7.5%.",
-        "additive": "Vitamins: Vitamin A 19,668 IU, Vitamin D3 1,573 IU, Vitamin E 703 IU, Vtamin C 200 mg. Provitamin: Taurine 1,389mg. Amino Acids: D-L Methionine 1,428 mg, Lysine 379 mg. Trace Elements: Zinc (Zinc Chelate of Amino Acids Hydrate) 87 mg, Iron (Iron (II) Chelate of Amino Acids Hydrate) 65 mg, Manganese (Manganese Chelate of Amino Acids Hydrate) 26 mg, Copper (Copper (II) Chelate of Amino Acids Hydrate) 4 mg, Iodine (Potassium Iodide) 3.68 mg, Selenium (Sodium Selenite) 0.2 mg.",
+        "ingredients": [
+            "Ingredients (Composition) Chicken 80% (Freshly prepared Chicken 60%, Dried Chicken 18.5%, Chicken Gravy 1.5%)",
+            "Sweet Potato",
+            "Brewer’s Yeast",
+            "Chicory Pulp (1% as a source of Prebiotic FOS)",
+            "Parsley 0.5%",
+            "Minerals",
+            "Dandelion 0.1%."
+        ],
+        "analysis": [
+            "Crude Protein 41%",
+            "Crude Fat 15%",
+            "Crude Fibre 2.5%",
+            "Crude Ash 7.5%."
+        ],
+        "additive": [
+            "Vitamins: Vitamin A 19;668 IU",
+            "Vitamin D3 1;573 IU",
+            "Vitamin E 703 IU",
+            "Vtamin C 200 mg. Provitamin: Taurine 1;389mg. Amino Acids: D-L Methionine 1;428 mg",
+            "Lysine 379 mg. Trace Elements: Zinc (Zinc Chelate of Amino Acids Hydrate) 87 mg",
+            "Iron (Iron (II) Chelate of Amino Acids Hydrate) 65 mg",
+            "Manganese (Manganese Chelate of Amino Acids Hydrate) 26 mg",
+            "Copper (Copper (II) Chelate of Amino Acids Hydrate) 4 mg",
+            "Iodine (Potassium Iodide) 3.68 mg",
+            "Selenium (Sodium Selenite) 0.2 mg."
+        ],
         "calorie": "392.5 Kcals per 100g"
     },
     {
@@ -34,8 +58,26 @@
             "Ingredients (Composition): ",
             "Salmon 80% (Freshly Prepared Salmon 64%, Dried Salmon 15%, Salmon Stock 1%), White Rice, Beet Pulp, Brewer’s Yeast, Lucerne, Chicory (1% as a Source of Prebiotic FOS), Fish Stock , Parsley 0.5%, Minerals, Dandelion 0.1%."
         ],
-        "analysis": "Nutritional Info (Analytical Constituents): Crude Protein 40%, Crude Fat 14%, Crude Fibre 3%, Crude Ash 7%, Omega 3 3.6%, Omega 6 0.9%",
-        "additive": "Nutritional Additives Per Kg: Vitamins: Vitamin A 20,000 IU, Vitamin D3 1,500 IU, Vitamin E 700 IU, Vitamin C 200 mg. Provitamin: Taurine 1,000mg. Amino Acids: D-L Methionine 1,400 mg, Lysine 380 mg. Trace Elements: Zinc (Zinc Chelate of Amino Acids Hydrate) 87 mg, Iron (Iron (II) Chelate of Amino Acids) 65 mg, Manganese (Manganese Chelate of Amino Acids Hydrate) 26 mg, Copper (Copper (II) Chelate of Amino Acids Hydrate) 4 mg, Iodine (Potassium Iodide) 0.36 mg, Selenium (Sodium Selenite) 0.26 mg.",
+        "analysis": [
+            "Nutritional Info (Analytical Constituents): Crude Protein 40%",
+            "Crude Fat 14%",
+            "Crude Fibre 3%",
+            "Crude Ash 7%",
+            "Omega 3 3.6%",
+            "Omega 6 0.9%"
+        ],
+        "additive": [
+            "Nutritional Additives Per Kg: Vitamins: Vitamin A 20;000 IU",
+            "Vitamin D3 1;500 IU",
+            "Vitamin E 700 IU",
+            "Vitamin C 200 mg. Provitamin: Taurine 1;000mg. Amino Acids: D-L Methionine 1;400 mg",
+            "Lysine 380 mg. Trace Elements: Zinc (Zinc Chelate of Amino Acids Hydrate) 87 mg",
+            "Iron (Iron (II) Chelate of Amino Acids) 65 mg",
+            "Manganese (Manganese Chelate of Amino Acids Hydrate) 26 mg",
+            "Copper (Copper (II) Chelate of Amino Acids Hydrate) 4 mg",
+            "Iodine (Potassium Iodide) 0.36 mg",
+            "Selenium (Sodium Selenite) 0.26 mg."
+        ],
         "calorie": "386 Kcals per 100g"
     }
 ]

@@ -14,7 +14,20 @@
             "Hypoallergenic dietary food based on one animal protein (venison) and one carbohydrate source (rice).",
             "Prevents immunological reactions (food allergy) or non-immunological reactions (food intolerance) in the form of skin problems and/or digestive problems (diarrhoea, vomiting)."
         ],
-        "ingredients": "rice, rice protein, poultry fat, venison meal, fish oil, beet pulp, cellulose, potassium chloride, vitamins and minerals, poultry liver (hydrolysate), calcium carbonate, sodium chloride.",
+        "ingredients": [
+            "rice",
+            "rice protein",
+            "poultry fat",
+            "venison meal",
+            "fish oil",
+            "beet pulp",
+            "cellulose",
+            "potassium chloride",
+            "vitamins and minerals",
+            "poultry liver (hydrolysate)",
+            "calcium carbonate",
+            "sodium chloride."
+        ],
         "analysis": [
             "Protein 28.0 % Fat content 19.0 % Inorganic matter 6.2 % Crude fibre 2.0 % Moisture 7.5 % Carbohydrates 37.3 %",
             "Vitamin A 15000 IU/kg Vitamin D3 300 IU/kg Vitamin E 150 mg/kg",
@@ -38,7 +51,28 @@
             "Magnesium is at a safe low level, ensuring that long term preventive use causes no risk of hypomagnesaemia.",
             "Limits the uptake of minerals that lead to the formation of struvite."
         ],
-        "ingredients": "corn, egg, fish meal, poultry fat, yeast, poultry meal, cellulose, vitamins and trace elements, antarctic krill, sodium chloride, psyllium fibre, beet pulp, poultry liver (hydrolysate), milk protein (hydrolysate), fish oil, yeast extract hydrolysate (source of manno-oligosaccharides (MOS)), fructo-oligosaccharides (FOS), glucosamine, chondroitin sulphate, green tea extract.",
+        "ingredients": [
+            "corn",
+            "egg",
+            "fish meal",
+            "poultry fat",
+            "yeast",
+            "poultry meal",
+            "cellulose",
+            "vitamins and trace elements",
+            "antarctic krill",
+            "sodium chloride",
+            "psyllium fibre",
+            "beet pulp",
+            "poultry liver (hydrolysate)",
+            "milk protein (hydrolysate)",
+            "fish oil",
+            "yeast extract hydrolysate (source of manno-oligosaccharides (MOS))",
+            "fructo-oligosaccharides (FOS)",
+            "glucosamine",
+            "chondroitin sulphate",
+            "green tea extract."
+        ],
         "analysis": [
             "Protein 34.0 % Fat content 13.5 % Inorganic matter 6.6 % Crude fibre 5.5 % Moisture 8.0 % Carbohydrates 32.4 %",
             "Vitamin A 22500 IU/kg Vitamin D3 1700 IU/kg Vitamin E 185 mg/kg",
@@ -54,7 +88,17 @@
         "title": "Hepatic cat - TROVET",
         "descriptions": "Hepatic is a complete dietary food that can be used for specific liver problems. Given the important role of the liver in the processing of fat and the regulation of lipid metabolism, it is important to provide substances that support the metabolism of the liver. Hepatic is enriched with these so-called lipotropic agents (e.g. L-carnitine, lecithin and choline).",
         "key_benefits": "Supports fat-metabolism by high levels of lipotropic substances (lecithin, choline).",
-        "ingredients": "rice, poultry meal, poultry fat, corn gluten, poultry liver (hydrolysate), yeast, sodium chloride, fish oil, vitamins and minerals.",
+        "ingredients": [
+            "rice",
+            "poultry meal",
+            "poultry fat",
+            "corn gluten",
+            "poultry liver (hydrolysate)",
+            "yeast",
+            "sodium chloride",
+            "fish oil",
+            "vitamins and minerals."
+        ],
         "analysis": [
             "Protein 30.5 % Fat content 15.0 % Inorganic matter 7.0 % Crude fibre 1.5 % Moisture 8.0 % Carbohydrates 38.0 %",
             "Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 200 mg/kg Vitamin C 200 mg/kg",
@@ -78,7 +122,25 @@
             "Changing to a hypoallergenic diet will help to slowly reduce itching. This reduces scratching, rubbing and biting, which can cause secondary skin lesions.",
             "Addition of specially selected ingredients for the support of healthy intestines."
         ],
-        "ingredients": "rice, rice protein, poultry fat, fish protein (hydrolysate), fish oil, vitamins and trace elements, cellulose, Antarctic krill, sodium chloride, beet pulp, calcium carbonate, potassium chloride, psyllium, fructo-oligosaccharides (FOS), manno-oligosaccharides (MOS), beta glucans, yucca.",
+        "ingredients": [
+            "rice",
+            "rice protein",
+            "poultry fat",
+            "fish protein (hydrolysate)",
+            "fish oil",
+            "vitamins and trace elements",
+            "cellulose",
+            "Antarctic krill",
+            "sodium chloride",
+            "beet pulp",
+            "calcium carbonate",
+            "potassium chloride",
+            "psyllium",
+            "fructo-oligosaccharides (FOS)",
+            "manno-oligosaccharides (MOS)",
+            "beta glucans",
+            "yucca."
+        ],
         "analysis": [
             "Protein 32.0 % Fat content 20.0 % Inorganic matter 7.5 % Crude fibre 2.5 % Moisture 8.0 % Carbohydrates 30.0 %",
             "Vitamin A 20000 IU/kg Vitamin D3 1550 IU/kg Vitamin E 130 mg/kg",
@@ -100,7 +162,22 @@
             "Assists the kidneys in regulating the water and electrolyte balance in the body and the removal of unusable metabolites.",
             "High biological value of the protein results in a small amount of residual amino acids."
         ],
-        "ingredients": "corn gluten, corn, poultry fat, beet pulp, rice, poultry liver (hydrolysate), egg, yeast, vitamins and minerals, fish oil, lecithin, sodium chloride, choline chloride, potassium citrate.",
+        "ingredients": [
+            "corn gluten",
+            "corn",
+            "poultry fat",
+            "beet pulp",
+            "rice",
+            "poultry liver (hydrolysate)",
+            "egg",
+            "yeast",
+            "vitamins and minerals",
+            "fish oil",
+            "lecithin",
+            "sodium chloride",
+            "choline chloride",
+            "potassium citrate."
+        ],
         "analysis": [
             "Protein 26.0 % Fat content 23.5 % Inorganic matter 5.5 % Crude fibre 2.5 % Moisture 8.0 % Carbohydrates 34.5 %",
             "Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg",
@@ -120,7 +197,22 @@
             "Magnesium is at a safe low level, ensuring that long term preventive use causes no risk of hypomagnesaemia.",
             "Limits the uptake of minerals that lead to the formation of struvite."
         ],
-        "ingredients": "rice, poultry meal, poultry fat, corn gluten, fish meal, corn, poultry liver (hydrolysate), yeast, sodium chloride, ammonium chloride, fish oil, lecithin, vitamins and trace elements, choline chloride.",
+        "ingredients": [
+            "rice",
+            "poultry meal",
+            "poultry fat",
+            "corn gluten",
+            "fish meal",
+            "corn",
+            "poultry liver (hydrolysate)",
+            "yeast",
+            "sodium chloride",
+            "ammonium chloride",
+            "fish oil",
+            "lecithin",
+            "vitamins and trace elements",
+            "choline chloride."
+        ],
         "analysis": [
             "Protein 32.0 % Fat content 23.0 % Inorganic matter 6.8 % Crude fibre 1.5 % Moisture 8.0 % Carbohydrates 28.7 %",
             "Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg",
@@ -145,7 +237,20 @@
             "Promotes activity of the colon (activates peristaltic movement and prevents constipation).",
             "Insoluble fibres retain water and ensure well formed, firm faeces."
         ],
-        "ingredients": "poultry meal, corn, rice, corn gluten, poultry liver (hydrolysate), fish meal, cellulose, egg, yeast, vitamins and minerals, fish oil, sodium chloride.",
+        "ingredients": [
+            "poultry meal",
+            "corn",
+            "rice",
+            "corn gluten",
+            "poultry liver (hydrolysate)",
+            "fish meal",
+            "cellulose",
+            "egg",
+            "yeast",
+            "vitamins and minerals",
+            "fish oil",
+            "sodium chloride."
+        ],
         "analysis": [
             "Protein 36.0 % Fat content 8.5 % Inorganic matter 7.0 % Crude fibre 4.5 % Moisture 8.0 % Carbohydrates 36.0 %",
             "Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg",

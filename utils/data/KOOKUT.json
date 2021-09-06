@@ -10,7 +10,44 @@
             "- Healthy herbs & superfood",
             "- Grain free"
         ],
-        "ingredients": "Fresh chicken, dehydrated chicken, dehydrated duck, peas, split peas, potatoes, chicken fat, hydrolyzed chicken protein, flax seed, beet pulp, salmon oil, vegetable plant fiber, chicory (a natural source of FOS and inulin), brewery yeast, MOS (mannan – oligosaccharides), minerals, broccoli, spinach, sweet potatoes, cranberries, blueberries, apples, dried spirulina, glucosamine hydrochloride, chondroitin sulfate, dried yucca schidigera, rosemary extract, grape seed extract, turmeric extract, clove leaf oil, dried fenugreek, lucerne, dried rosehip, dried marigold (a natural source of lutein), dried parsley, dried peppermint.",
+        "ingredients": [
+            "Fresh chicken",
+            "dehydrated chicken",
+            "dehydrated duck",
+            "peas",
+            "split peas",
+            "potatoes",
+            "chicken fat",
+            "hydrolyzed chicken protein",
+            "flax seed",
+            "beet pulp",
+            "salmon oil",
+            "vegetable plant fiber",
+            "chicory (a natural source of FOS and inulin)",
+            "brewery yeast",
+            "MOS (mannan – oligosaccharides)",
+            "minerals",
+            "broccoli",
+            "spinach",
+            "sweet potatoes",
+            "cranberries",
+            "blueberries",
+            "apples",
+            "dried spirulina",
+            "glucosamine hydrochloride",
+            "chondroitin sulfate",
+            "dried yucca schidigera",
+            "rosemary extract",
+            "grape seed extract",
+            "turmeric extract",
+            "clove leaf oil",
+            "dried fenugreek",
+            "lucerne",
+            "dried rosehip",
+            "dried marigold (a natural source of lutein)",
+            "dried parsley",
+            "dried peppermint."
+        ],
         "analysis": [
             "Analytical constituents Crude protein 34%, Crude Oil & Fats 18%, Crude Ash 9%, Crude Fibres 4%, Omega 6 3,2%, Omega 3 0,8%, Calcium 1.1%, Phosphorus 0,9%",
             "Vitamins (per kg) Vitamin A 20000 IU, Vitamin D3 1750 IU, Vitamin E 350 IU",
@@ -31,7 +68,47 @@
             "- Healthy herbs & superfood",
             "- Grain free"
         ],
-        "ingredients": "Fresh chicken, dehydrated chicken, dehydrated turkey, peas, split peas, hydrolyzed chicken protein, chicken fat, potatoes, potato protein, flax seed, salmon oil, brewery yeast, beet pulp, chicory (a natural source of FOS and inulin), vegetable plant fiber, whole eggs, carrots, MOS (mannan – oligosaccharides), minerals, broccoli, spinach, sweet potatoes, cranberries, blueberries, apples, dried spirulina, glucosamine hydrochloride, chondroitin sulfate, dried yucca schidigera, rosemary extract, grape seed extract, turmeric extract, clove leaf oil, dried fenugreek, lucerne, dried rosehip, dried marigold (a natural source of lutein), dried parsley, dried peppermint.",
+        "ingredients": [
+            "Fresh chicken",
+            "dehydrated chicken",
+            "dehydrated turkey",
+            "peas",
+            "split peas",
+            "hydrolyzed chicken protein",
+            "chicken fat",
+            "potatoes",
+            "potato protein",
+            "flax seed",
+            "salmon oil",
+            "brewery yeast",
+            "beet pulp",
+            "chicory (a natural source of FOS and inulin)",
+            "vegetable plant fiber",
+            "whole eggs",
+            "carrots",
+            "MOS (mannan – oligosaccharides)",
+            "minerals",
+            "broccoli",
+            "spinach",
+            "sweet potatoes",
+            "cranberries",
+            "blueberries",
+            "apples",
+            "dried spirulina",
+            "glucosamine hydrochloride",
+            "chondroitin sulfate",
+            "dried yucca schidigera",
+            "rosemary extract",
+            "grape seed extract",
+            "turmeric extract",
+            "clove leaf oil",
+            "dried fenugreek",
+            "lucerne",
+            "dried rosehip",
+            "dried marigold (a natural source of lutein)",
+            "dried parsley",
+            "dried peppermint."
+        ],
         "analysis": [
             "Analytical constituents Crude protein 38%, Crude Oil & Fats 20%, Crude Ash 9%, Crude Fibres 4%, Omega 6 3,3%, Omega 3 0,8%, Calcium 1.1%, Phosphorus 0,9%",
             "Vitamins (per kg) Vitamin A 20000 IU, Vitamin D3 1750 IU, Vitamin E 450 IU",
@@ -52,8 +129,18 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Free Run Chicken 75.3%, chicken broth 23.3%, rice 1.4%",
-        "analysis": "Crude protein 21%, Crude Oil & Fats 0.8%, Crude Ash 1%, Crude Fiber 0.1%, Moisture 76%",
+        "ingredients": [
+            "Free Run Chicken 75.3%",
+            "chicken broth 23.3%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 21%",
+            "Crude Oil & Fats 0.8%",
+            "Crude Ash 1%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 90"
     },
@@ -72,8 +159,19 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Free Run Chicken 47.9%, Pacific Tuna 27.4%, broth 23.3%, rice 1.4%",
-        "analysis": "Crude protein 20%, Crude Oil & Fats 0.6%, Crude Ash 1.5%, Crude Fiber 0.1%, Moisture 76%",
+        "ingredients": [
+            "Free Run Chicken 47.9%",
+            "Pacific Tuna 27.4%",
+            "broth 23.3%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 20%",
+            "Crude Oil & Fats 0.6%",
+            "Crude Ash 1.5%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 83"
     },
@@ -88,8 +186,19 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Free Run chicken 70%, broth 23.6%, pumpkin 5%, rice 1.4%",
-        "analysis": "Crude protein 22%, Crude Oil & Fats 1%, Crude Ash 1%, Crude Fiber 0.1%, Moisture 75%",
+        "ingredients": [
+            "Free Run chicken 70%",
+            "broth 23.6%",
+            "pumpkin 5%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 22%",
+            "Crude Oil & Fats 1%",
+            "Crude Ash 1%",
+            "Crude Fiber 0.1%",
+            "Moisture 75%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 90"
     },
@@ -108,8 +217,19 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Free Run Chicken 54.8%, broth 23.3%, shrimps 20.5%, rice 1.4%",
-        "analysis": "Crude protein 19%, Crude Oil & Fats 0.8%, Crude Ash 1%, Crude Fiber 0.1%, Moisture 79%",
+        "ingredients": [
+            "Free Run Chicken 54.8%",
+            "broth 23.3%",
+            "shrimps 20.5%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 19%",
+            "Crude Oil & Fats 0.8%",
+            "Crude Ash 1%",
+            "Crude Fiber 0.1%",
+            "Moisture 79%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 79"
     },
@@ -128,8 +248,19 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Pacific Tuna 67%, tuna broth 23.6%, baby clams 8%, rice 1.4%",
-        "analysis": "Crude protein 20%, Crude Oil & Fats 0.7%, Crude Ash 2%, Crude Fiber 0.1%, Moisture 77%",
+        "ingredients": [
+            "Pacific Tuna 67%",
+            "tuna broth 23.6%",
+            "baby clams 8%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 20%",
+            "Crude Oil & Fats 0.7%",
+            "Crude Ash 2%",
+            "Crude Fiber 0.1%",
+            "Moisture 77%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 80"
     },
@@ -139,8 +270,18 @@
         "title": "Pacific Tuna - Natural – Kookut",
         "descriptions": "Our Pacific Tuna - Natural recipe for cat is perfectly cooked with fresh Pacific Tuna fillet. Our Natural range is the most natural & healthy recipe for your cat or kitten. Nothing hidden: no fillers, no gum, no carrageenan. This recipe brings twice more meat and protein than most wet food for cats and is the perfect recipe for your favorite carnivore. This food is complementary and should be served along our complete dry recipes to provide a healthy daily intake of taurine to your cat. ",
         "key_benefits": "'- Caught Fresh and Steamed', '- High Meat & Protein', '- 100% Natural & Human Grade Ingredients', '- Nothing Artificial. Carrageenan & GMO Free'",
-        "ingredients": "Pacific Tuna 75.3%, tuna broth 23.3%, rice 1.4%",
-        "analysis": "Crude protein 21%, Crude Oil & Fats 0.5%, Crude Ash 2%, Crude Fiber 0.1%, Moisture 76%",
+        "ingredients": [
+            "Pacific Tuna 75.3%",
+            "tuna broth 23.3%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 21%",
+            "Crude Oil & Fats 0.5%",
+            "Crude Ash 2%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 83"
     },
@@ -159,8 +300,19 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Pacific Tuna 54.8%, broth 23.3%, green mussels 20.5%, rice 1.4%",
-        "analysis": "Crude protein 18%, Crude Oil & Fats 1%, Crude Ash 2%, Crude Fiber 0.1%, Moisture 77%",
+        "ingredients": [
+            "Pacific Tuna 54.8%",
+            "broth 23.3%",
+            "green mussels 20.5%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 18%",
+            "Crude Oil & Fats 1%",
+            "Crude Ash 2%",
+            "Crude Fiber 0.1%",
+            "Moisture 77%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 76"
     },
@@ -179,8 +331,19 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Pacific Tuna 54.8%, tuna broth 23.3%, sardine 20.5%, rice 1.4%",
-        "analysis": "Crude protein 20%, Crude Oil & Fats 0.8%, Crude Ash 1.5%, Crude Fiber 0.1%, Moisture 76%",
+        "ingredients": [
+            "Pacific Tuna 54.8%",
+            "tuna broth 23.3%",
+            "sardine 20.5%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 20%",
+            "Crude Oil & Fats 0.8%",
+            "Crude Ash 1.5%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 83"
     },
@@ -199,8 +362,19 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Pacific Tuna 75%, tuna broth 23.5%, seaweed 0.1%, rice 1.4%",
-        "analysis": "Crude protein 20%, Crude Oil & Fats 1%, Crude Ash 2%, Crude Fiber 0.1%, Moisture 76%",
+        "ingredients": [
+            "Pacific Tuna 75%",
+            "tuna broth 23.5%",
+            "seaweed 0.1%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 20%",
+            "Crude Oil & Fats 1%",
+            "Crude Ash 2%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 83"
     },
@@ -215,7 +389,45 @@
             "- Healthy herbs & superfood",
             "- Grain free"
         ],
-        "ingredients": "Fresh salmon, dehydrated white fish, dehydrated salmon, peas, split peas, potatoes, chicken fat, potato protein, brewery yeast, salmon oil, hydrolyzed chicken protein, flax seed, chicory (a natural source of FOS and inulin), maize oil, MOS (mannan – oligosaccharides), carrots, minerals, broccoli, spinach, sweet potatoes, cranberries, blueberries, apples, dried spirulina, glucosamine hydrochloride, chondroitin sulfate, dried yucca schidigera, rosemary extract, grape seed extract, turmeric extract, clove leaf oil, dried fenugreek, lucerne, dried rosehip, dried marigold (a natural source of lutein), dried parsley, dried peppermint.",
+        "ingredients": [
+            "Fresh salmon",
+            "dehydrated white fish",
+            "dehydrated salmon",
+            "peas",
+            "split peas",
+            "potatoes",
+            "chicken fat",
+            "potato protein",
+            "brewery yeast",
+            "salmon oil",
+            "hydrolyzed chicken protein",
+            "flax seed",
+            "chicory (a natural source of FOS and inulin)",
+            "maize oil",
+            "MOS (mannan – oligosaccharides)",
+            "carrots",
+            "minerals",
+            "broccoli",
+            "spinach",
+            "sweet potatoes",
+            "cranberries",
+            "blueberries",
+            "apples",
+            "dried spirulina",
+            "glucosamine hydrochloride",
+            "chondroitin sulfate",
+            "dried yucca schidigera",
+            "rosemary extract",
+            "grape seed extract",
+            "turmeric extract",
+            "clove leaf oil",
+            "dried fenugreek",
+            "lucerne",
+            "dried rosehip",
+            "dried marigold (a natural source of lutein)",
+            "dried parsley",
+            "dried peppermint."
+        ],
         "analysis": [
             "Analytical constituents Crude protein 34%, Crude Oil & Fats 18%, Crude Ash 9%, Crude Fibres 4%, Omega 6 3,5%, Omega 3 0,8%, Calcium 1.4%, Phosphorus 1,1%",
             "Vitamins (per kg) Vitamin A 15000 IU, Vitamin D3 1750 IU, Vitamin E 350 IU",
@@ -240,8 +452,18 @@
             "- 100% Natural & Human Grade Ingredients",
             "- Nothing Artificial. Carrageenan & GMO Free"
         ],
-        "ingredients": "Wild Alaskan Salmon 75.3%, salmon broth 23.3%, rice 1.4%",
-        "analysis": "Crude protein 17%, Crude Oil & Fats 2%, Crude Ash 1%, Crude Fiber 0.1%, Moisture 78%",
+        "ingredients": [
+            "Wild Alaskan Salmon 75.3%",
+            "salmon broth 23.3%",
+            "rice 1.4%"
+        ],
+        "analysis": [
+            "Crude protein 17%",
+            "Crude Oil & Fats 2%",
+            "Crude Ash 1%",
+            "Crude Fiber 0.1%",
+            "Moisture 78%"
+        ],
         "additive": null,
         "calorie": "Metabolic energy (Kcal/100g): 95"
     }

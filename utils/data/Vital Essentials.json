@@ -13,7 +13,18 @@
             "USA sourced, made and packaged",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Chicken, chicken heart, chicken liver, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Chicken",
+            "chicken heart",
+            "chicken liver",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 55.0%",
             "CRUDE FAT, MIN. 18.0%",
@@ -37,7 +48,18 @@
             "USA sourced, made and packaged",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Chicken, chicken heart, chicken liver, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Chicken",
+            "chicken heart",
+            "chicken liver",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 55.0%",
             "CRUDE FAT, MIN. 18.0%",
@@ -61,7 +83,19 @@
             "USA made and packaged",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Duck, duck gizzard, duck heart, duck liver, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Duck",
+            "duck gizzard",
+            "duck heart",
+            "duck liver",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 47.0%",
             "CRUDE FAT, MIN. 21.0%",
@@ -85,7 +119,19 @@
             "USA made and packaged",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Duck, duck gizzard, duck heart, duck liver, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Duck",
+            "duck gizzard",
+            "duck heart",
+            "duck liver",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 47.0%",
             "CRUDE FAT, MIN. 21.0%",
@@ -109,7 +155,18 @@
             "100% USA sourced, made and packaged",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Pork, pork liver, pork spleen, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Pork",
+            "pork liver",
+            "pork spleen",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 45.0%",
             "CRUDE FAT, MIN. 40.0%",
@@ -132,7 +189,20 @@
             "100% USA made with farm raised rabbit",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Rabbit, rabbit liver, rabbit heart, rabbit kidney, rabbit lung, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Rabbit",
+            "rabbit liver",
+            "rabbit heart",
+            "rabbit kidney",
+            "rabbit lung",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 60%",
             "CRUDE FAT, MIN. 17%",
@@ -155,7 +225,20 @@
             "100% USA made with farm raised rabbit",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Rabbit, rabbit liver, rabbit heart, rabbit kidney, rabbit lung, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Rabbit",
+            "rabbit liver",
+            "rabbit heart",
+            "rabbit kidney",
+            "rabbit lung",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 60.0%",
             "CRUDE FAT, MIN. 17.0%",
@@ -179,7 +262,18 @@
             "USA sourced, made and packaged",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Turkey, turkey heart, turkey liver, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Turkey",
+            "turkey heart",
+            "turkey liver",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 53.0%",
             "CRUDE FAT, MIN. 20.0%",
@@ -203,7 +297,18 @@
             "USA sourced, made and packaged",
             "Gluten Free, Grain Free, Guilt Free®"
         ],
-        "ingredients": "Turkey, turkey heart, turkey liver, herring oil, mixed tocopherols (preservative), vitamin E supplement, zinc amino acid complex, iron amino acid complex, copper amino acid complex, manganese amino acid complex",
+        "ingredients": [
+            "Turkey",
+            "turkey heart",
+            "turkey liver",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
         "analysis": [
             "CRUDE PROTEIN, MIN. 53.0%",
             "CRUDE FAT, MIN. 20.0%",

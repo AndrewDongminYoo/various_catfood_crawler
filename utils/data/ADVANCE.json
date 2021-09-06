@@ -8,7 +8,23 @@
             "#1 Ingredient: Chicken Meal",
             "AUSTRALIAN MADE SUPER PREMIUM"
         ],
-        "ingredients": "Chicken Meal; Rice, Maize Gluten, Chicken Fat; Sorghum, Natural Flavour (Chicken); Turkey Meal, Salt; Vitamins and Minerals; Dried Beet Pulp, Sunflower Oil; Fish Oil; Amino Acids (incl. Taurine and Methionine), Antioxidants, Colostrum.",
+        "ingredients": [
+            "Chicken Meal",
+            "Rice",
+            "Maize Gluten",
+            "Chicken Fat",
+            "Sorghum",
+            "Natural Flavour (Chicken)",
+            "Turkey Meal",
+            "Salt",
+            "Vitamins and Minerals",
+            "Dried Beet Pulp",
+            "Sunflower Oil",
+            "Fish Oil",
+            "Amino Acids (incl. Taurine and Methionine)",
+            "Antioxidants",
+            "Colostrum."
+        ],
         "analysis": [
             "Protein, crude 35 % 89.7 g",
             "Fat, crude 20 % 51.2 g",
@@ -41,7 +57,22 @@
             "Promotes dental health",
             "High quality ingredients and a great tasting formulation - guaranteed to tempt even the fussiest eaters"
         ],
-        "ingredients": "Chicken Meal; Rice; Maize Gluten; Chicken Fat; Sorghum; Natural Flavour (Chicken); Turkey Meal; Salt; Dried Beet Pulp; Vitamins and Minerals; Sunflower Oil; Sodium Tripolyphosphate; Amino Acids (incl. Taurine and Methionine); Antioxidants.",
+        "ingredients": [
+            "Chicken Meal",
+            "Rice",
+            "Maize Gluten",
+            "Chicken Fat",
+            "Sorghum",
+            "Natural Flavour (Chicken)",
+            "Turkey Meal",
+            "Salt",
+            "Dried Beet Pulp",
+            "Vitamins and Minerals",
+            "Sunflower Oil",
+            "Sodium Tripolyphosphate",
+            "Amino Acids (incl. Taurine and Methionine)",
+            "Antioxidants."
+        ],
         "analysis": [
             "Protein, crude 34 % 87.1 g",
             "Fat, crude 20 % 51.2 g",
@@ -69,7 +100,24 @@
             "Made locally from our home in the Central Tablelands of NSW by leading cat nutritionists for over 20 years.",
             "A unique knowledge of the needs of Australian cats sees us sourcing and blending high quality ingredients to create a range of specifically tailored foods."
         ],
-        "ingredients": "Chicken Meal; Rice; Maize Gluten; Chicken Fat; Sorghum, Natural Flavour (Chicken); Turkey Meal; Salt; Dried Beet Pulp; Vitamins and Minerals; Sunflower Oil; Fish Oil; Sodium Tripolyphosphate; Amino Acids (incl. Taurine and Methionine); Antioxidants; Green Lipped Mussel Powder.",
+        "ingredients": [
+            "Chicken Meal",
+            "Rice",
+            "Maize Gluten",
+            "Chicken Fat",
+            "Sorghum",
+            "Natural Flavour (Chicken)",
+            "Turkey Meal",
+            "Salt",
+            "Dried Beet Pulp",
+            "Vitamins and Minerals",
+            "Sunflower Oil",
+            "Fish Oil",
+            "Sodium Tripolyphosphate",
+            "Amino Acids (incl. Taurine and Methionine)",
+            "Antioxidants",
+            "Green Lipped Mussel Powder."
+        ],
         "analysis": [
             "Protein, crude 32 % 86.4 g",
             "Fat, crude 16 % 43.2 g",
@@ -100,7 +148,23 @@
             "Made locally from our home in the Central Tablelands of NSW by leading cat nutritionists for over 20 years.",
             "A unique knowledge of the needs of Australian cats sees us sourcing and blending high quality ingredients to create a range of specifically tailored foods."
         ],
-        "ingredients": "Chicken Meal; Rice, Maize Gluten, Chicken Fat; Sorghum, Natural Flavour (Chicken); Turkey Meal, Salt; Vitamins and Minerals; Dried Beet Pulp, Sunflower Oil; Fish Oil; Amino Acids (incl. Taurine and Methionine), Antioxidants, Colostrum.",
+        "ingredients": [
+            "Chicken Meal",
+            "Rice",
+            "Maize Gluten",
+            "Chicken Fat",
+            "Sorghum",
+            "Natural Flavour (Chicken)",
+            "Turkey Meal",
+            "Salt",
+            "Vitamins and Minerals",
+            "Dried Beet Pulp",
+            "Sunflower Oil",
+            "Fish Oil",
+            "Amino Acids (incl. Taurine and Methionine)",
+            "Antioxidants",
+            "Colostrum."
+        ],
         "analysis": [
             "Protein, crude 35 % 89.7 g",
             "Fat, crude 20 % 51.2 g",
@@ -132,7 +196,23 @@
             "A unique knowledge of the needs of Australian dogs sees us sourcing and blending high quality ingredients to create a range of specifically tailored foods.",
             "Recommended by top breeders and professional dog groups."
         ],
-        "ingredients": "Chicken Meal; Rice, Maize Gluten, Chicken Fat; Sorghum, Natural Flavour (Chicken); Turkey Meal, Salt; Vitamins and Minerals; Dried Beet Pulp, Sunflower Oil; Fish Oil; Amino Acids (incl. Taurine and Methionine), Antioxidants, Colostrum.",
+        "ingredients": [
+            "Chicken Meal",
+            "Rice",
+            "Maize Gluten",
+            "Chicken Fat",
+            "Sorghum",
+            "Natural Flavour (Chicken)",
+            "Turkey Meal",
+            "Salt",
+            "Vitamins and Minerals",
+            "Dried Beet Pulp",
+            "Sunflower Oil",
+            "Fish Oil",
+            "Amino Acids (incl. Taurine and Methionine)",
+            "Antioxidants",
+            "Colostrum."
+        ],
         "analysis": [
             "Protein, crude 35 % 89.7 g",
             "Fat, crude 20 % 51.2 g",
@@ -170,7 +250,24 @@
             "Promotes dental health",
             "High quality ingredients and a great tasting formulation - guaranteed to tempt even the fussiest eaters"
         ],
-        "ingredients": "Chicken Meal; Rice; Chicken Fat; Salmon Meal; Maize Gluten, Rice Flour; Sorghum; Natural Flavour (Chicken); Turkey Meal; Salt; Vitamins and Minerals; Dried Beet Pulp; Sunflower Oil; Sodium Tripolyphosphate; Amino Acids (incl. Taurine and Methionine), Antioxidants.",
+        "ingredients": [
+            "Chicken Meal",
+            "Rice",
+            "Chicken Fat",
+            "Salmon Meal",
+            "Maize Gluten",
+            "Rice Flour",
+            "Sorghum",
+            "Natural Flavour (Chicken)",
+            "Turkey Meal",
+            "Salt",
+            "Vitamins and Minerals",
+            "Dried Beet Pulp",
+            "Sunflower Oil",
+            "Sodium Tripolyphosphate",
+            "Amino Acids (incl. Taurine and Methionine)",
+            "Antioxidants."
+        ],
         "analysis": [
             "Protein, crude 34 % 87.1 g",
             "Fat, crude 20 % 51.2 g",
@@ -203,7 +300,24 @@
             "Helps support a healthy gut microbiome",
             "Promotes dental health"
         ],
-        "ingredients": "Salmon Meal; Rice; Maize Gluten; Chicken Meal; Chicken Fat; Rice Flour; Sorghum; Natural Flavour (Chicken); Salt; Dried Beet Pulp; Vitamins and Minerals; Turkey Meal; Sunflower Oil; Sodium Tripolyphosphate; Amino Acids (incl. Taurine and Methionine), Antioxidants.",
+        "ingredients": [
+            "Salmon Meal",
+            "Rice",
+            "Maize Gluten",
+            "Chicken Meal",
+            "Chicken Fat",
+            "Rice Flour",
+            "Sorghum",
+            "Natural Flavour (Chicken)",
+            "Salt",
+            "Dried Beet Pulp",
+            "Vitamins and Minerals",
+            "Turkey Meal",
+            "Sunflower Oil",
+            "Sodium Tripolyphosphate",
+            "Amino Acids (incl. Taurine and Methionine)",
+            "Antioxidants."
+        ],
         "analysis": [
             "Protein, crude 34 % 88.4 g",
             "Fat, crude 20 % 51.2 g",

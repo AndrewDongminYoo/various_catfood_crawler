@@ -5,7 +5,10 @@
         "title": "HQS Natural Chicken Drumstick in broth for cats",
         "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
         "key_benefits": "Single protein Single animal source of proteins, meat or fish. Ideal in case of food sensitivities.",
-        "ingredients": "Ingredients: Chicken Drumstick 76%, Water Sufficient For Cooking 24%.",
+        "ingredients": [
+            "Ingredients: Chicken Drumstick 76%",
+            "Water Sufficient For Cooking 24%."
+        ],
         "analysis": [
             "Crude Protein 17%",
             "Crude Fat 7%",
@@ -28,7 +31,11 @@
             "Recipes with no added grain. Ideal for those who choose a product without added grain.",
             "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
         ],
-        "ingredients": "Ingredients: Chicken 69%, Water Sufficient For Cooking 24%, Pumpkin 7%.",
+        "ingredients": [
+            "Ingredients: Chicken 69%",
+            "Water Sufficient For Cooking 24%",
+            "Pumpkin 7%."
+        ],
         "analysis": [],
         "additive": null,
         "calorie": "Kcal/70 g (2.47 oz) 43.5"
@@ -39,7 +46,13 @@
         "title": "HQS Natural Mixed Seafood in broth for cats",
         "descriptions": "HQS - High Quality Sourced. Cat food made with the finest fresh ingredients 100% natural. For Supplemental Feeding Only - Feed cat 2 cans of HQS Natural for every 8 lbs of bodyweight, rotating with HQS Complete or La Cucina wet cat food or dry cat food. Adjust amount based on cat’s activity level.",
         "key_benefits": "Gluten Free No gluten recipes, where rice is the only source of grain.",
-        "ingredients": "Ingredients: White Fish 46%, Water Sufficient For Cooking 24%, Clams 14%, Squid 9%, Shrimp 7%.",
+        "ingredients": [
+            "Ingredients: White Fish 46%",
+            "Water Sufficient For Cooking 24%",
+            "Clams 14%",
+            "Squid 9%",
+            "Shrimp 7%."
+        ],
         "analysis": [
             "Crude Protein 13%",
             "Crude Fat 0.3%",
@@ -62,7 +75,10 @@
             "Recipes with no added grain. Ideal for those who choose a product without added grain.",
             "Food with high quality protein is crucial for fueling different processes in the body, and respecting your cat or dog's carnivorous nature."
         ],
-        "ingredients": "Ingredients: Chicken Breast 76%, Water Sufficient For Cooking 24%.",
+        "ingredients": [
+            "Ingredients: Chicken Breast 76%",
+            "Water Sufficient For Cooking 24%."
+        ],
         "analysis": [],
         "additive": null,
         "calorie": "620 kcal/kg"

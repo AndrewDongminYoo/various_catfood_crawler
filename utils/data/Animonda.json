@@ -12,7 +12,11 @@
             "with delicious side dishes",
             "unparalleled enjoyment"
         ],
-        "ingredients": "Tuna (49 %), calamari (4 %), shrimps (3 %).",
+        "ingredients": [
+            "Tuna (49 %)",
+            "calamari (4 %)",
+            "shrimps (3 %)."
+        ],
         "analysis": [
             "Protein11 %",
             "fat content1 %",
@@ -36,7 +40,10 @@
             "with delicious side dishes",
             "unparalleled enjoyment"
         ],
-        "ingredients": "White tuna (40 %), beef (6 %).",
+        "ingredients": [
+            "White tuna (40 %)",
+            "beef (6 %)."
+        ],
         "analysis": [
             "Protein11 %",
             "fat content1 %",
@@ -60,7 +67,10 @@
             "with delicious side dishes",
             "unparalleled enjoyment"
         ],
-        "ingredients": "White tuna (40 %), red snapper (6 %).",
+        "ingredients": [
+            "White tuna (40 %)",
+            "red snapper (6 %)."
+        ],
         "analysis": [
             "Protein11 %",
             "fat content1 %",
@@ -84,7 +94,10 @@
             "with delicious side dishes",
             "unparalleled enjoyment"
         ],
-        "ingredients": "White tuna (45 %), shrimps (8 %).",
+        "ingredients": [
+            "White tuna (45 %)",
+            "shrimps (8 %)."
+        ],
         "analysis": [
             "Protein 11 %",
             "fat content 1 %",
@@ -112,7 +125,10 @@
             "no starches",
             "no sugar"
         ],
-        "ingredients": "Meat and animal derivatives (25 % poultry, beef, pork), minerals.",
+        "ingredients": [
+            "Meat and animal derivatives (25 % poultry, beef, pork)",
+            "minerals."
+        ],
         "analysis": [
             "Protein11 %",
             "fat content5.2 %",
@@ -143,7 +159,11 @@
             "no starches",
             "no sugar"
         ],
-        "ingredients": "Meat and animal derivatives (turkey), fish and fish derivatives (7.5 % salmon), minerals.",
+        "ingredients": [
+            "Meat and animal derivatives (turkey)",
+            "fish and fish derivatives (7.5 % salmon)",
+            "minerals."
+        ],
         "analysis": [
             "Protein11 %",
             "fat content5.2 %",
@@ -174,7 +194,10 @@
             "no starches",
             "no sugar"
         ],
-        "ingredients": "Meat and animal derivatives (30 % beef, poultry, pork), minerals.",
+        "ingredients": [
+            "Meat and animal derivatives (30 % beef, poultry, pork)",
+            "minerals."
+        ],
         "analysis": [
             "Protein11 %",
             "fat content5.2 %",

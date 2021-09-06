@@ -13,9 +13,33 @@
             "'Catisfaction' Guarantee - we are so confident that your cat will love the taste of Fish4Cats Complete Food, that we will give you your money back if it doesn't. Applies to 1.5kg only."
         ],
         "key_benefits": null,
-        "ingredients": "Composition: Salmon Meal (33%), Fresh Mackerel (22%), Sweet Potato (17%), Cassava (13%), Salmon Oil (8%), Fish Digest (2.5%), Sunflower Oil, Yeast Extract, Malt Extract, Pea Fibre, Dried Algae, Dried Cranberries, Minerals .",
-        "analysis": "Analytical Constituents: Crude Protein 31%, Fat Content 19%, Crude Ash 8%, Crude Fibres 2.2%, Omega-3 Fats 1.3%",
-        "additive": "Additives (Per Kg) Vitamins: Vitamin A 22,500 IU,  Vitamin D3 1,850 IU, Vitamin E 550 IU",
+        "ingredients": [
+            "Composition: Salmon Meal (33%)",
+            "Fresh Mackerel (22%)",
+            "Sweet Potato (17%)",
+            "Cassava (13%)",
+            "Salmon Oil (8%)",
+            "Fish Digest (2.5%)",
+            "Sunflower Oil",
+            "Yeast Extract",
+            "Malt Extract",
+            "Pea Fibre",
+            "Dried Algae",
+            "Dried Cranberries",
+            "Minerals ."
+        ],
+        "analysis": [
+            "Analytical Constituents: Crude Protein 31%",
+            "Fat Content 19%",
+            "Crude Ash 8%",
+            "Crude Fibres 2.2%",
+            "Omega-3 Fats 1.3%"
+        ],
+        "additive": [
+            "Additives (Per Kg) Vitamins: Vitamin A 22;500 IU",
+            " Vitamin D3 1;850 IU",
+            "Vitamin E 550 IU"
+        ],
         "calorie": "Trace Elements: Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)"
     },
     {
@@ -32,9 +56,33 @@
             "'Catisfaction' Guarantee - we are so confident that your cat will love the taste of Fish4Cats Complete Food, that we will give you your money back if it doesn't. Applies to 1.5kg only"
         ],
         "key_benefits": null,
-        "ingredients": "Composition: Salmon Meal (33%), Fresh Salmon (22%), Sweet Potato (17%), Cassava (13%), Salmon Oil (8%), Fish Digest (2.5%), Sunflower Oil, Yeast Extract, Malt Extract, Pea Fibre, Dried Algae, Dried Cranberries, Minerals .",
-        "analysis": "Analytical Constituents: Crude Protein 31%, Fat Content 19%, Crude Ash 8%, Crude Fibres 2.2%, Omega-3 Fats 1.2%",
-        "additive": "Additives (Per Kg) Vitamins:  Vitamin A 22,500 IU, Vitamin D3 1,850 IU, Vitamin E 550 IU",
+        "ingredients": [
+            "Composition: Salmon Meal (33%)",
+            "Fresh Salmon (22%)",
+            "Sweet Potato (17%)",
+            "Cassava (13%)",
+            "Salmon Oil (8%)",
+            "Fish Digest (2.5%)",
+            "Sunflower Oil",
+            "Yeast Extract",
+            "Malt Extract",
+            "Pea Fibre",
+            "Dried Algae",
+            "Dried Cranberries",
+            "Minerals ."
+        ],
+        "analysis": [
+            "Analytical Constituents: Crude Protein 31%",
+            "Fat Content 19%",
+            "Crude Ash 8%",
+            "Crude Fibres 2.2%",
+            "Omega-3 Fats 1.2%"
+        ],
+        "additive": [
+            "Additives (Per Kg) Vitamins:  Vitamin A 22;500 IU",
+            "Vitamin D3 1;850 IU",
+            "Vitamin E 550 IU"
+        ],
         "calorie": "Trace Elements: Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)"
     },
     {
@@ -50,8 +98,28 @@
             "Hands off you dogs - this one is for us cats!  'Catisfaction' Guarantee - we are so confident that your cat will love the taste of Fish4Cats Complete Food, that we will give you your money back if it doesn't. Applies to 1.5kg only."
         ],
         "key_benefits": null,
-        "ingredients": "Salmon Meal (33%), Fresh Mackerel (22%), Sweet Potato (17%), Cassava (13%), Salmon Oil (8%), Fish Digest (2.5%), Sunflower Oil, Yeast Extract, Malt Extract, Pea Fibre, Dried Algae, Dried Cranberries, Minerals",
-        "analysis": "Crude Protein 31%, Fat Content 19%, Crude Ash 8%, Crude Fibres 2.2%, Omega-3 Fats 1.3%",
+        "ingredients": [
+            "Salmon Meal (33%)",
+            "Fresh Mackerel (22%)",
+            "Sweet Potato (17%)",
+            "Cassava (13%)",
+            "Salmon Oil (8%)",
+            "Fish Digest (2.5%)",
+            "Sunflower Oil",
+            "Yeast Extract",
+            "Malt Extract",
+            "Pea Fibre",
+            "Dried Algae",
+            "Dried Cranberries",
+            "Minerals"
+        ],
+        "analysis": [
+            "Crude Protein 31%",
+            "Fat Content 19%",
+            "Crude Ash 8%",
+            "Crude Fibres 2.2%",
+            "Omega-3 Fats 1.3%"
+        ],
         "additive": [
             "Additives (Per Kg) Vitamins:  Vitamin A 22,500 IU,  Vitamin D3 1,850 IU, Vitamin E 550 IU",
             "Trace Elements:  Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)"
@@ -70,9 +138,14 @@
             "Hands off dogs! This one's for us cats!"
         ],
         "key_benefits": null,
-        "ingredients": "Tuna 65%, Fish Broth 26%, Squid 5%, Rice 4%",
-        "analysis": "Composition:",
-        "additive": "Analytical Constituents:",
+        "ingredients": [
+            "Tuna 65%",
+            "Fish Broth 26%",
+            "Squid 5%",
+            "Rice 4%"
+        ],
+        "analysis": null,
+        "additive": null,
         "calorie": "Crude Protein 12%, Crude Fats 0.1%, Crude Fibres 1%, Crude Ash 2%, Moisture 84.5%"
     },
     {
@@ -88,9 +161,20 @@
             "Hands off dogs! This one's for us cats!"
         ],
         "key_benefits": null,
-        "ingredients": "Composition: Tuna 65%, Fish Broth 27%, Cheese 4%, Rice 4%.",
-        "analysis": "Fish4Cats Tuna Fillet with Cheese",
-        "additive": "Analytical Constituents:  Crude Protein 14%, Crude Fat  0.1%, Crude Fibres 0.9%, Crude Ash 2%, Moisture 83%.",
+        "ingredients": [
+            "Composition: Tuna 65%",
+            "Fish Broth 27%",
+            "Cheese 4%",
+            "Rice 4%."
+        ],
+        "analysis": null,
+        "additive": [
+            "Analytical Constituents:  Crude Protein 14%",
+            "Crude Fat  0.1%",
+            "Crude Fibres 0.9%",
+            "Crude Ash 2%",
+            "Moisture 83%."
+        ],
         "calorie": ""
     },
     {
@@ -106,9 +190,20 @@
             "Hands off dogs! This one's for us cats!"
         ],
         "key_benefits": null,
-        "ingredients": "Composition: Tuna 54%, Fish Broth 38%, Crab 4%, Rice 4%",
-        "analysis": "Fish4Cats Tuna Fillet with Crab ",
-        "additive": "Analytical Constituents:  Crude Protein 12%, Crude Fat  0.1%, Crude Fibres 0.9%, Crude Ash 2%, Moisture 85%.",
+        "ingredients": [
+            "Composition: Tuna 54%",
+            "Fish Broth 38%",
+            "Crab 4%",
+            "Rice 4%"
+        ],
+        "analysis": null,
+        "additive": [
+            "Analytical Constituents:  Crude Protein 12%",
+            "Crude Fat  0.1%",
+            "Crude Fibres 0.9%",
+            "Crude Ash 2%",
+            "Moisture 85%."
+        ],
         "calorie": ""
     },
     {
@@ -124,9 +219,20 @@
             "Hands off dogs! This one's for us cats!"
         ],
         "key_benefits": null,
-        "ingredients": "Composition: Tuna 65%, Fish Broth 26%, Prawn 5%, Rice 4%.",
-        "analysis": "Fish4Cats Tuna Fillet with Prawn",
-        "additive": "Analytical Constituents:  Crude Protein 14%, Crude Fat  0.1%, Crude Fibres 0.9%, Crude Ash 2%, Moisture 83%.",
+        "ingredients": [
+            "Composition: Tuna 65%",
+            "Fish Broth 26%",
+            "Prawn 5%",
+            "Rice 4%."
+        ],
+        "analysis": null,
+        "additive": [
+            "Analytical Constituents:  Crude Protein 14%",
+            "Crude Fat  0.1%",
+            "Crude Fibres 0.9%",
+            "Crude Ash 2%",
+            "Moisture 83%."
+        ],
         "calorie": ""
     }
 ]

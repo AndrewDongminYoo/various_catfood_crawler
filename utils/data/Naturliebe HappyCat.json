@@ -10,7 +10,20 @@
             "The unique Life Protect mixture supports fitness and wellbeing ",
             "Climate-positive: through our forest conservation project in Tanzania, we compensate for our CO2 emissions. "
         ],
-        "ingredients": "dried chicken protein from a more species-appropriate husbandry 21.0 %; rice; dried potato; chicken fat from a more species-appropriate husbandry 11.2 %; potato protein; insects 6.0 %; beet fibre; partially hydrolysed yeast; minerals; herbs, fruits; ground chicory root (natural source of inulin)",
+        "ingredients": [
+            "dried chicken protein from a more species-appropriate husbandry 21.0 %",
+            "rice",
+            "dried potato",
+            "chicken fat from a more species-appropriate husbandry 11.2 %",
+            "potato protein",
+            "insects 6.0 %",
+            "beet fibre",
+            "partially hydrolysed yeast",
+            "minerals",
+            "herbs",
+            "fruits",
+            "ground chicory root (natural source of inulin)"
+        ],
         "analysis": null,
         "additive": null,
         "calorie": null
@@ -25,7 +38,17 @@
             "The unique Life Protect mixture supports fitness and well-being ",
             "Climate-positive: through our forest conservation project in Tanzania, we compensate for our CO2 emissions."
         ],
-        "ingredients": "dried chicken protein from a more species-appropriate husbandry 30.0 %; dried potato; pea flour (natural source of amino acids); chicken fat from a more species-appropriate husbandry 8.9 %; beet fibre; potato protein; dried red lentil; partially hydrolysed yeast; ground chicory root (natural source of inulin).",
+        "ingredients": [
+            "dried chicken protein from a more species-appropriate husbandry 30.0 %",
+            "dried potato",
+            "pea flour (natural source of amino acids)",
+            "chicken fat from a more species-appropriate husbandry 8.9 %",
+            "beet fibre",
+            "potato protein",
+            "dried red lentil",
+            "partially hydrolysed yeast",
+            "ground chicory root (natural source of inulin)."
+        ],
         "analysis": null,
         "additive": null,
         "calorie": null
@@ -40,7 +63,14 @@
             "Anti-hairball effect thanks to the addition of linseed oil and psyllium seed husks ",
             "Climate-positive: through our forest conservation project in Tanzania, we compensate for 125% of our CO2 emissions. "
         ],
-        "ingredients": "chicken from a more species-appropriate husbandry (heart, meat, liver, necks) 70.0 %; stock; minerals; cellulose; faxseed oil 0.50 %; psyllium husks 0,10 %.",
+        "ingredients": [
+            "chicken from a more species-appropriate husbandry (heart, meat, liver, necks) 70.0 %",
+            "stock",
+            "minerals",
+            "cellulose",
+            "faxseed oil 0.50 %",
+            "psyllium husks 0;10 %."
+        ],
         "analysis": null,
         "additive": null,
         "calorie": null

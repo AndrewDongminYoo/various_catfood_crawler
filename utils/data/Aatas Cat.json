@@ -12,7 +12,12 @@
             "These tasty shreds of Tantalizing Tuna & Chicken in delicious savory aspic include natural, wholesome ingredients free from grains, artificial colors, flavors and preservatives. ",
             "All of Aatas Cat food cans are absolutely free from any intended use of BPA."
         ],
-        "ingredients": "Tuna Broth, Tuna, Chicken, Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)",
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Chicken",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
         "analysis": [
             "Crude Protein (min) - 10.0%",
             "Crude Fat (min) - 0.4%",
@@ -36,7 +41,12 @@
             "These tasty shreds of Tantalizing Tuna & Salmon in delicious savory aspic include natural, wholesome ingredients free from grains, artificial colors, flavors and preservatives. ",
             "All of Aatas Cat food cans are absolutely free from any intended use of BPA."
         ],
-        "ingredients": "Tuna Broth, Tuna, Salmon, Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)",
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Salmon",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
         "analysis": [
             "Crude Protein (min) - 10.0%",
             "Crude Fat (min) - 0.3%",
@@ -60,7 +70,12 @@
             "These tasty shreds of Tantalizing Tuna & Snapper in delicious savory aspic include natural, wholesome ingredients free from grains, artificial colors, flavors and preservatives. ",
             "All of Aatas Cat food cans are absolutely free from any intended use of BPA."
         ],
-        "ingredients": "Tuna Broth, Tuna, Snapper, Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)",
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Snapper",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
         "analysis": [
             "Crude Protein (min) - 10.0%",
             "Crude Fat (min) - 0.3%",
@@ -84,7 +99,12 @@
             "These tasty shreds of Tantalizing Tuna & Squid in delicious savory aspic include natural, wholesome ingredients free from grains, artificial colors, flavors and preservatives. ",
             "All of Aatas Cat food cans are absolutely free from any intended use of BPA."
         ],
-        "ingredients": "Tuna Broth, Tuna, Squid, Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)",
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Squid",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
         "analysis": [
             "Crude Protein (min) - 10.0%",
             "Crude Fat (min) - 0.3%",
@@ -108,7 +128,12 @@
             "These tasty shreds of Tantalizing Tuna & Tilapia in delicious savory aspic include natural, wholesome ingredients free from grains, artificial colors, flavors and preservatives. ",
             "All of Aatas Cat food cans are absolutely free from any intended use of BPA."
         ],
-        "ingredients": "Tuna Broth, Tuna, Tilapia, Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)",
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Tilapia",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
         "analysis": [
             "Crude Protein (min) - 10.0%",
             "Crude Fat (min) - 0.4%",

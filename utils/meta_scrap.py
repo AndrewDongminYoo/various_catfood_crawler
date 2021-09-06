@@ -1,5 +1,36 @@
+import requests
+from bs4 import BeautifulSoup
+from import_csv import result
+from pymongo import MongoClient
 import json
-import os
+import time
+
+client = MongoClient('localhost', 27017)  # mongoDB는 27017 포트로 돌아갑니다.
+db = client.dbMyProject
+col = db.catfood
+access_token = "EAAFdHXLlGFgBAIlMg30A3GSYx15ZCpuU2Q9IfryNQl6UVxaI4tt4NiUVnwLZCfIW7LbcZAZCbAN" \
+         + "sp07KaSLku7nZApLFx4CCVm1f7nidZAUh8KHJEigd0aBE3Kh9rEE1AF0NAz6EdQPFJ8E5UMWI4u3" \
+         + "rN8yr1LEApFZBqmvlkaT2woGlqhP4CSKDgkD9ufnkoOJC91rZClSurwZDZD"
+
+
+def get_meta_img_tag(url):
+    headers = {
+        'User-Agent':
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) ' +
+            'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36'}
+    new_url = "https://graph.facebook.com/v9.0/?scrape=true&id=" + url.replace(':', "%3A").replace('/', '%2F')\
+        + "&access_token=" + access_token
+
+    try:
+        data = requests.get(url, headers=headers)
+        soup = BeautifulSoup(data.text, 'html.parser')
+        return soup.select_one('meta[property="og:image"]')['content']
+    except TypeError:
+        time.sleep(2)
+        data = requests.post(new_url)
+        response = data.json()
+        return response['image'][0]['url']
+
 
 brand_list = [
     "A La CARTE", "Aatas Cat", "AATU", "Absolute Holistic", "ACANA", "Addiction", "Adirondack", "ADVANCE",
@@ -25,44 +56,25 @@ brand_list = [
     "TOMOJO Pet Food", "TOTAL ALIMENTOS EQUILIBRIO", "Trovet", "TRULINE", "Tuffy's Petfoods Dinnertime",
     "Tuffy's Purevita", "TUSCAN NATURAL", "Verus", "Vet's Complete Life", "Vet's Kitchen", "Vigor and Sage",
     "Vintage Cat food", "Vitakraft Cat Food", "Vital Essentials", "Wellness", "Weruva Catfood", "Whiskas",
-    "Wishbone", "Wysong", "ZEAL Canada",
-    "ZiwiPeak"]
+    "Wishbone", "Wysong", "ZEAL Canada", "ZiwiPeak"]
 
-splittable = ['ingredients', 'analysis', 'additive']
 
-for brand in brand_list:
-    with open(f'./data/{brand}.json', 'r', encoding='utf8', newline="") as input_file:
-        formulas_list = json.load(input_file)
-    new_formulas_list = []
-    if type(formulas_list) is list:
-        for formula in formulas_list:
-            new_formula = {}
-            for key, value in formula.items():
-                if type(value) is str:
-                    if key in splittable:
-                        if '(' in value and ')' in value:
-                            bracket = 0
-                            for i in range(len(value)):
-                                if value[i] == '(':
-                                    bracket += 1
-                                elif value[i] == ')':
-                                    bracket -= 1
-                                if value[i] == ',':
-                                    if bracket == 0:
-                                        value = value[:i] + ';' + value[i+1:]
-                    else:
-                        new_formula[key] = value
-                        value = ""
-                    if '(' in value and '; ' in value:
-                        new_formula[key] = value.split('; ')
-                    elif ', ' in value:
-                        new_formula[key] = value.split(', ')
-                else:
-                    new_formula[key] = value
-            new_formulas_list.append(new_formula)
+if __name__ == '__main__':
+    for brand in brand_list:
+        input_file = open(f"./data/{brand}.json", mode="r", encoding="utf8", newline="")
+        formulas = json.load(input_file)
+        if type(formulas) is list:
+            for formula in formulas:
+                time.sleep(2)
+                image = get_meta_img_tag(formula['url'])
+                print(image)
+                formula_id = formula['title']
+                db.users.update_one({'title': formula_id}, {'$set': {'image': image}})
+            with open(f"./data/{brand}.json", mode="w", encoding="utf8", newline="") as out:
+                json.dump(formulas, out, ensure_ascii=False, allow_nan=True)
+        else:
+            formulas['image'] = get_meta_img_tag(formulas['url'])
 
-    with open(f"./data/{brand}.json", 'w', encoding='UTF-8') as output:
-        json.dump(new_formulas_list, output, indent=4, ensure_ascii=False, allow_nan=True)
-        filepath = f"./data/{brand}_.json"
-        if os.path.exists(filepath):
-            os.remove(filepath)
+
+
+

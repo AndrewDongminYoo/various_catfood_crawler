@@ -15,7 +15,16 @@
             "Grain Free Gluten Free",
             "High Meat Diet"
         ],
-        "ingredients": "Beef, Mackeral, Beef heart, Beef liver, Beef kidney, Hoki, Kelp, New Zealand green mussel",
+        "ingredients": [
+            "Beef",
+            "Mackeral",
+            "Beef heart",
+            "Beef liver",
+            "Beef kidney",
+            "Hoki",
+            "Kelp",
+            "New Zealand green mussel"
+        ],
         "analysis": [
             "Minimum Crude Protein 42%",
             "Minimum Crude Fat 35%",
@@ -42,7 +51,17 @@
             "Grain Free Gluten Free",
             "High Meat Diet"
         ],
-        "ingredients": "Chicken, Chicken heart, Mackerel, Chicken liver, Kelp, Eggs, Hoki, New Zealand green mussel, Collagen",
+        "ingredients": [
+            "Chicken",
+            "Chicken heart",
+            "Mackerel",
+            "Chicken liver",
+            "Kelp",
+            "Eggs",
+            "Hoki",
+            "New Zealand green mussel",
+            "Collagen"
+        ],
         "analysis": [
             "Minimum Crude Protein 43%",
             "Minimum Crude Fat 32%",
@@ -69,7 +88,16 @@
             "Grain Free Gluten Free",
             "High Meat Diet"
         ],
-        "ingredients": "Lamb, Mackerel, Lamb heart, Lamb tripe, Lamb kidney, Lamb liver, Kelp, New Zealand green mussel",
+        "ingredients": [
+            "Lamb",
+            "Mackerel",
+            "Lamb heart",
+            "Lamb tripe",
+            "Lamb kidney",
+            "Lamb liver",
+            "Kelp",
+            "New Zealand green mussel"
+        ],
         "analysis": [
             "Minimum Crude Protein 46%",
             "Minimum Crude Fat 32%",
@@ -96,7 +124,20 @@
             "Grain Free Gluten Free",
             "High Meat Diet"
         ],
-        "ingredients": "Mackerel, Beef, Hoki, Chicken heart, Chicken liver, Beef heart, Kelp, Beef kidney, Beef liver, Chicken, Eggs, New Zealand green mussel",
+        "ingredients": [
+            "Mackerel",
+            "Beef",
+            "Hoki",
+            "Chicken heart",
+            "Chicken liver",
+            "Beef heart",
+            "Kelp",
+            "Beef kidney",
+            "Beef liver",
+            "Chicken",
+            "Eggs",
+            "New Zealand green mussel"
+        ],
         "analysis": [
             "Minimum Crude Protein 48%",
             "Minimum Crude Fat 34%",

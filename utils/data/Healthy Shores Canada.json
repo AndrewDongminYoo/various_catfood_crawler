@@ -14,7 +14,23 @@
             "Iron",
             "Zinc"
         ],
-        "ingredients": "Wild Pacific salmon, wild salmon broth, green peas, navy beans, lentils, flaxseed, sun-cured alfalfa, taurine, vitamins and minerals, agar gum, potassium chloride, herb mix, sodium chloride, choline chloride, yucca schidigera extract.",
+        "ingredients": [
+            "Wild Pacific salmon",
+            "wild salmon broth",
+            "green peas",
+            "navy beans",
+            "lentils",
+            "flaxseed",
+            "sun-cured alfalfa",
+            "taurine",
+            "vitamins and minerals",
+            "agar gum",
+            "potassium chloride",
+            "herb mix",
+            "sodium chloride",
+            "choline chloride",
+            "yucca schidigera extract."
+        ],
         "analysis": [
             "Crude protein: min. 11.0%",
             "Crude Fat: min. 7.5%",
@@ -41,7 +57,24 @@
             "Iron",
             "Zinc"
         ],
-        "ingredients": "Wild Albacore tuna, Albacore tuna broth, green peas, navy beans, lentils, flaxseed, sun-cured alfalfa, taurine, vitamins and minerals, agar gum, potassium chloride, tricalcium phosphate, herb mix, sodium chloride, choline chloride, yucca schidigera extract.",
+        "ingredients": [
+            "Wild Albacore tuna",
+            "Albacore tuna broth",
+            "green peas",
+            "navy beans",
+            "lentils",
+            "flaxseed",
+            "sun-cured alfalfa",
+            "taurine",
+            "vitamins and minerals",
+            "agar gum",
+            "potassium chloride",
+            "tricalcium phosphate",
+            "herb mix",
+            "sodium chloride",
+            "choline chloride",
+            "yucca schidigera extract."
+        ],
         "analysis": [
             "Crude protein: min. 13.0%",
             "Crude Fat: min. 7.5%",
@@ -68,7 +101,24 @@
             "Iron",
             "Zinc"
         ],
-        "ingredients": "Wild Pacific hake, hake broth, green peas, navy beans, lentils, flaxseed, sun-cured alfalfa, taurine, vitamins and minerals, agar gum, potassium chloride, tricalcium phosphate, herb mix, sodium chloride, choline chloride, yucca schidigera extract.",
+        "ingredients": [
+            "Wild Pacific hake",
+            "hake broth",
+            "green peas",
+            "navy beans",
+            "lentils",
+            "flaxseed",
+            "sun-cured alfalfa",
+            "taurine",
+            "vitamins and minerals",
+            "agar gum",
+            "potassium chloride",
+            "tricalcium phosphate",
+            "herb mix",
+            "sodium chloride",
+            "choline chloride",
+            "yucca schidigera extract."
+        ],
         "analysis": [
             "Crude protein: min. 11.0%",
             "Crude Fat: min. 7.5%",
@@ -95,7 +145,24 @@
             "Iron",
             "Zinc"
         ],
-        "ingredients": "Wild Pacific Herring, herring broth, green peas, navy beans, lentils, flaxseed, sun-cured alfalfa, taurine, vitamins and minerals, agar gum, potassium chloride, tricalcium phosphate, herb mix, sodium chloride, choline chloride, yucca schidigera extract.",
+        "ingredients": [
+            "Wild Pacific Herring",
+            "herring broth",
+            "green peas",
+            "navy beans",
+            "lentils",
+            "flaxseed",
+            "sun-cured alfalfa",
+            "taurine",
+            "vitamins and minerals",
+            "agar gum",
+            "potassium chloride",
+            "tricalcium phosphate",
+            "herb mix",
+            "sodium chloride",
+            "choline chloride",
+            "yucca schidigera extract."
+        ],
         "analysis": [
             "Crude protein: min. 10.0%",
             "Crude Fat: min. 7.5%",

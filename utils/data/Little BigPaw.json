@@ -20,9 +20,31 @@
             "Grain Free",
             "Suitable for Adult cats"
         ],
-        "ingredients": "Composition: Salmon 26%, Chicken 24%, Chicken Liver 20%, Minerals, Salmon Oil 0.1%, Sunflower Oil 0.1%.",
-        "analysis": "Analytical Constituents: Crude Protein 10%, Crude Fat 10%, Crude Fibre 0.5%, Crude Ash 3.2%, Moisture 75%.",
-        "additive": "Nutritional Additives/kg: Vitamin A 1000IU, Taurine 265mg, Vitamin E 20mg, Iron (Iron Sulphate, Monohydrate) 10.6mg, Zinc (Zinc Sulphate, Monohydrate) 10mg, Manganese (Manganous Sulphate, Monohydrate) 5.3mg, Copper (Copper Sulphate, Pentahydrate) 1mg, Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
+        "ingredients": [
+            "Composition: Salmon 26%",
+            "Chicken 24%",
+            "Chicken Liver 20%",
+            "Minerals",
+            "Salmon Oil 0.1%",
+            "Sunflower Oil 0.1%."
+        ],
+        "analysis": [
+            "Analytical Constituents: Crude Protein 10%",
+            "Crude Fat 10%",
+            "Crude Fibre 0.5%",
+            "Crude Ash 3.2%",
+            "Moisture 75%."
+        ],
+        "additive": [
+            "Nutritional Additives/kg: Vitamin A 1000IU",
+            "Taurine 265mg",
+            "Vitamin E 20mg",
+            "Iron (Iron Sulphate, Monohydrate) 10.6mg",
+            "Zinc (Zinc Sulphate, Monohydrate) 10mg",
+            "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
+            "Copper (Copper Sulphate, Pentahydrate) 1mg",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
+        ],
         "calorie": [
             "128kcal per 100g",
             "0.42g Phosphorus per 100g",
@@ -50,9 +72,31 @@
             "Grain Free",
             "Suitable for Adult cats"
         ],
-        "ingredients": "Composition: Tuna 26%, Chicken 24%, Chicken Liver 20%, Minerals, Salmon Oil 0.1%, Sunflower Oil 0.1%.",
-        "analysis": "Analytical Constituents: Crude Protein 10.5%, Crude Fat 10%, Crude Fibre 0.5%, Crude Ash 3.5%, Moisture 75%.",
-        "additive": "Nutritional Additives/kg: Vitamin A 1000IU, Taurine 265mg, Vitamin E 20mg, Iron (Iron Sulphate, Monohydrate) 10.6mg, Zinc (Zinc Sulphate, Monohydrate) 10mg, Manganese (Manganous Sulphate, Monohydrate) 5.3mg, Copper (Copper Sulphate, Pentahydrate) 1mg, Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
+        "ingredients": [
+            "Composition: Tuna 26%",
+            "Chicken 24%",
+            "Chicken Liver 20%",
+            "Minerals",
+            "Salmon Oil 0.1%",
+            "Sunflower Oil 0.1%."
+        ],
+        "analysis": [
+            "Analytical Constituents: Crude Protein 10.5%",
+            "Crude Fat 10%",
+            "Crude Fibre 0.5%",
+            "Crude Ash 3.5%",
+            "Moisture 75%."
+        ],
+        "additive": [
+            "Nutritional Additives/kg: Vitamin A 1000IU",
+            "Taurine 265mg",
+            "Vitamin E 20mg",
+            "Iron (Iron Sulphate, Monohydrate) 10.6mg",
+            "Zinc (Zinc Sulphate, Monohydrate) 10mg",
+            "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
+            "Copper (Copper Sulphate, Pentahydrate) 1mg",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
+        ],
         "calorie": [
             "128kcal per 100g",
             "0.53g Phosphorus per 100g",
@@ -80,9 +124,31 @@
             "Grain Free",
             "Suitable for Adult cats"
         ],
-        "ingredients": "Composition: Ocean Fish 26%, Chicken 24%, Chicken Liver 20%, Minerals, Salmon Oil 0.1%, Sunflower Oil 0.1%.",
-        "analysis": "Analytical Constituents: Crude Protein 9.5%, Crude Fat 7.5%, Crude Fibre 0.4%, Crude Ash 3.2%, Moisture 77%.",
-        "additive": "Nutritional Additives/kg: Vitamin A 1000IU, Taurine 265mg, Vitamin E 20mg, Iron (Iron Sulphate, Monohydrate) 10.6mg, Zinc (Zinc Sulphate, Monohydrate) 10mg, Manganese (Manganous Sulphate, Monohydrate) 5.3mg, Copper (Copper Sulphate, Pentahydrate) 1mg, Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
+        "ingredients": [
+            "Composition: Ocean Fish 26%",
+            "Chicken 24%",
+            "Chicken Liver 20%",
+            "Minerals",
+            "Salmon Oil 0.1%",
+            "Sunflower Oil 0.1%."
+        ],
+        "analysis": [
+            "Analytical Constituents: Crude Protein 9.5%",
+            "Crude Fat 7.5%",
+            "Crude Fibre 0.4%",
+            "Crude Ash 3.2%",
+            "Moisture 77%."
+        ],
+        "additive": [
+            "Nutritional Additives/kg: Vitamin A 1000IU",
+            "Taurine 265mg",
+            "Vitamin E 20mg",
+            "Iron (Iron Sulphate, Monohydrate) 10.6mg",
+            "Zinc (Zinc Sulphate, Monohydrate) 10mg",
+            "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
+            "Copper (Copper Sulphate, Pentahydrate) 1mg",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
+        ],
         "calorie": [
             "110kcal per 100g",
             "0.43g Phosphorus per 100g",
@@ -110,9 +176,30 @@
             "Grain Free",
             "Suitable for kittens"
         ],
-        "ingredients": "Composition: Chicken 50%, Chicken Liver 20%, Minerals, Salmon Oil 0.1%, Sunflower Oil 0.1%.",
-        "analysis": "Analytical Constituents: Crude Protein 10.5%, Crude Fat 8%, Crude Fibre 0.5%, Crude Ash 3.5%, Moisture 75%.",
-        "additive": "Nutritional Additives/kg: Vitamin A 1000IU, Taurine 630mg, Vitamin E 20mg, Iron (Iron Sulphate, Monohydrate) 10.6mg, Zinc (Zinc Sulphate, Monohydrate) 10mg, Manganese (Manganous Sulphate, Monohydrate) 5.3mg, Copper (Copper Sulphate, Pentahydrate) 1mg, Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
+        "ingredients": [
+            "Composition: Chicken 50%",
+            "Chicken Liver 20%",
+            "Minerals",
+            "Salmon Oil 0.1%",
+            "Sunflower Oil 0.1%."
+        ],
+        "analysis": [
+            "Analytical Constituents: Crude Protein 10.5%",
+            "Crude Fat 8%",
+            "Crude Fibre 0.5%",
+            "Crude Ash 3.5%",
+            "Moisture 75%."
+        ],
+        "additive": [
+            "Nutritional Additives/kg: Vitamin A 1000IU",
+            "Taurine 630mg",
+            "Vitamin E 20mg",
+            "Iron (Iron Sulphate, Monohydrate) 10.6mg",
+            "Zinc (Zinc Sulphate, Monohydrate) 10mg",
+            "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
+            "Copper (Copper Sulphate, Pentahydrate) 1mg",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
+        ],
         "calorie": "118kcal per 100g"
     },
     {
@@ -136,9 +223,31 @@
             "Grain Free",
             "Suitable for Adult cats"
         ],
-        "ingredients": "Composition: Duck 26%, Chicken 24%, Chicken Liver 20%, Minerals, Salmon Oil 0.1%, Sunflower Oil 0.1%.",
-        "analysis": "Analytical Constituents: Crude Protein 10%, Crude Fat 10%, Crude Fibre 0.5%, Crude Ash 3.2%, Moisture 75%",
-        "additive": "Nutritional Additives/kg: Vitamin A 1000IU, Taurine 265mg, Vitamin E 20mg, Iron (Iron Sulphate, Monohydrate) 10.6mg, Zinc (Zinc Sulphate, Monohydrate) 10mg, Manganese (Manganous Sulphate, Monohydrate) 5.3mg, Copper (Copper Sulphate, Pentahydrate) 1mg, Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
+        "ingredients": [
+            "Composition: Duck 26%",
+            "Chicken 24%",
+            "Chicken Liver 20%",
+            "Minerals",
+            "Salmon Oil 0.1%",
+            "Sunflower Oil 0.1%."
+        ],
+        "analysis": [
+            "Analytical Constituents: Crude Protein 10%",
+            "Crude Fat 10%",
+            "Crude Fibre 0.5%",
+            "Crude Ash 3.2%",
+            "Moisture 75%"
+        ],
+        "additive": [
+            "Nutritional Additives/kg: Vitamin A 1000IU",
+            "Taurine 265mg",
+            "Vitamin E 20mg",
+            "Iron (Iron Sulphate, Monohydrate) 10.6mg",
+            "Zinc (Zinc Sulphate, Monohydrate) 10mg",
+            "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
+            "Copper (Copper Sulphate, Pentahydrate) 1mg",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
+        ],
         "calorie": [
             "128kcal per 100g",
             "0.58g Phosphorus per 100g",

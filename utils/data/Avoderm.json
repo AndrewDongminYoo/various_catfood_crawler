@@ -12,7 +12,30 @@
             "Antioxidant Nutrients to Help Support a Healthy Immune System",
             "With Omega-Rich Avocados for Healthy Skin & Coat"
         ],
-        "ingredients": "Chicken Meal, Ground Brown Rice, Ground White Rice, Chicken Fat (Preserved with Mixed Tocopherols), Dried Tomato Pomace, Herring Meal (Source of Omega 3), Avocado, Natural Flavor, Salt, Dried Egg Product, Dried Chicory Root, Inulin, Potassium Chloride, Vitamins (Choline Chloride, a -Tocopherol Acetate (Source of Vitamin E), Niacin, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Thiamine Mononitrate (Source of Vitamin B1), Menadione Sodium Bisulfite Complex (Source of Vitamin K), Vitamin A Acetate, Pyridoxine Hydrochloride (Source of Vitamin B6), Calcium Pantothenate, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Vitamin D3 Supplement, Folic Acid), Minerals (Ferrous Sulfate, Zinc Amino Acid Chelate, Zinc Sulfate, Iron Amino Acid Chelate, Copper Sulfate, Sodium Selenite, Copper Amino Acid Chelate, Manganese Sulfate, Manganese Amino Acid Chelate, Calcium Iodate), Avocado Oil, Taurine, Parsley Flakes, Kelp Meal, DL-Methionine, Yucca Schidigera Extract, Inositol",
+        "ingredients": [
+            "Chicken Meal",
+            "Ground Brown Rice",
+            "Ground White Rice",
+            "Chicken Fat (Preserved with Mixed Tocopherols)",
+            "Dried Tomato Pomace",
+            "Herring Meal (Source of Omega 3)",
+            "Avocado",
+            "Natural Flavor",
+            "Salt",
+            "Dried Egg Product",
+            "Dried Chicory Root",
+            "Inulin",
+            "Potassium Chloride",
+            "Vitamins (Choline Chloride, a -Tocopherol Acetate (Source of Vitamin E), Niacin, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Thiamine Mononitrate (Source of Vitamin B1), Menadione Sodium Bisulfite Complex (Source of Vitamin K), Vitamin A Acetate, Pyridoxine Hydrochloride (Source of Vitamin B6), Calcium Pantothenate, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Vitamin D3 Supplement, Folic Acid)",
+            "Minerals (Ferrous Sulfate, Zinc Amino Acid Chelate, Zinc Sulfate, Iron Amino Acid Chelate, Copper Sulfate, Sodium Selenite, Copper Amino Acid Chelate, Manganese Sulfate, Manganese Amino Acid Chelate, Calcium Iodate)",
+            "Avocado Oil",
+            "Taurine",
+            "Parsley Flakes",
+            "Kelp Meal",
+            "DL-Methionine",
+            "Yucca Schidigera Extract",
+            "Inositol"
+        ],
         "analysis": [
             "Crude Protein (min) 32.00%",
             "Crude Fat (min) 20.00%",
@@ -27,7 +50,7 @@
             "Omega-6 Fatty Acid* (min) 4.00%",
             "Omega-3 Fatty Acid* (min) 0.86%"
         ],
-        "additive": "",
+        "additive": null,
         "calorie": "3753 kcal/kg"
     },
     {
@@ -43,7 +66,24 @@
             "Nutrient-Rich ",
             "With Omega-Rich Avocados for Healthy Skin & Coat"
         ],
-        "ingredients": "Chicken Broth, Chicken, Pea Protein, Tapioca Starch, Duck, Tricalcium Phosphate, Guar Gum, Sunflower Oil, Avocado Oil (Source Of Omega 3), Taurine, Potassium Chloride, Choline Chloride, Salt, Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source Of Vitamin K Activity), Biotin, Vitamin B12 Supplement), Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide), Magnesium Oxide",
+        "ingredients": [
+            "Chicken Broth",
+            "Chicken",
+            "Pea Protein",
+            "Tapioca Starch",
+            "Duck",
+            "Tricalcium Phosphate",
+            "Guar Gum",
+            "Sunflower Oil",
+            "Avocado Oil (Source Of Omega 3)",
+            "Taurine",
+            "Potassium Chloride",
+            "Choline Chloride",
+            "Salt",
+            "Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source Of Vitamin K Activity), Biotin, Vitamin B12 Supplement)",
+            "Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide)",
+            "Magnesium Oxide"
+        ],
         "analysis": [
             "Guaranteed Analysis",
             "Crude Protein (min) 8.00%",
@@ -120,7 +160,24 @@
             "Nutrient-Rich",
             "With Omega-Rich Avocados for Healthy Skin & Coat"
         ],
-        "ingredients": "Fish Broth, Salmon, Chicken, Sardine (Source of Omega 3), pea protein, Tapioca Starch, Tricalcium Phosphate, Avocado Oil, Sunflower Oil, Taurine, Guar Gum, Poatssium Chloride, Choline Chloride, Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source of Vitamin K Activity), Biotin, Vitamin B12 Supplement), Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide), Magnesium Oxide",
+        "ingredients": [
+            "Fish Broth",
+            "Salmon",
+            "Chicken",
+            "Sardine (Source of Omega 3)",
+            "pea protein",
+            "Tapioca Starch",
+            "Tricalcium Phosphate",
+            "Avocado Oil",
+            "Sunflower Oil",
+            "Taurine",
+            "Guar Gum",
+            "Poatssium Chloride",
+            "Choline Chloride",
+            "Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source of Vitamin K Activity), Biotin, Vitamin B12 Supplement)",
+            "Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide)",
+            "Magnesium Oxide"
+        ],
         "analysis": [
             "Guaranteed Analysis",
             "Crude Protein (min) 8.00%",
@@ -197,7 +254,22 @@
             "Nutrient-Rich ",
             "With Omega-Rich Avocados for Healthy Skin & Coat"
         ],
-        "ingredients": "Sardine (Source Of Omega 3), Fish Broth, Shrimp, Crab, Tapioca Starch, Guar Gum, Tricalcium Phosphate, Avocado Oil, Taurine, Salt, Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide), Potassium Chloride, Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source Of Vitamin K Activity), Biotin, Vitamin B12 Supplement), Choline Chloride",
+        "ingredients": [
+            "Sardine (Source Of Omega 3)",
+            "Fish Broth",
+            "Shrimp",
+            "Crab",
+            "Tapioca Starch",
+            "Guar Gum",
+            "Tricalcium Phosphate",
+            "Avocado Oil",
+            "Taurine",
+            "Salt",
+            "Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide)",
+            "Potassium Chloride",
+            "Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source Of Vitamin K Activity), Biotin, Vitamin B12 Supplement)",
+            "Choline Chloride"
+        ],
         "analysis": [
             "Guaranteed Analysis",
             "Crude Protein (min) 10.00%",
@@ -274,7 +346,23 @@
             "Nutrient-Rich ",
             "With Omega-Rich Avocados for Healthy Skin & Coat"
         ],
-        "ingredients": "Tuna (Source of Omega 3), Fish Broth, Chicken, Sunflower Oil, Carrots, Green Pea, Guar Gum, Tricalcium Phosphate, Avocado Oil, Taurine, Choline Chloride, Potassium Chloride, Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide), Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source of Vitamin K Activity), Biotin, Vitamin B12 Supplement), Magnesium Oxide",
+        "ingredients": [
+            "Tuna (Source of Omega 3)",
+            "Fish Broth",
+            "Chicken",
+            "Sunflower Oil",
+            "Carrots",
+            "Green Pea",
+            "Guar Gum",
+            "Tricalcium Phosphate",
+            "Avocado Oil",
+            "Taurine",
+            "Choline Chloride",
+            "Potassium Chloride",
+            "Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide)",
+            "Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source of Vitamin K Activity), Biotin, Vitamin B12 Supplement)",
+            "Magnesium Oxide"
+        ],
         "analysis": [
             "Guaranteed Analysis",
             "Crude Protein (min) 12.00%",
@@ -347,7 +435,21 @@
             "Nutrient-Rich ",
             "With Omega-Rich Avocados for Healthy Skin & Coat"
         ],
-        "ingredients": "Tuna (Source Of Omega 3), Tuna Broth, Crab, Tapioca Starch, Sunflower Oil, Guar Gum, Tricalcium Phosphate, Avocado Oil, Taurine, Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide), Choline Chloride, Potassium Cholride, Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source Of Vitamin K Activity), Biotin, Vitamin B12 Supplement)",
+        "ingredients": [
+            "Tuna (Source Of Omega 3)",
+            "Tuna Broth",
+            "Crab",
+            "Tapioca Starch",
+            "Sunflower Oil",
+            "Guar Gum",
+            "Tricalcium Phosphate",
+            "Avocado Oil",
+            "Taurine",
+            "Minerals (Ferrous Sulfate Monohydrate, Zinc Oxide, Manganese Sulfate Monohydrate, Copper Amino Acid Complex, Sodium Selenite, Potassium Iodide)",
+            "Choline Chloride",
+            "Potassium Cholride",
+            "Vitamins (Vitamin A Supplement, Vitamin D3 Supplement, Vitamin E Supplement, Thiamine Mononitrate, Niacin, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride (Vitamin B6), Folic Acid, Menadion Sodium Bisulfite Complex (Source Of Vitamin K Activity), Biotin, Vitamin B12 Supplement)"
+        ],
         "analysis": [
             "Guaranteed Analysis",
             "Crude Protein (min) 10.00%",
@@ -427,7 +529,31 @@
             "Antioxidant Nutrients to Help Support a Healthy Immune System",
             "With Omega-Rich Avocado for Healthy Skin & Coat"
         ],
-        "ingredients": "Chicken Meal, Ground Brown Rice, Ground White Rice, Chicken Fat (Preserved with Mixed Tocopherols), Dried Tomato Pomace, Herring Meal (Source of Omega 3), Avocado, Pea Fiber, Natural Flavor, Salt, Dried Egg Product, Dried Chicory Root, Inulin, Potassium Chloride, Vitamins (Choline Chloride, a -Tocopherol Acetate (Source of Vitamin E), Niacin, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Thiamine Mononitrate (Source of Vitamin B1), Menadione Sodium Bisulfite Complex (Source of Vitamin K), Vitamin A Acetate, Pyridoxine Hydrochloride (Source of Vitamin B6), Calcium Pantothenate, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Vitamin D3 Supplement, Folic Acid), Minerals (Ferrous Sulfate, Zinc Amino Acid Chelate, Zinc Sulfate, Iron Amino Acid Chelate, Copper Sulfate, Sodium Selenite, Copper Amino Acid Chelate, Manganese Sulfate, Manganese Amino Acid Chelate, Calcium Iodate), Avocado Oil, Taurine, Parsley Flakes, Kelp Meal, DL-Methionine, Yucca Schidigera Extract, Inositol.",
+        "ingredients": [
+            "Chicken Meal",
+            "Ground Brown Rice",
+            "Ground White Rice",
+            "Chicken Fat (Preserved with Mixed Tocopherols)",
+            "Dried Tomato Pomace",
+            "Herring Meal (Source of Omega 3)",
+            "Avocado",
+            "Pea Fiber",
+            "Natural Flavor",
+            "Salt",
+            "Dried Egg Product",
+            "Dried Chicory Root",
+            "Inulin",
+            "Potassium Chloride",
+            "Vitamins (Choline Chloride, a -Tocopherol Acetate (Source of Vitamin E), Niacin, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Thiamine Mononitrate (Source of Vitamin B1), Menadione Sodium Bisulfite Complex (Source of Vitamin K), Vitamin A Acetate, Pyridoxine Hydrochloride (Source of Vitamin B6), Calcium Pantothenate, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Vitamin D3 Supplement, Folic Acid)",
+            "Minerals (Ferrous Sulfate, Zinc Amino Acid Chelate, Zinc Sulfate, Iron Amino Acid Chelate, Copper Sulfate, Sodium Selenite, Copper Amino Acid Chelate, Manganese Sulfate, Manganese Amino Acid Chelate, Calcium Iodate)",
+            "Avocado Oil",
+            "Taurine",
+            "Parsley Flakes",
+            "Kelp Meal",
+            "DL-Methionine",
+            "Yucca Schidigera Extract",
+            "Inositol."
+        ],
         "analysis": [
             "Guaranteed Analysis",
             "Crude Protein (min) 32.00%",
@@ -448,7 +574,7 @@
             "Metabolizable Energy (calculated) 3564 kcal/kg",
             "Metabolizable Energy (calculated) 388 kcal/cup"
         ],
-        "additive": "",
+        "additive": null,
         "calorie": "3564 kcal/kg"
     }
 ]

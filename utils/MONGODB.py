@@ -1,5 +1,8 @@
+from pymongo import MongoClient
 import json
-import os
+client = MongoClient('localhost', 27017)  # mongoDB는 27017 포트로 돌아갑니다.
+db = client.dbMyProject
+
 
 brand_list = [
     "A La CARTE", "Aatas Cat", "AATU", "Absolute Holistic", "ACANA", "Addiction", "Adirondack", "ADVANCE",
@@ -25,44 +28,13 @@ brand_list = [
     "TOMOJO Pet Food", "TOTAL ALIMENTOS EQUILIBRIO", "Trovet", "TRULINE", "Tuffy's Petfoods Dinnertime",
     "Tuffy's Purevita", "TUSCAN NATURAL", "Verus", "Vet's Complete Life", "Vet's Kitchen", "Vigor and Sage",
     "Vintage Cat food", "Vitakraft Cat Food", "Vital Essentials", "Wellness", "Weruva Catfood", "Whiskas",
-    "Wishbone", "Wysong", "ZEAL Canada",
-    "ZiwiPeak"]
-
-splittable = ['ingredients', 'analysis', 'additive']
+    "Wishbone", "Wysong", "ZEAL Canada", "ZiwiPeak"]
 
 for brand in brand_list:
-    with open(f'./data/{brand}.json', 'r', encoding='utf8', newline="") as input_file:
-        formulas_list = json.load(input_file)
-    new_formulas_list = []
-    if type(formulas_list) is list:
-        for formula in formulas_list:
-            new_formula = {}
-            for key, value in formula.items():
-                if type(value) is str:
-                    if key in splittable:
-                        if '(' in value and ')' in value:
-                            bracket = 0
-                            for i in range(len(value)):
-                                if value[i] == '(':
-                                    bracket += 1
-                                elif value[i] == ')':
-                                    bracket -= 1
-                                if value[i] == ',':
-                                    if bracket == 0:
-                                        value = value[:i] + ';' + value[i+1:]
-                    else:
-                        new_formula[key] = value
-                        value = ""
-                    if '(' in value and '; ' in value:
-                        new_formula[key] = value.split('; ')
-                    elif ', ' in value:
-                        new_formula[key] = value.split(', ')
-                else:
-                    new_formula[key] = value
-            new_formulas_list.append(new_formula)
-
-    with open(f"./data/{brand}.json", 'w', encoding='UTF-8') as output:
-        json.dump(new_formulas_list, output, indent=4, ensure_ascii=False, allow_nan=True)
-        filepath = f"./data/{brand}_.json"
-        if os.path.exists(filepath):
-            os.remove(filepath)
+    with open(f"./data/{brand}.json", mode="r", encoding="utf8", newline="") as input_file:
+        data = json.load(input_file)
+        if type(data) is dict:
+            db.catfood.insert_one(data)
+        elif type(data) is list:
+            for formula in data:
+                db.catfood.insert_one(formula)

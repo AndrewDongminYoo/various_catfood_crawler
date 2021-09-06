@@ -28,7 +28,7 @@ for brand in brand_list:
                 some_dict[key_list[8]] = formula.get(key_list[8])
                 some_list.append(some_dict)
             with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
-                json.dump(some_list, output, indent=4)
+                json.dump(some_list, output, indent=4, ensure_ascii=False, allow_nan=True)
         elif type(formulas) is dict:
             formula = formulas
             some_dict = dict()
@@ -42,4 +42,4 @@ for brand in brand_list:
             some_dict[key_list[7]] = formula.get(key_list[7])
             some_dict[key_list[8]] = formula.get(key_list[8])
             with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
-                json.dump(some_dict, output, indent=4)
+                json.dump(some_dict, output, indent=4, ensure_ascii=False, allow_nan=True)

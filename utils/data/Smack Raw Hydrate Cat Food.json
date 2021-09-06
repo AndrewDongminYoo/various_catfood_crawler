@@ -5,7 +5,18 @@
         "title": "Pacific Fish Feast (CAT) – Smack Pet Food",
         "descriptions": "",
         "key_benefits": null,
-        "ingredients": "Wild Rockfish, Wild Herring, Pumpkin*, Spinach*, Celery*, Apple*, Parsley*, Kale*, Turmeric*, Tocopherols*.",
+        "ingredients": [
+            "Wild Rockfish",
+            "Wild Herring",
+            "Pumpkin*",
+            "Spinach*",
+            "Celery*",
+            "Apple*",
+            "Parsley*",
+            "Kale*",
+            "Turmeric*",
+            "Tocopherols*."
+        ],
         "analysis": [
             "Crude Protein (min.) - 50.0%",
             "Crude Fat (min.) - 32.0%",
@@ -25,7 +36,18 @@
         "title": "Purrfect Pork (CAT) – Smack Pet Food",
         "descriptions": "",
         "key_benefits": null,
-        "ingredients": "Pork (Bone-In), Pork Organs (Heart, Liver, Kidney, Tongue, and Spleen), Pumpkin*, Kale*, Apple*, Celery*, Blueberry*, Cranberry*, Turmeric*, Tocopherols*.",
+        "ingredients": [
+            "Pork (Bone-In)",
+            "Pork Organs (Heart, Liver, Kidney, Tongue, and Spleen)",
+            "Pumpkin*",
+            "Kale*",
+            "Apple*",
+            "Celery*",
+            "Blueberry*",
+            "Cranberry*",
+            "Turmeric*",
+            "Tocopherols*."
+        ],
         "analysis": [
             "Crude Protein (min.) - 40.0%",
             "Crude Fat (min.) - 30.0%",
@@ -45,7 +67,21 @@
         "title": "Very Berry for Cats – Smack Pet Food",
         "descriptions": "",
         "key_benefits": null,
-        "ingredients": "Chicken*, Wild Salmon, Chicken Liver, Chicken Gizzard, Chicken Heart, Cranberry*, Blueberry*, Parsley*, Thyme*, Strawberry*, Spinach*, Celery*, Tocopherols*.",
+        "ingredients": [
+            "Chicken*",
+            "Wild Salmon",
+            "Chicken Liver",
+            "Chicken Gizzard",
+            "Chicken Heart",
+            "Cranberry*",
+            "Blueberry*",
+            "Parsley*",
+            "Thyme*",
+            "Strawberry*",
+            "Spinach*",
+            "Celery*",
+            "Tocopherols*."
+        ],
         "analysis": [
             "Crude Protein (min.) - 52.0%",
             "Crude Fat (min.) - 27.0%",

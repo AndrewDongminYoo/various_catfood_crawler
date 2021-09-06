@@ -13,9 +13,23 @@
             "Grain free",
             "Ideal for mixing with dry food"
         ],
-        "ingredients": "Ingredients: 70% (Beef Hearts, Beef Meat, Beef Liver, Beef Lung), 28,5% Broth, 1% Minerals, 0,5% Sunflower Oil.",
-        "analysis": "Analytical Constituents: Crude Protein 10.80% Crude Fat 6.90% Crude Fiber 0.30% Crude Ash 2.10% Moisture 78%",
-        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Taurine 1500 mg.",
+        "ingredients": [
+            "Ingredients: 70% (Beef Hearts, Beef Meat, Beef Liver, Beef Lung)",
+            "28;5% Broth",
+            "1% Minerals",
+            "0;5% Sunflower Oil."
+        ],
+        "analysis": null,
+        "additive": [
+            "Nutritional additives per kg: Vitamin D3 (E671) 200 IE",
+            "Zinc as zinc sulfate",
+            "monohydrate (E6) 25 mg",
+            "Manganese as manganese-II-sulfate",
+            "monohydrate (E5) 1;4 mg",
+            "Iodine as calcium iodate",
+            "waterfree (E2) 0;75mg",
+            "Taurine 1500 mg."
+        ],
         "calorie": null
     },
     {
@@ -32,9 +46,24 @@
             "Grain free",
             "Ideal for mixing with dry food"
         ],
-        "ingredients": "Ingredients: 70% (Chicken Hearts, Chicken Meat, Chicken Liver, Chicken Stomach, Chicken Necks), 29% Broth, 1% Minerals.",
-        "analysis": "Analytical Constituents: Crude Protein 10.30% Crude Fat 5.20% Crude Fiber 0.50% Crude Ash 2.50% Moisture 80%",
-        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Copper as cupric-sulfate, Pentahydrate (E4) 0,5 mg, Taurine 1500 mg.",
+        "ingredients": [
+            "Ingredients: 70% (Chicken Hearts, Chicken Meat, Chicken Liver, Chicken Stomach, Chicken Necks)",
+            "29% Broth",
+            "1% Minerals."
+        ],
+        "analysis": null,
+        "additive": [
+            "Nutritional additives per kg: Vitamin D3 (E671) 200 IE",
+            "Zinc as zinc sulfate",
+            "monohydrate (E6) 25 mg",
+            "Manganese as manganese-II-sulfate",
+            "monohydrate (E5) 1;4 mg",
+            "Iodine as calcium iodate",
+            "waterfree (E2) 0;75mg",
+            "Copper as cupric-sulfate",
+            "Pentahydrate (E4) 0;5 mg",
+            "Taurine 1500 mg."
+        ],
         "calorie": null
     },
     {
@@ -51,9 +80,24 @@
             "Grain free",
             "Ideal for mixing with dry food"
         ],
-        "ingredients": "Ingredients: 70% Salmon, 29% Broth, 1% Minerals.",
-        "analysis": "Analytical Constituents: Crude Protein 9.80% Crude Fat 8.00% Crude Fiber 0.40% Crude Ash 3.00% Moisture 78%",
-        "additive": "Nutritional additives per kg: Vitamin D3 (E671) 200 IE, Zinc as zinc sulfate, monohydrate (E6) 25 mg, Manganese as manganese-II-sulfate, monohydrate (E5) 1,4 mg, Iodine as calcium iodate, waterfree (E2) 0,75mg, Copper as cupric-sulfate, Pentahydrate (E4) 2 mg, Taurine 1500 mg.",
+        "ingredients": [
+            "Ingredients: 70% Salmon",
+            "29% Broth",
+            "1% Minerals."
+        ],
+        "analysis": null,
+        "additive": [
+            "Nutritional additives per kg: Vitamin D3 (E671) 200 IE",
+            "Zinc as zinc sulfate",
+            "monohydrate (E6) 25 mg",
+            "Manganese as manganese-II-sulfate",
+            "monohydrate (E5) 1;4 mg",
+            "Iodine as calcium iodate",
+            "waterfree (E2) 0;75mg",
+            "Copper as cupric-sulfate",
+            "Pentahydrate (E4) 2 mg",
+            "Taurine 1500 mg."
+        ],
         "calorie": null
     }
 ]
