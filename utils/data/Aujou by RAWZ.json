@@ -58,7 +58,7 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "(ME calculated as shown): 869 kcal/kg; 61 kcal/pouch"
+        "calorie": "869 kcal/kg"
     },
     {
         "url": "https://rawznaturalpetfood.com/product/aujou-chicken-liver-recipe/",
@@ -119,7 +119,7 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "(ME calculated as shown): 867 kcal/kg; 61 kcal/pouch"
+        "calorie": "867 kcal/kg"
     },
     {
         "url": "https://rawznaturalpetfood.com/product/aujou-chicken-pumpkin-recipe/",
@@ -181,7 +181,7 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "(ME calculated as shown): 852 kcal/kg; 60 kcal/pouch"
+        "calorie": "852 kcal/kg"
     },
     {
         "url": "https://rawznaturalpetfood.com/product/aujou-tuna-mackerel-recipe/",
@@ -240,7 +240,7 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "(ME calculated as shown): 818 kcal/kg; 57 kcal/pouch"
+        "calorie": "818 kcal/kg"
     },
     {
         "url": "https://rawznaturalpetfood.com/product/tuna-salmon-recipe/",
@@ -300,6 +300,6 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "(ME calculated as shown): 862 kcal/kg; 60 kcal/pouch."
+        "calorie": "862 kcal/kg."
     }
 ]

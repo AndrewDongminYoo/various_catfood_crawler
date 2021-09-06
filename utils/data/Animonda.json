@@ -61,15 +61,15 @@
             "unparalleled enjoyment"
         ],
         "ingredients": "White tuna (40 %), red snapper (6 %).",
-        "analysis": "Metabolizable energy per 100g in MJ: 0,27",
-        "additive": null,
-        "calorie": [
+        "analysis": [
             "Protein11 %",
             "fat content1 %",
             "crude fiber0.4 %",
             "crude ash2 %",
             "moisture83 %."
-        ]
+        ],
+        "additive": null,
+        "calorie": "Metabolizable energy per 100g in MJ: 0,27"
     },
     {
         "url": "https://www.animonda.de/en/product/carny-katze-ocean-adult-white-tuna-shrimps-dose",

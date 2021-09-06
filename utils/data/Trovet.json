@@ -22,7 +22,7 @@
             "Manganese (Mn) 5.7 mg/kg Linoleic acid 3.30 % EPA 0.40 % DHA 0.35 % Taurine 2700 mg/kg"
         ],
         "additive": null,
-        "calorie": "Energy: 16.3MJ/kg - 3903 kcal/kg"
+        "calorie": "3903 kcal/kg"
     },
     {
         "url": "https://www.trovet.com/en/product/urinary-calm-cat/",
@@ -46,7 +46,7 @@
             "Taurine 2380 mg/kg DL-Methionine 8500 mg/kg Ammonium chloride 1200 %"
         ],
         "additive": null,
-        "calorie": "Energy: 14.5MJ/kg - 3474 kcal/kg"
+        "calorie": "3474 kcal/kg"
     },
     {
         "url": "https://www.trovet.com/product/hepatic-cat/",
@@ -62,7 +62,7 @@
             "Copper (Cu) 20 mg/kg Taurine 1800 mg/kg Lecithin 5000 mg/kg Choline 2200 mg/kg L-carnitine 300 mg/kg"
         ],
         "additive": null,
-        "calorie": "Energy: 15.4MJ/kg - 3675 kcal/kg"
+        "calorie": "3675 kcal/kg"
     },
     {
         "url": "https://www.trovet.com/product/intestinal-cat/",
@@ -86,7 +86,7 @@
             "Taurine 1500 mg/kg Omega-3 fatty acids 1.95 % Linoleic acid 3.30 % Alpha linolenic acid 0.70 % DHA 0.60 % EPA 0.65 %"
         ],
         "additive": null,
-        "calorie": "Energy: 16.2MJ/kg - 3873 kcal/kg"
+        "calorie": "3873 kcal/kg"
     },
     {
         "url": "https://www.trovet.com/product/renal-oxalate-cat/",
@@ -108,7 +108,7 @@
             "Taurine 1800 mg/kg Linoleic acid 6.20 % Alpha linolenic acid 0.70 % Potassium citrate 2800 mg/kg"
         ],
         "additive": null,
-        "calorie": "Energy: 17.2MJ/kg - 4118 kcal/kg"
+        "calorie": "4118 kcal/kg"
     },
     {
         "url": "https://www.trovet.com/product/urinary-struvite-cat/",
@@ -128,7 +128,7 @@
             "Taurine 1800 mg/kg Ammonium chloride 1.14 %"
         ],
         "additive": null,
-        "calorie": "Ingredients (Dry) rice, poultry meal, poultry fat, corn gluten, fish meal, corn, poultry liver (hydrolysate), yeast, sodium chloride, ammonium chloride, fish oil, lecithin, vitamins and trace elements, choline chloride. Average analysis (per kg) Protein 32.0 % Fat content 23.0 % Inorganic matter 6.8 % Crude fibre 1.5 % Moisture 8.0 % Carbohydrates 28.7 % Vitamin A 15000 IU/kg Vitamin D3 1000 IU/kg Vitamin E 250 mg/kg Calcium (Ca) 1.00 % Phosphorous (P) 1.00 % Sodium (Na) 0.60 % Potassium (K) 0.56 % Chloride (Cl) 1.80 % Magnesium (Mg) 0.07 % Sulphur (S) 0.32 % Taurine 1800 mg/kg Ammonium chloride 1.14 % Energy: 17.1MJ/kg - 4083 kcal/kg Feeding advice (grams per day) Body weight (kg) 2 3 4 5 6 Min (grams) 30 40 45 55 60 Max (grams) 35 50 55 65 75"
+        "calorie": "4083 kcal/kg"
     },
     {
         "url": "https://www.trovet.com/product/weight-diabetic-cat/",
@@ -153,6 +153,6 @@
             "Iron (Fe) 75 mg/kg Copper (Cu) 10 mg/kg Zinc (Zn) 85 mg/kg Manganese (Mn) 15 mg/kg L-carnitine 150 mg/kg Taurine 1800 mg/kg"
         ],
         "additive": null,
-        "calorie": "Energy: 13.6MJ/kg - 3254 kcal/kg"
+        "calorie": "3254 kcal/kg"
     }
 ]

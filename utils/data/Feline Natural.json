@@ -28,7 +28,7 @@
             "Omega 3's 0.2%"
         ],
         "additive": null,
-        "calorie": "945 kcal/kg, 81 kcal/85g can, 161 kcal/170g can"
+        "calorie": "945 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/cans-beef?variant=40450393342116",
@@ -59,7 +59,7 @@
             "Omega 3's 0.2%"
         ],
         "additive": null,
-        "calorie": "1123 kcal/kg, 95 kcal/85g can, 161 kcal/170g can"
+        "calorie": "1123 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/cans-chicken-lamb?variant=40441324109988",
@@ -90,7 +90,7 @@
             "Omega 3's 0.1%"
         ],
         "additive": null,
-        "calorie": "895 kcal/kg, 76 kcal/85g can, 152 kcal/170g can"
+        "calorie": "895 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/cans-chicken-venison?variant=40442946093220",
@@ -120,7 +120,7 @@
             "Omega 3's 0.1%"
         ],
         "additive": null,
-        "calorie": "862 kcal/kg, 73 kcal/85g can, 146 kcal/170g can"
+        "calorie": "862 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/cans-chicken?variant=40450455994532",
@@ -151,7 +151,7 @@
             "Omega 3's 0.1%"
         ],
         "additive": null,
-        "calorie": "1013 kcal/kg, 86kcal/85g can, 172 kcal/170g can"
+        "calorie": "1013 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/cans-lamb-king-salmon?variant=40443103871140",
@@ -182,7 +182,7 @@
             "Omega 3's 0.4%"
         ],
         "additive": null,
-        "calorie": "1060 kcal/kg, 90 kcal/85g can, 180 kcal/170g can"
+        "calorie": "1060 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/cans-lamb?variant=40450757230756",
@@ -212,7 +212,7 @@
             "Omega 3's 0.2%"
         ],
         "additive": null,
-        "calorie": "1211 kcal/kg, 103 kcal/85g can, 206 kcal/170g can"
+        "calorie": "1211 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/freeze-dried-beef-hoki?variant=40441230426276",
@@ -243,7 +243,7 @@
             "Omega 3's 0.8%"
         ],
         "additive": null,
-        "calorie": "4762 kcal/kg, 205 kcal/cup"
+        "calorie": "4762 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/freeze-dried-chicken-lamb?variant=40441199001764",
@@ -274,7 +274,7 @@
             "Omega 3's 0.5%"
         ],
         "additive": null,
-        "calorie": "4857 kcal/kg, 185 kcal/cup"
+        "calorie": "4857 kcal/kg"
     },
     {
         "url": "https://www.felinenatural.com/collections/all/products/freeze-dried-lamb-king-salmon?variant=40441288753316",
@@ -305,6 +305,6 @@
             "Omega 3's 2.1%"
         ],
         "additive": null,
-        "calorie": "5197 kcal/kg, 239 kcal/cup"
+        "calorie": "5197 kcal/kg"
     }
 ]

@@ -42,7 +42,7 @@
             "Taurine % 0.30 0.33"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy, as fed Metabolizable Energy, as fed, (calculated) 3618 kcal/kg = 1641 kcal/lb = 458 kcal/cup"
+        "calorie": "3618 kcal/kg"
     },
     {
         "url": "https://annamaet.com/products/grain-free-feline/",
@@ -85,7 +85,7 @@
             "Taurine % 0.20 0.22"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy, as fed Metabolizable Energy, as fed, 4149 kcal/kg = 1886 Kcal/lb = 472 kcal/cup."
+        "calorie": "4149 kcal/kg"
     },
     {
         "url": "https://annamaet.com/products/original-feline/",
@@ -128,6 +128,6 @@
             "Taurine % 0.20 0.22"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy, as fed Metabolizable Energy, as fed, 4022 kcal/kg = 1828 kcal/lb = 400 kcal/cup."
+        "calorie": "4022 kcal/kg"
     }
 ]

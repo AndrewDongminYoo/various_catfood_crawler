@@ -20,7 +20,7 @@
             "DHA (Docosohexaenoic Acid) (min.*) 0.05%"
         ],
         "additive": null,
-        "calorie": "Calorie Contents Calculated ME-3,922 kcal/kg 367 kcal/cup (8oz.Cup)"
+        "calorie": "3,922 kcal/kg"
     },
     {
         "url": "https://artemiscompany.com/collections/shop-cat-all/products/h-i-t-salmon-snow-crab-feline-formula",
@@ -45,7 +45,7 @@
             "Carbohydrate** 18%"
         ],
         "additive": null,
-        "calorie": "CALORIE CONTENT 3,720 kcal/kg (512 kcal/8oz cup) "
+        "calorie": "3,720 kcal/kg"
     },
     {
         "url": "https://artemiscompany.com/collections/shop-cat-all/products/osopure-grain-free-feline-formula-dry-cat-food",
@@ -67,6 +67,6 @@
             "Omega-3 Fatty Acids, min.* 0.6%"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): ME 3,861 kcal/kg (361 kcal/ 8 oz cup)"
+        "calorie": "3,861 kcal/kg"
     }
 ]

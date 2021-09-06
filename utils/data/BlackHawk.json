@@ -20,7 +20,7 @@
             "ME Kcal/kg 3,650"
         ],
         "additive": null,
-        "calorie": "ME Kcal/kg 3,650"
+        "calorie": "Kcal/kg 3,650"
     },
     {
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/grain-free-cat-food-duck-and-fish",
@@ -43,7 +43,7 @@
             "ME Kcal/kg 3,680"
         ],
         "additive": null,
-        "calorie": "ME Kcal/kg 3,680"
+        "calorie": "Kcal/kg 3,680"
     },
     {
         "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/kitten-wet-food-chicken-with-peas",
@@ -186,8 +186,7 @@
             "Crude Protein 8.00% (min)",
             "Crude Fat 4.00% (min)",
             "Crude Fibre 1.00% (max)",
-            "Ash 2.0% (max)",
-            ""
+            "Ash 2.0% (max)"
         ],
         "additive": null,
         "calorie": ""

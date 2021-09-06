@@ -735,7 +735,7 @@
             "Taurine (Min.) 0.10%"
         ],
         "additive": null,
-        "calorie": "1042 kcal/kg 74 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
+        "calorie": "1042 kcal/kg"
     },
     {
         "url": "https://www.naturalbalanceinc.com/cat-formulas/wet-food/delectable-delights/o-fishally-scampi",
@@ -757,7 +757,7 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "828 kcal/kg 59 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
+        "calorie": "828 kcal/kg"
     },
     {
         "url": "https://www.naturalbalanceinc.com/cat-formulas/wet-food/delectable-delights/purrrfect-paella",
@@ -779,7 +779,7 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "822 kcal/kg 58 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
+        "calorie": "822 kcal/kg"
     },
     {
         "url": "https://www.naturalbalanceinc.com/cat-formulas/wet-food/delectable-delights/sea-brulee",
@@ -801,6 +801,6 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "846 kcal/kg 60 kcal/tub Note: The calories can vary slightly over time due to naturally occurring variation in ingredients, processing and analyses."
+        "calorie": "846 kcal/kg"
     }
 ]

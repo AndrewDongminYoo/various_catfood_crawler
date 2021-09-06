@@ -15,11 +15,10 @@
             "CALCIUM (CA) Not less than 1.45%",
             "MOISTURE Not more than 10%",
             "OMEGA 3 Not more than 0.5%",
-            "OMEGA 6 Not more than 3.5%",
-            "Energy 385kca1/100g"
+            "OMEGA 6 Not more than 3.5%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Energy 385kca1/100g"
     },
     {
         "url": "https://alacarte4k9.com.au/product/salmon-brown-rice/",
@@ -37,10 +36,9 @@
             "CALCIUM (CA) Not less than 1.45%",
             "MOISTURE Not more than 10%",
             "OMEGA 3 Not more than 0.5%",
-            "OMEGA 6 Not more than 3.5%",
-            "Energy 382kca1/100g"
+            "OMEGA 6 Not more than 3.5%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Energy 382kca1/100g"
     }
 ]

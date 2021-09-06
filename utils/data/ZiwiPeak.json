@@ -20,7 +20,7 @@
             "Moisture max. 14%",
             "Ash max. 12%",
             "Chondroitin Sulfate min. 1300mg/kg",
-            "Calorie Content (calculated) 5500 kcal ME/kg | 312 kcal ME/level scoop"
+            "calorie": "Calorie Content (calculated) 5500 kcal ME/kg | 312 kcal ME/level scoop"
         ],
         "additive": null,
         "calorie": null
@@ -46,7 +46,7 @@
             "Moisture max. 14%",
             "Ash max. 12%",
             "Chondroitin Sulfate min. 1300mg/kg",
-            "Calorie Content (calculated) 5500 kcal ME/kg | 312 kcal ME/level scoop"
+            "calorie": "Calorie Content (calculated) 5500 kcal ME/kg | 312 kcal ME/level scoop"
         ],
         "additive": null,
         "calorie": null
@@ -72,7 +72,7 @@
             "Moisture max. 14%",
             "Ash max. 12%",
             "Chondroitin Sulfate min. 1300mg/kg",
-            "Calorie Content (calculated) 5600 kcal ME/kg | 318 kcal ME/level scoop"
+            "calorie": "Calorie Content (calculated) 5600 kcal ME/kg | 318 kcal ME/level scoop"
         ],
         "additive": null,
         "calorie": null
@@ -101,7 +101,7 @@
             "Ash max. 12%",
             "Taurine (As Received, Typical Analysis) 0.25%",
             "Chondroitin Sulfate min. 1300mg/kg",
-            "Calorie Content (calculated) 4800 kcal ME/kg | 273 kcal ME/level scoop"
+            "calorie": "Calorie Content (calculated) 4800 kcal ME/kg | 273 kcal ME/level scoop"
         ],
         "additive": null,
         "calorie": null
@@ -127,7 +127,7 @@
             "Moisture max. 14%",
             "Ash max. 12%",
             "Chondroitin Sulfate min. 1300mg/kg",
-            "Calorie Content (calculated) 4700 kcal ME/kg | 267 kcal ME /level scoop"
+            "calorie": "Calorie Content (calculated) 4700 kcal ME/kg | 267 kcal ME /level scoop"
         ],
         "additive": null,
         "calorie": null
@@ -152,11 +152,10 @@
             "Crude Fibre max. 2%",
             "Moisture max. 78%",
             "Ash max. 4%",
-            "Chondroitin Sulfate (min) 300mg/kg",
-            "Calorie Content (calculated) 1250 kcal ME/kg | 231 kcal ME/185g can | 106 kcal ME/85g can"
+            "Chondroitin Sulfate (min) 300mg/kg"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Calorie Content (calculated) 1250 kcal/kg"
     },
     {
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/free-range-chicken-recipe",
@@ -178,11 +177,10 @@
             "Crude Fibre max. 1%",
             "Moisture max. 78%",
             "Ash max. 4%",
-            "Chondroitin Sulfate 300 mg/kg",
-            "Calorie Content (calculated) 1325 kcal ME/kg | 245 kcal ME/185g can | 113 kcal ME/85g can"
+            "Chondroitin Sulfate 300 mg/kg"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Calorie Content (calculated) 1325 kcal/kg"
     },
     {
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/hoki-recipe",
@@ -203,11 +201,10 @@
             "Crude Fibre max. 2%",
             "Moisture max. 78%",
             "Ash max. 3.5%",
-            "Chondroitin Sulfate (min) 300mg/kg",
-            "Calorie Content (calculated) 1050 kcal ME/kg | 194 kcal ME/185g can | 89 kcal ME/85g can"
+            "Chondroitin Sulfate (min) 300mg/kg"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Calorie Content (calculated) 1050 kcal/kg"
     },
     {
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/lamb-recipe",
@@ -228,11 +225,10 @@
             "Crude Fibre max. 2%",
             "Moisture max. 78%",
             "Ash max. 3%",
-            "Chondroitin Sulfate (min) 300mg/kg",
-            "Calorie Content (calculated) 1325 kcal ME/kg | 245 kcal ME/185g can | 113 kcal ME/85g can"
+            "Chondroitin Sulfate (min) 300mg/kg"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Calorie Content (calculated) 1325 kcal/kg"
     },
     {
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/mackerel-lamb-recipe",
@@ -254,11 +250,10 @@
             "Crude Fibre max. 2%",
             "Moisture max. 78%",
             "Ash max. 3%",
-            "Chondroitin Sulfate (min) 300mg/kg",
-            "Calorie Content (calculated) 1200 kcal ME/kg | 222 kcal ME/185g can | 102 kcal ME/85g can"
+            "Chondroitin Sulfate (min) 300mg/kg"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Calorie Content (calculated) 1200 kcal/kg"
     },
     {
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/mackerel-recipe",
@@ -279,11 +274,10 @@
             "Crude Fibre max. 2%",
             "Moisture max. 78%",
             "Ash max. 4%",
-            "Chondroitin Sulfate (min) 300mg/kg",
-            "Calorie Content (calculated) 1075 kcal ME/kg | 199 kcal ME/185g can | 91 kcal ME/85g can"
+            "Chondroitin Sulfate (min) 300mg/kg"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Calorie Content (calculated) 1075 kcal/kg"
     },
     {
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/rabbit-lamb-recipe",
@@ -305,11 +299,10 @@
             "Moisture max. 78%",
             "Ash max. 3%",
             "Taurine (As Received, Typical Analysis) 0.13%",
-            "Chondroitin Sulfate min. 300mg/kg",
-            "Calorie Content (calculated) 1100 kcal ME/kg | 203 kcal ME/185g can | 94 kcal ME/85g can"
+            "Chondroitin Sulfate min. 300mg/kg"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Calorie Content (calculated) 1100 kcal/kg"
     },
     {
         "url": "https://www.ziwipets.com/cat-food/wet-cat-food/venison-recipe",
@@ -331,10 +324,9 @@
             "Crude Fibre max. 2%",
             "Moisture max. 78%",
             "Ash max. 3%",
-            "Chondroitin Sulfate (min) 300mg/kg",
-            "Calorie Content (calculated) 1200 kcal ME/kg | 222 kcal ME/185g can | 102 kcal ME/85g can"
+            "Chondroitin Sulfate (min) 300mg/kg"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": "Calorie Content (calculated) 1200 kcal/kg"
     }
 ]

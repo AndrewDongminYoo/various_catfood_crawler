@@ -22,7 +22,7 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "1147 kcal ME/kg, 179 kcal ME/can"
+        "calorie": "1147 kcal/kg"
     },
     {
         "url": "https://www.veruspetfoods.com/feline-salmonpate-detail/",
@@ -47,7 +47,7 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "1174 kcal ME/kg, 183 kcal ME/can"
+        "calorie": "1174 kcal/kg"
     },
     {
         "url": "https://www.veruspetfoods.com/feline-tunapate-detail/",
@@ -72,7 +72,7 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "944 kcal ME/kg, 147 kcal ME/can"
+        "calorie": "944 kcal/kg"
     },
     {
         "url": "https://www.veruspetfoods.com/feline-turkeypate-detail/",
@@ -97,7 +97,7 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "1215 kcal ME/kg, 190 kcal ME/can"
+        "calorie": "1215 kcal/kg"
     },
     {
         "url": "https://www.veruspetfoods.com/felineoceanfish-detail/",
@@ -122,7 +122,7 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "1060 kcal ME/kg, 165 kcal ME/can"
+        "calorie": "1060 kcal/kg"
     },
     {
         "url": "https://www.veruspetfoods.com/felineturkeychixoceanfish-detail/",
@@ -147,7 +147,7 @@
             "Carbs \u2013 15.76%"
         ],
         "additive": null,
-        "calorie": "1136 kcal ME/kg, 177 kcal ME/can"
+        "calorie": "1136 kcal/kg"
     },
     {
         "url": "https://www.veruspetfoods.com/verus-chicken-liver-formula/",
@@ -172,6 +172,6 @@
             "Carbs \u2013 5.42%"
         ],
         "additive": null,
-        "calorie": "1091 kcal ME/kg, 170 kcal ME/can"
+        "calorie": "1091 kcal/kg"
     }
 ]

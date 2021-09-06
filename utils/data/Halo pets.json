@@ -89,7 +89,7 @@
             "985 Kcal/Kg, 84 Kcal/Can 3oz. (85g), 154 Kcal/Can 5.5oz. (156g)"
         ],
         "additive": null,
-        "calorie": "985 Kcal/Kg, 84 Kcal/Can 3oz. (85g), 154 Kcal/Can 5.5oz. (156g)"
+        "calorie": "985 Kcal/Kg"
     },
     {
         "url": "https://halopets.com/collections/all-cats/products/halo-cat-sensitive-stomach-holistic-seafood-medley",
@@ -187,6 +187,6 @@
             "Omega 3 Fatty Acids (Min.)* 1.10%"
         ],
         "additive": null,
-        "calorie": "3,930 kcal ME/kg, 432 kcal/cup"
+        "calorie": "3,930 kcal/kg"
     }
 ]

@@ -28,10 +28,7 @@
             "Omega-3 Fatty Acid* (min) 0.86%"
         ],
         "additive": "",
-        "calorie": [
-            "Metabolizable Energy (calculated) 375 kcal/cup",
-            "Metabolizable Energy (calculated) 3753 kcal/kg"
-        ]
+        "calorie": "3753 kcal/kg"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-chicken-duck-entree-in-gravy/",
@@ -111,10 +108,7 @@
             "Arachidonic Acid 0.03 %",
             "Linoleic Acid 1.3 %"
         ],
-        "calorie": [
-            "965 KCAL/KG",
-            "82 KCAL/CAN"
-        ]
+        "calorie": "965 KCAL/KG"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-salmon-chicken-entree-in-gravy/",
@@ -191,10 +185,7 @@
             "Arachidonic Acid 0.02 %",
             "Linoleic Acid 1.20 %"
         ],
-        "calorie": [
-            "882 KCAL/KG",
-            "75 KCAL/CAN"
-        ]
+        "calorie": "882 KCAL/KG"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-sardine-shrimp-crab-entree-in-gravy/",
@@ -271,10 +262,7 @@
             "Arachidonic Acid 0.02 %",
             "Linoleic Acid 1.06 %"
         ],
-        "calorie": [
-            "788 KCAL/KG",
-            "68 KCAL/CAN"
-        ]
+        "calorie": "788 KCAL/KG"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-tuna-chicken-entree-with-vegetables/",
@@ -347,10 +335,7 @@
             "Arachidonic Acid 0.03 %",
             "Linoleic Acid 1.16 %"
         ],
-        "calorie": [
-            "953 KCAL/KG",
-            "81 KCAL/CAN"
-        ]
+        "calorie": "953 KCAL/KG"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-tuna-crab-entree-in-gravy/",
@@ -427,10 +412,7 @@
             "Arachidonic Acid 0.02 %",
             "Linoleic Acid 0.95 %"
         ],
-        "calorie": [
-            "824 KCAL/KG",
-            "70 KCAL/CAN"
-        ]
+        "calorie": "824 KCAL/KG"
     },
     {
         "url": "https://avodermnatural.com/products/indoor-formula/",
@@ -467,9 +449,6 @@
             "Metabolizable Energy (calculated) 388 kcal/cup"
         ],
         "additive": "",
-        "calorie": [
-            "Metabolizable Energy (calculated) 3564 kcal/kg",
-            "Metabolizable Energy (calculated) 388 kcal/cup"
-        ]
+        "calorie": "3564 kcal/kg"
     }
 ]

@@ -21,10 +21,7 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": [
-            "480 kcal/kg ME as-fed,",
-            "38.4 kcal/can"
-        ]
+        "calorie": "480 kcal/kg"
     },
     {
         "url": "https://www.aatascat.com/tantalizingtunasalmon",
@@ -48,10 +45,7 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": [
-            "470 kcal/kg ME as-fed,",
-            "36.7 kcal/can"
-        ]
+        "calorie":  "470 kcal/kg"
     },
     {
         "url": "https://www.aatascat.com/tantalizingtunasnapper",
@@ -75,10 +69,7 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": [
-            "470 kcal/kg ME as-fed,",
-            "36.7 kcal/can"
-        ]
+        "calorie": "470 kcal/kg"
     },
     {
         "url": "https://www.aatascat.com/tantalizingtunasquid",
@@ -102,10 +93,7 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": [
-            "470 kcal/kg ME as-fed,",
-            "36.7 kcal/can"
-        ]
+        "calorie": "470 kcal/kg"
     },
     {
         "url": "https://www.aatascat.com/tantalizingtunatilapia",
@@ -129,9 +117,6 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": [
-            "480 kcal/kg ME as-fed,",
-            "38.4 kcal/can"
-        ]
+        "calorie": "480 kcal/kg"
     }
 ]
