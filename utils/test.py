@@ -10,36 +10,36 @@ key_list = ['url', 'brand', 'title', 'descriptions', 'key_benefits', 'ingredient
 # driver = webdriver.Chrome()
 
 
-for brand in brand_list:
-    with open(f"./data/{brand}.json", mode='r', encoding='UTF-8') as input_file:
-        formulas = json.load(input_file)
-        if type(formulas) is list:
-            some_list = []
-            for formula in formulas:
-                some_dict = dict()
-                some_dict[key_list[0]] = formula.get(key_list[0])
-                some_dict[key_list[1]] = formula.get(key_list[1])
-                some_dict[key_list[2]] = formula.get(key_list[2])
-                some_dict[key_list[3]] = formula.get(key_list[3])
-                some_dict[key_list[4]] = formula.get(key_list[4])
-                some_dict[key_list[5]] = formula.get(key_list[5])
-                some_dict[key_list[6]] = formula.get(key_list[6])
-                some_dict[key_list[7]] = formula.get(key_list[7])
-                some_dict[key_list[8]] = formula.get(key_list[8])
-                some_list.append(some_dict)
-            with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
-                json.dump(some_list, output, indent=4, ensure_ascii=False, allow_nan=True)
-        elif type(formulas) is dict:
-            formula = formulas
-            some_dict = dict()
-            some_dict[key_list[0]] = formula.get(key_list[0])
-            some_dict[key_list[1]] = formula.get(key_list[1])
-            some_dict[key_list[2]] = formula.get(key_list[2])
-            some_dict[key_list[3]] = formula.get(key_list[3])
-            some_dict[key_list[4]] = formula.get(key_list[4])
-            some_dict[key_list[5]] = formula.get(key_list[5])
-            some_dict[key_list[6]] = formula.get(key_list[6])
-            some_dict[key_list[7]] = formula.get(key_list[7])
-            some_dict[key_list[8]] = formula.get(key_list[8])
-            with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
-                json.dump(some_dict, output, indent=4, ensure_ascii=False, allow_nan=True)
+# for brand in brand_list:
+#     with open(f"./data/{brand}.json", mode='r', encoding='UTF-8') as input_file:
+#         formulas = json.load(input_file)
+#         if type(formulas) is list:
+#             some_list = []
+#             for formula in formulas:
+#                 some_dict = dict()
+#                 some_dict[key_list[0]] = formula.get(key_list[0])
+#                 some_dict[key_list[1]] = formula.get(key_list[1])
+#                 some_dict[key_list[2]] = formula.get(key_list[2])
+#                 some_dict[key_list[3]] = formula.get(key_list[3])
+#                 some_dict[key_list[4]] = formula.get(key_list[4])
+#                 some_dict[key_list[5]] = formula.get(key_list[5])
+#                 some_dict[key_list[6]] = formula.get(key_list[6])
+#                 some_dict[key_list[7]] = formula.get(key_list[7])
+#                 some_dict[key_list[8]] = formula.get(key_list[8])
+#                 some_list.append(some_dict)
+#             with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
+#                 json.dump(some_list, output, indent=4, ensure_ascii=False, allow_nan=True)
+#         elif type(formulas) is dict:
+#             formula = formulas
+#             some_dict = dict()
+#             some_dict[key_list[0]] = formula.get(key_list[0])
+#             some_dict[key_list[1]] = formula.get(key_list[1])
+#             some_dict[key_list[2]] = formula.get(key_list[2])
+#             some_dict[key_list[3]] = formula.get(key_list[3])
+#             some_dict[key_list[4]] = formula.get(key_list[4])
+#             some_dict[key_list[5]] = formula.get(key_list[5])
+#             some_dict[key_list[6]] = formula.get(key_list[6])
+#             some_dict[key_list[7]] = formula.get(key_list[7])
+#             some_dict[key_list[8]] = formula.get(key_list[8])
+#             with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
+#                 json.dump(some_dict, output, indent=4, ensure_ascii=False, allow_nan=True)

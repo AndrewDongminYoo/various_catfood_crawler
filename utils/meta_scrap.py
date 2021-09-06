@@ -30,6 +30,8 @@ def get_meta_img_tag(url):
         data = requests.post(new_url)
         response = data.json()
         return response['image'][0]['url']
+    except KeyError:
+        return None
 
 
 brand_list = [
