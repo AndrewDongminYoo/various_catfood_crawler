@@ -124,7 +124,7 @@
             "Additives (Per Kg) Vitamins:  Vitamin A 22,500 IU,  Vitamin D3 1,850 IU, Vitamin E 550 IU",
             "Trace Elements:  Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)"
         ],
-        "calorie": ""
+        "calorie": null
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-tuna-fillet-squid",
@@ -175,7 +175,7 @@
             "Crude Ash 2%",
             "Moisture 83%."
         ],
-        "calorie": ""
+        "calorie": null
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-tuna-fillet-with-crab",
@@ -204,7 +204,7 @@
             "Crude Ash 2%",
             "Moisture 85%."
         ],
-        "calorie": ""
+        "calorie": null
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-tuna-fillet-with-prawn",
@@ -233,6 +233,6 @@
             "Crude Ash 2%",
             "Moisture 83%."
         ],
-        "calorie": ""
+        "calorie": null
     }
 ]

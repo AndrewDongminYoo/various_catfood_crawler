@@ -13,7 +13,7 @@
         "Essential taurine is added in generous quantities to ensure correct functioning of the nervous sytem and eyes, and to support a strong heart.",
         "Special fibres are added to produce a kibble texture that helps to keep teeth free from tartar and plaque."
     ],
-    "ingredients": "",
+    "ingredients": null,
     "analysis": [
         "Protein 32%",
         "Fat Content 15%",
@@ -23,5 +23,5 @@
         "Omega-3 0,65%"
     ],
     "additive": null,
-    "calorie": ""
+    "calorie": null
 }
