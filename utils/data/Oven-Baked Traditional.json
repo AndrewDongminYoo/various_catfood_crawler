@@ -12,7 +12,7 @@
             "The first ingredient of this recipe is fresh meat. It provides all the essential elements and is easier for your cat to digest.",
             "Our kibbles contain less air than extruded kibbles. Therefore, you can give less food to your pet in order to get them full."
         ],
-        "ingredients": "Fresh deboned chicken, Chicken meal, Ground hulled barley, Ground brown rice, Oat meal, Fresh chicken liver, Dried beet pulp, Natural flavor, Chicken fat (preserved with mixed tocopherols and citric acid), Pumpkin, Fish meal, Fresh fish, Brewer\u2019s yeast, Salmon oil, Ground whole flaxseed, Calcium sulfate, Yucca schidigera extract, Inulin (prebiotic), DL-methionine, Cranberries, Potassium chloride, Choline chloride, Pineapples, Taurine, Spinach, Green tea extract, Apples, Bananas, Blueberries, Broccoli, Dried algae, Sweet potatoes, Iron sulfate, Zinc sulfate, Vitamin E supplement, Glucosamine hydrochloride, Chondroitin sulfate, Parsley, Niacin supplement, Copper sulfate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Sodium selenite, Calcium iodate, Folic acid, Rosemary extract. May contain traces of peanuts.",
+        "ingredients": "Fresh deboned chicken, Chicken meal, Ground hulled barley, Ground brown rice, Oat meal, Fresh chicken liver, Dried beet pulp, Natural flavor, Chicken fat (preserved with mixed tocopherols and citric acid), Pumpkin, Fish meal, Fresh fish, Brewer’s yeast, Salmon oil, Ground whole flaxseed, Calcium sulfate, Yucca schidigera extract, Inulin (prebiotic), DL-methionine, Cranberries, Potassium chloride, Choline chloride, Pineapples, Taurine, Spinach, Green tea extract, Apples, Bananas, Blueberries, Broccoli, Dried algae, Sweet potatoes, Iron sulfate, Zinc sulfate, Vitamin E supplement, Glucosamine hydrochloride, Chondroitin sulfate, Parsley, Niacin supplement, Copper sulfate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Sodium selenite, Calcium iodate, Folic acid, Rosemary extract. May contain traces of peanuts.",
         "analysis": [
             "Crude protein min 28.0 %",
             "Crude fat min 14.0 %",
@@ -24,10 +24,10 @@
             "Magnesium max 0.1 %",
             "Potassium min 0.6 %",
             "Sodium min 0.2 %",
-            "Om\u00e9ga-6* fatty acids min 2.8 %",
-            "Om\u00e9ga-3* fatty acids* min 0.6 %",
+            "Oméga-6* fatty acids min 2.8 %",
+            "Oméga-3* fatty acids* min 0.6 %",
             "Glucosamine*  min 100 mg/kg",
-            "Chondro\u00eftin sulfate* min 100 mg/kg"
+            "Chondroïtin sulfate* min 100 mg/kg"
         ],
         "additive": null,
         "calorie": "The calculated metabolizable energy is 3546 kcal/kg, 447 kcal / cup of 250 ml"
@@ -45,7 +45,7 @@
             "The first ingredient of this recipe is fresh fish. It provides all the essential elements elements and is easier for your cat to digest.",
             "Our kibbles contain less air than extruded kibbles. Therefore, you can give less food to your pet in order to get them full."
         ],
-        "ingredients": "Fresh fish, Oat meal, Fish meal, Ground brown rice, Ground hulled barley, Ground whole flaxseed, Natural flavor, Pumpkin, Canola oil (preserved with mixed tocopherols and citric acid), Dried beet pulp, Brewer\u2019s yeast, Dicalcium phosphate, Salmon oil, Carrots, Sweet potatoes, Apples, Blueberries, Spinach, Potassium chloride, Calcium sulfate, Inulin (prebiotic), DL-methionine, Cranberries, Choline chloride, Pineapple, Taurine, Green tea extract, Dried algae, Iron sulfate, Zinc sulfate, Vitamin E supplement, Chondroitin sulfate, Glucosamine hydrochloride, Parsley, Yucca schidigera extract, Niacin supplement, Copper sulfate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Sodium selenite, Calcium iodate, Folic acid, Rosemary extract. May contain traces of peanuts.",
+        "ingredients": "Fresh fish, Oat meal, Fish meal, Ground brown rice, Ground hulled barley, Ground whole flaxseed, Natural flavor, Pumpkin, Canola oil (preserved with mixed tocopherols and citric acid), Dried beet pulp, Brewer’s yeast, Dicalcium phosphate, Salmon oil, Carrots, Sweet potatoes, Apples, Blueberries, Spinach, Potassium chloride, Calcium sulfate, Inulin (prebiotic), DL-methionine, Cranberries, Choline chloride, Pineapple, Taurine, Green tea extract, Dried algae, Iron sulfate, Zinc sulfate, Vitamin E supplement, Chondroitin sulfate, Glucosamine hydrochloride, Parsley, Yucca schidigera extract, Niacin supplement, Copper sulfate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Sodium selenite, Calcium iodate, Folic acid, Rosemary extract. May contain traces of peanuts.",
         "analysis": [
             "Crude protein min 27.0 %",
             "Crude fat min 14.0 %",
@@ -57,10 +57,10 @@
             "Magnesium max 0.1 %",
             "Potassium min 0.6 %",
             "Sodium min 0.2 %",
-            "Om\u00e9ga-6* fatty acids min 2.25 %",
-            "Om\u00e9ga-3* fatty acids min 1.0 %",
+            "Oméga-6* fatty acids min 2.25 %",
+            "Oméga-3* fatty acids min 1.0 %",
             "Glucosamine* min 100 mg/kg",
-            "Chondro\u00eftin sulfate* min 100 mg/kg"
+            "Chondroïtin sulfate* min 100 mg/kg"
         ],
         "additive": null,
         "calorie": "The calculated metabolizable energy is 3522 kcal/kg, 443,8 kcal / cup of 250 ml"
@@ -78,7 +78,7 @@
             "The first ingredient of this recipe for kitten food is fresh meat. It provides all the essential elements for your kitten and is easier to digest.",
             "Our kibbles for kittens contain less air than extruded kibbles. Therefore, you can give less food to your pet in order to get them full."
         ],
-        "ingredients": "Fresh deboned chicken, Chicken meal, Ground hulled barley, Ground brown rice, Whole ground rye, Fresh chicken liver, Canola oil (preserved with mixed tocopherols and citric acid), Natural flavor, Fish meal, Brewer\u2019s yeast, Pumpkin, Oat meal, Ground whole flaxseed, Beet pulp, Dried egg product, Salmon oil, Calcium sulfate, Inulin (prebiotic), Sweet potatoes, Apples, Carrots, Spinach, Blueberries, Sea salt, Taurine, Cranberries, Pineapple, Choline chloride, Green tea extract, DL-methionine, Iron sulfate, Zinc sulfate, Vitamin E supplement, Glucosamine hydrochloride, Chondroitin sulfate, Parsley, Yucca schidigera extract, Niacin supplement, Copper sulfate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Calcium iodate, Folic acid, Sodium selenite, Rosemary extract. May contain traces of peanuts.",
+        "ingredients": "Fresh deboned chicken, Chicken meal, Ground hulled barley, Ground brown rice, Whole ground rye, Fresh chicken liver, Canola oil (preserved with mixed tocopherols and citric acid), Natural flavor, Fish meal, Brewer’s yeast, Pumpkin, Oat meal, Ground whole flaxseed, Beet pulp, Dried egg product, Salmon oil, Calcium sulfate, Inulin (prebiotic), Sweet potatoes, Apples, Carrots, Spinach, Blueberries, Sea salt, Taurine, Cranberries, Pineapple, Choline chloride, Green tea extract, DL-methionine, Iron sulfate, Zinc sulfate, Vitamin E supplement, Glucosamine hydrochloride, Chondroitin sulfate, Parsley, Yucca schidigera extract, Niacin supplement, Copper sulfate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Calcium iodate, Folic acid, Sodium selenite, Rosemary extract. May contain traces of peanuts.",
         "analysis": [
             "Crude protein min 30.0 %",
             "Crude fat min 16.0 %",
@@ -144,7 +144,7 @@
             "The first ingredient of this recipe is fresh meat. It provides all the essential elements and is easier for your cat to digest.",
             "Our kibbles contain less air than extruded kibbles. Therefore, you can give less food to your pet in order to get them full."
         ],
-        "ingredients": "Duck, Turkey meal, Whole peas, Green lentils, Duck meal, Whole chickpeas, Canola oil (preserved with mixed tocopherols and citric acid), Natural flavor,  Ground whole flaxseed, Brewer\u2019s yeast, Dried beet pulp, Salmon oil, Calcium sulfate, Inulin (prebiotic), Spinach, Dried kelp, Pineapple, Dehydrated alfalfa meal , Potassium chloride, Choline chloride, Apples, Bananas, Blueberries, Broccoli, Cranberries, Sweet potatoes, Sea salt, Taurine, Yucca schidigera extract, Iron sulfate, DL-methionine, Zinc sulfate, Zinc proteinate, Vitamin E supplement, Chondroitin sulfate, Niacin supplement, Glucosamine hydrochloride, Manganese proteinate, Copper sulfate, Copper proteinate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Calcium iodate, Folic acid, Sodium selenite, Rosemary extract. May contain traces of peanuts.",
+        "ingredients": "Duck, Turkey meal, Whole peas, Green lentils, Duck meal, Whole chickpeas, Canola oil (preserved with mixed tocopherols and citric acid), Natural flavor,  Ground whole flaxseed, Brewer’s yeast, Dried beet pulp, Salmon oil, Calcium sulfate, Inulin (prebiotic), Spinach, Dried kelp, Pineapple, Dehydrated alfalfa meal , Potassium chloride, Choline chloride, Apples, Bananas, Blueberries, Broccoli, Cranberries, Sweet potatoes, Sea salt, Taurine, Yucca schidigera extract, Iron sulfate, DL-methionine, Zinc sulfate, Zinc proteinate, Vitamin E supplement, Chondroitin sulfate, Niacin supplement, Glucosamine hydrochloride, Manganese proteinate, Copper sulfate, Copper proteinate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Calcium iodate, Folic acid, Sodium selenite, Rosemary extract. May contain traces of peanuts.",
         "analysis": [
             "Crude protein min 32.0 %",
             "Crude fat min 20.0 %",
@@ -155,10 +155,10 @@
             "Phosphorus min 1.0 %",
             "Potassium min 0.6 %",
             "Sodium min 0.2 %",
-            "Om\u00e9ga-6* fatty acids min 3.0 %",
-            "Om\u00e9ga-3* fatty acids min 1.0 %",
+            "Oméga-6* fatty acids min 3.0 %",
+            "Oméga-3* fatty acids min 1.0 %",
             "Glucosamine* min 100 mg/kg",
-            "Chondro\u00eftin* min 100 mg/kg"
+            "Chondroïtin* min 100 mg/kg"
         ],
         "additive": null,
         "calorie": "The calculated metabolizable energy is 3703 kcal/kg, 518 kcal / cup of 250 ml"
@@ -176,7 +176,7 @@
             "The first ingredient of this kitten and cat food recipe is fresh fish. It provides all the essential elements and is easier for your cat to digest.",
             "Our kibbles contain less air than extruded kibbles. Therefore, you can give less food to your pet in order to get them full."
         ],
-        "ingredients": "Fresh fish, Whole peas, Salmon meal, Pea protein, Canola oil (preserved with mixed tocopherols and citric acid), Fish meal, Whole chickpeas, Ground whole flaxseed, Brewer\u2019s yeast, Natural flavor, Pea fiber, Pumpkin,  Calcium sulfate, Inulin (prebiotic), Choline chloride, Taurine, Sea salt, Spinach, Green tea extract, Glucosamine hydrochloride, Chondroitin sulfate, Vitamin E supplement, Yucca schidigera extract, Dried algae, Apples, Bananas, Blueberries, Broccoli, Cranberries, Sweet potatoes, Iron  sulfate, DL-methionine, Zinc  sulfate, Zinc proteinate, Niacin supplement, Manganese proteinate, Copper sulfate, Copper proteinate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Sodium selenite, Calcium iodate, Folic acid, Rosemary extract. May contain traces of peanuts.",
+        "ingredients": "Fresh fish, Whole peas, Salmon meal, Pea protein, Canola oil (preserved with mixed tocopherols and citric acid), Fish meal, Whole chickpeas, Ground whole flaxseed, Brewer’s yeast, Natural flavor, Pea fiber, Pumpkin,  Calcium sulfate, Inulin (prebiotic), Choline chloride, Taurine, Sea salt, Spinach, Green tea extract, Glucosamine hydrochloride, Chondroitin sulfate, Vitamin E supplement, Yucca schidigera extract, Dried algae, Apples, Bananas, Blueberries, Broccoli, Cranberries, Sweet potatoes, Iron  sulfate, DL-methionine, Zinc  sulfate, Zinc proteinate, Niacin supplement, Manganese proteinate, Copper sulfate, Copper proteinate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, d-calcium pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Sodium selenite, Calcium iodate, Folic acid, Rosemary extract. May contain traces of peanuts.",
         "analysis": [
             "Crude protein min 36.0 %",
             "Crude fat min 18.0 %",
@@ -209,7 +209,7 @@
             "The first ingredient of this senior cat food and weight management recipe is fresh meat. It provides all the essential elements and is easier for your cat to digest.",
             "Our kibbles contain less air than extruded kibbles. Therefore, you can give less food to your pet in order to get them full."
         ],
-        "ingredients": "Fresh chicken, Chicken meal, Ground hulled barley, Brown rice, Fresh chicken liver, Dried beet pulp, Brewer\u2019s yeast, Natural flavor, Pumpkin, Fresh fish, Cranberries, Dried egg product, Potassium chloride, Calcium sulfate, Salmon oil, Canola oil (preserved with mixed tocopherols and citric acid), Spinach, Choline chloride, Ground whole flaxseed, Taurine, Apples, Bananas, Blueberries, Broccoli, Dried algae, Sweet potatoes, Vitamin E supplement, Glucosamine hydrochloride, Yucca schidigera extract, Inulin (prebiotic), Pineapple, Chondroitin sulfate, Ascorbic acid (vitamin C), Iron sulfate, DL-methionine, Zinc sulfate, Zinc proteinate, Green tea extract, Niacin supplement, Manganese proteinate, Copper sulfate, Copper proteinate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, Calcium d-pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Calcium iodate, Folic acid, Sodium selenite, Rosemary extract. May contain traces of peanuts.",
+        "ingredients": "Fresh chicken, Chicken meal, Ground hulled barley, Brown rice, Fresh chicken liver, Dried beet pulp, Brewer’s yeast, Natural flavor, Pumpkin, Fresh fish, Cranberries, Dried egg product, Potassium chloride, Calcium sulfate, Salmon oil, Canola oil (preserved with mixed tocopherols and citric acid), Spinach, Choline chloride, Ground whole flaxseed, Taurine, Apples, Bananas, Blueberries, Broccoli, Dried algae, Sweet potatoes, Vitamin E supplement, Glucosamine hydrochloride, Yucca schidigera extract, Inulin (prebiotic), Pineapple, Chondroitin sulfate, Ascorbic acid (vitamin C), Iron sulfate, DL-methionine, Zinc sulfate, Zinc proteinate, Green tea extract, Niacin supplement, Manganese proteinate, Copper sulfate, Copper proteinate, Vitamin A supplement, Manganese sulfate, Thiamine mononitrate, Calcium d-pantothenate, Pyridoxine hydrochloride, Biotin, Riboflavin supplement, Vitamin B12 supplement, Vitamin D3 supplement, Calcium iodate, Folic acid, Sodium selenite, Rosemary extract. May contain traces of peanuts.",
         "analysis": [
             "Crude protein min 28.0 %",
             "Crude fat min 9.0 %",
