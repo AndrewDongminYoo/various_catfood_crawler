@@ -27,7 +27,9 @@
             "Manganese (Manganese Sulphate, Monohydrate) 0.9mg",
             "Iodide (Potassium Iodide) 0.2mg"
         ],
-        "calorie": "Kcal/100g: 119"
+        "calorie": "Kcal/100g: 119",
+        "image": "https://www.naturopetfoods.com/pub/media/catalog/product/cache/637747b950f822466384192a5918810f/c/h/chicken_mousse_1.jpg",
+        "site": "https://www.naturopetfoods.com"
     },
     {
         "url": "https://www.naturopetfoods.com/adult-cat-salmon-mousse",
@@ -59,7 +61,9 @@
             "Manganese (Manganese Sulphate, Monohydrate) 0.9mg",
             "Iodide (Potassium Iodide) 0.2mg"
         ],
-        "calorie": "Kcal/100g: 126"
+        "calorie": "Kcal/100g: 126",
+        "image": "https://www.naturopetfoods.com/pub/media/catalog/product/cache/637747b950f822466384192a5918810f/s/a/salmon_mousse_1.jpg",
+        "site": "https://www.naturopetfoods.com"
     },
     {
         "url": "https://www.naturopetfoods.com/adult-cat-tuna-mousse",
@@ -91,7 +95,9 @@
             "Manganese (Manganese Sulphate, Monohydrate) 0.9mg",
             "Iodide (Potassium Iodide) 0.2mg"
         ],
-        "calorie": "Kcal/100g: 126"
+        "calorie": "Kcal/100g: 126",
+        "image": "https://www.naturopetfoods.com/pub/media/catalog/product/cache/637747b950f822466384192a5918810f/t/u/tuna_mousse_2.jpg",
+        "site": "https://www.naturopetfoods.com"
     },
     {
         "url": "https://www.naturopetfoods.com/adult-cat-turkey-mousse",
@@ -123,6 +129,8 @@
             "Manganese (Manganese Sulphate, Monohydrate) 0.9mg",
             "Iodide (Potassium Iodide) 0.2mg"
         ],
-        "calorie": "Kcal/100g: 117"
+        "calorie": "Kcal/100g: 117",
+        "image": "https://www.naturopetfoods.com/pub/media/catalog/product/cache/637747b950f822466384192a5918810f/t/u/turkey_mousse_1.jpg",
+        "site": "https://www.naturopetfoods.com"
     }
 ]

@@ -39,7 +39,9 @@
             "Iodine (Potassium Iodide) 3.68 mg",
             "Selenium (Sodium Selenite) 0.2 mg."
         ],
-        "calorie": "392.5 Kcals per 100g"
+        "calorie": "392.5 Kcals per 100g",
+        "image": "http://cdn.shopify.com/s/files/1/0388/4223/7067/products/dry-cat-food-chicken-vk-pouch_1200x1200.jpg?v=1624548167",
+        "site": "https://vetskitchen.co.uk"
     },
     {
         "url": "https://vetskitchen.co.uk/collections/dry-cat-food/products/dry-cat-food-salmon",
@@ -78,6 +80,8 @@
             "Iodine (Potassium Iodide) 0.36 mg",
             "Selenium (Sodium Selenite) 0.26 mg."
         ],
-        "calorie": "386 Kcals per 100g"
+        "calorie": "386 Kcals per 100g",
+        "image": "http://cdn.shopify.com/s/files/1/0388/4223/7067/products/dry-cat-food-salmon-vk-pouch_1200x1200.jpg?v=1624548191",
+        "site": "https://vetskitchen.co.uk"
     }
 ]

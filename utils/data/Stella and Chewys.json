@@ -62,7 +62,9 @@
             "(metabolizable energy, calculated): 196 kcal/cup"
         ],
         "additive": null,
-        "calorie": "(metabolizable energy, calculated): 196 kcal/cup"
+        "calorie": "(metabolizable energy, calculated): 196 kcal/cup",
+        "image": "https://www.stellaandchewys.com/wp-content/uploads/2020/07/3.5-oz-Cat-Rabbit.jpg",
+        "site": "https://www.stellaandchewys.com"
     },
     {
         "url": "https://www.stellaandchewys.com/cat-food/chick-chick-chicken-freeze-dried-raw-dinner-morsels/",
@@ -128,7 +130,9 @@
             "(metabolizable energy, calculated): 182 kcal/cup"
         ],
         "additive": null,
-        "calorie": "(metabolizable energy, calculated): 182 kcal/cup"
+        "calorie": "(metabolizable energy, calculated): 182 kcal/cup",
+        "image": "https://www.stellaandchewys.com/wp-content/uploads/2020/07/3.5-oz-Cat-Chicken.jpg",
+        "site": "https://www.stellaandchewys.com"
     },
     {
         "url": "https://www.stellaandchewys.com/cat-food/duck-duck-goose-freeze-dried-raw-dinner-morsels-pet-food/",
@@ -195,7 +199,9 @@
             "(metabolizable energy, calculated): 224 kcal/cup"
         ],
         "additive": null,
-        "calorie": "(metabolizable energy, calculated): 224 kcal/cup"
+        "calorie": "(metabolizable energy, calculated): 224 kcal/cup",
+        "image": "https://www.stellaandchewys.com/wp-content/uploads/2020/07/3.5-oz-Cat-Duck.jpg",
+        "site": "https://www.stellaandchewys.com"
     },
     {
         "url": "https://www.stellaandchewys.com/cat-food/sea-licious-salmon-cod-freeze-dried-raw-dinner-morsels/",
@@ -261,7 +267,9 @@
             "(metabolizable energy, calculated): 190 kcal/cup"
         ],
         "additive": null,
-        "calorie": "(metabolizable energy, calculated): 190 kcal/cup"
+        "calorie": "(metabolizable energy, calculated): 190 kcal/cup",
+        "image": "https://www.stellaandchewys.com/wp-content/uploads/2020/07/3.5-oz-Cat-SalmonCod.jpg",
+        "site": "https://www.stellaandchewys.com"
     },
     {
         "url": "https://www.stellaandchewys.com/cat-food/tummy-ticklin-turkey-freeze-dried-raw-dinner-morsels/",
@@ -326,7 +334,9 @@
             "(metabolizable energy, calculated): 208 kcal/cup"
         ],
         "additive": null,
-        "calorie": "(metabolizable energy, calculated): 208 kcal/cup"
+        "calorie": "(metabolizable energy, calculated): 208 kcal/cup",
+        "image": "https://www.stellaandchewys.com/wp-content/uploads/2020/07/3.5-oz-Cat-Turkey.jpg",
+        "site": "https://www.stellaandchewys.com"
     },
     {
         "url": "https://www.stellaandchewys.com/cat-food/yummy-lickin-salmon-chicken-freeze-dried-raw-dinner-morsels/",
@@ -362,6 +372,8 @@
             "(metabolizable energy, calculated): 188 kcal/cup"
         ],
         "additive": null,
-        "calorie": "(metabolizable energy, calculated): 188 kcal/cup"
+        "calorie": "(metabolizable energy, calculated): 188 kcal/cup",
+        "image": "https://www.stellaandchewys.com/wp-content/uploads/2020/07/3.5-oz-Cat-SalmonChicken.jpg",
+        "site": "https://www.stellaandchewys.com"
     }
 ]

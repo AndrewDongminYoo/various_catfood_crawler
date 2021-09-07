@@ -28,7 +28,9 @@
             "Taurine (min.) - 0.27%"
         ],
         "additive": null,
-        "calorie": "(CALCULATED): 5500 kcal/kg, 550 kcal/cup"
+        "calorie": "(CALCULATED): 5500 kcal/kg, 550 kcal/cup",
+        "image": "http://cdn.shopify.com/s/files/1/0323/7685/products/pff15sup_grande.jpg?v=1558008139",
+        "site": "https://ca.smackpetfood.com"
     },
     {
         "url": "https://ca.smackpetfood.com/collections/cats/products/purrfect-pork",
@@ -59,7 +61,9 @@
             "Taurine (min.) - 0.27%"
         ],
         "additive": null,
-        "calorie": "(CALCULATED): 4600 kcal/kg, 460 kcal/cup"
+        "calorie": "(CALCULATED): 4600 kcal/kg, 460 kcal/cup",
+        "image": "http://cdn.shopify.com/s/files/1/0323/7685/products/pp15sup_grande.jpg?v=1558009874",
+        "site": "https://ca.smackpetfood.com"
     },
     {
         "url": "https://ca.smackpetfood.com/collections/cats/products/very-berry-for-cats-crunchy-style-240-g",
@@ -97,6 +101,8 @@
             "Taurine (min.) - 0.23%"
         ],
         "additive": null,
-        "calorie": "(CALCULATED): 4740 kcal/kg, 474 kcal/cup"
+        "calorie": "(CALCULATED): 4740 kcal/kg, 474 kcal/cup",
+        "image": "http://cdn.shopify.com/s/files/1/0323/7685/products/vbfc15sup_grande.jpg?v=1557862038",
+        "site": "https://ca.smackpetfood.com"
     }
 ]

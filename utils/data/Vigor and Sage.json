@@ -68,7 +68,9 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/bFkWskduaPcEVCJA6"
     },
     {
         "url": "https://www.vigornsage.com/cat-food/ginseng-well-being-adult-cat-food/",
@@ -134,7 +136,9 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/44NW53JiD2hZT1uV9"
     },
     {
         "url": "https://www.vigornsage.com/cat-food/lily-root-beauty-adult-cat/",
@@ -201,7 +205,9 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/4qkb93ruzUjst7tm6"
     },
     {
         "url": "https://www.vigornsage.com/cat-food/lotus-leaf-weight-control-adult-cat/",
@@ -271,7 +277,9 @@
             "iodine (calcium iodate, anhydrous) 1.5 mg",
             "taurine 1;000 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/GAFoNSCHAwWDfeiT8"
     },
     {
         "url": "https://www.vigornsage.com/cat-food/oatgrass-hairball-control-adult-cat/",
@@ -338,7 +346,9 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/BdaRBLiyHuq6hwkz7"
     },
     {
         "url": "https://www.vigornsage.com/cat-food/oatgrass-hairball-control-large-breed-cat/",
@@ -389,7 +399,9 @@
             "iodine (calcium iodate anhydrous) 1;5 mg",
             "selenium (sodium selenite) 0;1 mg;taurine 1.000 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/JfeZSJsQiUgHgudRA"
     },
     {
         "url": "https://www.vigornsage.com/cat-food/poria-sterilized-care-for-outdoor-adult-cat/",
@@ -444,7 +456,9 @@
             "iodine (calcium iodate, anhydrous) 1.5 mg",
             "taurine 1;000 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/T9awEXzcKipewcFg6"
     },
     {
         "url": "https://www.vigornsage.com/cat-food/poria-sterilized-care-indoor-adult-cat/",
@@ -514,7 +528,9 @@
             "taurine 1;000 mg",
             "L-carnitine 250 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/zj6kWBn2Pf9gMe8g9"
     },
     {
         "url": "https://www.vigornsage.com/cat-food/wolfberry-well-being-kitten-food/",
@@ -581,6 +597,8 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.vigornsage.com",
+        "image": "https://images.app.goo.gl/tpGPvYEmpTPedCiw9"
     }
 ]

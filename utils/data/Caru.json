@@ -46,7 +46,9 @@
             "Omega 3 Fatty Acids* (min) 0.05%"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated) ME 888 kcal/kg, 150 kcal per pack"
+        "calorie": "Calorie Content (calculated) ME 888 kcal/kg, 150 kcal per pack",
+        "image": "https://carupetfood.com/wp-content/uploads/2018/03/ClassicsCat_ChickenCrab_Front_Sml_11_12_20.png",
+        "site": "https://carupetfood.com"
     },
     {
         "url": "https://carupetfood.com/product/natural-chicken-stew-for-cats/",
@@ -94,7 +96,9 @@
             "Omega 3 Fatty Acids* (min) 0.05%"
         ],
         "additive": null,
-        "calorie": "902 kcal/kg"
+        "calorie": "902 kcal/kg",
+        "image": "https://carupetfood.com/wp-content/uploads/2018/03/ClassicsCat_Chicken_Front_Sml_11_12_20.png",
+        "site": "https://carupetfood.com"
     },
     {
         "url": "https://carupetfood.com/product/natural-turkey-stew-for-cats/",
@@ -142,7 +146,9 @@
             "Omega 3 Fatty Acids* (min) 0.05%"
         ],
         "additive": null,
-        "calorie": "991 kcal/kg"
+        "calorie": "991 kcal/kg",
+        "image": "https://carupetfood.com/wp-content/uploads/2018/03/ClassicsCat_Turkey_Front_Sml_11_12_20.png",
+        "site": "https://carupetfood.com"
     },
     {
         "url": "https://carupetfood.com/product/natural-wild-salmon-turkey-stew-for-cats/",
@@ -192,6 +198,8 @@
             "Omega 3 Fatty Acids* (min) 0.10%"
         ],
         "additive": null,
-        "calorie": "792 kcal/kg"
+        "calorie": "792 kcal/kg",
+        "image": "https://carupetfood.com/wp-content/uploads/2018/03/ClassicsCat_SalmonTurkey_Front_Sml_11_12_20.png",
+        "site": "https://carupetfood.com"
     }
 ]

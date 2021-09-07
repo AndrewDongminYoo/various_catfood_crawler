@@ -55,7 +55,9 @@
             "Taurine 0.2%"
         ],
         "additive": null,
-        "calorie": "Calculated ME: 4305 Kcal ME / Kg Kcal ME / Level Scoop*: 366"
+        "calorie": "Calculated ME: 4305 Kcal ME / Kg Kcal ME / Level Scoop*: 366",
+        "image": "http://zealpetfood.ca/wp-content/uploads/2021/05/chicken-cat-1lb.png",
+        "site": "http://zealpetfood.ca"
     },
     {
         "url": "http://zealpetfood.ca/pet-food/air-dried-chicken-freeze-dried-salmon-cat-food/",
@@ -117,7 +119,9 @@
             "Taurine 0.2%"
         ],
         "additive": null,
-        "calorie": "Calculated ME: 4305 Kcal ME / Kg Kcal ME / Level Scoop*: 366"
+        "calorie": "Calculated ME: 4305 Kcal ME / Kg Kcal ME / Level Scoop*: 366",
+        "image": "http://zealpetfood.ca/wp-content/uploads/2021/05/Chicken-FD-Cats.png",
+        "site": "http://zealpetfood.ca"
     },
     {
         "url": "http://zealpetfood.ca/pet-food/air-dried-okanagan-blend-cat-food/",
@@ -178,7 +182,9 @@
             "Taurine 0.2%"
         ],
         "additive": null,
-        "calorie": "Calculated ME: 4372 Kcal ME / Kg Kcal ME / Level Scoop*: 372"
+        "calorie": "Calculated ME: 4372 Kcal ME / Kg Kcal ME / Level Scoop*: 372",
+        "image": "http://zealpetfood.ca/wp-content/uploads/2021/05/cat-chicken-cod-pork.png",
+        "site": "http://zealpetfood.ca"
     },
     {
         "url": "http://zealpetfood.ca/pet-food/air-dried-salmon-turkey-cat-food/",
@@ -227,6 +233,8 @@
             "Taurine 0.2%"
         ],
         "additive": null,
-        "calorie": "Calculated ME: 3650 Kcal ME / Kg Kcal ME / Level Scoop*: 310"
+        "calorie": "Calculated ME: 3650 Kcal ME / Kg Kcal ME / Level Scoop*: 310",
+        "image": "http://zealpetfood.ca/wp-content/uploads/2019/03/Salmon-Turkey-cat-14oz.png",
+        "site": "http://zealpetfood.ca"
     }
 ]

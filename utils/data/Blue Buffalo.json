@@ -95,7 +95,9 @@
             "Omega 6 Fatty Acids* 2.5% min"
         ],
         "additive": null,
-        "calorie": "3,669 Kcals/kg"
+        "calorie": "3,669 Kcals/kg",
+        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/share-product-image/blue-cat-indoor-hairball-share.png",
+        "site": "https://bluebuffalo.com"
     },
     {
         "url": "https://bluebuffalo.com/dry-cat-food/blue/kitten-chicken-brown-rice/",
@@ -195,7 +197,9 @@
             "Omega 6 Fatty Acids* 3.5% min"
         ],
         "additive": null,
-        "calorie": "3,926 kcal/kg"
+        "calorie": "3,926 kcal/kg",
+        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/teaser-product-image/cat_blue_health_growth_kitten_ckn_dry_teaser.png",
+        "site": "https://bluebuffalo.com"
     },
     {
         "url": "https://bluebuffalo.com/dry-cat-food/blue/sensitive-stomach-chicken-brown-rice/",
@@ -291,6 +295,8 @@
             "Omega 6 Fatty Acids* 3.0% min"
         ],
         "additive": null,
-        "calorie": "3,773 Kcals/kg"
+        "calorie": "3,773 Kcals/kg",
+        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/share-product-image/blue-cat-dry-sensitive-stomach-share.png",
+        "site": "https://bluebuffalo.com"
     }
 ]

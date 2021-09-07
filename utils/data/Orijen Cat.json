@@ -80,7 +80,9 @@
             "EPA (eicosapentaenoic acid) (min.) 0.2%"
         ],
         "additive": null,
-        "calorie": "METABOLIZABLE ENERGY: is 4160 kcal/kg (540 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 18% from vegetables and fruit, and 43% from fat."
+        "calorie": "METABOLIZABLE ENERGY: is 4160 kcal/kg (540 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 18% from vegetables and fruit, and 43% from fat.",
+        "site": "https://www.orijenpetfoods.com",
+        "image": "https://images.app.goo.gl/kAoAEJLuYgaC1HsW9"
     },
     {
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/fit-and-trim/ns-ori-fittrim-cat.html",
@@ -171,7 +173,9 @@
             "L-Carnitine 33mg/kg"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy is 3710 kcal/kg"
+        "calorie": "Metabolizable Energy is 3710 kcal/kg",
+        "site": "https://www.orijenpetfoods.com",
+        "image": "https://images.app.goo.gl/dfhmbZACheZsCQjz9"
     },
     {
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/regional-red/ns-ori-regionalred-cat.html",
@@ -263,7 +267,9 @@
             "EPA (eicosapentaenoic acid) 0.2%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat."
+        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat.",
+        "site": "https://www.orijenpetfoods.com",
+        "image": "https://images.app.goo.gl/B4oXVQtE8dYhBRK29"
     },
     {
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/six-fish/ns-ori-sixfish-cat.html",
@@ -352,7 +358,9 @@
             "0.5%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 42% from protein, 15% from vegetables and fruit, and 44% from fat."
+        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 42% from protein, 15% from vegetables and fruit, and 44% from fat.",
+        "site": "https://www.orijenpetfoods.com",
+        "image": "https://images.app.goo.gl/czfiTdMypF5iyDWTA"
     },
     {
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/tundra/ns-ori-tundra-cat.html",
@@ -450,6 +458,8 @@
             "Choline 1200 mg/kg DM"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat."
+        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat.",
+        "site": "https://www.orijenpetfoods.com",
+        "image": "https://images.app.goo.gl/yWads7RkpH9r3eX59"
     }
 ]

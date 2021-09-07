@@ -58,7 +58,9 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "869 kcal/kg"
+        "calorie": "869 kcal/kg",
+        "image": "https://3f0pln1qw18vn6ofv20i37p7-wpengine.netdna-ssl.com/wp-content/uploads/Aujou_ChknDuck_pouch_front-752x1024.png",
+        "site": "https://rawznaturalpetfood.com"
     },
     {
         "url": "https://rawznaturalpetfood.com/product/aujou-chicken-liver-recipe/",
@@ -119,7 +121,9 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "867 kcal/kg"
+        "calorie": "867 kcal/kg",
+        "image": "https://3f0pln1qw18vn6ofv20i37p7-wpengine.netdna-ssl.com/wp-content/uploads/Aujou_ChknChknLvr_pouch_front-752x1024.png",
+        "site": "https://rawznaturalpetfood.com"
     },
     {
         "url": "https://rawznaturalpetfood.com/product/aujou-chicken-pumpkin-recipe/",
@@ -181,7 +185,9 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "852 kcal/kg"
+        "calorie": "852 kcal/kg",
+        "image": "https://3f0pln1qw18vn6ofv20i37p7-wpengine.netdna-ssl.com/wp-content/uploads/Aujou_ChknPumpkin_pouch_front-752x1024.png",
+        "site": "https://rawznaturalpetfood.com"
     },
     {
         "url": "https://rawznaturalpetfood.com/product/aujou-tuna-mackerel-recipe/",
@@ -240,7 +246,9 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "818 kcal/kg"
+        "calorie": "818 kcal/kg",
+        "image": "https://3f0pln1qw18vn6ofv20i37p7-wpengine.netdna-ssl.com/wp-content/uploads/Aujou_AkuTunaMackerel_pouch_front-752x1024.png",
+        "site": "https://rawznaturalpetfood.com"
     },
     {
         "url": "https://rawznaturalpetfood.com/product/tuna-salmon-recipe/",
@@ -300,6 +308,8 @@
             "TAURINE min 0.10%"
         ],
         "additive": null,
-        "calorie": "862 kcal/kg."
+        "calorie": "862 kcal/kg.",
+        "image": "https://3f0pln1qw18vn6ofv20i37p7-wpengine.netdna-ssl.com/wp-content/uploads/Aujou_AkuTunaSalmon_pouch_front-753x1024.png",
+        "site": "https://rawznaturalpetfood.com"
     }
 ]

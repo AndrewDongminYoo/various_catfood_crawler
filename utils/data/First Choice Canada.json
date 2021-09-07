@@ -77,7 +77,9 @@
             "fructo-oligosaccharides 500 mg/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 440 kcal/ CUP 3685 kcal/ kg"
+        "calorie": "Metabolizable Energy (calculated) 440 kcal/ CUP 3685 kcal/ kg",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_cat_vitality.png",
+        "site": "https://www.1stchoice.ca"
     },
     {
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/finicky/",
@@ -155,7 +157,9 @@
             "vitamin E 150 IU/kg min."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 435 kcal/ CUP 3770 kcal/ kg"
+        "calorie": "Metabolizable Energy (calculated) 435 kcal/ CUP 3770 kcal/ kg",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_finicky.png",
+        "site": "https://www.1stchoice.ca"
     },
     {
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/duck/hypoallergenic/",
@@ -236,7 +240,9 @@
             "fructo-oligosaccharides 500 mg/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 325 kcal/ CUP 3274 kcal/ kg"
+        "calorie": "Metabolizable Energy (calculated) 325 kcal/ CUP 3274 kcal/ kg",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_hypo_PjtQi4F.png",
+        "site": "https://www.1stchoice.ca"
     },
     {
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/urinary-health/",
@@ -308,7 +314,9 @@
             "vitamin E 85 IU/kg min."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 435 kcal/ CUP 3620 kcal/ kg"
+        "calorie": "Metabolizable Energy (calculated) 435 kcal/ CUP 3620 kcal/ kg",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_urinaryhealth.png",
+        "site": "https://www.1stchoice.ca"
     },
     {
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/salmon/healthy-skin-coat/",
@@ -390,7 +398,9 @@
             "omega-9 fatty acids 0.26%. "
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 445 kcal/ CUP 3639 kcal/ kg"
+        "calorie": "Metabolizable Energy (calculated) 445 kcal/ CUP 3639 kcal/ kg",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_healthyskincoat.png",
+        "site": "https://www.1stchoice.ca"
     },
     {
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/sterilized/",
@@ -445,7 +455,9 @@
             "vitamin E 85 UI/kg min."
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_sterilized.png",
+        "site": "https://www.1stchoice.ca"
     },
     {
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/weight-control/",
@@ -524,7 +536,9 @@
             "vitamin E 150 IU/kg min."
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_weightcontrol.png",
+        "site": "https://www.1stchoice.ca"
     },
     {
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/kitten/all-breeds/chicken/healthy-start/",
@@ -604,7 +618,9 @@
             "fructo-oligosaccharides 1,000 mg/kg."
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_healthystart.png",
+        "site": "https://www.1stchoice.ca"
     },
     {
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/senior/all-breeds/chicken/mature-less-active/",
@@ -687,6 +703,8 @@
             "vitamin C 250 mg/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 425 kcal/ CUP 3534 kcal/ kg"
+        "calorie": "Metabolizable Energy (calculated) 425 kcal/ CUP 3534 kcal/ kg",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_senior.png",
+        "site": "https://www.1stchoice.ca"
     }
 ]

@@ -51,7 +51,9 @@
             "Omega-3 Fatty Acid* (min) 0.86%"
         ],
         "additive": null,
-        "calorie": "3753 kcal/kg"
+        "calorie": "3753 kcal/kg",
+        "image": "https://avodermnatural.com/wp-content/uploads/2020/12/052907623899_AVO-CT-DRY-ADLT-HERRING-CF-11LB_Front-jpg-scaled-1.jpg",
+        "site": "https://avodermnatural.com"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-chicken-duck-entree-in-gravy/",
@@ -148,7 +150,9 @@
             "Arachidonic Acid 0.03 %",
             "Linoleic Acid 1.3 %"
         ],
-        "calorie": "965 KCAL/KG"
+        "calorie": "965 KCAL/KG",
+        "image": "https://avodermnatural.com/wp-content/uploads/2020/12/052907022159_AVO_GF_CT_CAN_CHKN_DUCK_3OZ_FRONT.jpg",
+        "site": "https://avodermnatural.com"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-salmon-chicken-entree-in-gravy/",
@@ -242,7 +246,9 @@
             "Arachidonic Acid 0.02 %",
             "Linoleic Acid 1.20 %"
         ],
-        "calorie": "882 KCAL/KG"
+        "calorie": "882 KCAL/KG",
+        "image": "https://avodermnatural.com/wp-content/uploads/2020/12/052907022197_AVO-GF-CT-CAN-SALM-CHKN-3OZ_FRONT.jpg",
+        "site": "https://avodermnatural.com"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-sardine-shrimp-crab-entree-in-gravy/",
@@ -334,7 +340,9 @@
             "Arachidonic Acid 0.02 %",
             "Linoleic Acid 1.06 %"
         ],
-        "calorie": "788 KCAL/KG"
+        "calorie": "788 KCAL/KG",
+        "image": "https://avodermnatural.com/wp-content/uploads/2020/12/052907022203_AVO_GF_CT_CAN_SARD_SHRMP_CRAB_3OZ_FRONT-copy.jpg",
+        "site": "https://avodermnatural.com"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-tuna-chicken-entree-with-vegetables/",
@@ -423,7 +431,9 @@
             "Arachidonic Acid 0.03 %",
             "Linoleic Acid 1.16 %"
         ],
-        "calorie": "953 KCAL/KG"
+        "calorie": "953 KCAL/KG",
+        "image": "https://avodermnatural.com/wp-content/uploads/2020/12/052907022173_AVO-GF-CT-CAN-TUNA-CHKN-3OZ_FRONT.jpg",
+        "site": "https://avodermnatural.com"
     },
     {
         "url": "https://avodermnatural.com/products/grain-free-tuna-crab-entree-in-gravy/",
@@ -514,7 +524,9 @@
             "Arachidonic Acid 0.02 %",
             "Linoleic Acid 0.95 %"
         ],
-        "calorie": "824 KCAL/KG"
+        "calorie": "824 KCAL/KG",
+        "image": "https://avodermnatural.com/wp-content/uploads/2020/12/052907022074_AVO-GF-CT-CAN-TUNA-CRAB-5OZ_FRONT.jpg",
+        "site": "https://avodermnatural.com"
     },
     {
         "url": "https://avodermnatural.com/products/indoor-formula/",
@@ -575,6 +587,8 @@
             "Metabolizable Energy (calculated) 388 kcal/cup"
         ],
         "additive": null,
-        "calorie": "3564 kcal/kg"
+        "calorie": "3564 kcal/kg",
+        "image": "https://avodermnatural.com/wp-content/uploads/2020/12/052907623929_AVO-CT-DRY-INDR-CF-11LB_FRONT.jpg",
+        "site": "https://avodermnatural.com"
     }
 ]

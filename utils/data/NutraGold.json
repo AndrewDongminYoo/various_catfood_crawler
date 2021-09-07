@@ -66,7 +66,9 @@
             "Omega-3 Fatty Acids 0.50%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,844 kcal/kg (360 kcal/cup) Calculated Metabolizable Energy."
+        "calorie": "Calorie Content: 3,844 kcal/kg (360 kcal/cup) Calculated Metabolizable Energy.",
+        "site": "https://nutragold.com",
+        "image": "https://images.app.goo.gl/9R93nsqezxFdy5Wr9"
     },
     {
         "url": "https://nutragold.com/products/cats/indoor-adult-cat/",
@@ -140,7 +142,9 @@
             "Omega-3 Fatty Acids 0.40%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,450 kcal/kg (323 kcal/cup) Calculated Metabolizable Energy."
+        "calorie": "Calorie Content: 3,450 kcal/kg (323 kcal/cup) Calculated Metabolizable Energy.",
+        "site": "https://nutragold.com",
+        "image": "https://images.app.goo.gl/3H2uhdbsBowbhFs27"
     },
     {
         "url": "https://nutragold.com/products/cats/indoor-kitten/",
@@ -212,7 +216,9 @@
             "Omega-3 Fatty Acids 0.5%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,990 kcal/kg (373 kcal/cup) Calculated Metabolizable Energy."
+        "calorie": "Calorie Content: 3,990 kcal/kg (373 kcal/cup) Calculated Metabolizable Energy.",
+        "site": "https://nutragold.com",
+        "image": "https://images.app.goo.gl/64uGTiaszSDVpMNy8"
     },
     {
         "url": "https://nutragold.com/products/cats/indoor-senior-cat/",
@@ -290,6 +296,8 @@
             "Omega-3 Fatty Acids 0.30%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,389 kcal/kg (317 kcal/cup) Calculated Metabolizable Energy."
+        "calorie": "Calorie Content: 3,389 kcal/kg (317 kcal/cup) Calculated Metabolizable Energy.",
+        "site": "https://nutragold.com",
+        "image": "https://images.app.goo.gl/efpvgauJq21DDjMc6"
     }
 ]

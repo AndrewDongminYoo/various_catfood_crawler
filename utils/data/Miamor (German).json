@@ -29,7 +29,9 @@
             "taurine 445 mg",
             "zinc (as zinc sulphate, monohydrate): 15 mg."
         ],
-        "calorie": "Calories / 100g: 85 kcal"
+        "calorie": "Calories / 100g: 85 kcal",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73044.png",
+        "site": "https://www.miamor.de"
     },
     {
         "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-duck-in-herb-cream-100-g",
@@ -61,7 +63,9 @@
             "taurine 445 mg",
             "zinc (as zinc sulphate, monohydrate): 15 mg."
         ],
-        "calorie": "Calories / 100g: 85 kcal"
+        "calorie": "Calories / 100g: 85 kcal",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73043.png",
+        "site": "https://www.miamor.de"
     },
     {
         "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-salmon-in-yoghurt-cream-100-g",
@@ -94,7 +98,9 @@
             "taurine 445 mg",
             "zinc (as zinc sulphate, monohydrate): 15 mg."
         ],
-        "calorie": "Calories / 100g: 85 kcal"
+        "calorie": "Calories / 100g: 85 kcal",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73041.png",
+        "site": "https://www.miamor.de"
     },
     {
         "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-veal-in-tomato-cream-100-g",
@@ -126,6 +132,8 @@
             "taurine 445 mg",
             "zinc (as zinc sulphate, monohydrate): 15 mg."
         ],
-        "calorie": "Calories / 100g: 85 kcal"
+        "calorie": "Calories / 100g: 85 kcal",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73042.png",
+        "site": "https://www.miamor.de"
     }
 ]

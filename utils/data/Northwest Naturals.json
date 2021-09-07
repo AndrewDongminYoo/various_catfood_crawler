@@ -62,7 +62,9 @@
             "Kcal/oz(calculated) 134"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 3807"
+        "calorie": "ME(kcal/kg) 3807",
+        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
+        "site": "https://nw-naturals.net"
     },
     {
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
@@ -126,7 +128,9 @@
             "Kcal/oz(calculated) 173"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 4905"
+        "calorie": "ME(kcal/kg) 4905",
+        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
+        "site": "https://nw-naturals.net"
     },
     {
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
@@ -189,7 +193,9 @@
             "Kcal/oz(calculated) 136"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 3875"
+        "calorie": "ME(kcal/kg) 3875",
+        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
+        "site": "https://nw-naturals.net"
     },
     {
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
@@ -254,7 +260,9 @@
             "Kcal/oz(calculated) 134"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 3800"
+        "calorie": "ME(kcal/kg) 3800",
+        "image": null,
+        "site": "https://nw-naturals.net"
     },
     {
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
@@ -317,6 +325,8 @@
             "Kcal/oz(calculated) 122"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 3455"
+        "calorie": "ME(kcal/kg) 3455",
+        "image": null,
+        "site": "https://nw-naturals.net"
     }
 ]

@@ -28,7 +28,9 @@
             "Taurine 1500 mg."
         ],
         "additive": null,
-        "calorie": "etabolizable energy: 77.4 kcal / 100 g."
+        "calorie": "etabolizable energy: 77.4 kcal / 100 g.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/prueba-2.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/chicken-breast-2/?lang=en",
@@ -50,7 +52,9 @@
             "Moisture (77%)."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 832 kcal/kg"
+        "calorie": "Metabolizable energy: 832 kcal/kg",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pollo-gato.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/chicken-breast-kitten-and-adult-cats/?lang=en",
@@ -76,7 +80,9 @@
             "Moisture 75%."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 102.34 kcal/100gr"
+        "calorie": "Metabolizable energy: 102.34 kcal/100gr",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/gatosgatitospollo.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/chicken-with-yoghurt-banana-strawberries/?lang=en",
@@ -105,7 +111,9 @@
             "Taurine (1500 mg/Kg)"
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 956 kcal/kg"
+        "calorie": "Metabolizable energy: 956 kcal/kg",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pollo-yogur.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/field-river-recipe/?lang=en",
@@ -155,7 +163,9 @@
             "Methionine (1.000 mg / kg) Metabolizable energy: 4.100 Kcal/Kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 4,100 Kcal/Kg."
+        "calorie": "Metabolizable energy: 4,100 Kcal/Kg.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/field.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/gastrointestinal-2/?lang=en",
@@ -187,7 +197,9 @@
             "Taurine 1500 mg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 76 kcal / 100 g."
+        "calorie": "Metabolizable energy: 76 kcal / 100 g.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/REANL-oeaci61ld28v6gyb1fr8ou87a9crs7jjrp3tqpwuri.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/ocean-fish/?lang=en",
@@ -210,7 +222,9 @@
             "Moisture (80%)."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 747.5 kcal/kg"
+        "calorie": "Metabolizable energy: 747.5 kcal/kg",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pescado-mar.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/rabbit-and-duck-with-apple-peach-and-chamomile-2/?lang=en",
@@ -238,7 +252,9 @@
             "Taurine (1500 mg/Kg). "
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 919 Kcal/kg."
+        "calorie": "Metabolizable energy: 919 Kcal/kg.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/conejoypato.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/renal-care/?lang=en",
@@ -269,7 +285,9 @@
             "Taurine 1500 mg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 106 kcal / 100 g."
+        "calorie": "Metabolizable energy: 106 kcal / 100 g.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/renal-cat-oeac180c5l1rvjkezm2d8m61r6vk0n9r3tppa51cxq.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/salmon-and-turkey-with-pumpkin-and-catnip/?lang=en",
@@ -298,7 +316,9 @@
             "Taurine (1500 mg/Kg). "
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 932.2 Kcal/kg."
+        "calorie": "Metabolizable energy: 932.2 Kcal/kg.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/salmonpavo.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/sensitive-indoor-recipe/?lang=en",
@@ -344,7 +364,9 @@
             "L-carnitine (200 mg/kg)."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 3,800 Kcal/Kg."
+        "calorie": "Metabolizable energy: 3,800 Kcal/Kg.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/indoor.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/top-mountain-recipe/?lang=en",
@@ -394,7 +416,9 @@
             "Methionine (1.000 mg / kg) Metabolizable energy: 4.200 Kcal/Kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 4,200 Kcal/Kg."
+        "calorie": "Metabolizable energy: 4,200 Kcal/Kg.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/top.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/tuna-fillet-with-prawns-2/?lang=en",
@@ -418,7 +442,9 @@
             "Moisture (80%). "
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 710 kcal/kg"
+        "calorie": "Metabolizable energy: 710 kcal/kg",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/atun.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/urinary-care/?lang=en",
@@ -450,7 +476,9 @@
             "Taurine 1500 mg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 86 kcal / 100 g."
+        "calorie": "Metabolizable energy: 86 kcal / 100 g.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/VET_CAT_Renal200-oeacyruy3oz8agty2m5yqndd3bi7rpgu1w0mypagu6.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/wild-instinct-recipe-medium-large-breed/?lang=en",
@@ -495,7 +523,9 @@
             "DL-Methionine (2.400 mg / kg)"
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 4,100 Kcal/Kg."
+        "calorie": "Metabolizable energy: 4,100 Kcal/Kg.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/wild-2-new.png",
+        "site": "https://naturalgreatness.com"
     },
     {
         "url": "https://naturalgreatness.com/wild-instinct-recipe/?lang=en",
@@ -521,6 +551,8 @@
             "DL-Methionine (2.400 mg / kg)"
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 4,100 Kcal/Kg."
+        "calorie": "Metabolizable energy: 4,100 Kcal/Kg.",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/wild-new.png",
+        "site": "https://naturalgreatness.com"
     }
 ]

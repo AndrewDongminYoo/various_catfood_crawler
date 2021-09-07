@@ -73,7 +73,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "3436 KCAL/KG"
+        "calorie": "3436 KCAL/KG",
+        "image": "http://adirondackpetfood.com/wp-content/uploads/2018/08/RNDR_ADR_Cat_Chicken_3_5lb_Front-791x1024.png",
+        "site": "https://adirondackpetfood.com"
     },
     {
         "url": "https://adirondackpetfood.com/pet-food/indoor-cat-whitefish/",
@@ -149,6 +151,8 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "3562 kcal/kg"
+        "calorie": "3562 kcal/kg",
+        "image": "http://adirondackpetfood.com/wp-content/uploads/2018/08/RNDR_ADR_Cat_Whitefish_3_5lb_Front-1-791x1024.png",
+        "site": "https://adirondackpetfood.com"
     }
 ]

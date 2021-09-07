@@ -15,7 +15,9 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://perfectcompanion.com.my",
+        "image": "https://images.app.goo.gl/VVfdBVeKvUdVycWSA"
     },
     {
         "url": "https://perfectcompanion.com.my/product/beef-vegetable-flavour/",
@@ -33,7 +35,9 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://perfectcompanion.com.my",
+        "image": "https://images.app.goo.gl/euPmFTCwiayBYsRB6"
     },
     {
         "url": "https://perfectcompanion.com.my/product/cat-food-meo-chicken-vegetable/",
@@ -51,7 +55,9 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://perfectcompanion.com.my",
+        "image": "https://images.app.goo.gl/CsrauYjkFUJTzC5u5"
     },
     {
         "url": "https://perfectcompanion.com.my/product/cat-food-meo-seafood/",
@@ -69,7 +75,9 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://perfectcompanion.com.my",
+        "image": "https://images.app.goo.gl/BhEC9vJ9epHmG5AF8"
     },
     {
         "url": "https://perfectcompanion.com.my/product/gourmet-flavour/",
@@ -88,7 +96,9 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://perfectcompanion.com.my",
+        "image": "https://images.app.goo.gl/W1LxKAzZ6sPmLn1a9"
     },
     {
         "url": "https://perfectcompanion.com.my/product/me-o-tuna/",
@@ -106,7 +116,9 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://perfectcompanion.com.my",
+        "image": "https://images.app.goo.gl/rzR1ruceyyFtaRuK7"
     },
     {
         "url": "https://perfectcompanion.com.my/product/salmon-flavour/",
@@ -125,6 +137,8 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://perfectcompanion.com.my",
+        "image": "https://images.app.goo.gl/YiVse3sfFNJ1wkFA6"
     }
 ]

@@ -31,7 +31,9 @@
             "Phosphor: 0,19%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.dr-link-tiernahrung.de/media/cms/landingpage/button-rechts.jpg",
+        "site": "https://www.dr-link-tiernahrung.de"
     },
     {
         "url": "https://www.dr-link-tiernahrung.de/katzen/artikelk-puresensitive-huhnwachtel-1172446.html",
@@ -66,7 +68,9 @@
             "Phosphor: 0,13%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.dr-link-tiernahrung.de/media/cms/landingpage/button-rechts.jpg",
+        "site": "https://www.dr-link-tiernahrung.de"
     },
     {
         "url": "https://www.dr-link-tiernahrung.de/katzen/artikelk-puresensitive-lachsgefluegel-1171846.html",
@@ -100,7 +104,9 @@
             "Phosphor: 0,18%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.dr-link-tiernahrung.de"
     },
     {
         "url": "https://www.dr-link-tiernahrung.de/katzen/artikelk-puresensitive-pute-1172146.html",
@@ -134,7 +140,9 @@
             "Phosphor: 0,17%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.dr-link-tiernahrung.de"
     },
     {
         "url": "https://www.dr-link-tiernahrung.de/katzen/artikelk-puresensitive-rind-1171446.html",
@@ -168,7 +176,9 @@
             "Phosphor: 0,17%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.dr-link-tiernahrung.de"
     },
     {
         "url": "https://www.dr-link-tiernahrung.de/katzen/dr-link-tiernahrung-de-katzen-spezial-diaet-magen-darm-gastro-intestinal-pute-1293146.html",
@@ -206,7 +216,9 @@
             "Kalium: 0,33%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.dr-link-tiernahrung.de"
     },
     {
         "url": "https://www.dr-link-tiernahrung.de/katzen/dr-link-tiernahrung-de-katzen-spezial-diaet-struvitsteine-urinary-huhn-und-weissfisch-1292946.html",
@@ -247,7 +259,9 @@
             "Schwefel: 0,26%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.dr-link-tiernahrung.de"
     },
     {
         "url": "https://www.dr-link-tiernahrung.de/katzen/dr-link-tiernahrung-de-katzen-spezial-diaet-uebergewicht-diabetes-mellitus-obesity-management-diabetic-huhn-und-weissfisch-1292446.html",
@@ -281,6 +295,8 @@
             "Stärke: 0,7%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.dr-link-tiernahrung.de"
     }
 ]

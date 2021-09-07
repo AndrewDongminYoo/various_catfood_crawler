@@ -48,7 +48,9 @@
             "rosemary extract",
             "tocopherol extracts from vegetable oils (1b306(i))."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
+        "site": "https://www.naturesprotection.eu"
     },
     {
         "url": "https://www.naturesprotection.eu/en/catalogue/product/193/sterilised-long-hair/",
@@ -102,7 +104,9 @@
             "rosemary extract",
             "tocopherol extracts from vegetable oils (1b306(i))."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
+        "site": "https://www.naturesprotection.eu"
     },
     {
         "url": "https://www.naturesprotection.eu/en/catalogue/product/194/indoor/",
@@ -134,7 +138,9 @@
             "omega 6 – 1,92%."
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
+        "site": "https://www.naturesprotection.eu"
     },
     {
         "url": "https://www.naturesprotection.eu/en/catalogue/product/199/long-hair/",
@@ -150,7 +156,9 @@
         "ingredients": null,
         "analysis": "Analytical constituents: crude protein – 30% crude oils and fats – 20% crude ash – 7% crude fibres – 4,1% calcium – 1,1% phosphorus – 0,9% potassium – 0,7% sodium – 0,5% Omega-3 fatty acids – 0,43% Omega-6 fatty acids – 3,8%.",
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.naturesprotection.eu"
     },
     {
         "url": "https://www.naturesprotection.eu/en/catalogue/product/196/large-cat/",
@@ -175,7 +183,9 @@
             "omega 6 – 3,57%."
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.naturesprotection.eu"
     },
     {
         "url": "https://www.naturesprotection.eu/en/catalogue/product/202/urinary-formula-s/",
@@ -203,7 +213,9 @@
             " Omega-6 fatty acids – 2,49%. "
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.naturesprotection.eu"
     },
     {
         "url": "https://www.naturesprotection.eu/en/catalogue/product/201/sensitive-digestion/",
@@ -230,7 +242,9 @@
             " Omega-6 fatty acids – 2,72%. "
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.naturesprotection.eu"
     },
     {
         "url": "https://www.naturesprotection.eu/en/catalogue/product/200/senior-cat/",
@@ -281,7 +295,9 @@
             " Omega-6 fatty acids – 2,60%. "
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.naturesprotection.eu"
     },
     {
         "url": "https://www.naturesprotection.eu/en/catalogue/product/305/white-cat/",
@@ -311,6 +327,8 @@
             "omega 6 – 1,98%.    "
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": null,
+        "site": "https://www.naturesprotection.eu"
     }
 ]

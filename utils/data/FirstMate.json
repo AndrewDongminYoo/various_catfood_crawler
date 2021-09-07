@@ -32,7 +32,9 @@
             "ME (Calculated) 936 | 146 kcal/156g can"
         ],
         "additive": null,
-        "calorie": "ME (Calculated) 936 | 146 kcal/156g can"
+        "calorie": "ME (Calculated) 936 | 146 kcal/156g can",
+        "image": "https://firstmate.com/wp-content/uploads/2016/06/Chicken-Wild-Tuna-5050-Formula-–-24-Cans.png",
+        "site": "https://firstmate.com"
     },
     {
         "url": "https://firstmate.com/product/cage-free-duck-blueberries/",
@@ -74,7 +76,9 @@
             "ME (calculated) = 3430 kcal/kg, 530 kcal/cup"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3430 kcal/kg, 530 kcal/cup"
+        "calorie": "ME (calculated) = 3430 kcal/kg, 530 kcal/cup",
+        "image": "https://firstmate.com/wp-content/uploads/2021/06/BAG_1.8kg_LEFT_TAP3265_02_new.png",
+        "site": "https://firstmate.com"
     },
     {
         "url": "https://firstmate.com/product/cage-free-turkey-wild-tuna-50-50-formula-for-cats-5-5oz-24-cans/",
@@ -114,7 +118,9 @@
             "ME (Calculated) = 933 | 146 kcal/156g can"
         ],
         "additive": null,
-        "calorie": "ME (Calculated) = 933 | 146 kcal/156g can"
+        "calorie": "ME (Calculated) = 933 | 146 kcal/156g can",
+        "image": "https://firstmate.com/wp-content/uploads/2021/05/Turkey_Tuna_50_50_156g_Cat.png",
+        "site": "https://firstmate.com"
     },
     {
         "url": "https://firstmate.com/product/chicken-meal-with-blueberries-formula-for-cats/",
@@ -157,7 +163,9 @@
             "ME (calculated): 3530 kcal/kg | 547 kcal/cup"
         ],
         "additive": null,
-        "calorie": "ME (calculated): 3530 kcal/kg | 547 kcal/cup"
+        "calorie": "ME (calculated): 3530 kcal/kg | 547 kcal/cup",
+        "image": "https://firstmate.com/wp-content/uploads/2021/06/BAG_1.8kg_LEFT_TAP3241chicken_01_new.png",
+        "site": "https://firstmate.com"
     },
     {
         "url": "https://firstmate.com/product/pacific-ocean-fish-meal-with-blueberries-formula-for-cats/",
@@ -199,7 +207,9 @@
             "ME (calculated) 3700 kcal/kg and 574 kcal/cup"
         ],
         "additive": null,
-        "calorie": "ME (calculated) 3700 kcal/kg and 574 kcal/cup"
+        "calorie": "ME (calculated) 3700 kcal/kg and 574 kcal/cup",
+        "image": "https://firstmate.com/wp-content/uploads/2021/06/BAG_1.8kg_LEFT_TAP3241fish_01_new.png",
+        "site": "https://firstmate.com"
     },
     {
         "url": "https://firstmate.com/product/wild-salmon-wild-tuna-50-50-formula-cats-24-cans/",
@@ -234,6 +244,8 @@
             "ME (Calculated) 936 | 146 kcal/156g can"
         ],
         "additive": null,
-        "calorie": "ME (Calculated) 936 | 146 kcal/156g can"
+        "calorie": "ME (Calculated) 936 | 146 kcal/156g can",
+        "image": "https://firstmate.com/wp-content/uploads/2016/06/Salmon-Tuna-50-50-156g-Cat.png",
+        "site": "https://firstmate.com"
     }
 ]

@@ -54,7 +54,9 @@
             "Contains a source of live (viable) naturally occurring microorganisms. "
         ],
         "additive": null,
-        "calorie": "Calories (ME) 3,300 kcal/kg, 360 kcal/cup"
+        "calorie": "Calories (ME) 3,300 kcal/kg, 360 kcal/cup",
+        "image": "https://solidgoldpet.com/wp-content/uploads/2020/03/1-FitAsAFiddle-Front-8.jpg",
+        "site": "https://solidgoldpet.com"
     },
     {
         "url": "https://solidgoldpet.com/product/indigo-moon-chicken-dry/",
@@ -138,7 +140,9 @@
             "Contains a source of live (viable) naturally occurring microorganisms."
         ],
         "additive": null,
-        "calorie": "Calories (ME) 455 kcal/cup 3,860 kcal/kg"
+        "calorie": "Calories (ME) 455 kcal/cup 3,860 kcal/kg",
+        "image": "https://solidgoldpet.com/wp-content/uploads/2020/03/1-IM-Chicken-Front-10.jpg",
+        "site": "https://solidgoldpet.com"
     },
     {
         "url": "https://solidgoldpet.com/product/indigo-moon-with-alaskan-pollock/",
@@ -190,7 +194,9 @@
             "Contains a source of live (viable) naturally occurring microorganisms."
         ],
         "additive": null,
-        "calorie": "Calories (ME) 3,970 kcal/kg 485 kcal/cup"
+        "calorie": "Calories (ME) 3,970 kcal/kg 485 kcal/cup",
+        "image": "https://solidgoldpet.com/wp-content/uploads/2018/08/1-IM-Pollock-Front-736x1024.jpg",
+        "site": "https://solidgoldpet.com"
     },
     {
         "url": "https://solidgoldpet.com/product/katz-n-flocken-lamb/",
@@ -243,7 +249,9 @@
             "Contains a source of live (viable) naturally occurring microorganisms."
         ],
         "additive": null,
-        "calorie": "Calories (ME) 3525 kcal/kg, 380 kcal/cup"
+        "calorie": "Calories (ME) 3525 kcal/kg, 380 kcal/cup",
+        "image": "https://solidgoldpet.com/wp-content/uploads/2020/03/1-KatzNFlocken-Front.jpg",
+        "site": "https://solidgoldpet.com"
     },
     {
         "url": "https://solidgoldpet.com/product/lets-stay-in-indoor-cat-with-salmon/",
@@ -299,7 +307,9 @@
             "Contains a source of live (viable) naturally occurring microorganisms."
         ],
         "additive": null,
-        "calorie": "Calories (ME) 3,700 kcal/kg, 435 kcal/cup"
+        "calorie": "Calories (ME) 3,700 kcal/kg, 435 kcal/cup",
+        "image": "https://solidgoldpet.com/wp-content/uploads/2020/03/1-LSI-Salmon-Front-9.jpg",
+        "site": "https://solidgoldpet.com"
     },
     {
         "url": "https://solidgoldpet.com/product/lets-stay-in-with-chicken/",
@@ -356,7 +366,9 @@
             "Contains a source of live (viable) naturally occurring microorganisms."
         ],
         "additive": null,
-        "calorie": "Calories (ME) 3,600 kcal/kg, 425 kcal/cup"
+        "calorie": "Calories (ME) 3,600 kcal/kg, 425 kcal/cup",
+        "image": "https://solidgoldpet.com/wp-content/uploads/2020/03/1-LSI-Chicken-Front-8.jpg",
+        "site": "https://solidgoldpet.com"
     },
     {
         "url": "https://solidgoldpet.com/product/nutrientboost-katz-n-flocken-with-lamb/",
@@ -409,7 +421,9 @@
             "Taurine (Min.) 0.15%* "
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://solidgoldpet.com/wp-content/uploads/2021/04/1-NB-Katz-Front_NEW.jpg",
+        "site": "https://solidgoldpet.com"
     },
     {
         "url": "https://solidgoldpet.com/product/touch-of-heaven-with-chicken/",
@@ -465,7 +479,9 @@
             "Contains a source of live (viable) naturally occurring microorganisms."
         ],
         "additive": null,
-        "calorie": "3,820 kcal/kg 420 kcal/cup"
+        "calorie": "3,820 kcal/kg 420 kcal/cup",
+        "image": "https://solidgoldpet.com/wp-content/uploads/2020/03/1-TouchOfHeaven-Front-2.jpg",
+        "site": "https://solidgoldpet.com"
     },
     {
         "url": "https://solidgoldpet.com/product/winged-tiger-real-quail/",
@@ -520,6 +536,8 @@
             "Contains a source of live (viable) naturally occurring microorganisms."
         ],
         "additive": null,
-        "calorie": "Calories (ME) 3600 kcal/kg 385 kcal/cup"
+        "calorie": "Calories (ME) 3600 kcal/kg 385 kcal/cup",
+        "image": "https://solidgoldpet.com/wp-content/uploads/2015/12/1-WingedTiger-Front-736x1024.jpg",
+        "site": "https://solidgoldpet.com"
     }
 ]

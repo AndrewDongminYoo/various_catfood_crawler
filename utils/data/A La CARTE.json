@@ -43,7 +43,9 @@
             "OMEGA 6 Not more than 3.5%"
         ],
         "additive": null,
-        "calorie": "Energy 385kca1/100g"
+        "calorie": "Energy 385kca1/100g",
+        "image": "https://alacarte4k9.com.au/wp-content/uploads/2017/12/Kibbles_Cat_Green_Chicken_Rice_All3_Pesto.png",
+        "site": "https://alacarte4k9.com.au"
     },
     {
         "url": "https://alacarte4k9.com.au/product/salmon-brown-rice/",
@@ -89,6 +91,8 @@
             "OMEGA 6 Not more than 3.5%"
         ],
         "additive": null,
-        "calorie": "Energy 382kca1/100g"
+        "calorie": "Energy 382kca1/100g",
+        "image": "https://alacarte4k9.com.au/wp-content/uploads/2017/12/Kibbles_Cat_Purple_Salmon_Brownrice_All3_Pesto.png",
+        "site": "https://alacarte4k9.com.au"
     }
 ]

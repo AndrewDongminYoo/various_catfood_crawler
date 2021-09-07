@@ -69,7 +69,9 @@
             "Omega-3* (min) 1.3%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3840 kcal/kg"
+        "calorie": "Calorie Content: 3840 kcal/kg",
+        "image": "http://cdn.shopify.com/s/files/1/0016/2509/6305/products/product-dry-cat-homestad-turkey-chicken.png?v=1628528143",
+        "site": "https://openfarmpet.com"
     },
     {
         "url": "https://openfarmpet.com/products/pasture-raised-lamb-dry-cat-food",
@@ -140,7 +142,9 @@
             "Omega-3* (min) 1.3%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3840 kcal/kg"
+        "calorie": "Calorie Content: 3840 kcal/kg",
+        "image": "http://cdn.shopify.com/s/files/1/0016/2509/6305/products/product-dry-cat-pasutre-raised-lamb.png?v=1628528613",
+        "site": "https://openfarmpet.com"
     },
     {
         "url": "https://openfarmpet.com/products/whitefish-dry-cat-food",
@@ -210,7 +214,9 @@
             "Omega-3* (min) 1.3%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3840 kcal/kg"
+        "calorie": "Calorie Content: 3840 kcal/kg",
+        "image": "http://cdn.shopify.com/s/files/1/0016/2509/6305/products/product-dry-cat-whitefish.png?v=1628529219",
+        "site": "https://openfarmpet.com"
     },
     {
         "url": "https://openfarmpet.com/products/wild-caught-salmon-dry-cat-food",
@@ -280,6 +286,8 @@
             "Omega-3* (min) 1.3%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3840 kcal/kg"
+        "calorie": "Calorie Content: 3840 kcal/kg",
+        "image": "http://cdn.shopify.com/s/files/1/0016/2509/6305/products/product-dry-cat-wild-caught-salmon.png?v=1616701218",
+        "site": "https://openfarmpet.com"
     }
 ]

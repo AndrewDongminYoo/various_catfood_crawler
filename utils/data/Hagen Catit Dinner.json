@@ -41,7 +41,9 @@
             "Ash: max 2.8%"
         ],
         "additive": null,
-        "calorie": "Calories: 790 kcal/kg (63kcal/unit)"
+        "calorie": "Calories: 790 kcal/kg (63kcal/unit)",
+        "image": "https://www.catit.com/wp-content/uploads/2019/07/Catit-Chicken-Dinner-product-thumbnail_USA-1.jpg",
+        "site": "https://www.catit.com"
     },
     {
         "url": "https://www.catit.com/shop/catit-chicken-dinner/",
@@ -86,7 +88,9 @@
             "Ash: max 2.8%"
         ],
         "additive": null,
-        "calorie": "Calories: 790 kcal/kg (63kcal/unit)"
+        "calorie": "Calories: 790 kcal/kg (63kcal/unit)",
+        "image": "https://www.catit.com/wp-content/uploads/2019/07/Catit-Chicken-Dinner-product-thumbnail_USA-1.jpg",
+        "site": "https://www.catit.com"
     },
     {
         "url": "https://www.catit.com/shop/catit-chicken-dinner/",
@@ -130,7 +134,9 @@
             "Ash: max 2.8%"
         ],
         "additive": null,
-        "calorie": "Calories: 790 kcal/kg (63kcal/unit)"
+        "calorie": "Calories: 790 kcal/kg (63kcal/unit)",
+        "image": "https://www.catit.com/wp-content/uploads/2019/07/Catit-Chicken-Dinner-product-thumbnail_USA-1.jpg",
+        "site": "https://www.catit.com"
     },
     {
         "url": "https://www.catit.com/shop/catit-chicken-dinner/",
@@ -175,7 +181,9 @@
             "Ash: max 2.8%"
         ],
         "additive": null,
-        "calorie": "Calories: 790 kcal/kg (63kcal/unit)"
+        "calorie": "Calories: 790 kcal/kg (63kcal/unit)",
+        "image": null,
+        "site": "https://www.catit.com"
     },
     {
         "url": "https://www.catit.com/shop/catit-chicken-dinner/",
@@ -218,7 +226,9 @@
             "Ash: max 2.8%"
         ],
         "additive": null,
-        "calorie": "Calories: 790 kcal/kg (63kcal/unit)"
+        "calorie": "Calories: 790 kcal/kg (63kcal/unit)",
+        "image": null,
+        "site": "https://www.catit.com"
     },
     {
         "url": "https://www.catit.com/shop/catit-chicken-dinner/",
@@ -263,6 +273,8 @@
             "Ash: max 2.8%"
         ],
         "additive": null,
-        "calorie": "Calories: 790 kcal/kg (63kcal/unit)"
+        "calorie": "Calories: 790 kcal/kg (63kcal/unit)",
+        "image": null,
+        "site": "https://www.catit.com"
     }
 ]

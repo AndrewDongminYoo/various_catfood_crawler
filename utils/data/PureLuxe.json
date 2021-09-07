@@ -71,7 +71,9 @@
             "*Total Bacillus Coagulans Fermentation Product (min) 80 million CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated) – 3700 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
+        "calorie": "Calorie Content ME (calculated) – 3700 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food.",
+        "image": "https://www.pureluxepetfood.com/wp-content/uploads/2017/03/grain-free-cat-turkey.png",
+        "site": "https://www.pureluxepetfood.com"
     },
     {
         "url": "https://www.pureluxepetfood.com/products/finicky-cat/",
@@ -144,7 +146,9 @@
             "*Total Bacillus Coagulans Fermentation Product (min)…80 million CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated) – 3840 kcal/kg (465 kcal/cup) 1 cup = approximately 4oz of food."
+        "calorie": "Calorie Content ME (calculated) – 3840 kcal/kg (465 kcal/cup) 1 cup = approximately 4oz of food.",
+        "image": "https://www.pureluxepetfood.com/wp-content/uploads/2017/03/grain-free-cat-finicky.png",
+        "site": "https://www.pureluxepetfood.com"
     },
     {
         "url": "https://www.pureluxepetfood.com/products/healthy-weight-cat/",
@@ -217,7 +221,9 @@
             "*Total Bacillus Coagulans Fermentation Product (min) 80 million CFU/lb"
         ],
         "additive": null,
-        "calorie": "PureLUXE Healthy Weight Cat Food is formulated to meet the nutrient levels established by the AAFCO Cat Food Nutrient Profiles for all life stages."
+        "calorie": "PureLUXE Healthy Weight Cat Food is formulated to meet the nutrient levels established by the AAFCO Cat Food Nutrient Profiles for all life stages.",
+        "image": "https://www.pureluxepetfood.com/wp-content/uploads/2017/03/grain-free-cat-healthy-weight.png",
+        "site": "https://www.pureluxepetfood.com"
     },
     {
         "url": "https://www.pureluxepetfood.com/products/indoor-cat/",
@@ -290,7 +296,9 @@
             "*Total Bacillus Coagulans Fermentation Product (min) 80 million CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated) – 3670 kcal/kg (445 kcal/cup) 1 cup = approximately 4oz of food."
+        "calorie": "Calorie Content ME (calculated) – 3670 kcal/kg (445 kcal/cup) 1 cup = approximately 4oz of food.",
+        "image": "https://www.pureluxepetfood.com/wp-content/uploads/2017/03/grain-free-cat-indoor.png",
+        "site": "https://www.pureluxepetfood.com"
     },
     {
         "url": "https://www.pureluxepetfood.com/products/kitten/",
@@ -362,7 +370,9 @@
             "*Total Bacillus Coagulans Fermentation Product (min) 80 million CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated) – 3835 kcal/kg (460 kcal/cup) 1 cup = approximately 4oz of food."
+        "calorie": "Calorie Content ME (calculated) – 3835 kcal/kg (460 kcal/cup) 1 cup = approximately 4oz of food.",
+        "image": "https://www.pureluxepetfood.com/wp-content/uploads/2017/03/grain-free-cat-kitten.png",
+        "site": "https://www.pureluxepetfood.com"
     },
     {
         "url": "https://www.pureluxepetfood.com/products/long-hair-cat/",
@@ -434,7 +444,9 @@
             "*Total Bacillus Coagulans Fermentation Product (min)…80 million CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated) – 3810 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
+        "calorie": "Calorie Content ME (calculated) – 3810 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food.",
+        "image": "https://www.pureluxepetfood.com/wp-content/uploads/2017/03/grain-free-cat-longhair.png",
+        "site": "https://www.pureluxepetfood.com"
     },
     {
         "url": "https://www.pureluxepetfood.com/products/persian-cat/",
@@ -507,6 +519,8 @@
             "*Total Bacillus Coagulans Fermentation Product (min*…80 million CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated) – 3800 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food."
+        "calorie": "Calorie Content ME (calculated) – 3800 kcal/kg (450 kcal/cup) 1 cup = approximately 4oz of food.",
+        "image": "https://www.pureluxepetfood.com/wp-content/uploads/2017/03/grain-free-cat-persian.png",
+        "site": "https://www.pureluxepetfood.com"
     }
 ]

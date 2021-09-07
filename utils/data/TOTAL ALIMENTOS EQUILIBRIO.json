@@ -49,7 +49,9 @@
             "4b1707 Enterococcus faecium ..1x109 cfu/kg",
             ""
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.eu.equilibrio-petfood.com",
+        "image": "https://images.app.goo.gl/pUiHuyFGoeFJqk1A7"
     },
     {
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-kitten.pdf",
@@ -100,7 +102,9 @@
             "3b815 Selenium 0,18 mg/kg ",
             "4b1707 Enterococcus faecium 1x109 cfu/kg "
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.eu.equilibrio-petfood.com",
+        "image": "https://images.app.goo.gl/bqk12nx15gAtHPuq8"
     },
     {
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-long-hair.pdf",
@@ -146,7 +150,9 @@
             "3b815 Selenium 0,18 mg/kg",
             "4b1707 Enterococcus faecium 1x109 cfu/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.eu.equilibrio-petfood.com",
+        "image": "https://images.app.goo.gl/zqEb6qgVnaxLCNk9A"
     },
     {
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-longevity.pdf",
@@ -194,7 +200,9 @@
             "L-carnitine 300 mg/kg",
             "4b1707 Enterococcus faecium 1x109 cfu/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.eu.equilibrio-petfood.com",
+        "image": "https://images.app.goo.gl/jADbSUcR39FHetxR7"
     },
     {
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-preference.pdf",
@@ -240,7 +248,9 @@
             "3b815 Selenium 1x109",
             "4b1707 Enterococcus faecium IU/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.eu.equilibrio-petfood.com",
+        "image": "https://images.app.goo.gl/Udgq84NqmMU7dQQU9"
     },
     {
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-reduce-calorie.pdf",
@@ -287,7 +297,9 @@
             "L-carnitine 400 mg/kg",
             "4b1707 Enterococcus faecium 1x109 cfu/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.eu.equilibrio-petfood.com",
+        "image": "https://images.app.goo.gl/4xbBCAEauzPoSvt56"
     },
     {
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-sterilised.pdf",
@@ -338,6 +350,8 @@
             "L-carnitine 300 IU/kg",
             "4b1707 Enterococcus faecium 1x109 mg/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.eu.equilibrio-petfood.com",
+        "image": "https://images.app.goo.gl/C4hteXbjT3j8jsqK9"
     }
 ]

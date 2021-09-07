@@ -43,7 +43,9 @@
             "Additives/Kg Nutritional Additives: Vit. D3 I.U. 1114 / Fe 68 mg (iron (II) sulphate, monohydrate) / Cu 6 mg (copper (II) sulphate pentahydrate) / Mn 19 mg (manganese (II) oxide) / Zn 73 mg (zinc oxide) / I 2 mg (calcium iodate anhydrous) / Se 0.2 mg (sodium selenite) / DL-Methionine 297 mg / L-Carnitine 208 mg / Taurine 1010 mg.",
             "Sensory Additives: Dry blueberry extract (Vaccinium myrtillus) 200 mg/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://naturalselection.schesir.com/wp-content/uploads/2020/04/Pack-Kitten-TACCHINO.jpg",
+        "site": "https://naturalselection.schesir.com"
     },
     {
         "url": "https://naturalselection.schesir.com/en/product/rich-in-duck-cat-kitten-all-breeds/",
@@ -88,7 +90,9 @@
             "Additives/Kg Nutritional Additives: Vit. D3 I.U. 1114 / Fe 68 mg (iron (II) sulphate, monohydrate) / Cu 6 mg (copper (II) sulphate pentahydrate) / Mn 19 mg (manganese (II) oxide) / Zn 73 mg (zinc oxide) / I 2 mg (calcium iodate anhydrous) / Se 0.2 mg (sodium selenite) / DL-Methionine 297 mg / L-Carnitine 208 mg / Taurine 1010 mg.",
             "Sensory Additives: Dry blueberry extract (Vaccinium myrtillus) 200 mg/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://naturalselection.schesir.com/wp-content/uploads/2020/08/Pack-Kitten-ANATRA.jpg",
+        "site": "https://naturalselection.schesir.com"
     },
     {
         "url": "https://naturalselection.schesir.com/en/product/rich-in-chicken-cat-adult-delicate/",
@@ -130,7 +134,9 @@
             "Additives/Kg Nutritional Additives: Vit. D3 I.U. 1114 / Fe 109 mg (iron (II) sulphate, monohydrate) / Cu 10 mg (copper (II) sulphate pentahydrate) / Mn 30 mg (manganese (II) oxide) / Zn 117 mg (zinc oxide) / I 3.2 mg (calcium iodate anhydrous) / Se 0.3 mg (sodium selenite) / DL-Methionine 297 mg / L-Carnitine 208 mg / Taurine 1010 mg.",
             "Sensory Additives: Dry blueberry extract (Vaccinium myrtillus) 200 mg/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://naturalselection.schesir.com/wp-content/uploads/2020/08/Pack-Delicate-POLLO.jpg",
+        "site": "https://naturalselection.schesir.com"
     },
     {
         "url": "https://naturalselection.schesir.com/en/product/rich-in-beef-cat-adult-delicate/",
@@ -171,7 +177,9 @@
             "Additives/Kg Nutritional Additives: Vit. D3 I.U. 1114 / Fe 109 mg (iron (II) sulphate, monohydrate) / Cu 10 mg (copper (II) sulphate pentahydrate) / Mn 30 mg (manganese (II) oxide) / Zn 117 mg (zinc oxide) / I 3.2 mg (calcium iodate anhydrous) / Se 0.3 mg (sodium selenite) / DL-Methionine 297 mg / L-Carnitine 208 mg / Taurine 1010 mg.",
             "Sensory Additives: Dry blueberry extract (Vaccinium myrtillus) 200 mg/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://naturalselection.schesir.com/wp-content/uploads/2020/08/Pack-Delicate-MANZO.jpg",
+        "site": "https://naturalselection.schesir.com"
     },
     {
         "url": "https://naturalselection.schesir.com/en/product/rich-in-turkey-cat-adult-sterilized/",
@@ -213,7 +221,9 @@
             "kcal/100 g 360"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://naturalselection.schesir.com/wp-content/uploads/2020/08/Pack-Sterilized-TACCHINO.jpg",
+        "site": "https://naturalselection.schesir.com"
     },
     {
         "url": "https://naturalselection.schesir.com/en/product/rich-in-tuna-cat-adult-sterilized/",
@@ -256,7 +266,9 @@
             "Additives/Kg Nutritional Additives: Vit. D3 I.U. 1114 / Fe 109 mg (iron (II) sulphate, monohydrate) / Cu 10 mg (copper (II) sulphate pentahydrate) / Mn 30 mg (manganese (II) oxide) / Zn 117 mg (zinc oxide) / I 3.2 mg (calcium iodate anhydrous) / Se 0.3 mg (sodium selenite) / DL-Methionine 297 mg / L-Carnitine 208 mg / Taurine 1010 mg.",
             "Sensory Additives: Dry Blueberry extract (Vaccinium myrtillus) 200 mg/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://naturalselection.schesir.com/wp-content/uploads/2020/08/Pack-Sterilized-TONNO.jpg",
+        "site": "https://naturalselection.schesir.com"
     },
     {
         "url": "https://naturalselection.schesir.com/en/product/rich-in-duck-cat-adult-sterilized/",
@@ -297,6 +309,8 @@
             "kcal/100 g 350"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://naturalselection.schesir.com/wp-content/uploads/2020/08/Pack-Sterilized-ANATRA.jpg",
+        "site": "https://naturalselection.schesir.com"
     }
 ]

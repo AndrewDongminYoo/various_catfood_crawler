@@ -81,7 +81,9 @@
             "Ash 9.53 %"
         ],
         "additive": null,
-        "calorie": "225 Kcals Per Can"
+        "calorie": "225 Kcals Per Can",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/do8DeTvPtfgubWmFA"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-can-chicken/",
@@ -162,7 +164,9 @@
             "Ash 14.18 %"
         ],
         "additive": null,
-        "calorie": "230 Kcals Per Can"
+        "calorie": "230 Kcals Per Can",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/QpFaVH3g3q8NEFA96"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-can-duck-and-salmon/",
@@ -244,7 +248,9 @@
             "Ash 10.8%"
         ],
         "additive": null,
-        "calorie": "230 Kcals Per Can"
+        "calorie": "230 Kcals Per Can",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/M26sMSEhWu91PuHm6"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-can-rabbit/",
@@ -324,7 +330,9 @@
             "Ash 11.5 %"
         ],
         "additive": null,
-        "calorie": "212 Kcals Per Can"
+        "calorie": "212 Kcals Per Can",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/82YkNZWu1HDWQjD39"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-can-sardine/",
@@ -402,7 +410,9 @@
             "Ash 20.4 %"
         ],
         "additive": null,
-        "calorie": "171 Kcals Per Can"
+        "calorie": "171 Kcals Per Can",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/y3rjCKQj4edfmEh86"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-can-turkey/",
@@ -481,7 +491,9 @@
             "Ash 11.0 %"
         ],
         "additive": null,
-        "calorie": "219 Kcals Per Can"
+        "calorie": "219 Kcals Per Can",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/72mXVDH5jdoyGcY39"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-dry-kibble-chicken/",
@@ -576,7 +588,9 @@
             "Ash 8.08 %"
         ],
         "additive": null,
-        "calorie": "516.72 Kcals Per Cup"
+        "calorie": "516.72 Kcals Per Cup",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/b2t5cqqsoiAnY63d7"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-dry-kibble-rabbit/",
@@ -656,7 +670,9 @@
             "Ash 10.6 %"
         ],
         "additive": null,
-        "calorie": "527.04 Kcals Per Cup"
+        "calorie": "527.04 Kcals Per Cup",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/KcW92v8nvroFRMmA7"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-dry-kibble-sardine/",
@@ -748,7 +764,9 @@
             "Ash 12.8 %"
         ],
         "additive": null,
-        "calorie": "457.37 Kcals Per Cup"
+        "calorie": "457.37 Kcals Per Cup",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/798AQCpbPMqDNhFK9"
     },
     {
         "url": "https://www.natureslogic.com/product/feline-dry-kibble-turkey/",
@@ -843,6 +861,8 @@
             "Ash 8.97 %"
         ],
         "additive": null,
-        "calorie": "516.19 Kcals Per Cup"
+        "calorie": "516.19 Kcals Per Cup",
+        "site": "https://www.natureslogic.com",
+        "image": "https://images.app.goo.gl/1JeiDdLBJcQdMzjx5"
     }
 ]

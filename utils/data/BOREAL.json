@@ -54,7 +54,9 @@
             "Omega-6 Fatty Acids (Min)* 2.63%"
         ],
         "additive": null,
-        "calorie": "3510 kcal/kg"
+        "calorie": "3510 kcal/kg",
+        "image": "https://boreal.blob.core.windows.net/images/1258.jpg",
+        "site": "https://borealpetfood.com"
     },
     {
         "url": "https://borealpetfood.com/Cats/Product/23",
@@ -127,7 +129,9 @@
             "Omega-6 Fatty Acids (Min)* 2.5%"
         ],
         "additive": null,
-        "calorie": "3728 kcal/kg"
+        "calorie": "3728 kcal/kg",
+        "image": "https://boreal.blob.core.windows.net/images/1259.jpg",
+        "site": "https://borealpetfood.com"
     },
     {
         "url": "https://borealpetfood.com/Cats/Product/24",
@@ -199,7 +203,9 @@
             "Omega-6 Fatty Acids (min)* 3.5%"
         ],
         "additive": null,
-        "calorie": "3815 kcal/kg"
+        "calorie": "3815 kcal/kg",
+        "image": "https://boreal.blob.core.windows.net/images/1260.jpg",
+        "site": "https://borealpetfood.com"
     },
     {
         "url": "https://borealpetfood.com/Cats/Product/79",
@@ -268,7 +274,9 @@
             "Vitamin C (min) 15 IU/kg"
         ],
         "additive": null,
-        "calorie": "387 kcals/369g  164kcals/156g  84kcals/80g  105kcals/100g ME [metabolizable energy] on an as fed basis [calculated]"
+        "calorie": "387 kcals/369g  164kcals/156g  84kcals/80g  105kcals/100g ME [metabolizable energy] on an as fed basis [calculated]",
+        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
+        "site": "https://borealpetfood.com"
     },
     {
         "url": "https://borealpetfood.com/Cats/Product/81",
@@ -340,7 +348,9 @@
             "Vitamin C (min) 15 IU/kg"
         ],
         "additive": null,
-        "calorie": "105 kcal/100g"
+        "calorie": "105 kcal/100g",
+        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
+        "site": "https://borealpetfood.com"
     },
     {
         "url": "https://borealpetfood.com/Cats/Product/88",
@@ -431,7 +441,9 @@
             "Omega-6 Fatty Acids (Min)* 3.7%"
         ],
         "additive": null,
-        "calorie": "3459 kcal/kg"
+        "calorie": "3459 kcal/kg",
+        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
+        "site": "https://borealpetfood.com"
     },
     {
         "url": "https://borealpetfood.com/Cats/Product/89",
@@ -525,7 +537,9 @@
             "Chondroitin (min) 100 mg/kg"
         ],
         "additive": null,
-        "calorie": "3617 kcal/kg"
+        "calorie": "3617 kcal/kg",
+        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
+        "site": "https://borealpetfood.com"
     },
     {
         "url": "https://borealpetfood.com/Cats/Product/90",
@@ -607,6 +621,8 @@
             "Omega-6 Fatty Acids (min)* 2.8%"
         ],
         "additive": null,
-        "calorie": "3492 kcal/kg"
+        "calorie": "3492 kcal/kg",
+        "image": null,
+        "site": "https://borealpetfood.com"
     }
 ]

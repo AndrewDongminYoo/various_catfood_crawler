@@ -40,7 +40,9 @@
             " Vitamin D3 1;850 IU",
             "Vitamin E 550 IU"
         ],
-        "calorie": "Trace Elements: Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)"
+        "calorie": "Trace Elements: Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)",
+        "image": "https://www.fish4dogs.com/pub/media/catalog/product/cache/d5d12983b1ef234cd43ac2c65efd64d5/p/r/product_cat_finest_dry_finest_mackerel_1000x1000.jpg",
+        "site": "https://www.fish4dogs.com"
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-salmon",
@@ -83,7 +85,9 @@
             "Vitamin D3 1;850 IU",
             "Vitamin E 550 IU"
         ],
-        "calorie": "Trace Elements: Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)"
+        "calorie": "Trace Elements: Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)",
+        "image": "https://www.fish4dogs.com/pub/media/catalog/product/cache/d5d12983b1ef234cd43ac2c65efd64d5/p/r/product_cat_finest_dry_finest_salmon_1000x1000_2.jpg",
+        "site": "https://www.fish4dogs.com"
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-sardine",
@@ -124,7 +128,9 @@
             "Additives (Per Kg) Vitamins:  Vitamin A 22,500 IU,  Vitamin D3 1,850 IU, Vitamin E 550 IU",
             "Trace Elements:  Zinc Chelate Of Amino Acid Hydrate 500 mg,  Manganese Chelate Of Amino Acid Hydrate 133 mg, Copper Chelate Of Amino Acid Hydrate 30 mg, Calcium Iodate Anhydrous 2.9 mg. Organic selenium produced from Saccharomyces cerevisiae (CNCM I-3060) (selenium yeast inactivated) (3b 8.10) 87 mg. Antioxidants (Stabilised With Rosemary And Tocopherol-rich Extracts)"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.fish4dogs.com/pub/media/catalog/product/cache/d5d12983b1ef234cd43ac2c65efd64d5/p/r/product_cat_finest_dry_finest_sardine_1000x1000_2_4.jpg",
+        "site": "https://www.fish4dogs.com"
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-tuna-fillet-squid",
@@ -146,7 +152,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "Crude Protein 12%, Crude Fats 0.1%, Crude Fibres 1%, Crude Ash 2%, Moisture 84.5%"
+        "calorie": "Crude Protein 12%, Crude Fats 0.1%, Crude Fibres 1%, Crude Ash 2%, Moisture 84.5%",
+        "image": "https://www.fish4dogs.com/pub/media/catalog/product/cache/d5d12983b1ef234cd43ac2c65efd64d5/p/r/product_cat_finest_wet_tuna_squid_1000x1000_4.jpg",
+        "site": "https://www.fish4dogs.com"
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-tuna-fillet-with-cheese",
@@ -175,7 +183,9 @@
             "Crude Ash 2%",
             "Moisture 83%."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.fish4dogs.com/pub/media/catalog/product/cache/d5d12983b1ef234cd43ac2c65efd64d5/p/r/product_cat_finest_wet_tuna_cheese_1000x1000_4.jpg",
+        "site": "https://www.fish4dogs.com"
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-tuna-fillet-with-crab",
@@ -204,7 +214,9 @@
             "Crude Ash 2%",
             "Moisture 85%."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.fish4dogs.com/pub/media/catalog/product/cache/d5d12983b1ef234cd43ac2c65efd64d5/p/r/product_cat_finest_wet_tuna_crab_1000x1000_4.jpg",
+        "site": "https://www.fish4dogs.com"
     },
     {
         "url": "https://www.fish4dogs.com/finest-fish4cats-tuna-fillet-with-prawn",
@@ -233,6 +245,8 @@
             "Crude Ash 2%",
             "Moisture 83%."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.fish4dogs.com/pub/media/catalog/product/cache/d5d12983b1ef234cd43ac2c65efd64d5/p/r/product_cat_finest_wet_tuna_prawn_1000x1000_4.jpg",
+        "site": "https://www.fish4dogs.com"
     }
 ]

@@ -36,7 +36,9 @@
             "Manganese (as Manganese Chelate of Glycine Hydrate) 2.1mg",
             "Zinc (as Zinc Chelate of Glycine Hydrate) 10mg."
         ],
-        "calorie": "90 kcal/100g"
+        "calorie": "90 kcal/100g",
+        "image": "https://www.lilyskitchen.co.uk/dw/image/v2/BCBF_PRD/on/demandware.static/-/Sites-lilsrp-master-catalog/default/dwde5a2722/images/hi-res/CTCC.png?sw=600&sh=600&sm=fit",
+        "site": "https://www.lilyskitchen.co.uk"
     },
     {
         "url": "https://www.lilyskitchen.co.uk/for-cats/food-for-cats/shop-by-product-type/wet-food/chicken-with-mussel-shredded-fillets-CSFCM.html",
@@ -79,7 +81,9 @@
             "Iodine (as Potassium Iodide) 0.72mg",
             "Copper (as Copper (II) Chelate of Glycine Hydrate) 1.5mg. Technological Additives: Guar Gum.‬‬"
         ],
-        "calorie": "78 kcal/100g"
+        "calorie": "78 kcal/100g",
+        "image": "https://www.lilyskitchen.co.uk/dw/image/v2/BCBF_PRD/on/demandware.static/-/Sites-lilsrp-master-catalog/default/dw056b5a44/images/hi-res/CSFCM70.png?sw=600&sh=600&sm=fit",
+        "site": "https://www.lilyskitchen.co.uk"
     },
     {
         "url": "https://www.lilyskitchen.co.uk/for-cats/food-for-cats/shop-by-product-type/wet-food/ocean-fish-tasty-cuts-in-gravy-CTCF.html",
@@ -118,7 +122,9 @@
             "Manganese (as Manganese Chelate of Glycine Hydrate) 2.1mg",
             "Zinc (as Zinc Chelate of Glycine Hydrate) 10mg."
         ],
-        "calorie": "82 kcal/100g"
+        "calorie": "82 kcal/100g",
+        "image": "https://www.lilyskitchen.co.uk/dw/image/v2/BCBF_PRD/on/demandware.static/-/Sites-lilsrp-master-catalog/default/dw34f3963f/images/hi-res/CTCF.png?sw=600&sh=600&sm=fit",
+        "site": "https://www.lilyskitchen.co.uk"
     },
     {
         "url": "https://www.lilyskitchen.co.uk/for-cats/food-for-cats/shop-by-product-type/wet-food/tuna-with-salmon-shredded-fillets-CSFTS.html",
@@ -161,6 +167,8 @@
             "Iodine (as Potassium Iodide) 0.72mg",
             "Copper (as Copper Chelate of Glycine Hydrate) 1.5mg. Technological Additives: Guar Gum.‬‬"
         ],
-        "calorie": "81 kcal/100g"
+        "calorie": "81 kcal/100g",
+        "image": "https://www.lilyskitchen.co.uk/dw/image/v2/BCBF_PRD/on/demandware.static/-/Sites-lilsrp-master-catalog/default/dwe6293d64/images/hi-res/CSFTS70.png?sw=600&sh=600&sm=fit",
+        "site": "https://www.lilyskitchen.co.uk"
     }
 ]

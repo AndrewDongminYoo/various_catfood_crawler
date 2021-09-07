@@ -40,7 +40,9 @@
             "Ash: max. 2.0%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
+        "site": "https://healthyshores.com"
     },
     {
         "url": "https://healthyshores.com/cats-wet-food/",
@@ -84,7 +86,9 @@
             "Ash: max. 2.5%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
+        "site": "https://healthyshores.com"
     },
     {
         "url": "https://healthyshores.com/cats-wet-food/",
@@ -128,7 +132,9 @@
             "Ash: max. 2.5%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
+        "site": "https://healthyshores.com"
     },
     {
         "url": "https://healthyshores.com/cats-wet-food/",
@@ -172,6 +178,8 @@
             "Ash: max. 2.5%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
+        "site": "https://healthyshores.com"
     }
 ]

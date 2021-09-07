@@ -27,7 +27,9 @@
         ],
         "analysis": "Protein: 45.5% minimum Fat: 31% minimum Fiber: 3% maximum Moisture: 5% maximum",
         "additive": "Calories: 4920 per kg (139 per oz) Calcium to Phosphate: 1.7:1 B.A.R.F Formulation 80% Meat/Organ/Bone 20% Produce Carbohydrates: 2.2 % PH Level: 6.4 S.U.",
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.stevesrealfood.com",
+        "image": "https://images.app.goo.gl/u7JjRUjn7iunJK6u9"
     },
     {
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/chicken-dry-diet/",
@@ -84,7 +86,9 @@
             "Sodium 0.30% ",
             "Magnesium 0.10%    "
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.stevesrealfood.com",
+        "image": "https://images.app.goo.gl/91TKpWM9XdmuzB7d6"
     },
     {
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/pork-dry-diet/",
@@ -143,7 +147,9 @@
             "Sodium 0.37%",
             "Magnesium 0.09%"
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.stevesrealfood.com",
+        "image": "https://images.app.goo.gl/iDXZHzq1EfP24ZoFA"
     },
     {
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/turducken-dry-diet/",
@@ -212,7 +218,9 @@
             "Sodium 0.50%",
             "Magnesium 0.11%"
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.stevesrealfood.com",
+        "image": "https://images.app.goo.gl/XWWhbXXDFXWZAWxm8"
     },
     {
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/turkey-dry-diet/",
@@ -278,6 +286,8 @@
             "Sodium 0.32%",
             "Magnesium 0.10%"
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.stevesrealfood.com",
+        "image": "https://images.app.goo.gl/1Ytvx4cXQxnSigYGA"
     }
 ]

@@ -65,7 +65,9 @@
             "Calcium Iodate Anhydrous 3.64mg",
             "Sodium Selenite 0.41mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "http://cdn.shopify.com/s/files/1/0088/2340/6650/products/acd1_480x480_55723c28-0ebb-48d5-bac8-3d179ec93c67.png?v=1549984608",
+        "site": "https://aatu.co.uk"
     },
     {
         "url": "https://aatu.co.uk/products/aatu-cat-salmon",
@@ -135,7 +137,9 @@
             "Calcium Iodate Anhydrous 3.64mg",
             "Sodium Selenite 0.41mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "http://cdn.shopify.com/s/files/1/0088/2340/6650/products/AATUCat_Salmon_3kg.png?v=1624351733",
+        "site": "https://aatu.co.uk"
     },
     {
         "url": "https://aatu.co.uk/products/aatu-chicken-pheasant-wet",
@@ -201,7 +205,9 @@
             "Manganese Sulfate Monohydrate 3 mg",
             "Calcium Iodate Anhydrous 0.75 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "http://cdn.shopify.com/s/files/1/0088/2340/6650/products/Chicken_Pheasant.png?v=1624351691",
+        "site": "https://aatu.co.uk"
     },
     {
         "url": "https://aatu.co.uk/products/aatu-chicken-quail-wet",
@@ -267,7 +273,9 @@
             "Manganese Sulfate Monohydrate 3 mg",
             "Calcium Iodate Anhydrous 0.75 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "http://cdn.shopify.com/s/files/1/0088/2340/6650/products/Chicken_Quail.png?v=1624351636",
+        "site": "https://aatu.co.uk"
     },
     {
         "url": "https://aatu.co.uk/products/aatu-for-cats-85-15-chicken",
@@ -336,7 +344,9 @@
             "Calcium Iodate Anhydrous 3.64mg",
             "Sodium Selenite 0.41mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "http://cdn.shopify.com/s/files/1/0088/2340/6650/products/acc1_480x480_3effe531-d2a2-4860-b568-a27d836034d6.png?v=1558596406",
+        "site": "https://aatu.co.uk"
     },
     {
         "url": "https://aatu.co.uk/products/aatu-salmon-wet",
@@ -403,7 +413,9 @@
             "Manganese Sulfate Monohydrate 3 mg",
             "Calcium Iodate Anhydrous 0.75 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "http://cdn.shopify.com/s/files/1/0088/2340/6650/products/SalmonChickenandPrawn.png?v=1624351709",
+        "site": "https://aatu.co.uk"
     },
     {
         "url": "https://aatu.co.uk/products/aatu-turkey-goose-wet",
@@ -469,6 +481,8 @@
             "Manganese Sulfate Monohydrate 3 mg",
             "Calcium Iodate Anhydrous 0.75 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "http://cdn.shopify.com/s/files/1/0088/2340/6650/products/Turkey_Goose.png?v=1624351661",
+        "site": "https://aatu.co.uk"
     }
 ]

@@ -69,7 +69,9 @@
             "Phosphorus 1.0%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdn.wishbonepet.com/wp-content/uploads/2019/01/graze-cat-front.png",
+        "site": "https://wishbonepet.com"
     },
     {
         "url": "https://wishbonepet.com/product/wishbone-pasture-grain-free-dry-cat-food/",
@@ -140,7 +142,9 @@
             "Phosphorus 1.0%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdn.wishbonepet.com/wp-content/uploads/2018/09/Pasture-Cat-Front-4lb.png-res-1024x1024.png",
+        "site": "https://wishbonepet.com"
     },
     {
         "url": "https://wishbonepet.com/product/wishbone-roost-grain-free-dry-cat-food/",
@@ -211,6 +215,8 @@
             "Phosphorus 1.0%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://j2j6h3g2.stackpathcdn.com/wp-content/uploads/2018/09/Roost-Cat-Front-4lb-1024x1024.png",
+        "site": "https://wishbonepet.com"
     }
 ]

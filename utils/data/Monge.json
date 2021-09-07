@@ -50,7 +50,9 @@
             "DL-Methionine (Technically pure) 1;000 mg",
             "Taurine 2;100 mg. TECHNOLOGICAL ADDITIVES: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2020/10/monge_gatto_secco_adult_light_tacchino.jpg",
+        "site": "https://www.monge.it"
     },
     {
         "url": "https://www.monge.it/prodotto/adult-salmon/?lang=en",
@@ -95,7 +97,9 @@
             "DL-Methionine (Technically pure) 1;000 mg",
             "Taurine 1;200 mg. TECHNOLOGICAL ADDITIVES: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2018/10/monge_gatto_secco_adult_monoprotein_salmone.jpg",
+        "site": "https://www.monge.it"
     },
     {
         "url": "https://www.monge.it/prodotto/sterilised-monoprotein-beef/?lang=en",
@@ -145,7 +149,9 @@
             "DL-Methionine (Technically pure) 1;000 mg",
             "Taurine 1;200 mg. TECHNOLOGICAL ADDITIVES: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2020/10/monge_gatto_secco_sterilised_monoprotein_manzo.jpg",
+        "site": "https://www.monge.it"
     },
     {
         "url": "https://www.monge.it/prodotto/sterilised-monoprotein-codfish/?lang=en",
@@ -194,7 +200,9 @@
             "DL-Methionine (Technically pure) 1;000 mg",
             "Taurine 1;200 mg. TECHNOLOGICAL ADDITIVES: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2020/10/monge_gatto_secco_sterilised_monoprotein_merluzzo.jpg",
+        "site": "https://www.monge.it"
     },
     {
         "url": "https://www.monge.it/prodotto/sterilised-monoprotein-trout/?lang=en",
@@ -241,7 +249,9 @@
             "DL-methionine technically pure: 1;000 mg/kg",
             "taurine: 1;200 mg/kg. TECHNOLOGICAL ADDITIVES: Antioxidants: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2018/10/monge_gatto_secco_sterilised_monoprotein_trota.jpg",
+        "site": "https://www.monge.it"
     },
     {
         "url": "https://www.monge.it/prodotto/kitten-monoprotein-trout/?lang=en",
@@ -291,7 +301,9 @@
             "DL-Methionine (Technically pure) 1;000 mg",
             "Taurine 1;000 mg. TECHNOLOGICAL ADDITIVES: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2018/10/monge_gatto_secco_kitten_monoprotein_trota.jpg",
+        "site": "https://www.monge.it"
     },
     {
         "url": "https://www.monge.it/prodotto/adult-monoprotein-rabbit/?lang=en",
@@ -339,7 +351,9 @@
             "DL-Methionine (Technically pure) 1;000 mg",
             "Taurine 2;000 mg. TECHNOLOGICAL ADDITIVES: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2018/03/monge_gatto_secco_adult_monoprotein_coniglio.jpg",
+        "site": "https://www.monge.it"
     },
     {
         "url": "https://www.monge.it/prodotto/sterilised-monoprotein-duck/?lang=en",
@@ -388,7 +402,9 @@
             "technically pure DL-Methionine: 1;000 mg/kg",
             "taurine 1;200 mg/kg. TECHNOLOGICAL ADDITIVES: Antioxidants: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2018/03/monge_gatto_secco_sterilised_monoprotein_anatra.jpg",
+        "site": "https://www.monge.it"
     },
     {
         "url": "https://www.monge.it/prodotto/kitten-rich-in-chicken/?lang=en",
@@ -441,6 +457,8 @@
             "technically pure DL-Methionine: 2;500 mg/kg",
             "taurine 2;400 mg/kg. TECHNOLOGICAL ADDITIVES: Antioxidants: Tocopherol extracts from vegetable oils."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.monge.it/wp-content/uploads/2016/04/monge_gatto_secco_kitten_pollo.jpg",
+        "site": "https://www.monge.it"
     }
 ]

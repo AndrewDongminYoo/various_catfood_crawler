@@ -18,7 +18,9 @@
             "Omega-6 Fatty Acids* Min 2.23% "
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated): 6647 kcal/kg | 346 kcal/cup"
+        "calorie": "Calorie Content ME (calculated): 6647 kcal/kg | 346 kcal/cup",
+        "site": "https://www.nznaturalpetfood.com",
+        "image": "https://images.app.goo.gl/LkkS4zS9XYy3jVfa9"
     },
     {
         "url": "https://www.nznaturalpetfood.com/meow-fd-chicken-king-salmon",
@@ -39,7 +41,9 @@
             "Omega-6 Fatty Acids* Min 11.11% "
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated): 5149 kcal/kg | 288 kcal/cup"
+        "calorie": "Calorie Content ME (calculated): 5149 kcal/kg | 288 kcal/cup",
+        "site": "https://www.nznaturalpetfood.com",
+        "image": "https://images.app.goo.gl/Bu6ThGdREkjWPms8A"
     },
     {
         "url": "https://www.nznaturalpetfood.com/meow-fd-lamb-hoki",
@@ -60,7 +64,9 @@
             "Omega-6 Fatty Acids* Min 3.61% "
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated): 4542 kcal/kg | 213 kcal/cup"
+        "calorie": "Calorie Content ME (calculated): 4542 kcal/kg | 213 kcal/cup",
+        "site": "https://www.nznaturalpetfood.com",
+        "image": "https://images.app.goo.gl/1QySDccaBKGsCuph6"
     },
     {
         "url": "https://www.nznaturalpetfood.com/meow-fd-duck",
@@ -80,7 +86,9 @@
             "Omega-3 Fatty Acids* Min 1.95% "
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup"
+        "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup",
+        "site": "https://www.nznaturalpetfood.com",
+        "image": "https://images.app.goo.gl/WrqmEdFGVM7x4V7x9"
     },
     {
         "url": "https://www.nznaturalpetfood.com/meow-fd-beef-hoki",
@@ -101,7 +109,9 @@
             "Omega-6 Fatty Acids* Min 2.25% "
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup"
+        "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup",
+        "site": "https://www.nznaturalpetfood.com",
+        "image": "https://images.app.goo.gl/HobJ5vbTHtnoriuz9"
     },
     {
         "url": "https://www.nznaturalpetfood.com/meow-fd-venison",
@@ -121,7 +131,9 @@
             "Omega-3 Fatty Acids* Min 1% "
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated): 3473 kcal/kg | 159 kcal/cup"
+        "calorie": "Calorie Content ME (calculated): 3473 kcal/kg | 159 kcal/cup",
+        "site": "https://www.nznaturalpetfood.com",
+        "image": "https://images.app.goo.gl/Qh74CDnZrp6ML9sH7"
     },
     {
         "url": "https://www.nznaturalpetfood.com/meow-fd-brushtail",
@@ -141,6 +153,8 @@
             "Omega-3 Fatty Acids* Min 2.4% "
         ],
         "additive": null,
-        "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup"
+        "calorie": "Calorie Content ME (calculated): 4199 kcal/kg | 210 kcal/cup",
+        "site": "https://www.nznaturalpetfood.com",
+        "image": "https://images.app.goo.gl/8PPz6pGBPrup4tdu7"
     }
 ]

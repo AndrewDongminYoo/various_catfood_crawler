@@ -54,7 +54,9 @@
         "calorie": [
             "Metabolisable Energy kJ 1485",
             "Metabolisable Energy kcal 355"
-        ]
+        ],
+        "image": "https://images.app.goo.gl/KvWdDTY9CMo38JZT8",
+        "site": "https://www.specific-diets.co.uk"
     },
     {
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/adult-organic-f-bio-d-gb",
@@ -90,7 +92,9 @@
             "Water g 8,0"
         ],
         "additive": null,
-        "calorie": "Metabolisable Energy kJ 1526"
+        "calorie": "Metabolisable Energy kJ 1526",
+        "image": "https://images.app.goo.gl/5c3avyVg1Bt1XEFW7",
+        "site": "https://www.specific-diets.co.uk"
     },
     {
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/atlantic-sardine-fqd-f-gb",
@@ -137,7 +141,9 @@
             "Water g 8.0"
         ],
         "additive": null,
-        "calorie": "Metabolisable Energy kJ\t1565"
+        "calorie": "Metabolisable Energy kJ\t1565",
+        "image": "https://images.app.goo.gl/JKhP2Yi8htaqDc9c7",
+        "site": "https://www.specific-diets.co.uk"
     },
     {
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/kitten-fpd-gb",
@@ -188,7 +194,9 @@
         "calorie": [
             "Metabolisable Energy kJ 1751",
             "Metabolisable Energy kcal 418"
-        ]
+        ],
+        "image": "https://images.app.goo.gl/YfR1mS5c1eBE2RoA9",
+        "site": "https://www.specific-diets.co.uk"
     },
     {
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/neutered-young-fnd-gb",
@@ -239,7 +247,9 @@
         "calorie": [
             "Metabolisable Energy kJ 1480",
             "Metabolisable Energy kcal 353"
-        ]
+        ],
+        "image": "https://images.app.goo.gl/mThjoMGkCX4cbJks5",
+        "site": "https://www.specific-diets.co.uk"
     },
     {
         "url": "https://www.specific-diets.co.uk/cat/everyday-diets/senior-fgd-gb",
@@ -303,6 +313,8 @@
         "calorie": [
             "Metabolisable Energy kJ 1641",
             "Metabolisable Energy kcal 392"
-        ]
+        ],
+        "image": "https://images.app.goo.gl/1BtJ3tkYnThJMKa49",
+        "site": "https://www.specific-diets.co.uk"
     }
 ]

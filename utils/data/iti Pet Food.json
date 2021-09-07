@@ -45,7 +45,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "CALORIES Calorie Content (calculated) 4400 kcal/kg"
+        "calorie": "CALORIES Calorie Content (calculated) 4400 kcal/kg",
+        "site": "https://www.itipet.com",
+        "image": "https://images.app.goo.gl/evXERt5RvnoBhrGdA"
     },
     {
         "url": "https://www.itipet.com/product/iti-cans-cat-beef/",
@@ -96,7 +98,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "CALORIES Calorie Content (calculated) 1010 kcal/kg"
+        "calorie": "CALORIES Calorie Content (calculated) 1010 kcal/kg",
+        "site": "https://www.itipet.com",
+        "image": "https://images.app.goo.gl/2qNr3noZyuRKV3wi9"
     },
     {
         "url": "https://www.itipet.com/product/iti-cans-cat-chicken-salmon/",
@@ -144,7 +148,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "CALORIES Calorie Content (calculated) 1120 kcal/kg"
+        "calorie": "CALORIES Calorie Content (calculated) 1120 kcal/kg",
+        "site": "https://www.itipet.com",
+        "image": "https://images.app.goo.gl/7f1wGHQzfcLNrwFw9"
     },
     {
         "url": "https://www.itipet.com/product/iti-cans-cat-chicken/",
@@ -190,7 +196,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "CALORIES Calorie Content (calculated) 1054 kcal/kg"
+        "calorie": "CALORIES Calorie Content (calculated) 1054 kcal/kg",
+        "site": "https://www.itipet.com",
+        "image": "https://images.app.goo.gl/fVcydoBPSjFtT43a7"
     },
     {
         "url": "https://www.itipet.com/product/iti-cans-cat-lamb/",
@@ -243,7 +251,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "CALORIES Calorie Content (calculated) 1100 kcal/kg"
+        "calorie": "CALORIES Calorie Content (calculated) 1100 kcal/kg",
+        "site": "https://www.itipet.com",
+        "image": "https://images.app.goo.gl/ech78HEC348Mi5yY7"
     },
     {
         "url": "https://www.itipet.com/product/iti-kiti-chicken-salmon-for-cats/",
@@ -284,7 +294,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "CALORIES Calorie Content (calculated) 4030 kcal/kg"
+        "calorie": "CALORIES Calorie Content (calculated) 4030 kcal/kg",
+        "site": "https://www.itipet.com",
+        "image": "https://images.app.goo.gl/TyDdNtnaM4Nz9wiZ7"
     },
     {
         "url": "https://www.itipet.com/product/iti-kiti-chicken-veal-for-cats/",
@@ -332,7 +344,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "CALORIES Calorie Content (calculated) 4250 kcal/kg"
+        "calorie": "CALORIES Calorie Content (calculated) 4250 kcal/kg",
+        "site": "https://www.itipet.com",
+        "image": "https://images.app.goo.gl/gaetcpgHTYXAmdfu8"
     },
     {
         "url": "https://www.itipet.com/product/iti-kiti-lamb-kahawai-for-cats/",
@@ -380,6 +394,8 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "CALORIES Calorie Content (calculated) 5080 kcal/kg"
+        "calorie": "CALORIES Calorie Content (calculated) 5080 kcal/kg",
+        "site": "https://www.itipet.com",
+        "image": "https://images.app.goo.gl/Nx3j4QLhbJ4TR6zy6"
     }
 ]

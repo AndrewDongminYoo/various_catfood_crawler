@@ -81,7 +81,9 @@
             "Omega-6 Fatty Acids 1.1% Min."
         ],
         "additive": null,
-        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED (ME): 3,650 kcal/kg., 394 kcal/cup."
+        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED (ME): 3,650 kcal/kg., 394 kcal/cup.",
+        "site": "https://www.supremesourcepet.com",
+        "image": "https://images.app.goo.gl/nmTrKt5JNWb9ypnm9"
     },
     {
         "url": "https://www.supremesourcepet.com/whitefish-meal-and-salmon-meal-recipe/",
@@ -164,6 +166,8 @@
             "Omega-6 Fatty Acids* 2.1% Min."
         ],
         "additive": null,
-        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED (ME): 3,660 kcal/kg., 395 kcal/cup."
+        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED (ME): 3,660 kcal/kg., 395 kcal/cup.",
+        "site": "https://www.supremesourcepet.com",
+        "image": "https://images.app.goo.gl/DTmGtNwydKhPBKnq7"
     }
 ]

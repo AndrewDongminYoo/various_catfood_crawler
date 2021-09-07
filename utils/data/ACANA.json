@@ -75,7 +75,9 @@
             "Omega-3 fatty acids (min.) 0.6 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-wild-prairie-front.png",
+        "site": "https://www.acanapetfoods.co.uk"
     },
     {
         "url": "https://www.acanapetfoods.co.uk/product/acana-grasslands-cat-new/",
@@ -156,7 +158,9 @@
             "Omega-3 fatty acids (min.) 0.8 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-grasslands-front.png",
+        "site": "https://www.acanapetfoods.co.uk"
     },
     {
         "url": "https://www.acanapetfoods.co.uk/product/acana-first-feast-kitten/",
@@ -219,7 +223,9 @@
             "EPA 0.15 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-first-feast-front.png",
+        "site": "https://www.acanapetfoods.co.uk"
     },
     {
         "url": "https://www.acanapetfoods.co.uk/product/acana-pacifica-cat-new/",
@@ -295,7 +301,9 @@
             "Omega-3 fatty acids (min.) 2.2 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-pacifica-front.png",
+        "site": "https://www.acanapetfoods.co.uk"
     },
     {
         "url": "https://www.acanapetfoods.co.uk/product/acana-indoor-entree-cat/",
@@ -359,7 +367,9 @@
             "EPA 0.1 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-indoor-entree-front.png",
+        "site": "https://www.acanapetfoods.co.uk"
     },
     {
         "url": "https://www.acanapetfoods.co.uk/product/acana-bountiful-catch-cat/",
@@ -422,7 +432,9 @@
             "EPA 0.2 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-bountiful-catch-front.png",
+        "site": "https://www.acanapetfoods.co.uk"
     },
     {
         "url": "https://www.acanapetfoods.co.uk/product/acana-homestead-harvest-cat/",
@@ -483,6 +495,8 @@
             "EPA 0.1 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-homestead-harvest-front.png",
+        "site": "https://www.acanapetfoods.co.uk"
     }
 ]

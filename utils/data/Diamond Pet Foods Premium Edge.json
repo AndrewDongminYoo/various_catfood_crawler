@@ -64,7 +64,9 @@
             "Omega-3 Fatty Acids* 0.4% Minimum"
         ],
         "additive": null,
-        "calorie": "3,728 kcal/kg (423 kcal/cup) Calculated Metabolizable Energy"
+        "calorie": "3,728 kcal/kg (423 kcal/cup) Calculated Metabolizable Energy",
+        "image": "https://www.diamondpet.com/wp-content/uploads/2020/06/DiamondCARE-Urinary-Cat-082521b.jpg",
+        "site": "https://www.diamondpet.com"
     },
     {
         "url": "https://www.diamondpet.com/cat/diamond-care/weight-management/",
@@ -137,6 +139,8 @@
             "Total Microorganisms* (Lactobacillus plantarum, Bacillus subtilis, Lactobacillus acidophilus, Enterococcus faecium, Bifidobacterium animalis in descending amounts) Not Less Than 80,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "3,080 kcal/kg (314 kcal/cup) Calculated Metabolizable Energy"
+        "calorie": "3,080 kcal/kg (314 kcal/cup) Calculated Metabolizable Energy",
+        "image": "https://diamondpet.com/wp-content/uploads/2020/06/394DN-2001-CARE-WtMgmt-Cat.jpg",
+        "site": "https://www.diamondpet.com"
     }
 ]

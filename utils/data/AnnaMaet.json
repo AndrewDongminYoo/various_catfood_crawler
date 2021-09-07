@@ -85,7 +85,9 @@
             "Taurine % 0.30 0.33"
         ],
         "additive": null,
-        "calorie": "3618 kcal/kg"
+        "calorie": "3618 kcal/kg",
+        "image": "https://r39qcrl5jp-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/FelineSustain_12lb_Front-1.png",
+        "site": "https://annamaet.com"
     },
     {
         "url": "https://annamaet.com/products/grain-free-feline/",
@@ -171,7 +173,9 @@
             "Taurine % 0.20 0.22"
         ],
         "additive": null,
-        "calorie": "4149 kcal/kg"
+        "calorie": "4149 kcal/kg",
+        "image": "https://r39qcrl5jp-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/GFF_12lb_Front-1.png",
+        "site": "https://annamaet.com"
     },
     {
         "url": "https://annamaet.com/products/original-feline/",
@@ -259,6 +263,8 @@
             "Taurine % 0.20 0.22"
         ],
         "additive": null,
-        "calorie": "4022 kcal/kg"
+        "calorie": "4022 kcal/kg",
+        "image": "https://r39qcrl5jp-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/OCat_12lb_Front-1.png",
+        "site": "https://annamaet.com"
     }
 ]

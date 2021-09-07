@@ -23,7 +23,9 @@
             "수분 90.0% 이하"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7361_web_original_1604472098458032.jpg",
+        "site": "https://www.catpang.com"
     },
     {
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000004011",
@@ -42,7 +44,9 @@
             "수분 81.0% 이하"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3386_web_original_1619578018689611.jpg",
+        "site": "https://www.catpang.com"
     },
     {
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000008281",
@@ -68,7 +72,9 @@
             "수분 87.48% 이하"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7360_web_original_1604472087126903.jpg",
+        "site": "https://www.catpang.com"
     },
     {
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000004009",
@@ -87,7 +93,9 @@
             "수분 81.0% 이하"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3384_web_original_1619577942162109.jpg",
+        "site": "https://www.catpang.com"
     },
     {
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000008280",
@@ -112,7 +120,9 @@
             "수분 87.48이하"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7357_web_original_1619578005850665.jpg",
+        "site": "https://www.catpang.com"
     },
     {
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000004012",
@@ -132,7 +142,9 @@
             "수분 81.0% 이하"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3387_web_original_1619577966142856.jpg",
+        "site": "https://www.catpang.com"
     },
     {
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000004010",
@@ -151,6 +163,8 @@
             "수분 81.0% 이하"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3385_web_original_1620267603738774.jpg",
+        "site": "https://www.catpang.com"
     }
 ]

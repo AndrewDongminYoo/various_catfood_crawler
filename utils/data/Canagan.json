@@ -60,7 +60,9 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.60 mg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_game_1200x1200.png",
+        "site": "https://www.canagan.co.uk"
     },
     {
         "url": "https://www.canagan.co.uk/canagan-dental-for-cats.html",
@@ -129,7 +131,9 @@
             "Sodium Selenite 0.64 mg",
             "Methionine 1,800 mg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan-dental-cat-sqr.png",
+        "site": "https://www.canagan.co.uk"
     },
     {
         "url": "https://www.canagan.co.uk/canagan-free-range-chicken-for-cats.html",
@@ -189,7 +193,9 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.64 mg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_chicken_1200x1200.png",
+        "site": "https://www.canagan.co.uk"
     },
     {
         "url": "https://www.canagan.co.uk/canagan-light-senior-for-catss.html",
@@ -252,7 +258,9 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.60 mg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan-cat-bags__senior-for-cats_2_2.png",
+        "site": "https://www.canagan.co.uk"
     },
     {
         "url": "https://www.canagan.co.uk/canagan-scottish-salmon-for-cats.html",
@@ -323,6 +331,8 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.64 mg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_salmon_1200x1200.png",
+        "site": "https://www.canagan.co.uk"
     }
 ]

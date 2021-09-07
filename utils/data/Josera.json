@@ -25,7 +25,8 @@
             "magnesium 0,65 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.josera.com"
     },
     {
         "url": "https://www.josera.com/senior-p1042",
@@ -53,7 +54,8 @@
             "magnesium 0,65 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.josera.com"
     },
     {
         "url": "https://www.josera.com/kitten-p1019#111055",
@@ -81,7 +83,8 @@
             "magnesium 0,60 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.josera.com"
     },
     {
         "url": "https://www.josera.com/sensicat-p746#88204",
@@ -109,7 +112,8 @@
             "magnesium 0,60 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.josera.com"
     },
     {
         "url": "https://www.josera.com/dailycat-p1007#109191",
@@ -137,7 +141,8 @@
             "magnesium 0,60 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.josera.com"
     },
     {
         "url": "https://www.josera.com/naturecat-p751#88217",
@@ -165,7 +170,8 @@
             "magnesium 0,60 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.josera.com"
     },
     {
         "url": "https://www.josera.com/naturelle-p771#99354",
@@ -193,6 +199,7 @@
             "magnesium 0,60 %"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.josera.com"
     }
 ]

@@ -98,7 +98,9 @@
             "pH 5.5"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatChickenPeas.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/grain-free-duck-red-lentils-entree/",
@@ -198,7 +200,9 @@
             "pH 5.5"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatDuckRedLentils.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/grain-free-salmon-peas-entree/",
@@ -302,7 +306,9 @@
             "pH 5.5"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatSalmonPeas.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/beef-entree-2/",
@@ -392,7 +398,9 @@
             "Carbohydrates 3.8%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_BeefWeb.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-entree-2/",
@@ -481,7 +489,9 @@
             "Carbohydrates 0.1%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_ChickenWeb.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/salmon-entree-2/",
@@ -570,7 +580,9 @@
             "Carbohydrates 0%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/04/PV_CatCan_Salmon-002-rs-4-e1588088940182.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/turkey-entree-2/",
@@ -659,6 +671,8 @@
             "Carbohydrates 0.1%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_TurkeyWeb.png",
+        "site": "https://nutrisourcepetfoods.com"
     }
 ]

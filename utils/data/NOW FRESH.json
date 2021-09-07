@@ -72,7 +72,9 @@
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3872 kcal/kg or 426 kcal/cup (250 ml)"
+        "calorie": "ME (calculated) = 3872 kcal/kg or 426 kcal/cup (250 ml)",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/3DXn0OG49hBPTINblDh9YV/3b87923c3c372f3fa89ccd9fca3ad58e/NF-Social-Image-Cat-Adult-Owner-cuddling-with-cat.jpg",
+        "site": "https://nowfresh.com"
     },
     {
         "url": "https://nowfresh.com/en-us/recipe-for-kittens",
@@ -148,7 +150,9 @@
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3972 kcal/kg or 437 kcal/cup (250 ml)"
+        "calorie": "ME (calculated) = 3972 kcal/kg or 437 kcal/cup (250 ml)",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/7HSmwV7BWWTMvAfvblFL3X/de3960682ea07e300afe550a8506f25e/NF-Social-Image-Recipe-Cat-Kitten-Playing-in-Bed.jpg",
+        "site": "https://nowfresh.com"
     },
     {
         "url": "https://nowfresh.com/en-us/senior-recipe-for-cats",
@@ -222,6 +226,8 @@
             "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3528 kcal/kg or 388 kcal/cup (250 ml)"
+        "calorie": "ME (calculated) = 3528 kcal/kg or 388 kcal/cup (250 ml)",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/7lhAusdxec15x3qNJ0PB0m/77dd6966c5ad0a02585e7bd668d30af9/NF-Social-Image-Cat-Senior.jpg",
+        "site": "https://nowfresh.com"
     }
 ]

@@ -69,7 +69,9 @@
             "DHA (Docosohexaenoic Acid) (min.*) 0.05%"
         ],
         "additive": null,
-        "calorie": "3,922 kcal/kg"
+        "calorie": "3,922 kcal/kg",
+        "image": "http://cdn.shopify.com/s/files/1/1971/5017/products/Artboard5_410c3806-1783-4ab9-89f5-f83d5adc33b9_grande.png?v=1600205821",
+        "site": "https://artemiscompany.com"
     },
     {
         "url": "https://artemiscompany.com/collections/shop-cat-all/products/h-i-t-salmon-snow-crab-feline-formula",
@@ -149,7 +151,9 @@
             "Carbohydrate** 18%"
         ],
         "additive": null,
-        "calorie": "3,720 kcal/kg"
+        "calorie": "3,720 kcal/kg",
+        "image": "http://cdn.shopify.com/s/files/1/1971/5017/products/HIT_FELINE_SALMON_SNOWCRAB_6LB-01_grande.png?v=1600205892",
+        "site": "https://artemiscompany.com"
     },
     {
         "url": "https://artemiscompany.com/collections/shop-cat-all/products/osopure-grain-free-feline-formula-dry-cat-food",
@@ -209,6 +213,8 @@
             "Omega-3 Fatty Acids, min.* 0.6%"
         ],
         "additive": null,
-        "calorie": "3,861 kcal/kg"
+        "calorie": "3,861 kcal/kg",
+        "image": "http://cdn.shopify.com/s/files/1/1971/5017/products/Artboard13_39e9faca-93cd-4e90-b6b2-02d6fee9e9dc_grande.png?v=1600205839",
+        "site": "https://artemiscompany.com"
     }
 ]

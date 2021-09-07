@@ -18,7 +18,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.pro-nutrition.flatazor.com",
+        "image": "https://images.app.goo.gl/wm8JKmHagLdcLp4y6"
     },
     {
         "url": "https://www.pro-nutrition.flatazor.com/en/cat/purelife-for-cats/kitten",
@@ -39,7 +41,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.pro-nutrition.flatazor.com",
+        "image": "https://images.app.goo.gl/ocWSWHbXQ9EBaFWC7"
     },
     {
         "url": "https://www.pro-nutrition.flatazor.com/en/cat/purelife-for-cats/sterilized",
@@ -59,7 +63,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.pro-nutrition.flatazor.com",
+        "image": "https://images.app.goo.gl/ck1BsQ2yDvhyZHHh9"
     },
     {
         "url": "https://www.pro-nutrition.flatazor.com/en/cat/purelife-for-cats/sterilized-8-plus",
@@ -80,6 +86,8 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://www.pro-nutrition.flatazor.com",
+        "image": "https://images.app.goo.gl/2Whbv2HQ3wg78FDh7"
     }
 ]

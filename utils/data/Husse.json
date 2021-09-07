@@ -68,7 +68,9 @@
             "Antioxidants",
             "Technological additives: Clinoptilolite of sedimentary origin: 10 g/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://images.app.goo.gl/JFunbXXimY98Vwkg6",
+        "site": "https://england.husse.com"
     },
     {
         "url": "https://england.husse.com/katt-urinary",
@@ -140,7 +142,9 @@
             "Antioxidants",
             "Technological additives: Clinoptilolite of sedimentary origin: 10 g/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://images.app.goo.gl/jc3uMrbk3R4xBGj89",
+        "site": "https://england.husse.com"
     },
     {
         "url": "https://england.husse.com/kattunge-566",
@@ -209,7 +213,9 @@
             "Antioxidants",
             "Technological additives: Clinoptilolite of sedimentary origin: 10 g/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://images.app.goo.gl/NULKqR2dxYuezpMF6",
+        "site": "https://england.husse.com"
     },
     {
         "url": "https://england.husse.com/kroketter-chicken",
@@ -270,7 +276,9 @@
             "Antioxidants",
             "Technological additives: Clinoptilolite of sedimentary origin: 10 g/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://images.app.goo.gl/4D1gkHwXeDU5be7z8",
+        "site": "https://england.husse.com"
     },
     {
         "url": "https://england.husse.com/kroketter-lax",
@@ -328,7 +336,9 @@
             "3b802 (Selenium) 0.3 mg/kg",
             "Antioxidants;"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://images.app.goo.gl/xSRzJmxZ4QikZG987",
+        "site": "https://england.husse.com"
     },
     {
         "url": "https://england.husse.com/lynx-senior",
@@ -387,7 +397,9 @@
             "glucosamine 500 mg/kg;"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "site": "https://england.husse.com",
+        "image": "https://images.app.goo.gl/Yf3dqrHMCmua8s4g7"
     },
     {
         "url": "https://england.husse.com/opus-lynx",
@@ -459,6 +471,8 @@
             "L-carnitine 40mg/kg. Antioxidants: Tocopherols",
             "Technological additives: Clinoptilolite of sedimentary origin: 10 g/kg."
         ],
-        "calorie": null
+        "calorie": null,
+        "site": "https://england.husse.com",
+        "image": "https://images.app.goo.gl/HeuKg6JTp6J1LEpu8"
     }
 ]

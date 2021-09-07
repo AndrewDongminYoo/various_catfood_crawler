@@ -47,7 +47,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcals/100g"
+        "calorie": "111.5 kcals/100g",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/CF_Beef_13oz_Cat_600x.png?v=1607636859",
+        "site": "https://petkind.com"
     },
     {
         "url": "https://petkind.com/products/canada-fresh-chicken-1",
@@ -96,7 +98,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g"
+        "calorie": "111.5 kcal/100g",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_chicken_13oz_cat_600x.png?v=1605292502",
+        "site": "https://petkind.com"
     },
     {
         "url": "https://petkind.com/products/canada-fresh-duck-1",
@@ -153,7 +157,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g"
+        "calorie": "111.5 kcal/100g",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_duck_13oz_cat_600x.png?v=1605292595",
+        "site": "https://petkind.com"
     },
     {
         "url": "https://petkind.com/products/canada-fresh-lamb-1",
@@ -203,7 +209,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g"
+        "calorie": "111.5 kcal/100g",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_lamb_13oz_cat_2_600x.png?v=1605292646",
+        "site": "https://petkind.com"
     },
     {
         "url": "https://petkind.com/products/canada-fresh-red-meat-1",
@@ -252,7 +260,9 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g"
+        "calorie": "111.5 kcal/100g",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_red-meat_13oz_cat_600x.png?v=1605292693",
+        "site": "https://petkind.com"
     },
     {
         "url": "https://petkind.com/products/canada-fresh-salmon-1",
@@ -300,6 +310,8 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g"
+        "calorie": "111.5 kcal/100g",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_salmon_13oz_cat_600x.png?v=1605292742",
+        "site": "https://petkind.com"
     }
 ]

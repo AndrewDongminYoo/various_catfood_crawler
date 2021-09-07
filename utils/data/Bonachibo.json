@@ -47,7 +47,9 @@
             "Vitamin B12 0,08 mg/kg",
             "Pantothenic Acid 14,98 mg/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.bonacibo.com/wp-content/uploads/2020/03/bonacibo-worldwide_.png",
+        "site": "https://www.bonacibo.com"
     },
     {
         "url": "https://www.bonacibo.com/bonacibo-adult-cat-lamb-rice/",
@@ -97,7 +99,9 @@
             "Vitamin B12 0,08 mg/kg",
             "Pantothenic Acid 14,98 mg/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.bonacibo.com/wp-content/uploads/2020/03/bonacibo-worldwide_.png",
+        "site": "https://www.bonacibo.com"
     },
     {
         "url": "https://www.bonacibo.com/bonacibo-adult-cat-light-sterilised/",
@@ -147,7 +151,9 @@
             "Vitamin B12 0,08 mg/kg",
             "Pantothenic Acid 14,98 mg/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.bonacibo.com/wp-content/uploads/2020/03/bonacibo-worldwide_.png",
+        "site": "https://www.bonacibo.com"
     },
     {
         "url": "https://www.bonacibo.com/bonacibo-kitten-chicken/",
@@ -197,6 +203,8 @@
             "Vitamin B12 0,10 mg/kg",
             "Pantothenic Acid 20,61 mg/kg"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.bonacibo.com/wp-content/uploads/2020/03/bonacibo-worldwide_.png",
+        "site": "https://www.bonacibo.com"
     }
 ]

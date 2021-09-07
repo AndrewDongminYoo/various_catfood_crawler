@@ -44,7 +44,9 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "152 Kcals/100G, 237 Kcals/Can"
+        "calorie": "152 Kcals/100G, 237 Kcals/Can",
+        "image": "https://evangersdogfood.com/wp-content/uploads/20084.png",
+        "site": "https://evangersdogfood.com"
     },
     {
         "url": "https://evangersdogfood.com/product/20085/",
@@ -103,7 +105,9 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "948 kcal/kg"
+        "calorie": "948 kcal/kg",
+        "image": "https://evangersdogfood.com/wp-content/uploads/20085.png",
+        "site": "https://evangersdogfood.com"
     },
     {
         "url": "https://evangersdogfood.com/product/20086/",
@@ -161,7 +165,9 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "948 kcal/kg"
+        "calorie": "948 kcal/kg",
+        "image": "https://evangersdogfood.com/wp-content/uploads/20086.png",
+        "site": "https://evangersdogfood.com"
     },
     {
         "url": "https://evangersdogfood.com/product/20087/",
@@ -218,6 +224,8 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "134 Kcals/100G, 209 Kcals/Can"
+        "calorie": "134 Kcals/100G, 209 Kcals/Can",
+        "image": "https://evangersdogfood.com/wp-content/uploads/20087-1.png",
+        "site": "https://evangersdogfood.com"
     }
 ]

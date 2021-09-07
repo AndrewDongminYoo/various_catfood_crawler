@@ -18,7 +18,9 @@
             "Energy 1200 - Kcal/70 g (2.47 oz) 84.0"
         ],
         "additive": null,
-        "calorie": "1200 - Kcal/70 g (2.47 oz) 84.0"
+        "calorie": "1200 - Kcal/70 g (2.47 oz) 84.0",
+        "image": "https://cdn2.hubspot.net/hubfs/5354869/products/cat/wet/hqs/chicken_Drumstick_in_broth_70_g_412.png",
+        "site": "https://www.almonature.com"
     },
     {
         "url": "https://www.almonature.com/en/cat-products/1002H-HQS-Natural-Chicken-with-Pumpkin-in-broth",
@@ -38,7 +40,9 @@
         ],
         "analysis": [],
         "additive": null,
-        "calorie": "Kcal/70 g (2.47 oz) 43.5"
+        "calorie": "Kcal/70 g (2.47 oz) 43.5",
+        "image": "https://cdn2.hubspot.net/hubfs/5354869/products/cat/wet/hqs/chicken_with_Pumpkin_in_broth_70_g_412.png",
+        "site": "https://www.almonature.com"
     },
     {
         "url": "https://www.almonature.com/en/cat-products/1003H-HQS-Natural-Mixed-Seafood-in-broth",
@@ -62,7 +66,9 @@
             "Energy 480 - Kcal/70 g (2.47 oz) 33.6"
         ],
         "additive": null,
-        "calorie": "480 - Kcal/70 g (2.47 oz) 33.6"
+        "calorie": "480 - Kcal/70 g (2.47 oz) 33.6",
+        "image": "https://cdn2.hubspot.net/hubfs/5354869/products/cat/wet/hqs/mixed_Seafood_in_broth_70_g_412.png",
+        "site": "https://www.almonature.com"
     },
     {
         "url": "https://www.almonature.com/en/cat-products/1004H-HQS-Natural-Chicken-Breast-in-broth",
@@ -81,6 +87,8 @@
         ],
         "analysis": [],
         "additive": null,
-        "calorie": "620 kcal/kg"
+        "calorie": "620 kcal/kg",
+        "image": "https://cdn2.hubspot.net/hubfs/5354869/products/cat/wet/hqs/chicken_Breast_in_broth_70_g_412.png",
+        "site": "https://www.almonature.com"
     }
 ]

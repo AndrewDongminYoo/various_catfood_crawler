@@ -32,7 +32,9 @@
             "MOISTURE, MAX. 8.0%"
         ],
         "additive": null,
-        "calorie": "4307 kcal/kg"
+        "calorie": "4307 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/qkL1XYCajCzkDZB97"
     },
     {
         "url": "https://www.vitalessentialsraw.com/product/chicken-freeze-dried-mini-patties-entree-2/",
@@ -67,7 +69,9 @@
             "MOISTURE, MAX. 8.0%"
         ],
         "additive": null,
-        "calorie": "4307 kcal/kg"
+        "calorie": "4307 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/pRRNarRTowHS6fWd9"
     },
     {
         "url": "https://www.vitalessentialsraw.com/product/duck-freeze-dried-mini-nibs-entree-2/",
@@ -103,7 +107,9 @@
             "MOISTURE, MAX. 8.0%"
         ],
         "additive": null,
-        "calorie": "4537 kcal/kg"
+        "calorie": "4537 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/kAJtnM9gMgGG35Zb6"
     },
     {
         "url": "https://www.vitalessentialsraw.com/product/duck-freeze-dried-mini-patties-entree-2/",
@@ -139,7 +145,9 @@
             "MOISTURE, MAX. 8.0%"
         ],
         "additive": null,
-        "calorie": "4537 kcal/kg"
+        "calorie": "4537 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/JKXD8TeCyF7zut82A"
     },
     {
         "url": "https://www.vitalessentialsraw.com/product/pork-dinner-patties-freeze-dried-grain-free-cat-food/",
@@ -174,7 +182,9 @@
             "MOISTURE, MAX. 8.0%"
         ],
         "additive": null,
-        "calorie": "4806 kcal/kg"
+        "calorie": "4806 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/5Rf3X2gej3Vp6P4B9"
     },
     {
         "url": "https://www.vitalessentialsraw.com/product/rabbit-freeze-dried-mini-nibs-entree/",
@@ -210,7 +220,9 @@
             "MOISTURE, MAX. 8%"
         ],
         "additive": null,
-        "calorie": "3796 kcal/kg"
+        "calorie": "3796 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/PxjzHs1VcCgr6cV68"
     },
     {
         "url": "https://www.vitalessentialsraw.com/product/rabbit-freeze-dried-mini-patties-entree/",
@@ -246,7 +258,9 @@
             "MOISTURE, MAX. 8.0%"
         ],
         "additive": null,
-        "calorie": "3796 kcal/kg"
+        "calorie": "3796 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/DsuFHYairpwa13jq5"
     },
     {
         "url": "https://www.vitalessentialsraw.com/product/turkey-freeze-dried-mini-nibs-entree-2/",
@@ -281,7 +295,9 @@
             "MOISTURE, MAX. 8.0%"
         ],
         "additive": null,
-        "calorie": "4448 kcal/kg"
+        "calorie": "4448 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/FaoRmzTPi88kGm2RA"
     },
     {
         "url": "https://www.vitalessentialsraw.com/product/turkey-freeze-dried-mini-patties-entree-2/",
@@ -316,6 +332,8 @@
             "MOISTURE, MAX. 8.0%"
         ],
         "additive": null,
-        "calorie": "4448 kcal/kg"
+        "calorie": "4448 kcal/kg",
+        "site": "https://www.vitalessentialsraw.com",
+        "image": "https://images.app.goo.gl/CKkGYvYx1aS6Xbxv7"
     }
 ]

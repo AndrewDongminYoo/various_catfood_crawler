@@ -38,7 +38,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (ME): 930 kcal/kg; 75 kcal/2.75 oz cup"
+        "calorie": "Metabolizable Energy (ME): 930 kcal/kg; 75 kcal/2.75 oz cup",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/tasty-layers/image-thumb__9741__auto_9f8c9252704753da2ce49b7ba2de8e05/MM_Tasty-Layers_Wet_Chicken-Tuna.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/tasty-layers/chicken-and-turkey",
@@ -80,7 +82,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (ME): 1010 kcal/kg; 80kcal/2.75 oz cup"
+        "calorie": "Metabolizable Energy (ME): 1010 kcal/kg; 80kcal/2.75 oz cup",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/tasty-layers/image-thumb__9742__auto_9f8c9252704753da2ce49b7ba2de8e05/MM_Tasty-Layers_Wet_Chicken-Turkey.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/tasty-layers/tuna-and-whitefish",
@@ -122,7 +126,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (ME): 1010 kcal/kg; 80kcal/2.75 oz cup"
+        "calorie": "Metabolizable Energy (ME): 1010 kcal/kg; 80kcal/2.75 oz cup",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/tasty-layers/image-thumb__9743__auto_9f8c9252704753da2ce49b7ba2de8e05/MM_Tasty-Layers_Wet_Tuna-Whitefish.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/classic-pate/classic-pate-mixed-grill-with-real-beef-tuna-chicken",
@@ -167,7 +173,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (ME) = 947 kcal/kg; 73 kcal/cup"
+        "calorie": "Metabolizable Energy (ME) = 947 kcal/kg; 73 kcal/cup",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__817__auto_9f8c9252704753da2ce49b7ba2de8e05/mm-wet-cp-mixed-grill.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/classic-pate/classic-pate-with-real-chicken-liver",
@@ -211,7 +219,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (ME) = 954 kcal/kg; 74 kcal/cup"
+        "calorie": "Metabolizable Energy (ME) = 954 kcal/kg; 74 kcal/cup",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__815__auto_9f8c9252704753da2ce49b7ba2de8e05/mm-wet-cp-chicken-liver.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/classic-pate/classic-pate-with-real-tuna",
@@ -255,7 +265,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (ME) = 947 kcal/kg; 73 kcal/cup"
+        "calorie": "Metabolizable Energy (ME) = 947 kcal/kg; 73 kcal/cup",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__814__auto_9f8c9252704753da2ce49b7ba2de8e05/mm-wet-cp-tuna.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/savory-morsels/savory-morsels-seafood-entree-in-gravy",
@@ -308,7 +320,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Meow Mix® Savory Morsels Seafood Entrée in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "calorie": "Meow Mix® Savory Morsels Seafood Entrée in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance.",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__906__auto_9f8c9252704753da2ce49b7ba2de8e05/wet-sm-seafood-entree.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/savory-morsels/savory-morsels-with-real-chicken-breast-in-gravy",
@@ -353,7 +367,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Meow Mix® Savory Morsels With Real Chicken Breast in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "calorie": "Meow Mix® Savory Morsels With Real Chicken Breast in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance.",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__874__auto_9f8c9252704753da2ce49b7ba2de8e05/mm-wet-sm-chicken-breast.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-chicken-beef-in-sauce",
@@ -396,7 +412,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Meow Mix® Tender Favorites® With Real Chicken & Beef in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "calorie": "Meow Mix® Tender Favorites® With Real Chicken & Beef in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance.",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__875__auto_9f8c9252704753da2ce49b7ba2de8e05/mm-wet-tf-chicken-beef.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-chicken-liver-in-sauce",
@@ -439,7 +457,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Meow Mix® Tender Favorites® With Real Chicken & Liver in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "calorie": "Meow Mix® Tender Favorites® With Real Chicken & Liver in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance.",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__910__auto_9f8c9252704753da2ce49b7ba2de8e05/wet-tf-chicken-liver.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-salmon-crab-meat-in-sauce",
@@ -479,7 +499,9 @@
             "Taurine (Min.) 1.5%"
         ],
         "additive": null,
-        "calorie": "Meow Mix® Tender Favorites® With Real Salmon & Crab Meat in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "calorie": "Meow Mix® Tender Favorites® With Real Salmon & Crab Meat in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance.",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__909__auto_9f8c9252704753da2ce49b7ba2de8e05/wet-tf-salmon-crab.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-tuna-whole-shrimp-in-sauce",
@@ -518,7 +540,9 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Meow Mix® Tender Favorites® With Real Tuna & Whole Shrimp in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "calorie": "Meow Mix® Tender Favorites® With Real Tuna & Whole Shrimp in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance.",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__907__auto_9f8c9252704753da2ce49b7ba2de8e05/wet-tf-tuna-shrimp.png",
+        "site": "https://www.meowmix.com"
     },
     {
         "url": "https://www.meowmix.com/cat-food/wet/tender-favorites/tender-favorites-with-real-turkey-giblets-in-sauce",
@@ -567,6 +591,8 @@
             "Taurine (Min.) 0.05%"
         ],
         "additive": null,
-        "calorie": "Meow Mix® Tender Favorites® With Real Turkey & Giblets in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+        "calorie": "Meow Mix® Tender Favorites® With Real Turkey & Giblets in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance.",
+        "image": "https://p-cdn6pet.jmsinf.com/tmp/image-thumbnails/meow-mix/products/wet/image-thumb__908__auto_9f8c9252704753da2ce49b7ba2de8e05/wet-tf-turkey-giblets.png",
+        "site": "https://www.meowmix.com"
     }
 ]

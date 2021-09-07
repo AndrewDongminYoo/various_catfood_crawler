@@ -61,7 +61,9 @@
             "Selenium (sodium selenite) 0.05 mg/kg",
             "Selenium (hydroxylated analogue of selenomethionine) 0.20 mg/kg."
         ],
-        "calorie": "3.575 Kcal/kg"
+        "calorie": "3.575 Kcal/kg",
+        "site": "http://www.braverypetfood.com",
+        "image": "https://images.app.goo.gl/v8jv8X5LuHT3YJvX6"
     },
     {
         "url": "https://www.braverypetfood.com/en/cats/chicken-adult-cat-sterilized/",
@@ -127,7 +129,9 @@
             "Selenium (sodium selenite) 0.05 mg/kg",
             "Selenium (hydroxylated analogue of selenomethionine) 0.20 mg/kg."
         ],
-        "calorie": "3.575 Kcal/kg"
+        "calorie": "3.575 Kcal/kg",
+        "site": "https://www.braverypetfood.com",
+        "image": "https://images.app.goo.gl/zgHQhW3hdjiCStg57"
     },
     {
         "url": "https://www.braverypetfood.com/en/cats/chicken-adult-cat/",
@@ -193,7 +197,9 @@
             "Selenium (sodium selenite) 0.05 mg/kg",
             "Selenium (hydroxylated analogue of selenomethionine) 0.20 mg/kg."
         ],
-        "calorie": "3.795 Kcal/kg"
+        "calorie": "3.795 Kcal/kg",
+        "site": "https://www.braverypetfood.com",
+        "image": "https://images.app.goo.gl/Rdq5fetdWpJXYJFT7"
     },
     {
         "url": "https://www.braverypetfood.com/en/cats/chicken-kitten-cat/",
@@ -259,7 +265,9 @@
             "selenium (sodium selenite) 0.11 mg/kg",
             "selenium (hydroxylated analogue of selenomethionine) 0.11 mg/kg. Technological additives: Antioxidants (Vegetable oils rich in tocopherols)."
         ],
-        "calorie": "4.020 Kcal/kg"
+        "calorie": "4.020 Kcal/kg",
+        "site": "https://www.braverypetfood.com",
+        "image": "https://images.app.goo.gl/4Xqp5GSmAHKnbYw3A"
     },
     {
         "url": "https://www.braverypetfood.com/en/cats/salmon-adult-cat/",
@@ -324,6 +332,8 @@
             "Selenium (sodium selenite) 0.05 mg/kg",
             "Selenium (hydroxylated analogue of selenomethionine) 0.20 mg/kg."
         ],
-        "calorie": "3.795 Kcal/kg"
+        "calorie": "3.795 Kcal/kg",
+        "site": "https://www.braverypetfood.com",
+        "image": "https://images.app.goo.gl/rCGcwwnUhM6gqoYR9"
     }
 ]

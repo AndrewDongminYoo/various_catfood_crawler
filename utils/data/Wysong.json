@@ -53,7 +53,9 @@
             "Taurine (min.) Not recognized as an essential nutrient by the AAFCO Dog Food Nutrient Profiles. 0.2%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.wysong.net/assets/images/PRODUCTS/EPIGEN%20(ORIGINAL)/5%20lb.%20Bag/085835985005.png",
+        "site": "https://www.wysong.net"
     },
     {
         "url": "https://www.wysong.net/bEpigen-90%E2%84%A2b_p_153.html",
@@ -121,7 +123,9 @@
             "Taurine (min.) Not recognized as an essential nutrient by the AAFCO Dog Food Nutrient Profiles. 0.2%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.wysong.net/assets/images/PRODUCTS/EPIGEN%20(ORIGINAL)/5%20lb.%20Bag/085835985005.png",
+        "site": "https://www.wysong.net"
     },
     {
         "url": "https://www.wysong.net/fundamentals",
@@ -167,7 +171,9 @@
             "Taurine (min.) Not recognized as an essential nutrient by the AAFCO Dog Food Nutrient Profiles. 0.2%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.wysong.net/assets/images/PRODUCTS/FUNDAMENTALS/5%20lb.%20Bag/085835982042.png",
+        "site": "https://www.wysong.net"
     },
     {
         "url": "https://www.wysong.net/nurture",
@@ -236,7 +242,9 @@
             "Taurine (min.) 0.2%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.wysong.net/assets/images/PRODUCTS/NURTURE/5%20lb.%20Bag/085835981021.png",
+        "site": "https://www.wysong.net"
     },
     {
         "url": "https://www.wysong.net/optimal-vitality",
@@ -301,7 +309,9 @@
             "Taurine (min.) 0.2%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.wysong.net/assets/images/PRODUCTS/OPTIMAL%20VITALITY/5%20lb.%20Bag/085835984046.png",
+        "site": "https://www.wysong.net"
     },
     {
         "url": "https://www.wysong.net/uretic",
@@ -367,7 +377,9 @@
             "Taurine (min.) 0.2%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.wysong.net/assets/images/PRODUCTS/URETIC/5%20lb.%20Bag/085835981045.png",
+        "site": "https://www.wysong.net"
     },
     {
         "url": "https://www.wysong.net/vitality",
@@ -431,6 +443,8 @@
             "Taurine (min.) 0.2%"
         ],
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.wysong.net/assets/images/PRODUCTS/VITALITY/5%20lb.%20Bag/085835981069.png",
+        "site": "https://www.wysong.net"
     }
 ]

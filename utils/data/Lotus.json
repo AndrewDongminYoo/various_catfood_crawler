@@ -71,7 +71,9 @@
             "Taurine 0.05 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 963.88 kcal/kg"
+        "calorie": "Calorie Content........ 963.88 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/n8TcoWvjU4tMLQeu8"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/pollock-16",
@@ -145,7 +147,9 @@
             "Taurine 0.09 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........753 kcal/kg"
+        "calorie": "Calorie Content........753 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/7UqaK6oVTAd91QgY6"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/pork-10",
@@ -218,7 +222,9 @@
             "Taurine 0.05 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 897 kcal/kg"
+        "calorie": "Calorie Content........ 897 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/54jEfCW4PswMyf2z8"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/salmon-47",
@@ -292,7 +298,9 @@
             "Taurine 0.07 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 964 kcal/kg"
+        "calorie": "Calorie Content........ 964 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/bKZckRp8Bm12EYhu8"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/turkey-25",
@@ -365,7 +373,9 @@
             "Taurine 0.05 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 950 kcal/kg"
+        "calorie": "Calorie Content........ 950 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/6ZgFF3eHwjWcb8c78"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/juicy/venison-28",
@@ -438,7 +448,9 @@
             "Taurine 0.06 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 950 kcal/kg"
+        "calorie": "Calorie Content........ 950 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/yGefRdcMWmbTZBZx5"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/kibble/Chicken-50",
@@ -534,7 +546,9 @@
             "Taurine 0.17 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 3697 kcal/kg"
+        "calorie": "Calorie Content........ 3697 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/qMPZSRKuJkyjQs4N6"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/kibble/Duck-29",
@@ -624,7 +638,9 @@
             "Taurine 0.13 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 3531 kcal/kg"
+        "calorie": "Calorie Content........ 3531 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/YiReNPFoW5Er9qjx8"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/kibble/Low%20Fat-3",
@@ -720,7 +736,9 @@
             "Taurine 0.15 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 3161 kcal/kg"
+        "calorie": "Calorie Content........ 3161 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/nah1t5yKmnNWbcJx6"
     },
     {
         "url": "https://www.lotuspetfoods.com/product-view/cat/kibble/Sardine-49",
@@ -814,6 +832,8 @@
             "Taurine 0.23 %"
         ],
         "additive": null,
-        "calorie": "Calorie Content........ 3457 kcal/kg"
+        "calorie": "Calorie Content........ 3457 kcal/kg",
+        "site": "https://www.lotuspetfoods.com",
+        "image": "https://images.app.goo.gl/Z1w9Mf3MjRcE7B2x9"
     }
 ]

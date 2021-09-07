@@ -59,7 +59,9 @@
             "Beta-Carotene ≥5 mg/kg",
             "Docosahexaenoic Acid (DHA) ≥0.01%"
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://media.earthbornholisticpetfood.com/wp-content/uploads/2021/01/20125444/earthborn-holistic-primitive-feline-pouch-front.jpg",
+        "site": "https://www.earthbornholisticpetfood.com"
     },
     {
         "url": "https://www.earthbornholisticpetfood.com/product/intl/intl-cat-food/wild-sea-catch-2/",
@@ -123,6 +125,8 @@
             "Beta-Carotene ≥5 mg/kg",
             "Docosahexaenoic Acid (DHA) ≥0.35%"
         ],
-        "calorie": "3,800/kg"
+        "calorie": "3,800/kg",
+        "image": "https://media.earthbornholisticpetfood.com/wp-content/uploads/2021/01/20125736/earthborn-holistic-wild-sea-catch-pouch-front.jpg",
+        "site": "https://www.earthbornholisticpetfood.com"
     }
 ]

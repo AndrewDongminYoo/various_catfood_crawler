@@ -63,7 +63,9 @@
             "(Lactobacillus plantarum, Bacillus subtilis, Lactobacillus acidophilus, Enterococcus faecium, Bifidobacterium animalis) not less than 80,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
+        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles.",
+        "image": "https://www.tasteofthewildpetfood.com/wp-content/uploads/2020/07/prey-turkey-cats-bag-front-122120.jpg",
+        "site": "https://www.tasteofthewildpetfood.com"
     },
     {
         "url": "https://www.tasteofthewildpetfood.com/taste-of-the-wild/grain-free/cat-formulas/canyon-river-feline-recipe-with-trout-smoked-salmon/",
@@ -137,6 +139,8 @@
             "Total Microorganisms* (Lactobacillus plantarum, Bacillus subtilis, Lactobacillus acidophilus, Enterococcus faecium, Bifidobacterium animalis) not less than 80,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "3,741 kcal/kg (424 kcal/cup) Calculated Metabolizable Energy"
+        "calorie": "3,741 kcal/kg (424 kcal/cup) Calculated Metabolizable Energy",
+        "image": "https://www.tasteofthewildpetfood.com/wp-content/uploads/2020/06/394T-2003-TOW-Canyon-River-Batch-1.jpg",
+        "site": "https://www.tasteofthewildpetfood.com"
     }
 ]

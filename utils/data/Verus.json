@@ -57,7 +57,9 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "1147 kcal/kg"
+        "calorie": "1147 kcal/kg",
+        "site": "https://www.veruspetfoods.com",
+        "image": "https://images.app.goo.gl/9uoag2GKoemjmG4V7"
     },
     {
         "url": "https://www.veruspetfoods.com/feline-salmonpate-detail/",
@@ -118,7 +120,9 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "1174 kcal/kg"
+        "calorie": "1174 kcal/kg",
+        "site": "https://www.veruspetfoods.com",
+        "image": "https://images.app.goo.gl/dDSza1a28hjb7F2b7"
     },
     {
         "url": "https://www.veruspetfoods.com/feline-tunapate-detail/",
@@ -178,7 +182,9 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "944 kcal/kg"
+        "calorie": "944 kcal/kg",
+        "site": "https://www.veruspetfoods.com",
+        "image": "https://images.app.goo.gl/D9gREKZHkZedG3u59"
     },
     {
         "url": "https://www.veruspetfoods.com/feline-turkeypate-detail/",
@@ -237,7 +243,9 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "1215 kcal/kg"
+        "calorie": "1215 kcal/kg",
+        "site": "https://www.veruspetfoods.com",
+        "image": "https://images.app.goo.gl/bxKfG2voX9fvvMi16"
     },
     {
         "url": "https://www.veruspetfoods.com/felineoceanfish-detail/",
@@ -295,7 +303,9 @@
             "Carbs <5 <5"
         ],
         "additive": null,
-        "calorie": "1060 kcal/kg"
+        "calorie": "1060 kcal/kg",
+        "site": "https://www.veruspetfoods.com",
+        "image": "https://images.app.goo.gl/GowxdxweKXcANXac9"
     },
     {
         "url": "https://www.veruspetfoods.com/felineturkeychixoceanfish-detail/",
@@ -353,7 +363,9 @@
             "Carbs – 15.76%"
         ],
         "additive": null,
-        "calorie": "1136 kcal/kg"
+        "calorie": "1136 kcal/kg",
+        "site": "https://www.veruspetfoods.com",
+        "image": "https://images.app.goo.gl/CphQV4iNb7eXk2Ha9"
     },
     {
         "url": "https://www.veruspetfoods.com/verus-chicken-liver-formula/",
@@ -413,6 +425,8 @@
             "Carbs – 5.42%"
         ],
         "additive": null,
-        "calorie": "1091 kcal/kg"
+        "calorie": "1091 kcal/kg",
+        "site": "https://www.veruspetfoods.com",
+        "image": "https://images.app.goo.gl/PgRxcoUkUB7uL4RbA"
     }
 ]

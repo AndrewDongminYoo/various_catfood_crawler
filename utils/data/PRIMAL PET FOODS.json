@@ -67,7 +67,9 @@
             "Sodium 0.29%",
             "Zinc 115.00ppm"
         ],
-        "calorie": "Calories 138/oz 1 ounce = approx. 3 -4 nuggets"
+        "calorie": "Calories 138/oz 1 ounce = approx. 3 -4 nuggets",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-BeefSalmon-WithBowl_grande.jpg?v=1594651161",
+        "site": "https://primalpetfoods.com"
     },
     {
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-chicken-salmon",
@@ -137,7 +139,9 @@
             "Sodium 0.29%",
             "Zinc 91.00ppm"
         ],
-        "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets"
+        "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-ChickenSalmon-WithBowl_grande.jpg?v=1594651513",
+        "site": "https://primalpetfoods.com"
     },
     {
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-duck",
@@ -204,7 +208,9 @@
             "Sodium 0.29%",
             "Zinc 98.88ppm"
         ],
-        "calorie": "Calories 126/oz 1 ounce = approx. 3 -4 nuggets"
+        "calorie": "Calories 126/oz 1 ounce = approx. 3 -4 nuggets",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Duck-WithBowl_grande.jpg?v=1594649957",
+        "site": "https://primalpetfoods.com"
     },
     {
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-pork",
@@ -271,7 +277,9 @@
             "Sodium 0.35%",
             "Zinc 105.00ppm"
         ],
-        "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets"
+        "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Pork-WithBowl_grande.jpg?v=1594651991",
+        "site": "https://primalpetfoods.com"
     },
     {
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-turkey",
@@ -339,7 +347,9 @@
             "Sodium 0.46%",
             "Zinc 169.00ppm"
         ],
-        "calorie": "Calories 123/oz 1 ounce = approx. 3 -4 nuggets"
+        "calorie": "Calories 123/oz 1 ounce = approx. 3 -4 nuggets",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Turkey-WithBowl_grande.jpg?v=1594653284",
+        "site": "https://primalpetfoods.com"
     },
     {
         "url": "https://primalpetfoods.com/products/feline-raw-freeze-dried-nuggets-venison",
@@ -397,7 +407,9 @@
             "Sodium 0.25%",
             "Zinc 85.4ppm"
         ],
-        "calorie": "Calories 125/oz 1 ounce = approx. 3 -4 nuggets"
+        "calorie": "Calories 125/oz 1 ounce = approx. 3 -4 nuggets",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Venison-WithBowl_grande.jpg?v=1594653538",
+        "site": "https://primalpetfoods.com"
     },
     {
         "url": "https://primalpetfoods.com/products/feline-raw-frozen-pronto-chicken-salmon",
@@ -465,6 +477,8 @@
             "Sodium 0.09%",
             "Zinc 28.00ppm"
         ],
-        "calorie": "Calories 35/oz 1 measured cup of Pronto = approx. 4 oz"
+        "calorie": "Calories 35/oz 1 measured cup of Pronto = approx. 4 oz",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-Pronto-Chicken_Salmon-WithBowl_grande.jpg?v=1597417750",
+        "site": "https://primalpetfoods.com"
     }
 ]

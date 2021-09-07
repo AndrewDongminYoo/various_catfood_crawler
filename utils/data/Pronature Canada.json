@@ -88,7 +88,9 @@
         "calorie": [
             "455 kcal/CUP",
             "4330kcal/kg"
-        ]
+        ],
+        "image": "https://www.pronature.ca/media/thumbnails/599s/product/images/pnh_oldgen_fiche-produit_chatcanard.png",
+        "site": "https://www.pronature.ca"
     },
     {
         "url": "https://www.pronature.ca/en-ca/products/holistic/cat/adult/all-breeds/indoor-skin-coat/atlantic-salmon-and-brown-rice/",
@@ -181,7 +183,9 @@
         "calorie": [
             "455kcal/\"CUP",
             "4330kcal/kg"
-        ]
+        ],
+        "image": "https://www.pronature.ca/media/thumbnails/599s/product/images/pnh_oldgen_fiche-produit_chatsaumon.png",
+        "site": "https://www.pronature.ca"
     },
     {
         "url": "https://www.pronature.ca/en-ca/products/holistic/cat/adult/all-breeds/indoor/turkey-cranberries/",
@@ -279,7 +283,9 @@
         "calorie": [
             "445 kcal/\"CUP",
             "4240kcal/kg"
-        ]
+        ],
+        "image": "https://www.pronature.ca/media/thumbnails/599s/product/images/pnh_oldgen_fiche-produit_chatdinde_1DVazUO.png",
+        "site": "https://www.pronature.ca"
     },
     {
         "url": "https://www.pronature.ca/en-ca/products/holistic/cat/all-life-stages/all-breeds/turkey/nordiko/",
@@ -357,7 +363,9 @@
             "docosahexaenoic acid (DHA) 0.095% min."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 521 kcal/ CUP 4340 kcal/ kg"
+        "calorie": "Metabolizable Energy (calculated) 521 kcal/ CUP 4340 kcal/ kg",
+        "image": "https://www.pronature.ca/media/thumbnails/599s/product/images/pnh_fiche-produit_nordiko_cat.png",
+        "site": "https://www.pronature.ca"
     },
     {
         "url": "https://www.pronature.ca/en-ca/products/holistic/cat/all-life-stages/all-breeds/white-fish/mediterranea/",
@@ -399,7 +407,9 @@
             "docosahexaenoic acid (DHA) 0.7% min."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 465 kcal/ CUP 3876 kcal/ kg"
+        "calorie": "Metabolizable Energy (calculated) 465 kcal/ CUP 3876 kcal/ kg",
+        "image": "https://www.pronature.ca/media/thumbnails/599s/product/images/pnh_fiche-produit_mediterranea_cat.png",
+        "site": "https://www.pronature.ca"
     },
     {
         "url": "https://www.pronature.ca/en-ca/products/holistic/cat/kitten/all-breeds/growth/chicken-and-sweet-potato/",
@@ -491,6 +501,8 @@
         "calorie": [
             "445 kcal/\"CUP",
             "4240 kcal/kg"
-        ]
+        ],
+        "image": "https://www.pronature.ca/media/thumbnails/599s/product/images/pnh_oldgen_fiche-produit_chatpoulet.png",
+        "site": "https://www.pronature.ca"
     }
 ]

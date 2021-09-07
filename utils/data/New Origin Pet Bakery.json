@@ -33,7 +33,9 @@
             "Minimum Taurine 0.34%"
         ],
         "additive": null,
-        "calorie": "Energy Density = 4923 kcal/kg"
+        "calorie": "Energy Density = 4923 kcal/kg",
+        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
+        "site": "https://nolnz.com"
     },
     {
         "url": "https://nolnz.com/petbakery-natural-pet-food-products/#for-cats",
@@ -70,7 +72,9 @@
             "Minimum Taurine 0.32%"
         ],
         "additive": null,
-        "calorie": "Energy Density = 4576 kcal/kg"
+        "calorie": "Energy Density = 4576 kcal/kg",
+        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
+        "site": "https://nolnz.com"
     },
     {
         "url": "https://nolnz.com/petbakery-natural-pet-food-products/#for-cats",
@@ -106,7 +110,9 @@
             "Minimum Taurine 0.36%"
         ],
         "additive": null,
-        "calorie": "Energy Density = 4837 kcal/kg"
+        "calorie": "Energy Density = 4837 kcal/kg",
+        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
+        "site": "https://nolnz.com"
     },
     {
         "url": "https://nolnz.com/petbakery-natural-pet-food-products/#for-cats",
@@ -146,6 +152,8 @@
             "Minimum Taurine 0.42%"
         ],
         "additive": null,
-        "calorie": "Energy Density = 5106 kcal/kg"
+        "calorie": "Energy Density = 5106 kcal/kg",
+        "image": null,
+        "site": "https://nolnz.com"
     }
 ]

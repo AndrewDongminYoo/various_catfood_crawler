@@ -72,7 +72,9 @@
             "Omega-3 Fatty Acids* (min): 0.90%. *Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
         ],
         "additive": null,
-        "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup"
+        "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup",
+        "image": "https://www.farmina.com/images/logo-Farmina.png",
+        "site": "https://www.farmina.com"
     },
     {
         "url": "https://www.farmina.com/us/cat-food/n&d-ancestral-grain-feline/151-chicken-&-pomegranate-neutered.html",
@@ -147,7 +149,9 @@
             "Eicosapentaenoic Acid (EPA) (min): 0.15%. *Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
         ],
         "additive": null,
-        "calorie": "EM Kcal/lb 1613 - Mj/lb 6.75 349 Kcal/cup"
+        "calorie": "EM Kcal/lb 1613 - Mj/lb 6.75 349 Kcal/cup",
+        "image": "https://www.farmina.com/images/logo-Farmina.png",
+        "site": "https://www.farmina.com"
     },
     {
         "url": "https://www.farmina.com/us/cat-food/n&d-ancestral-grain-feline/153-lamb-&-blueberry-adult.html",
@@ -222,7 +226,9 @@
             "Omega-3 Fatty Acids* (min): 0.90%. *Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
         ],
         "additive": null,
-        "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup"
+        "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup",
+        "image": null,
+        "site": "https://www.farmina.com"
     },
     {
         "url": "https://www.farmina.com/us/cat-food/n&d-ocean-feline/494-herring-&-orange-adult.html",
@@ -292,7 +298,9 @@
             "Omega-3 Fatty Acids* (min): 1.40%. *Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
         ],
         "additive": null,
-        "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup"
+        "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup",
+        "image": null,
+        "site": "https://www.farmina.com"
     },
     {
         "url": "https://www.farmina.com/us/cat-food/n&d-ocean-feline/496-cod,-spelt,-oats-&-orange-adult.html",
@@ -363,7 +371,9 @@
             "Omega-3 Fatty Acids* (min): 2.50%. *Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
         ],
         "additive": null,
-        "calorie": "EM Kcal/lb 1891 - Mj/lb 7.91 388 Kcal/cup"
+        "calorie": "EM Kcal/lb 1891 - Mj/lb 7.91 388 Kcal/cup",
+        "image": null,
+        "site": "https://www.farmina.com"
     },
     {
         "url": "https://www.farmina.com/us/cat-food/n&d-prime-feline/145-chicken-&-pomegranate-adult.html",
@@ -436,7 +446,9 @@
             "Omega-3 Fatty Acids* (min): 0.90%. *Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
         ],
         "additive": null,
-        "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup"
+        "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup",
+        "image": null,
+        "site": "https://www.farmina.com"
     },
     {
         "url": "https://www.farmina.com/us/cat-food/n&d-prime-feline/147-boar-&-apple-adult.html",
@@ -511,7 +523,9 @@
             "Omega-3 Fatty Acids* (min): 0.90%. *Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
         ],
         "additive": null,
-        "calorie": "EM Kcal/lb 1904 - Mj/lb 7.96 412 Kcal/cup"
+        "calorie": "EM Kcal/lb 1904 - Mj/lb 7.96 412 Kcal/cup",
+        "image": null,
+        "site": "https://www.farmina.com"
     },
     {
         "url": "https://www.farmina.com/us/cat-food/n&d-quinoa-functional-feline/438-urinary-duck.html",
@@ -582,6 +596,8 @@
             "Omega-3 Fatty Acids* (min): 0.40%. *Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
         ],
         "additive": null,
-        "calorie": "EM Kcal/lb 1807 - Mj/lb 7.56 391 Kcal/cup"
+        "calorie": "EM Kcal/lb 1807 - Mj/lb 7.56 391 Kcal/cup",
+        "image": null,
+        "site": "https://www.farmina.com"
     }
 ]

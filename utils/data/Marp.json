@@ -30,7 +30,9 @@
             "waterfree (E2) 0;75mg",
             "Taurine 1500 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://i00.eu/img/629/1200x630/dmmjhvs9/352.jpg",
+        "site": "https://www.marppetfood.com"
     },
     {
         "url": "https://www.marppetfood.com/marp-holistic-pure-chicken-for-cats-100g",
@@ -64,7 +66,9 @@
             "Pentahydrate (E4) 0;5 mg",
             "Taurine 1500 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://i00.eu/img/629/1200x630/3wmak4xk/349.jpg",
+        "site": "https://www.marppetfood.com"
     },
     {
         "url": "https://www.marppetfood.com/marp-holistic-pure-salmon-for-cats-100g",
@@ -98,6 +102,8 @@
             "Pentahydrate (E4) 2 mg",
             "Taurine 1500 mg."
         ],
-        "calorie": null
+        "calorie": null,
+        "image": "https://i00.eu/img/629/1200x630/2fjxjcid/355.jpg",
+        "site": "https://www.marppetfood.com"
     }
 ]

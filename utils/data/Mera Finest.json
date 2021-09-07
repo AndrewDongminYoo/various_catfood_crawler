@@ -8,7 +8,9 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null
+        "calorie": null,
+        "image": "https://www.mera-petfood.com/files/_processed_/9/a/csm_headerimage-produkte-1920_3231f7096d.jpg",
+        "site": "https://www.mera-petfood.com"
     },
     {
         "url": "https://www.mera-petfood.com/en/cats/products/finest-fit-hairundskin-dry-food-for-cats-with-skin-or-coat-problems/",
@@ -69,7 +71,9 @@
             "iodine (as calcium iodate, anhydrous) 2mg",
             "selenium (as sodium selenite) 0.35mg."
         ],
-        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.45 MJ/kg."
+        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.45 MJ/kg.",
+        "image": "https://www.mera-petfood.com/files/_processed_/7/6/csm_iStock-485251236_7ed562efa7.jpg",
+        "site": "https://www.mera-petfood.com"
     },
     {
         "url": "https://www.mera-petfood.com/en/cats/products/finest-fit-indoor-dry-food-for-domestic-cats/",
@@ -129,7 +133,9 @@
             "iodine (as calcium iodate, anhydrous) 2mg",
             "selenium (as sodium selenite) 0.35mg."
         ],
-        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.50 MJ/kg. "
+        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.50 MJ/kg. ",
+        "image": "https://www.mera-petfood.com/files/_processed_/7/6/csm_iStock-485251236_7ed562efa7.jpg",
+        "site": "https://www.mera-petfood.com"
     },
     {
         "url": "https://www.mera-petfood.com/en/cats/products/finest-fit-kitten-dry-food-for-growing-cats/",
@@ -191,7 +197,9 @@
             "iodine (as calcium iodate, anhydrous) 2mg",
             "selenium (as sodium selenite) 0.35mg."
         ],
-        "calorie": "Metabolisable energy (according to FEDIAF, 2016) 17.15 MJ/kg."
+        "calorie": "Metabolisable energy (according to FEDIAF, 2016) 17.15 MJ/kg.",
+        "image": "https://www.mera-petfood.com/files/_processed_/7/6/csm_iStock-485251236_7ed562efa7.jpg",
+        "site": "https://www.mera-petfood.com"
     },
     {
         "url": "https://www.mera-petfood.com/en/cats/products/finest-fit-outdoor-dry-food-for-nature-loving-cats/",
@@ -254,7 +262,9 @@
             "iodine (as calcium iodate, anhydrous) 2mg",
             "selenium (as sodium selenite) 0.35mg."
         ],
-        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 16.30 MJ/kg."
+        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 16.30 MJ/kg.",
+        "image": null,
+        "site": "https://www.mera-petfood.com"
     },
     {
         "url": "https://www.mera-petfood.com/en/cats/products/finest-fit-senior-dry-food-for-older-cats/",
@@ -320,7 +330,9 @@
             "iodine (as calcium iodate, anhydrous) 2mg",
             "selenium (as sodium selenite) 0.35mg."
         ],
-        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.45 MJ/kg."
+        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.45 MJ/kg.",
+        "image": null,
+        "site": "https://www.mera-petfood.com"
     },
     {
         "url": "https://www.mera-petfood.com/en/cats/products/finest-fit-sensitive-stomach-dry-food-for-sensitive-cats/",
@@ -380,7 +392,9 @@
             "iodine (as calcium iodate, anhydrous) 2mg",
             "selenium (as sodium selenite) 0.35mg."
         ],
-        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.90 MJ/kg."
+        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.90 MJ/kg.",
+        "image": null,
+        "site": "https://www.mera-petfood.com"
     },
     {
         "url": "https://www.mera-petfood.com/en/cats/products/finest-fit-sterilized-dry-food-for-sterilised-or-castrated-cats/",
@@ -440,6 +454,8 @@
             "iodine (as calcium iodate, anhydrous) 2mg",
             "selenium (as sodium selenite) 0.35mg."
         ],
-        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 14.70 MJ/kg."
+        "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 14.70 MJ/kg.",
+        "image": null,
+        "site": "https://www.mera-petfood.com"
     }
 ]

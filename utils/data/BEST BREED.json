@@ -98,7 +98,9 @@
             "Manganese 56 mg/kg",
             "Iron 301 mg/kg"
         ],
-        "calorie": "401 Kcal per cup ME"
+        "calorie": "401 Kcal per cup ME",
+        "image": "https://www.bestbreed.com/wp-content/uploads/2017/06/cat_diet.jpg",
+        "site": "https://bestbreed.com"
     },
     {
         "url": "https://bestbreed.com/product_detail/grain-free-cat-diet/",
@@ -203,6 +205,8 @@
             "Manganese 36 mg/kg",
             "Iron 345 mg/kg"
         ],
-        "calorie": "424 Kcal per cup ME"
+        "calorie": "424 Kcal per cup ME",
+        "image": "https://www.bestbreed.com/wp-content/uploads/2017/03/Grain-Free-Cat-Diet-2-1.png",
+        "site": "https://bestbreed.com"
     }
 ]

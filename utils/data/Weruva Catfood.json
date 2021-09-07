@@ -46,7 +46,9 @@
         "calorie": [
             "3.0 oz 65 kcal",
             "KG 770 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0133-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/funky-chunky-5/",
@@ -96,7 +98,9 @@
         "calorie": [
             "3.0 oz 53 kcal",
             "KG 618 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0331-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/grandmas-chicken-soup-5/",
@@ -146,7 +150,9 @@
         "calorie": [
             "3.0 oz 58 kcal",
             "KG 683 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0324-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/green-eggs-chicken-5/",
@@ -195,7 +201,9 @@
         "calorie": [
             "3.0 oz 64 kcal",
             "KG 752 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0355-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/mack-and-jack-4/",
@@ -245,7 +253,9 @@
         "calorie": [
             "3.0 oz 66 kcal",
             "KG 774 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0140-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/marbella-paella-5/",
@@ -295,7 +305,9 @@
         "calorie": [
             "3.0 oz 61 kcal",
             "KG 718 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0126-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/meow-luau-3/",
@@ -343,7 +355,9 @@
         "calorie": [
             "3.0 oz 62 kcal",
             "KG 733 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0164-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/mideast-feast-4/",
@@ -391,7 +405,9 @@
         "calorie": [
             "3.0 oz 63 kcal",
             "KG 746 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0171-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/nine-liver-3/",
@@ -439,7 +455,9 @@
         "calorie": [
             "3.0 oz 59 kcal",
             "KG 698 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0348-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/outback-grill-3/",
@@ -484,7 +502,9 @@
         "calorie": [
             "3.0 oz 56 kcal",
             "KG 663 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0119-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/paw-lickin-chicken-6/",
@@ -531,7 +551,9 @@
         "calorie": [
             "3.0 oz 57 kcal",
             "KG 673 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0317-iso-1.jpg",
+        "site": "https://weruva.com"
     },
     {
         "url": "https://weruva.com/product/polynesian-bbq-4/",
@@ -578,6 +600,8 @@
         "calorie": [
             "3.0 oz 61 kcal",
             "KG 723 kcal"
-        ]
+        ],
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0188-iso-1.jpg",
+        "site": "https://weruva.com"
     }
 ]

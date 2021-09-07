@@ -26,7 +26,9 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": "480 kcal/kg"
+        "calorie": "480 kcal/kg",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Chicken-34f87363-1920w.png",
+        "site": "https://www.aatascat.com"
     },
     {
         "url": "https://www.aatascat.com/tantalizingtunasalmon",
@@ -55,7 +57,9 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": "470 kcal/kg"
+        "calorie": "470 kcal/kg",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Salmon-83be8088-1920w.png",
+        "site": "https://www.aatascat.com"
     },
     {
         "url": "https://www.aatascat.com/tantalizingtunasnapper",
@@ -84,7 +88,9 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": "470 kcal/kg"
+        "calorie": "470 kcal/kg",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Snapper-363d8c8f-1920w.png",
+        "site": "https://www.aatascat.com"
     },
     {
         "url": "https://www.aatascat.com/tantalizingtunasquid",
@@ -113,7 +119,9 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": "470 kcal/kg"
+        "calorie": "470 kcal/kg",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Squid-42ea0517-1920w.png",
+        "site": "https://www.aatascat.com"
     },
     {
         "url": "https://www.aatascat.com/tantalizingtunatilapia",
@@ -142,6 +150,8 @@
             "Moisture (max) - 89.0%"
         ],
         "additive": null,
-        "calorie": "480 kcal/kg"
+        "calorie": "480 kcal/kg",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Tilapia-869f11dd-1920w.png",
+        "site": "https://www.aatascat.com"
     }
 ]

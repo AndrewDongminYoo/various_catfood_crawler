@@ -50,7 +50,9 @@
         "calorie": [
             "66 kcal/2.8 oz. can",
             "128 kcal/5.5 oz. can"
-        ]
+        ],
+        "image": "https://tikipets.com/wp-content/uploads/2018/01/TC_AfterDark_Chicken.png",
+        "site": "https://tikipets.com"
     },
     {
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-beef/",
@@ -104,7 +106,9 @@
         "calorie": [
             "59 kcal/2.8 oz. can",
             "116 kcal/5.5 oz. can"
-        ]
+        ],
+        "image": "https://tikipets.com/wp-content/uploads/2018/01/TC_AfterDark_ChickenBeef.png",
+        "site": "https://tikipets.com"
     },
     {
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-duck/",
@@ -158,7 +162,9 @@
         "calorie": [
             "59 kcal/2.8 oz. can",
             "114 kcal/5.5 oz. can"
-        ]
+        ],
+        "image": "https://tikipets.com/wp-content/uploads/2018/01/TC_AfterDark_ChickenDuck.png",
+        "site": "https://tikipets.com"
     },
     {
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-lamb/",
@@ -212,7 +218,9 @@
         "calorie": [
             "61 kcal/2.8 oz. can",
             "120 kcal/5.5 oz. can"
-        ]
+        ],
+        "image": "https://tikipets.com/wp-content/uploads/2018/01/TC_AfterDark_ChickenLamb.png",
+        "site": "https://tikipets.com"
     },
     {
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-pork/",
@@ -266,7 +274,9 @@
         "calorie": [
             "59 kcal/2.8 oz. can",
             "116 kcal/5.5 oz. can"
-        ]
+        ],
+        "image": "https://tikipets.com/wp-content/uploads/2018/01/TC_AfterDark_ChickenPork.png",
+        "site": "https://tikipets.com"
     },
     {
         "url": "https://tikipets.com/product/tiki-cat/after-dark/chicken-quail/",
@@ -320,6 +330,8 @@
         "calorie": [
             " 66 kcal/2.8 oz. can",
             "129 kcal/5.5 oz. can"
-        ]
+        ],
+        "image": "https://tikipets.com/wp-content/uploads/2018/01/TC_AfterDark_QuailEgg.png",
+        "site": "https://tikipets.com"
     }
 ]

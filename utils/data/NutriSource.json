@@ -118,7 +118,9 @@
             "Carbohydrates 24%",
             "Carbohydrates 28 g/cup",
             "pH 5.5"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatKittenChickenSalmonLiver.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-rice/",
@@ -230,7 +232,9 @@
             "Protein 31.7%",
             "Fat 65.2%",
             "Carbohydrates 3.1%"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickRice_Cat-2018.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-turkey-lamb-fish/",
@@ -345,7 +349,9 @@
             "Protein 31.9%",
             "Fat 67.2%",
             "Carbohydrates 0.9%"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickTurkFish_Cat-2018.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-turkey-lamb/",
@@ -460,7 +466,9 @@
             "Protein 32.0%",
             "Fat 67.2%",
             "Carbohydrates 0.8%"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickTurkey_Cat-2018.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/country-select-entree/",
@@ -580,7 +588,9 @@
             "Carbohydrates 34%",
             "Carbohydrates 39 g/cup",
             "pH 5.5"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NSGF_CountrySelectCat.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/country-select/",
@@ -698,7 +708,9 @@
             "Protein 41.5%",
             "Fat 57.9%",
             "Carbohydrates 0.6%"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Country.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/lamb-lamb-liver-select/",
@@ -815,7 +827,9 @@
             "Protein 34.8%",
             "Fat 62.9%",
             "Carbohydrates 2.3%"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Lamb.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/nutrisource/cat-kitten-chicken-rice-recipe/",
@@ -935,7 +949,9 @@
             "Carbohydrates 23%",
             "Carbohydrates 26 g/cup",
             "pH 5.5"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatKittenChicken.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/ocean-select-entree/",
@@ -1057,7 +1073,9 @@
             "Carbohydrates 21%",
             "Carbohydrates 23 g/cup",
             "pH 5.5"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NSGF_OceanSelectCat.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/pork-pork-liver-select/",
@@ -1174,7 +1192,9 @@
             "Protein 43.6%",
             "Fat 53.0%",
             "Carbohydrates 3.4%"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Pork.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/senior-weight-management-cat-recipe/",
@@ -1294,7 +1314,9 @@
             "Carbohydrates 36%",
             "Carbohydrates 34 g/cup",
             "pH 5.5"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatSeniorWeightManagement.png",
+        "site": "https://nutrisourcepetfoods.com"
     },
     {
         "url": "https://nutrisourcepetfoods.com/our-food/turkey-turkey-liver-select/",
@@ -1410,6 +1432,8 @@
             "Protein 31.1%",
             "Fat 68.1%",
             "Carbohydrates 0.8%"
-        ]
+        ],
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Turkey.png",
+        "site": "https://nutrisourcepetfoods.com"
     }
 ]

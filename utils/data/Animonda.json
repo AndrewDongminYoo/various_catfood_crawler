@@ -25,7 +25,9 @@
             "moisture83 %."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy per 100g in MJ: 0,27"
+        "calorie": "Metabolizable energy per 100g in MJ: 0,27",
+        "image": "https://www.animonda.de/fileadmin/template/website/img/logo-animonda.png",
+        "site": "https://www.animonda.de"
     },
     {
         "url": "https://www.animonda.de/en/product/carny-katze-ocean-adult-white-tuna-beef-dose",
@@ -52,7 +54,9 @@
             "moisture83 %."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy per 100g in MJ: 0,27"
+        "calorie": "Metabolizable energy per 100g in MJ: 0,27",
+        "image": "https://www.animonda.de/fileadmin/template/website/img/logo-animonda.png",
+        "site": "https://www.animonda.de"
     },
     {
         "url": "https://www.animonda.de/en/product/carny-katze-ocean-adult-white-tuna-red-snapper-dose",
@@ -79,7 +83,9 @@
             "moisture83 %."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy per 100g in MJ: 0,27"
+        "calorie": "Metabolizable energy per 100g in MJ: 0,27",
+        "image": "https://www.animonda.de/fileadmin/template/website/img/logo-animonda.png",
+        "site": "https://www.animonda.de"
     },
     {
         "url": "https://www.animonda.de/en/product/carny-katze-ocean-adult-white-tuna-shrimps-dose",
@@ -106,7 +112,9 @@
             "moisture 83 %."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy per 100g in MJ: 0,27"
+        "calorie": "Metabolizable energy per 100g in MJ: 0,27",
+        "image": "https://www.animonda.de/fileadmin/template/website/img/logo-animonda.png",
+        "site": "https://www.animonda.de"
     },
     {
         "url": "https://www.animonda.de/produkt/integra-protect-katze-diabetes-adult-mit-gefluegel-schale",
@@ -140,7 +148,9 @@
             "taurine0,6 g/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy per 100g in MJ: 0,4"
+        "calorie": "Metabolizable energy per 100g in MJ: 0,4",
+        "image": "https://www.animonda.de/fileadmin/template/website/img/logo-animonda.png",
+        "site": "https://www.animonda.de"
     },
     {
         "url": "https://www.animonda.de/produkt/integra-protect-katze-diabetes-adult-mit-lachs-schale",
@@ -175,7 +185,9 @@
             "taurine0,6 g/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy per 100g in MJ: 0,4"
+        "calorie": "Metabolizable energy per 100g in MJ: 0,4",
+        "image": "https://www.animonda.de/fileadmin/template/website/img/logo-animonda.png",
+        "site": "https://www.animonda.de"
     },
     {
         "url": "https://www.animonda.de/produkt/integra-protect-katze-diabetes-adult-mit-rind-schale",
@@ -209,6 +221,8 @@
             "taurine0,6 g/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy per 100g in MJ: 0,4"
+        "calorie": "Metabolizable energy per 100g in MJ: 0,4",
+        "image": "https://www.animonda.de/fileadmin/template/website/img/logo-animonda.png",
+        "site": "https://www.animonda.de"
     }
 ]
