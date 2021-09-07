@@ -2,6 +2,8 @@ from pymongo import MongoClient
 import json
 client = MongoClient('localhost', 27017)  # mongoDB는 27017 포트로 돌아갑니다.
 db = client.dbMyProject
+col = db.catfood
+col.delete_many({})
 
 
 brand_list = [
@@ -34,7 +36,7 @@ for brand in brand_list:
     with open(f"./data/{brand}.json", mode="r", encoding="utf8", newline="") as input_file:
         data = json.load(input_file)
         if type(data) is dict:
-            db.catfood.insert_one(data)
+            col.insert_one(data)
         elif type(data) is list:
             for formula in data:
-                db.catfood.insert_one(formula)
+                col.insert_one(formula)
