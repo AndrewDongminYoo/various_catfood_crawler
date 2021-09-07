@@ -29,16 +29,17 @@ brand_list = [
     "Vet's Complete Life", 'Vigor and Sage', 'Vintage Cat food', 'Vital Essentials', 'Weruva Catfood', 'Whiskas',
     'Wishbone', 'Wysong', 'Wellness', 'ZEAL Canada', 'ZiwiPeak'
 ]
-WTF = ['Companion Pets Classic', 'Josera']
+
 except_list = [
     'Against The Grain', 'Bravery Pet Food', 'Celtic Connection Holistic Pet Food', 'Chicken Soup for the Soul',
     "Dr. Clauder's Best Choice", 'Gosbi', "Grandma mae's", 'Husse', 'Instinct', 'iti Pet Food',
-    'Kongo', 'Lotus', 'MEOW Cat Food', 'Maria Pet Food', 'Me-O', 'Merrick',
+    'Kongo', 'Lotus', 'MEOW Cat Food', 'Maria Pet Food', 'Me-O', 'Merrick', 'Companion Pets Classic', 'Josera',
     "Nature's Logic", 'Naturliebe FairCat', 'Naturliebe HappyCat', 'NutraGold', 'Organix', 'Orijen Cat',
     'Pro-Nutrition PureLife', 'Rex Catfood', 'Sanabelle', 'SmartHeartGold 9 care', 'Specific', "Steve's Real Food",
     'Supreme Source', 'TOTAL ALIMENTOS EQUILIBRIO', 'TUSCAN NATURAL', 'Tender and True', 'Trovet',
     "Tuffy's Petfoods Dinnertime", 'Verus', 'Vigor and Sage', 'Vintage Cat food', 'Vital Essentials',
-    'Wellness', 'ZiwiPeak']
+    'Wellness', 'ZiwiPeak'
+]
 
 driver = Chrome()
 driver.implicitly_wait(5)
