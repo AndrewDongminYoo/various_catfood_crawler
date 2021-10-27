@@ -74,7 +74,7 @@
             "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3872 kcal/kg or 426 kcal/cup (250 ml)"
+        "calorie": "3872 kcal/kg"
     },
     {
         "site": "https://nowfresh.com",
@@ -152,7 +152,7 @@
             "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3972 kcal/kg or 437 kcal/cup (250 ml)"
+        "calorie": "3972 kcal/kg"
     },
     {
         "site": "https://nowfresh.com",
@@ -228,6 +228,6 @@
             "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3528 kcal/kg or 388 kcal/cup (250 ml)"
+        "calorie": "3528 kcal/kg"
     }
 ]

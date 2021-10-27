@@ -32,11 +32,5 @@
         "*Omega 3: 0.5%"
     ],
     "additive": null,
-    "calorie": [
-        "ME per kg 3664 kcal/kg 3983 kcal/kg",
-        "ME per cup 403 kcal/cup 438 kcal/cup",
-        "Energy from protein 29 % 29 %",
-        "Energy from fat 38 % 38 %",
-        "Energy from carbs 32 % 32 %"
-    ]
+    "calorie": "ME per kg 3664 kcal/kg"
 }

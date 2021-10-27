@@ -45,13 +45,11 @@
             "Zinc (Zinc Sulphate, Monohydrate) 10mg",
             "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
             "Copper (Copper Sulphate, Pentahydrate) 1mg",
-            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
-        ],
-        "calorie": [
-            "128kcal per 100g",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
             "0.42g Phosphorus per 100g",
             "0.49g Calcium per 100g"
-        ]
+        ],
+        "calorie": "128kcal per 100g"
     },
     {
         "site": "https://www.littlebigpaw.co.uk",
@@ -99,13 +97,13 @@
             "Zinc (Zinc Sulphate, Monohydrate) 10mg",
             "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
             "Copper (Copper Sulphate, Pentahydrate) 1mg",
-            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
-        ],
-        "calorie": [
-            "128kcal per 100g",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
             "0.53g Phosphorus per 100g",
             "0.61g Calcium per 100g"
-        ]
+        ],
+        "calorie":
+            "128kcal per 100g"
+
     },
     {
         "site": "https://www.littlebigpaw.co.uk",
@@ -153,13 +151,13 @@
             "Zinc (Zinc Sulphate, Monohydrate) 10mg",
             "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
             "Copper (Copper Sulphate, Pentahydrate) 1mg",
-            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
-        ],
-        "calorie": [
-            "110kcal per 100g",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
             "0.43g Phosphorus per 100g",
             "0.47g Calcium per 100g"
-        ]
+        ],
+        "calorie":
+            "110kcal per 100g"
+
     },
     {
         "site": "https://www.littlebigpaw.co.uk",
@@ -256,12 +254,12 @@
             "Zinc (Zinc Sulphate, Monohydrate) 10mg",
             "Manganese (Manganous Sulphate, Monohydrate) 5.3mg",
             "Copper (Copper Sulphate, Pentahydrate) 1mg",
-            "Iodine (Calcium Iodate, Anhydrous) 0.53mg."
-        ],
-        "calorie": [
-            "128kcal per 100g",
+            "Iodine (Calcium Iodate, Anhydrous) 0.53mg.",
             "0.58g Phosphorus per 100g",
             "0.73g Calcium per 100g"
-        ]
+        ],
+        "calorie":
+            "128kcal per 100g"
+
     }
 ]

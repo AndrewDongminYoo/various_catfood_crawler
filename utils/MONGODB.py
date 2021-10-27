@@ -2,7 +2,6 @@ from pymongo import MongoClient
 import json
 client = MongoClient('localhost', 27017)  # mongoDB는 27017 포트로 돌아갑니다.
 db = client.get_database("Cat-Foods")
-col.delete_many({})
 
 brand_list = [
     "A La CARTE", "Aatas Cat", "AATU", "Absolute Holistic", "ACANA", "Addiction", "Adirondack", "ADVANCE",
@@ -15,7 +14,7 @@ brand_list = [
     "Farmina Vet Life Feline", "Feline Natural", "First Choice Canada", "FirstMate", "Fish4Cats",
     "Forza10 USA", "GATHER", "Go! Solutions", "Gosbi", "Grandma mae's", "Hagen Catit Dinner", "Halo pets",
     "Healthy Shores Canada", "Hi-tek Naturals", "Hills", "Husse", "Instinct", "iti Pet Food", "Josera",
-    "Kirkland Signature", "Kongo", "KOOKUT", "Leonardo Catfood", "Lily's Kitchen", "Little BigPaw", "Lotus",
+    "Kongo", "KOOKUT", "Leonardo Catfood", "Lily's Kitchen", "Little BigPaw", "Lotus",
     "Maria Pet Food", "Marp", "Me-O", "MEOW Cat Food", "MeowMix", "Mera Finest", "Merrick", "Miamor (German)",
     "Micho", "Mito", "Monge", "Natural Balance", "Natural Greatness", "Nature's Logic", "Nature's Protection",
     "Naturliebe FairCat", "Naturliebe HappyCat", "Naturo", "New Origin Pet Bakery", "North Paw",
@@ -33,9 +32,18 @@ brand_list = [
 for brand in brand_list:
     with open(f"./data/{brand}.json", mode="r", encoding="utf8", newline="") as input_file:
         col = db.get_collection(brand)
+        col.delete_many({})
         data = json.load(input_file)
         if type(data) is dict:
-            col.insert_one(data)
+            if type(data['descriptions']) is list:
+                data['descriptions'] = "; ".join(data['descriptions'])
+            if type(data['key_benefits']) is list:
+                data['key_benefits'] = "; ".join(data['key_benefits'])
+            col.update_one({"title": data['title']}, {"$set": data}, True)
         elif type(data) is list:
             for formula in data:
-                col.insert_one(formula)
+                if type(formula['descriptions']) is list:
+                    formula['descriptions'] = "; ".join(formula['descriptions'])
+                if type(formula['key_benefits']) is list:
+                    formula['key_benefits'] = "; ".join(formula['key_benefits'])
+                col.update_one({"title": formula['title']}, {"$set": formula}, True)
