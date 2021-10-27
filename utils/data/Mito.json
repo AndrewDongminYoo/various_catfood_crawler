@@ -1,7 +1,9 @@
 {
+    "site": "https://www.cagatay.com",
     "url": "https://www.cagatay.com/mito-mitomix-adult-cat-food/",
     "brand": "Mito",
     "title": "Mito Cat Food - Çağatay Pet Food / Mito & MitoMix Adult Cat Food",
+    "image": "https://www.cagatay.com/wp-content/uploads/2020/01/mito-product-family-thumbnail.jpg",
     "descriptions": [
         "Mito & Mito Mix Adult Cat are formulated for all adult cats to provide good body condition and to meet their all-nutritional requirements.",
         "Besides, the rate of Taurine which is an essential nutrient, has been increased to ensure healthy nervous system development."
@@ -21,7 +23,5 @@
         "Omega-3 0,715%"
     ],
     "additive": null,
-    "calorie": null,
-    "image": "https://www.cagatay.com/wp-content/uploads/2020/01/mito-product-family-thumbnail.jpg",
-    "site": "https://www.cagatay.com"
+    "calorie": null
 }

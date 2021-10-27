@@ -1,7 +1,9 @@
 {
+    "site": "https://vetsallnatural.com.au",
     "url": "https://vetsallnatural.com.au/product/complete-mix-for-cats/",
     "brand": "Vet's Complete Life",
     "title": "Complete Mix for Cats - Vets All Natural",
+    "image": "https://vetsallnatural.com.au/wp-content/uploads/2014/04/CompleteMix1kgCK.jpg",
     "descriptions": "In the wild, canines and felines eat muscle meat, organ meat and the vegetable matter from the gut of their prey animal. Complete Mix mimics the gut content and when mixed with meat, makes a balanced natural diet.",
     "key_benefits": null,
     "ingredients": "Rolled oats, cracked barley, flax seed meal, carrots, split peas, calcium carbonate, parsley, kelp, lecithin, barley grass, Vitamin C and dried garlic",
@@ -18,7 +20,5 @@
         "Taurine (mg/kg) 326"
     ],
     "additive": null,
-    "calorie": null,
-    "image": "https://vetsallnatural.com.au/wp-content/uploads/2014/04/CompleteMix1kgCK.jpg",
-    "site": "https://vetsallnatural.com.au"
+    "calorie": null
 }

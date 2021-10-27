@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/astragalus-well-being-senior-cat-food/",
         "brand": "Vigor and Sage",
         "title": "Astragalus Well-Being Senior Cat Food | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/bFkWskduaPcEVCJA6",
         "descriptions": [
             "Cat food for Senior cats. Astragalus Well-Being Senior Cat is grain free. Fresh turkey is high in protein, low in calories, helping to stimulate muscle growth and healthy bones. Astragulas reduce the occurrence of common respiratory illnesses and bolster immune system.",
             "Tasteful recipe for senior cats over 8 year.",
@@ -68,14 +70,14 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/bFkWskduaPcEVCJA6"
+        "calorie": null
     },
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/ginseng-well-being-adult-cat-food/",
         "brand": "Vigor and Sage",
         "title": "Ginseng Well-Being Adult dry Cat Food | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/44NW53JiD2hZT1uV9",
         "descriptions": [
             "Grain free Cat food Ginseng Well-Being for adult cats includes fresh chicken and ginseng, which helps boost the immune system, supporting physical and mental well-being. Poria has many health benefits ranging from helping nourish the skin to helping the digestive system. ",
             "Tasteful recipe for cats over 12 months of age.",
@@ -136,14 +138,14 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/44NW53JiD2hZT1uV9"
+        "calorie": null
     },
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/lily-root-beauty-adult-cat/",
         "brand": "Vigor and Sage",
         "title": "Lily Root Beauty for skin and fur | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/4qkb93ruzUjst7tm6",
         "descriptions": [
             "Cat food for a healthy and shiny fur and with high quality and fresh ingredients. With fresh salmon, seaweed, lily root, coix seeds and angelica root that gives healthier skin, nutrition for the fur, better eyesight and blood circulation.",
             "Fresh salmon meat is one of the world’s healthiest foods. It contains 13 important vitamins and minerals as well as Omega-3. Benefits include helping to lower blood pressure, helping to lower cholesterol and improving the skin and fur.",
@@ -205,14 +207,14 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/4qkb93ruzUjst7tm6"
+        "calorie": null
     },
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/lotus-leaf-weight-control-adult-cat/",
         "brand": "Vigor and Sage",
         "title": "Lotus Leaf Weight Control Adult Cat | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/GAFoNSCHAwWDfeiT8",
         "descriptions": [
             "Overweight cat diet. High quality Cat food espesially developed for overweight cats. Lotus Leaf Weight Control is Grain free. Fresh turkey, seaweed and lotus leaf helps weight control by limiting the absorption of carbohydrates and fat.",
             "Tasteful recipe for cats over 12 months of age. Is your cat obese? 44% of the cats are overweight and have a risk of developing diabetes, cystitis and arthritis.",
@@ -263,8 +265,8 @@
         ],
         "additive": [
             "Additives",
-            "nutritional additives (per kg): Vitamin A: 18;000 IU",
-            "vitamin D3: 1;800 IU",
+            "nutritional additives (per kg): Vitamin A: 1,8 IU",
+            "vitamin D3: ,1 IU",
             "vitamin E: 300 IU (natural antioxidants)",
             "copper (cupric sulphate, pentahydrate) 3.5 mg",
             "copper (cupric chelate of glycine hydrate) 1.5 mg",
@@ -275,19 +277,19 @@
             "zinc (zinc sulphate, monohydrate) 45 mg",
             "zinc (zinc chelate of glycine hydrate) 20 mg",
             "iodine (calcium iodate, anhydrous) 1.5 mg",
-            "taurine 1;000 mg."
+            "taurine ,1 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/GAFoNSCHAwWDfeiT8"
+        "calorie": null
     },
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/oatgrass-hairball-control-adult-cat/",
         "brand": "Vigor and Sage",
         "title": "Oatgrass Hairball Control Adult Cat Food | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/BdaRBLiyHuq6hwkz7",
         "descriptions": [
             "Hairball control – Dry Cat Food against hairballs with oatgrass. Grain free with Fresh, boneless, lean turkey is high in protein, low in calories, helping to stimulate muscle growth and healthy bones.",
-            "Seaweed is often seen as a super food because it contains important vitamins and minerals that almost no other food has. Especially Vitamin K, iodine,",
+            "Seaweed is often seen as a super food because it contains important vitamins and minerals that almost no other food has. Especially Vitamin K, iodine",
             "calcium and iron. Helping to create healthier skin, improve eyesight and prevent allergies and infections.",
             "When given the chance, cats love to snack on grass. It’s in their nature. Oatgrass is excellent for a healthy digestion, helping move any hairballs through the cat’s digestive system. It is also a good source of fibre and rich in chlorophyll (a natural breath freshener).",
             "Other important ingredients include plantago seed and codonopsis root. The plantago seed is full of mucilage, which is highly beneficial for intestinal transit. While codonopsis root helps boost the immune system and give a feeling of genuine well-being.",
@@ -346,14 +348,14 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/BdaRBLiyHuq6hwkz7"
+        "calorie": null
     },
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/oatgrass-hairball-control-large-breed-cat/",
         "brand": "Vigor and Sage",
         "title": "Oatgrass Hairball Control Large Breed Cat | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/JfeZSJsQiUgHgudRA",
         "descriptions": [
             "Hairball Control for Large Breed Cat, Maine Coon. Cat Food against hairballs with oatgrass. With fresh chicken and oatgrass that helps with the transporting of hairballs through the cats digestive system. Grainless fresh, boneless, lean chicken is high in protein, helps stimulate muscle development and maintain a healthy body weight.",
             "Seaweed is often seen as a super food because it contains important vitamins and minerals that almost no other food has. Especially vitamin K, iodine, calcium and iron. Helping to create healthier skin, improve eyesight and prevent allergies and infections.",
@@ -389,7 +391,7 @@
         ],
         "additive": [
             "Additives",
-            "Nutritional Additives (per kg) Vitamin A: 18.000 IU",
+            "Nutritional Additives (per kg) Vitamin A: 18,000 IU",
             "Vitamin D3: 1.800 IU",
             "Vitamin E: 300 IU (naturalantioxidants)",
             "copper (cupricsulphate, pentahydrate) 5;0 mg",
@@ -397,16 +399,16 @@
             "manganese (manganous oxide) 30 mg",
             "zinc (zinc sulphate, monohydrate) 75 mg",
             "iodine (calcium iodate anhydrous) 1;5 mg",
-            "selenium (sodium selenite) 0;1 mg;taurine 1.000 mg."
+            "selenium (sodium selenite) 0.1 mg;taurine 1.000 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/JfeZSJsQiUgHgudRA"
+        "calorie": null
     },
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/poria-sterilized-care-for-outdoor-adult-cat/",
         "brand": "Vigor and Sage",
         "title": "Poria Sterilized Care for outdoor Cats | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/T9awEXzcKipewcFg6",
         "descriptions": [
             "Poria Sterilized Care for outdoor Cats, is a complete maintenance food for sterilized adult cats. Contains essential amino acids that help to nourish the skin. Increases urine production, supports digestion, helps immune function. Avilable in 2 kg. bag.",
             "Complete catfood formulated to care for urinary track and improve vitality. Rich in fresh duck, seaweed and functional herbs. Seaweed is often seen as a super food because it contains important vitamins and minerals that almost no other food has. Especially vitamin K, iodine, calcium and iron. Helping to create healthier skin, improve eyesight, prevent allergies and infections, and with essential amino acids that help to nourish the skin.",
@@ -442,8 +444,8 @@
         ],
         "additive": [
             "Additives",
-            "nutritional additives (per kg): Vitamin A: 18;000 IU",
-            "Vitamin D3: 1;800 IU",
+            "nutritional additives (per kg): Vitamin A: 1,8 IU",
+            "Vitamin D3: ,1 IU",
             "Vitamin E: 500 IU (natural antioxidants);_Vitamin C: 140mg",
             "copper (copper(II) sulphate, pentahydrate) 3.5 mg",
             "copper (copper(II) chelate of glycine hydrate) 1.5 mg",
@@ -454,16 +456,16 @@
             "zinc (zinc sulphate, monohydrate) 45 mg",
             "zinc (zinc chelate of glycine hydrate) 20 mg",
             "iodine (calcium iodate, anhydrous) 1.5 mg",
-            "taurine 1;000 mg."
+            "taurine ,1 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/T9awEXzcKipewcFg6"
+        "calorie": null
     },
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/poria-sterilized-care-indoor-adult-cat/",
         "brand": "Vigor and Sage",
         "title": "Poria Sterilized Care Indoor Adult Cat | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/zj6kWBn2Pf9gMe8g9",
         "descriptions": [
             "Sterilized cat Poria Sterilized Care for indoor Adult Cat with natural ingredients. Lamb, seaweed and lotus flowers that helps with weight control. Poria support digestion and urinary system. Lamb is a rich source of high-quality protein, and an outstanding source of many vitamins and minerals, including iron, zinc, and vitamin B12. ",
             "Seaweed is often seen as a super food because it contains important vitamins and minerals that almost no other food has. Especially vitamin K, iodine, calcium and iron. Helping to create healthier skin, improve eyesight and prevent allergies and infections.",
@@ -513,8 +515,8 @@
         ],
         "additive": [
             "Additives",
-            "nutritional additives (per kg): Vitamin A 18;000 IU",
-            "vitamin D3 1;800 IU",
+            "nutritional additives (per kg): Vitamin A 1,8 IU",
+            "vitamin D3 ,1 IU",
             "vitamin E 300 IU (natural antioxidants)",
             "copper (copper (II) sulfate, pentahydrate) 3.5 mg",
             "copper (copper chelate of glycine hydrate) 1.5 mg",
@@ -525,17 +527,17 @@
             "zinc (zinc sulphate, monohydrate) 45 mg",
             "zinc (zinc chelate of glycine hydrate) 20 mg ",
             "iodine (calcium iodate, anhydrous) 1.5 mg",
-            "taurine 1;000 mg",
+            "taurine ,1 mg",
             "L-carnitine 250 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/zj6kWBn2Pf9gMe8g9"
+        "calorie": null
     },
     {
+        "site": "https://www.vigornsage.com",
         "url": "https://www.vigornsage.com/cat-food/wolfberry-well-being-kitten-food/",
         "brand": "Vigor and Sage",
         "title": "Wolfberry Well-Being Kitten Food grainfree | VIGOR & SAGE",
+        "image": "https://images.app.goo.gl/tpGPvYEmpTPedCiw9",
         "descriptions": [
             "Kitten Food Wolfberry Well-Being is grain free. Kitten Food with pure natural ingredients like chicken, seaweed, including fruits and berries. Stimulate muscle development with good nutrition and strengthen the immune system.",
             "Tasteful recipe for kittens up to 12 months of age.",
@@ -597,8 +599,6 @@
             "selenium (as sodium selenite) 0.1 mg",
             "taurine 1000 mg."
         ],
-        "calorie": null,
-        "site": "https://www.vigornsage.com",
-        "image": "https://images.app.goo.gl/tpGPvYEmpTPedCiw9"
+        "calorie": null
     }
 ]

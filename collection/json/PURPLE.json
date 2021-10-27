@@ -7437,13 +7437,13 @@
       "비타민 B12 75μg",
       "엽산 0.35mg",
       "비오틴 300μg",
-      "염화콜린 1;200mg",
+      "염화콜린 ,1mg",
       "아연(황산아연, 일수화물) 25mg",
       "망간(망간-(II)-황산염, 일수화물) 1.4mg",
       "구리(황산구리, 5수화물) 0.5mg",
       "요오드(요오드산 칼슘, 무수) 0.75mg",
-      "DL-메티오닌 4;000mg",
-      "타우린 1;500mg"
+      "DL-메티오닌 ,4mg",
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "Chicken (consisting of stomachs, hearts, livers, fat): 58%",
@@ -7462,14 +7462,14 @@
       "vitamin B12: 75 μg",
       "folic acid: 0.35 mg",
       "biotin: 300 μg",
-      "choline chloride: 1;200 mg",
+      "choline chloride: ,1 mg",
       "zinc (as zinc sulfate , Monohydrate): 25 mg",
       "manganese (as manganese II sulfate, monohydrate): 1.4 mg",
       "copper (as copper II sulfate, pentahydrate): 0.5 mg",
       "iodine (as calcium iodate, anhydrous): 0 ",
       "75 mg",
-      "DL-methionine: 4;000 mg",
-      "taurine: 1;500 mg"
+      "DL-methionine: ,4 mg",
+      "taurine: ,1 mg"
     ],
     "caution": "한글표기의 '흰살생선'은 대구와 가자미 입니다.",
     "ko_analysis": [
@@ -7544,12 +7544,12 @@
       "비타민 B12 75μg",
       "엽산 0.35mg",
       "비오틴 300μg",
-      "염화콜린 1;200mg",
+      "염화콜린 ,1mg",
       "아연(황산아연, 일수화물) 25mg",
       "망간(망간-(II)-황산염, 일수화물) 1.4mg",
       "구리(제2구리) 0.5mg 요오드(요오드산 칼슘, 무수) 0.75mg",
-      "L-카르니틴 1;000mg",
-      "타우린 1;500mg"
+      "L-카르니틴 ,1mg",
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "Chicken (consisting of stomachs, livers, necks, fat): 46%",
@@ -7628,11 +7628,11 @@
       "비타민 B12 75μg",
       "엽산 0.35mg",
       "비오틴 300μg",
-      "염화콜린 1;200mg",
+      "염화콜린 ,1mg",
       "아연(황산아연, 일수화물) 25mg",
       "망간(망간-(II)-황산염, 일수화물) 1.4mg",
       "요오드(요오드산 칼슘, 무수) 0.75mg",
-      "타우린 1;500mg"
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "Turkey (consisting of hearts, livers, stomachs): 60%",
@@ -7653,12 +7653,12 @@
       "vitamin B12: 75 μg",
       "folic acid: 0.35 mg",
       "biotin: 300 μg",
-      "choline chloride: 1;200 mg",
+      "choline chloride: ,1 mg",
       "zinc (as zinc sulfate, monohydrate): 25 mg",
       "manganese (as manganese II sulfate, monohydrate): 1.4 mg",
       "iodine (as calcium iodate, anhydrous): 0",
       "75 mg",
-      "taurine: 1;500 mg"
+      "taurine: ,1 mg"
     ],
     "caution": "한글표기의 '육수(가금류)'는 포함된 육류 원재료를 조리하는 과정에서 우러나오는 천연 칠면조 육수를 의미합니다.",
     "ko_analysis": [
@@ -8526,7 +8526,7 @@
       "망간(망간-(II)-황산염, 일수화물) 3mg",
       "요오드(요오드산 칼슘, 무수) 0.75mg",
       "DL-메티오닌 20mg",
-      "타우린 1;500mg"
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "chicken (consisting of muscle meat, hearts, livers, stomachs, necks)",
@@ -8548,7 +8548,7 @@
       "Manganese (as manganese-II-sulfate, monohydrate): 3 mg",
       "iodine (as calcium iodate, anhydrous) 0.75 mg",
       "DL-methionine: 20 mg",
-      "taurine: 1;500 mg"
+      "taurine: ,1 mg"
     ],
     "caution": "한글표기의 '육수(가금류)'는 포함된 육류 원재료를 조리하는 과정에서 우러나오는 천연 닭고기 육수를 의미합니다.",
     "ko_analysis": [
@@ -8618,7 +8618,7 @@
       "망간(망간-(II)-황산염, 일수화물) 3mg",
       "요오드(요오드산 칼슘, 무수) 0.75mg",
       "DL-메티오닌 20mg",
-      "타우린 1;500mg"
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "pure turkey (consisting of muscle meat, hearts, livers, necks)",
@@ -8639,7 +8639,7 @@
       "Manganese (as manganese-II-sufate, monohydrate): 3 mg",
       "iodine (as calcium iodate, anhydrous): 0.75 mg",
       "DL-methionine: 20 mg",
-      "taurine: 1;500 mg"
+      "taurine: ,1 mg"
     ],
     "caution": "한글표기의 '육수(가금류)'는 포함된 육류 원재료를 조리하는 과정에서 우러나오는 천연 칠면조 육수를 의미합니다.",
     "ko_analysis": [
@@ -8709,7 +8709,7 @@
       "망간(망간-(II)-황산염, 일수화물) 3mg",
       "요오드(요오드산 칼슘, 무수) 0.75mg",
       "DL-메티오닌 20mg",
-      "타우린 1;500mg"
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "poultry (consisting of muscle meat, hearts, livers, lungs, necks)",
@@ -8789,13 +8789,13 @@
       "비타민 B12 75μg",
       "엽산 0.35mg",
       "비오틴 300μg",
-      "염화콜린 1;200mg",
+      "염화콜린 ,1mg",
       "아연(황산아연, 일수화물) 25mg",
       "망간(망간-(II)-황산염, 일수화물) 1.4mg",
       "구리(황산구리, 5수화물) 0.5mg",
       "요오드(요오드산 칼슘, 무수) 0.75mg",
-      "DL-메티오닌 4;000mg",
-      "타우린 1;500mg"
+      "DL-메티오닌 ,4mg",
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "Chicken (consisting of stomachs, hearts, livers, fat): 58%",
@@ -8814,14 +8814,14 @@
       "vitamin B12: 75 μg",
       "folic acid: 0.35 mg",
       "biotin: 300 μg",
-      "choline chloride: 1;200 mg",
+      "choline chloride: ,1 mg",
       "zinc (as zinc sulfate , Monohydrate): 25 mg",
       "manganese (as manganese II sulfate, monohydrate): 1.4 mg",
       "copper (as copper II sulfate, pentahydrate): 0.5 mg",
       "iodine (as calcium iodate, anhydrous): 0 ",
       "75 mg",
-      "DL-methionine: 4;000 mg",
-      "taurine: 1;500 mg"
+      "DL-methionine: ,4 mg",
+      "taurine: ,1 mg"
     ],
     "caution": "한글표기의 '흰살생선'은 대구와 가자미 입니다.",
     "ko_analysis": [
@@ -8896,12 +8896,12 @@
       "비타민 B12 75μg",
       "엽산 0.35mg",
       "비오틴 300μg",
-      "염화콜린 1;200mg",
+      "염화콜린 ,1mg",
       "아연(황산아연, 일수화물) 25mg",
       "망간(망간-(II)-황산염, 일수화물) 1.4mg",
       "구리(제2구리) 0.5mg 요오드(요오드산 칼슘, 무수) 0.75mg",
-      "L-카르니틴 1;000mg",
-      "타우린 1;500mg"
+      "L-카르니틴 ,1mg",
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "Chicken (consisting of stomachs, livers, necks, fat): 46%",
@@ -8980,11 +8980,11 @@
       "비타민 B12 75μg",
       "엽산 0.35mg",
       "비오틴 300μg",
-      "염화콜린 1;200mg",
+      "염화콜린 ,1mg",
       "아연(황산아연, 일수화물) 25mg",
       "망간(망간-(II)-황산염, 일수화물) 1.4mg",
       "요오드(요오드산 칼슘, 무수) 0.75mg",
-      "타우린 1;500mg"
+      "타우린 ,1mg"
     ],
     "english_ing": [
       "Turkey (consisting of hearts, livers, stomachs): 60%",
@@ -9005,12 +9005,12 @@
       "vitamin B12: 75 μg",
       "folic acid: 0.35 mg",
       "biotin: 300 μg",
-      "choline chloride: 1;200 mg",
+      "choline chloride: ,1 mg",
       "zinc (as zinc sulfate, monohydrate): 25 mg",
       "manganese (as manganese II sulfate, monohydrate): 1.4 mg",
       "iodine (as calcium iodate, anhydrous): 0",
       "75 mg",
-      "taurine: 1;500 mg"
+      "taurine: ,1 mg"
     ],
     "caution": "한글표기의 '육수(가금류)'는 포함된 육류 원재료를 조리하는 과정에서 우러나오는 천연 칠면조 육수를 의미합니다.",
     "ko_analysis": [
@@ -12404,14 +12404,14 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 14.10%",
-      "Crude-Fat min 3.27%",
-      "Crude-Fiber max 0.13%",
+      "Crude-Protein: 14.10%",
+      "Crude-Fat: 3.27%",
+      "Crude-Fiber: 0.13%",
       "Calcium 0.35%",
       "Phosphorus 0.19%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.02%",
-      "Taurine min 0.12%"
+      "Moisture: 82.00%",
+      "Magnesium: 0.02%",
+      "Taurine: 0.12%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -12484,14 +12484,14 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 13.68%",
-      "Crude-Fat min 2.75%",
-      "Crude-Fiber max 0.11%",
+      "Crude-Protein: 13.68%",
+      "Crude-Fat: 2.75%",
+      "Crude-Fiber: 0.11%",
       "Calcium 0.33%",
       "Phosphorus 0.19%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.02%",
-      "Taurine min 0.12%"
+      "Moisture: 82.00%",
+      "Magnesium: 0.02%",
+      "Taurine: 0.12%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -12569,14 +12569,14 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 18.64%",
-      "Crude-Fat min 2.09%",
-      "Crude-Fiber max 0.20%",
+      "Crude-Protein: 18.64%",
+      "Crude-Fat: 2.09%",
+      "Crude-Fiber: 0.20%",
       "Calcium 0.3%",
       "Phosphorus 0.21%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.02%",
-      "Taurine min 0.12%"
+      "Moisture: 82.00%",
+      "Magnesium: 0.02%",
+      "Taurine: 0.12%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -12650,14 +12650,14 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 20.12%",
-      "Crude-Fat min 2.16%",
-      "Crude-Fiber max 0.34%",
+      "Crude-Protein: 20.12%",
+      "Crude-Fat: 2.16%",
+      "Crude-Fiber: 0.34%",
       "Calcium 0.37%",
       "Phosphorus 0.22%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.03%",
-      "Taurine min 0.12%"
+      "Moisture: 82.00%",
+      "Magnesium: 0.03%",
+      "Taurine: 0.12%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -12731,12 +12731,12 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 14.10%",
-      "Crude-Fat min 3.27%",
-      "Crude-Fiber max 1.50%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.03%",
-      "Taurine min 0.10%"
+      "Crude-Protein: 14.10%",
+      "Crude-Fat: 3.27%",
+      "Crude-Fiber: 1.50%",
+      "Moisture: 82.00%",
+      "Magnesium: 0.03%",
+      "Taurine: 0.10%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -12834,11 +12834,11 @@
       "수분 78%"
     ],
     "en_analysis": [
-      "Crude-Protein min 12.0%",
-      "Crude-Fat min 9.5%",
-      "Crude-Fiber max 1.0% Moisture max 78.0%",
-      "Magnesium max 0.03%",
-      "Taurine min 0.1%"
+      "Crude-Protein: 12.0%",
+      "Crude-Fat: 9.5%",
+      "Crude-Fiber: 1.0% Moisture: 78.0%",
+      "Magnesium: 0.03%",
+      "Taurine: 0.1%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -12945,7 +12945,7 @@
       "Crude-Protein 12.2%",
       "Crude-Fat 9.0%",
       "Crude-Fiber 1.0%",
-      "Moisture max 78.0%",
+      "Moisture: 78.0%",
       "Magnesium 0.03%",
       "Taurine 0.12%",
       "Calcium 0.48%",
@@ -13796,14 +13796,14 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 14.10%",
-      "Crude-Fat min 3.27%",
-      "Crude-Fiber max 0.13%",
+      "Crude-Protein: 14.10%",
+      "Crude-Fat: 3.27%",
+      "Crude-Fiber: 0.13%",
       "Calcium 0.35%",
       "Phosphorus 0.19%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.02%",
-      "Taurine min 0.12%"
+      "Moisture: 82.00%",
+      "Magnesium: 0.02%",
+      "Taurine: 0.12%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -13877,14 +13877,14 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 13.68%",
-      "Crude-Fat min 2.75%",
-      "Crude-Fiber max 0.11%",
+      "Crude-Protein: 13.68%",
+      "Crude-Fat: 2.75%",
+      "Crude-Fiber: 0.11%",
       "Calcium 0.33%",
       "Phosphorus 0.19%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.02%",
-      "Taurine min 0.12%"
+      "Moisture: 82.00%",
+      "Magnesium: 0.02%",
+      "Taurine: 0.12%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -13962,14 +13962,14 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 18.64%",
-      "Crude-Fat min 2.09%",
-      "Crude-Fiber max 0.20%",
+      "Crude-Protein: 18.64%",
+      "Crude-Fat: 2.09%",
+      "Crude-Fiber: 0.20%",
       "Calcium 0.3%",
       "Phosphorus 0.21%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.02%",
-      "Taurine min 0.12%"
+      "Moisture: 82.00%",
+      "Magnesium: 0.02%",
+      "Taurine: 0.12%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -14043,14 +14043,14 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 20.12%",
-      "Crude-Fat min 2.16%",
-      "Crude-Fiber max 0.34%",
+      "Crude-Protein: 20.12%",
+      "Crude-Fat: 2.16%",
+      "Crude-Fiber: 0.34%",
       "Calcium 0.37%",
       "Phosphorus 0.22%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.03%",
-      "Taurine min 0.12%"
+      "Moisture: 82.00%",
+      "Magnesium: 0.03%",
+      "Taurine: 0.12%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -14124,12 +14124,12 @@
       "나트륨 0.07%"
     ],
     "en_analysis": [
-      "Crude-Protein min 14.10%",
-      "Crude-Fat min 3.27%",
-      "Crude-Fiber max 1.50%",
-      "Moisture max 82.00%",
-      "Magnesium max 0.03%",
-      "Taurine min 0.10%"
+      "Crude-Protein: 14.10%",
+      "Crude-Fat: 3.27%",
+      "Crude-Fiber: 1.50%",
+      "Moisture: 82.00%",
+      "Magnesium: 0.03%",
+      "Taurine: 0.10%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -14671,11 +14671,11 @@
       "수분 78%"
     ],
     "en_analysis": [
-      "Crude-Protein min 12.0%",
-      "Crude-Fat min 9.5%",
-      "Crude-Fiber max 1.0% Moisture max 78.0%",
-      "Magnesium max 0.03%",
-      "Taurine min 0.1%"
+      "Crude-Protein: 12.0%",
+      "Crude-Fat: 9.5%",
+      "Crude-Fiber: 1.0% Moisture: 78.0%",
+      "Magnesium: 0.03%",
+      "Taurine: 0.1%"
     ],
     "environment": [
       "ISO9001(국제표준화기구(ISO)에서 제정ㆍ시행하고 있는 품질경영시스템) 인증",
@@ -14781,7 +14781,7 @@
       "Crude-Protein 12.2%",
       "Crude-Fat 9.0%",
       "Crude-Fiber 1.0%",
-      "Moisture max 78.0%",
+      "Moisture: 78.0%",
       "Magnesium 0.03%",
       "Taurine 0.12%",
       "Calcium 0.48%",

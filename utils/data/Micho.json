@@ -1,7 +1,9 @@
 {
+    "site": "https://www.cagatay.com",
     "url": "https://www.cagatay.com/micho-premium-cat-food/",
     "brand": "Micho",
     "title": "Micho Cat Food - Çağatay Pet Food / Micho Premium Cat Food",
+    "image": "https://www.cagatay.com/wp-content/uploads/2020/01/micho-product-family-thumbnail.jpg",
     "descriptions": [
         "Micho Adult Cat is formulated by professional pet food nutritionists and is produced by extruder technology to maximise its quality. This gentle cooking process ensures that your cat’s obtains all the nutrients that it needs every day from the food.",
         "Micho Adult Cat contains carefully selected ingredients, with an optimum balance of nutritional value, and particular attention has been paid to ingredients that support renal health and provide optimal digestion."
@@ -23,7 +25,5 @@
         "Omega-3 0,65%"
     ],
     "additive": null,
-    "calorie": null,
-    "image": "https://www.cagatay.com/wp-content/uploads/2020/01/micho-product-family-thumbnail.jpg",
-    "site": "https://www.cagatay.com"
+    "calorie": null
 }

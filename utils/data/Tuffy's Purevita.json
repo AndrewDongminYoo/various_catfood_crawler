@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/grain-free-chicken-peas-entree/",
         "brand": "Tuffy's Purevita",
         "title": "Chicken & Peas Cat Food | PureVita | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatChickenPeas.png",
         "descriptions": [
             "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Chicken & Peas Entrée Cat Food is formulated to meet AAFCO guidelines for all life stages.",
             "Pure Vita offerings are specially formulated limited ingredient diets that feature a single source animal protein making them a top choice for pets with allergies.",
@@ -98,14 +100,14 @@
             "pH 5.5"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatChickenPeas.png",
-        "site": "https://nutrisourcepetfoods.com"
+        "calorie": null
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/grain-free-duck-red-lentils-entree/",
         "brand": "Tuffy's Purevita",
         "title": "Duck & Red Lentils Cat Food | PureVita | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatDuckRedLentils.png",
         "descriptions": [
             "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Duck & Red Lentils Entrée Cat Food is formulated to meet AAFCO guidelines for all life stages.",
             "Pure Vita offerings are specially formulated limited ingredient diets that feature a single source animal protein making them a top choice for pets with allergies.",
@@ -200,14 +202,14 @@
             "pH 5.5"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatDuckRedLentils.png",
-        "site": "https://nutrisourcepetfoods.com"
+        "calorie": null
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/grain-free-salmon-peas-entree/",
         "brand": "Tuffy's Purevita",
         "title": "Grain Free Salmon & Peas Entrée | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatSalmonPeas.png",
         "descriptions": [
             "As a member of our grain free series of cat foods, NutriSource Pure Vita Grain Free Salmon & Peas Entrée Cat Food is formulated to meet AAFCO guidelines for all life stages.",
             "Pure Vita offerings are specially formulated limited ingredient diets that feature a single source animal protein making them a top choice for pets with allergies.",
@@ -306,14 +308,14 @@
             "pH 5.5"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/03/NSPV_GF_CatSalmonPeas.png",
-        "site": "https://nutrisourcepetfoods.com"
+        "calorie": null
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/beef-entree-2/",
         "brand": "Tuffy's Purevita",
         "title": "Beef Grain-Free Wet Cat Food | PureVita | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_BeefWeb.png",
         "descriptions": [
             "NutriSource canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -398,14 +400,14 @@
             "Carbohydrates 3.8%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_BeefWeb.png",
-        "site": "https://nutrisourcepetfoods.com"
+        "calorie": null
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-entree-2/",
         "brand": "Tuffy's Purevita",
         "title": "Chicken Grain-Free Wet Cat Food | PureVita | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_ChickenWeb.png",
         "descriptions": [
             "NutriSource canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -489,14 +491,14 @@
             "Carbohydrates 0.1%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_ChickenWeb.png",
-        "site": "https://nutrisourcepetfoods.com"
+        "calorie": null
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/salmon-entree-2/",
         "brand": "Tuffy's Purevita",
         "title": "Salmon Grain-Free Wet Cat Food | PureVita | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/04/PV_CatCan_Salmon-002-rs-4-e1588088940182.png",
         "descriptions": [
             "NutriSource canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -580,14 +582,14 @@
             "Carbohydrates 0%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/04/PV_CatCan_Salmon-002-rs-4-e1588088940182.png",
-        "site": "https://nutrisourcepetfoods.com"
+        "calorie": null
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/turkey-entree-2/",
         "brand": "Tuffy's Purevita",
         "title": "Turkey Grain-Free Wet Cat Food | PureVita | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_TurkeyWeb.png",
         "descriptions": [
             "NutriSource canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -671,8 +673,6 @@
             "Carbohydrates 0.1%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/PV_CatCan_TurkeyWeb.png",
-        "site": "https://nutrisourcepetfoods.com"
+        "calorie": null
     }
 ]

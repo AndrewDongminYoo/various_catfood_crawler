@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/indoor-vitality/",
         "brand": "First Choice Canada",
         "title": "Indoor Vitality - Adult - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_cat_vitality.png",
         "descriptions": "Our 1st Choice Indoor Vitality formula is the perfect choice for your indoor, pampered feline friend. Our carefully selected ingredients are specifically designed for cats that enjoy our modern lifestyle. The renowned Protégez-Vous magazine in Quebec recommends our Indoor Vitality formula as one of the \"Best Picks\" among 180 non-specialized cat foods analyzed by its panel of experts.",
         "key_benefits": null,
         "ingredients": [
@@ -61,14 +63,14 @@
             "copper proteinate."
         ],
         "analysis": [
-            "Crude protein 28% min.",
-            "crude fat 18% min.",
-            "crude fiber 3% max.",
-            "moisture 10% max.",
-            "ash 8.5% max.",
-            "calcium 1.1% min.",
-            "phosphorus 0.9% min.",
-            "magnesium 0.1% max.",
+            "Crude protein 28%.",
+            "crude fat 18%.",
+            "crude fiber 3%.",
+            "moisture 10%.",
+            "ash 8.5%.",
+            "calcium 1.1%.",
+            "phosphorus 0.9%.",
+            "magnesium 0.1%.",
             "vitamin A 34,000 IU/kg min.",
             "vitamin D3 2,000 IU/kg min.",
             "vitamin E 150 IU/kg min.",
@@ -77,14 +79,14 @@
             "fructo-oligosaccharides 500 mg/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 440 kcal/ CUP 3685 kcal/ kg",
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_cat_vitality.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": "440 kcal/ CUP 3685 kcal/ kg"
     },
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/finicky/",
         "brand": "First Choice Canada",
         "title": "Finicky - Adult - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_finicky.png",
         "descriptions": "Our 1st Choice Finicky formula is our normal activity cat food specifically designed to satisfy the taste demands of all adult cats. It’s our best tasting cat food that we have ever made.",
         "key_benefits": null,
         "ingredients": [
@@ -143,28 +145,28 @@
             "copper proteinate. "
         ],
         "analysis": [
-            "Crude protein 30% min.",
-            "crude fat 20% min.",
-            "crude fiber 3% max.",
-            "moisture 10% max.",
-            "ash 9% max.",
-            "calcium 1.2% min.",
-            "phosphorus 0.9% min.",
-            "magnesium 0.1% max.",
+            "Crude protein 30%.",
+            "crude fat 20%.",
+            "crude fiber 3%.",
+            "moisture 10%.",
+            "ash 9%.",
+            "calcium 1.2%.",
+            "phosphorus 0.9%.",
+            "magnesium 0.1%.",
             "taurine 2,300 mg/kg",
             "vitamin A 34,000 IU/kg min.",
             "vitamin D3 2,000 IU/kg min.",
             "vitamin E 150 IU/kg min."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 435 kcal/ CUP 3770 kcal/ kg",
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_finicky.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": "435 kcal/ CUP 3770 kcal/ kg"
     },
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/duck/hypoallergenic/",
         "brand": "First Choice Canada",
         "title": "Hypoallergenic - Adult - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_hypo_PjtQi4F.png",
         "descriptions": "Our 1st Choice hypoallergenic formula is designed to facilitate digestion and is a grain-free alternative to traditional protein source foods. It is a truly unique food designed to maintain optimum health for cats with special nutritional needs.",
         "key_benefits": null,
         "ingredients": [
@@ -225,14 +227,14 @@
             "copper proteinate"
         ],
         "analysis": [
-            "Crude protein 28% min.",
+            "Crude protein 28%.",
             "crude fat 12%  in.",
-            "crude fiber 5% max.",
-            "moisture 10% max.",
-            "ash 9% max.",
-            "calcium 1% min.",
-            "phosphorus 0.8% min.",
-            "magnesium 0.1% max.",
+            "crude fiber 5%.",
+            "moisture 10%.",
+            "ash 9%.",
+            "calcium 1%.",
+            "phosphorus 0.8%.",
+            "magnesium 0.1%.",
             "taurine 1,700 mg/kg vitamin A 34,000 IU/kg min.",
             "vitamin D3 2,000 IU/kg min.",
             "vitamin E 150 IU/kg min.",
@@ -240,14 +242,14 @@
             "fructo-oligosaccharides 500 mg/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 325 kcal/ CUP 3274 kcal/ kg",
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_hypo_PjtQi4F.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": "325 kcal/ CUP 3274 kcal/ kg"
     },
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/urinary-health/",
         "brand": "First Choice Canada",
         "title": "Urinary Health Cat Food - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_urinaryhealth.png",
         "descriptions": "Our 1st Choice Urinary Health was specially formulated to help prevent the formation of bladder stones through its low magnesium, calcium, and phosphorus content and its mildly acidic pH. It also helps prevent the formation of calcium oxalate bladder stones.",
         "key_benefits": null,
         "ingredients": [
@@ -301,27 +303,27 @@
             "green tea extract."
         ],
         "analysis": [
-            "Crude protein 30% min.",
-            "crude fat 16% min.",
-            "crude fiber 5% max.",
-            "moisture 10% max.",
-            "ash 8% max.",
-            "calcium 0.7% min.",
-            "phosphorus 0.6% min.",
-            "magnesium 0.08% max.",
+            "Crude protein 30%.",
+            "crude fat 16%.",
+            "crude fiber 5%.",
+            "moisture 10%.",
+            "ash 8%.",
+            "calcium 0.7%.",
+            "phosphorus 0.6%.",
+            "magnesium 0.08%.",
             "vitamin A 20,000 IU/kg min.",
             "vitamin D3 1,800 IU/kg min.",
             "vitamin E 85 IU/kg min."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 435 kcal/ CUP 3620 kcal/ kg",
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_urinaryhealth.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": "435 kcal/ CUP 3620 kcal/ kg"
     },
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/salmon/healthy-skin-coat/",
         "brand": "First Choice Canada",
         "title": "Healthy Skin & Coat - Adult - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_healthyskincoat.png",
         "descriptions": "Our 1st Choice Healthy Skin & Coat formula is designed specifically to enhance skin condition in all seasons and to produce a soft, shiny coat in both our long-and short-haired cats. Fish and fish oils have long been considered the secret to healthy skin and a great coat.",
         "key_benefits": null,
         "ingredients": [
@@ -381,14 +383,14 @@
             "copper proteinate."
         ],
         "analysis": [
-            "Crude protein 30% min.",
-            "crude fat 20% min.",
-            "crude fiber 6% max.",
-            "moisture 10% max.",
-            "ash 9% max.",
-            "calcium 1.2% min.",
-            "phosphorus 1% min.",
-            "magnesium 0.1% max.",
+            "Crude protein 30%.",
+            "crude fat 20%.",
+            "crude fiber 6%.",
+            "moisture 10%.",
+            "ash 9%.",
+            "calcium 1.2%.",
+            "phosphorus 1%.",
+            "magnesium 0.1%.",
             "taurine 2600 mg/kg",
             "vitamin A 34,000 IU/kg min.",
             "vitamin D3 2,000 IU/kg min.",
@@ -398,14 +400,14 @@
             "omega-9 fatty acids 0.26%. "
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 445 kcal/ CUP 3639 kcal/ kg",
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_healthyskincoat.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": "445 kcal/ CUP 3639 kcal/ kg"
     },
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/sterilized/",
         "brand": "First Choice Canada",
         "title": "Sterilized - Adult - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_sterilized.png",
         "descriptions": "Our 1st Choice Sterilized formula is designed for neutered cats. Since they use 20 to 30% less energy than non neutered cats, this formula can be fed to your cat at all times. It contains a high level of protein that will help limit weight gain while maintaining a healthy muscle mass.",
         "key_benefits": null,
         "ingredients": [
@@ -442,27 +444,27 @@
             "green tea extract. "
         ],
         "analysis": [
-            "Crude protein 33% min.",
-            "crude fat 9% min.",
-            "crude fiber 5% max.",
-            "moisture 10% max.",
-            "ash 10% max.",
-            "calcium 1.2% min.",
-            "phosphorus 0.95% min.",
-            "magnesium 0.1% max.",
+            "Crude protein 33%.",
+            "crude fat 9%.",
+            "crude fiber 5%.",
+            "moisture 10%.",
+            "ash 10%.",
+            "calcium 1.2%.",
+            "phosphorus 0.95%.",
+            "magnesium 0.1%.",
             "vitamin A 20 000 UI/kg min.",
             "vitamin D3 1 800 UI/kg min.",
             "vitamin E 85 UI/kg min."
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_sterilized.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": null
     },
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/adult/all-breeds/chicken/weight-control/",
         "brand": "First Choice Canada",
         "title": "Weight Control - Adult - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_weightcontrol.png",
         "descriptions": "Our 1st Choice Weight Control formula is specifically designed for cats that have a tendency to gain weight and also for spayed or neutered cats. A calorie-reduced formula to promote an ideal silhouette.",
         "key_benefits": null,
         "ingredients": [
@@ -522,28 +524,28 @@
             "copper proteinate."
         ],
         "analysis": [
-            "Crude protein 29% min.",
-            "crude fat 10% min.",
-            "crude fiber 6% max.",
-            "moisture 10% max.",
-            "ash 9% max.",
-            "calcium 1% min.",
-            "phosphorus 0.8% min.",
-            "magnesium 0.1% max.",
+            "Crude protein 29%.",
+            "crude fat 10%.",
+            "crude fiber 6%.",
+            "moisture 10%.",
+            "ash 9%.",
+            "calcium 1%.",
+            "phosphorus 0.8%.",
+            "magnesium 0.1%.",
             "taurine 2,100 mg/kg",
             "vitamin A 34,000 IU/kg min.",
             "vitamin D3 2,000 IU/kg min.",
             "vitamin E 150 IU/kg min."
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_weightcontrol.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": null
     },
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/kitten/all-breeds/chicken/healthy-start/",
         "brand": "First Choice Canada",
         "title": "Kitten Food : Healthy Start - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_healthystart.png",
         "descriptions": "Our 1st Choice Healthy Start formula is the best possible initiation to dry food after their weaning period. A calcium-rich formula to build strong bones, fatty acids for optimal development of vital organs as well as prebiotics to ensure a strong immune system. All kitten deserve a healthy start for a long life!",
         "key_benefits": null,
         "ingredients": [
@@ -602,13 +604,13 @@
             "copper proteinate."
         ],
         "analysis": [
-            "Crude protein 30% min.",
-            "crude fat 20% min.,crude fiber 3.5% max.",
-            "moisture 10% max.",
-            "ash 9% max.",
-            "calcium 1.1% min.",
-            "phosphorus 0.9% min.",
-            "magnesium 0.1% max.",
+            "Crude protein 30%.",
+            "crude fat 20%.,crude fiber 3.5%.",
+            "moisture 10%.",
+            "ash 9%.",
+            "calcium 1.1%.",
+            "phosphorus 0.9%.",
+            "magnesium 0.1%.",
             "taurine 2,300 mg/kg",
             "vitamin A 34,000 IU/kg min.",
             "vitamin D3 2,000 IU/kg min.",
@@ -618,14 +620,14 @@
             "fructo-oligosaccharides 1,000 mg/kg."
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_healthystart.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": null
     },
     {
+        "site": "https://www.1stchoice.ca",
         "url": "https://www.1stchoice.ca/en-ca/products/1st/cat/senior/all-breeds/chicken/mature-less-active/",
         "brand": "First Choice Canada",
         "title": "Mature or less active - Senior - 1st Choice Canada",
+        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_senior.png",
         "descriptions": "Our 1st Choice Mature - Less Active formula is the perfect choice for your pampered senior feline friend. Enriched with glucosamine and chondroitin to promote joint health. Special nutrients and antioxidants help slow down the aging process.",
         "key_benefits": null,
         "ingredients": [
@@ -688,14 +690,14 @@
             "copper proteinate."
         ],
         "analysis": [
-            "Crude protein 27% min.",
-            "crude fat 15% min.",
-            "crude fiber 3.5% max.",
-            "moisture 10% max.",
-            "ash 8.5% max.",
-            "calcium 1% min.",
-            "phosphorus 0.9% min.",
-            "magnesium 0.1% max.",
+            "Crude protein 27%.",
+            "crude fat 15%.",
+            "crude fiber 3.5%.",
+            "moisture 10%.",
+            "ash 8.5%.",
+            "calcium 1%.",
+            "phosphorus 0.9%.",
+            "magnesium 0.1%.",
             "taurine 2100 mg/kg",
             "vitamin A 34,000 IU/kg min.",
             "vitamin D3 2,000 IU/kg min.",
@@ -703,8 +705,6 @@
             "vitamin C 250 mg/kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 425 kcal/ CUP 3534 kcal/ kg",
-        "image": "https://www.1stchoice.ca/media/thumbnails/1200x630__centers/product/images/1stch_sac_decoupe-web4_cat_senior.png",
-        "site": "https://www.1stchoice.ca"
+        "calorie": "425 kcal/ CUP 3534 kcal/ kg"
     }
 ]

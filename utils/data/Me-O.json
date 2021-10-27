@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/beef-vegetable-flavour-kitten/",
         "brand": "Me-O",
         "title": "Beef & Vegetable Flavour (Kitten) – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/VVfdBVeKvUdVycWSA",
         "descriptions": "Essential Benefits:",
         "key_benefits": [
             "Taurine – Taurine is an amino acid that is essential for the proper functioning of the eyes and to improve the cat’s eyesight",
@@ -15,14 +17,14 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/VVfdBVeKvUdVycWSA"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/beef-vegetable-flavour/",
         "brand": "Me-O",
         "title": "Beef & Vegetable Flavour – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/euPmFTCwiayBYsRB6",
         "descriptions": "Essential Benefits:",
         "key_benefits": [
             "Taurine – Taurine is an amino acid that is essential for the proper functioning of the eyes and to improve the cat’s eyesight",
@@ -35,14 +37,14 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/euPmFTCwiayBYsRB6"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/cat-food-meo-chicken-vegetable/",
         "brand": "Me-O",
         "title": "Chicken & Vegetable Flavour – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/CsrauYjkFUJTzC5u5",
         "descriptions": "Essential Benefits:",
         "key_benefits": [
             "Taurine – Taurine is an amino acid that is essential for the proper functioning of the eyes and to improve the cat’s eyesight",
@@ -55,14 +57,14 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/CsrauYjkFUJTzC5u5"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/cat-food-meo-seafood/",
         "brand": "Me-O",
         "title": "Seafood Flavour – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/BhEC9vJ9epHmG5AF8",
         "descriptions": "Essential Benefits:",
         "key_benefits": [
             "Taurine – Taurine is an amino acid that is essential for the proper functioning of the eyes and to improve the cat’s eyesight",
@@ -75,14 +77,14 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/BhEC9vJ9epHmG5AF8"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/gourmet-flavour/",
         "brand": "Me-O",
         "title": "Gourmet Flavour – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/W1LxKAzZ6sPmLn1a9",
         "descriptions": "Me-O® Cat Food is an optimally balanced and nutritionally complete cat food with high palatability and digestibility. The delicious, nutritious and crunchy nature of Me-O® Cat Food makes your beloved feline fall for it right from the very first bite. Just be sure you always have a bowl of clean drinking water nearby for your loving pet.",
         "key_benefits": [
             "Complete and balanced nutrition for cats",
@@ -96,14 +98,14 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/W1LxKAzZ6sPmLn1a9"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/me-o-tuna/",
         "brand": "Me-O",
         "title": "Tuna Flavour – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/rzR1ruceyyFtaRuK7",
         "descriptions": "Essential Benefits:",
         "key_benefits": [
             "Taurine – Taurine is an amino acid that is essential for the proper functioning of the eyes and to improve the cat’s eyesight",
@@ -116,14 +118,14 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/rzR1ruceyyFtaRuK7"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/salmon-flavour/",
         "brand": "Me-O",
         "title": "Salmon Flavour – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/YiVse3sfFNJ1wkFA6",
         "descriptions": "Me-O® Cat Food is an optimally balanced and nutritionally complete cat food with high palatability and digestibility. The delicious, nutritious and crunchy nature of Me-O® Cat Food makes your beloved feline fall for it right from the very first bite. Just be sure you always have a bowl of clean drinking water nearby for your loving pet.",
         "key_benefits": [
             "Complete and balanced nutrition for cats",
@@ -137,8 +139,6 @@
         "ingredients": null,
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/YiVse3sfFNJ1wkFA6"
+        "calorie": null
     }
 ]

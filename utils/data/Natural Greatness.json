@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/cat-food/weight-control/?lang=en",
         "brand": null,
         "title": "Weight Control - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/prueba-2.png",
         "descriptions": "Wet food formulated for junior and adult cats of all breeds with overweight or obesity, with diabetes mellitus, colitis, constipation or hyperlipidemia associated to overweight.",
         "key_benefits": "Product not suitable for kitten, pregnant or lactating cats.",
         "ingredients": [
@@ -28,14 +30,14 @@
             "Taurine 1500 mg."
         ],
         "additive": null,
-        "calorie": "etabolizable energy: 77.4 kcal / 100 g.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/prueba-2.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "etabolizable energy: 77.4 kcal / 100 g."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/chicken-breast-2/?lang=en",
         "brand": null,
         "title": "Chicken Breast - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pollo-gato.png",
         "descriptions": "Complementary Cat Food, No preservatives, artificial colors or flavors",
         "key_benefits": "Complementary Cat Food, No preservatives, artificial colors or flavors",
         "ingredients": [
@@ -52,14 +54,14 @@
             "Moisture (77%)."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 832 kcal/kg",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pollo-gato.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 832 kcal/kg"
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/chicken-breast-kitten-and-adult-cats/?lang=en",
         "brand": null,
         "title": "Chicken Breast Kitten and adult cats - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/gatosgatitospollo.png",
         "descriptions": "Complementary Cat Food, No preservatives, artificial colors or flavors",
         "key_benefits": "Complementary Cat Food, No preservatives, artificial colors or flavors",
         "ingredients": [
@@ -80,14 +82,14 @@
             "Moisture 75%."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 102.34 kcal/100gr",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/gatosgatitospollo.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 102.34 kcal/100gr"
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/chicken-with-yoghurt-banana-strawberries/?lang=en",
         "brand": null,
         "title": "Chicken with Yoghurt, Banana & Strawberries - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pollo-yogur.png",
         "descriptions": "“Chicken with Yogurt, Banana and Strawberries” recipe contains chicken meat as the only source of protein. In addition, this recipe includes ingredients that provide numerous additional benefits.",
         "key_benefits": [
             "YOGHURT: Yoghurt is a natural source of calcium, protein, potassium, and magnesium, and it also contains probiotics, such as Lactobacillus acidophilus, which is the natural inhabitant of the digestive tract. The bacteria contained in the yogurt are responsible for digesting the lactose contained in the milk, so yogurt does not have lactose because it has been consumed by lactobacilli.",
@@ -111,14 +113,14 @@
             "Taurine (1500 mg/Kg)"
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 956 kcal/kg",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pollo-yogur.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 956 kcal/kg"
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/field-river-recipe/?lang=en",
         "brand": null,
         "title": "Field & River Recipe - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/field.png",
         "descriptions": "Excellent hypoallergenic recipe with a high percentage of meat and low carbohydrates, suitable for adult cats of all breeds. Its high protein levels help to develop and maintain energy and muscle mass.",
         "key_benefits": "Recipe formulated WITHOUT CEREALS, WITHOUT LACTOSE, WITHOUT COLORS, WITHOUT ARTIFICIAL FLAVORS AND WITHOUT ARTIFICIAL PRESERVANTS.",
         "ingredients": [
@@ -160,17 +162,17 @@
             "Omega 6 fatty acids (3%)",
             "Magnesium (0,1%)",
             "Taurine (1.000 mg / kg)",
-            "Methionine (1.000 mg / kg) Metabolizable energy: 4.100 Kcal/Kg."
+            "Methionine (1.000 mg / kg) Metabolizable energy: 4,100 Kcal/Kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 4,100 Kcal/Kg.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/field.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 4,100 Kcal/Kg."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/gastrointestinal-2/?lang=en",
         "brand": null,
         "title": "Gastrointestinal - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/REANL-oeaci61ld28v6gyb1fr8ou87a9crs7jjrp3tqpwuri.png",
         "descriptions": "Wet food formulated for junior and adult cats of all breeds with acute or chronic diarrhea, inflammatory bowel disease (IBD), gastroenteritis, cases of poor digestion, colitis or anorexia.",
         "key_benefits": "Recipe formulated WITHOUT CEREALS, WITHOUT LACTOSE, WITHOUT COLORS, NEITHER ARTIFICIAL FLAVORS AND NO ARTIFICIAL PRESERVANTS.",
         "ingredients": [
@@ -197,14 +199,14 @@
             "Taurine 1500 mg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 76 kcal / 100 g.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/REANL-oeaci61ld28v6gyb1fr8ou87a9crs7jjrp3tqpwuri.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 76 kcal / 100 g."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/ocean-fish/?lang=en",
         "brand": null,
         "title": "Ocean fish - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pescado-mar.png",
         "descriptions": "Complementary Cat Food, No preservatives, artificial colors or flavors",
         "key_benefits": "Complementary Cat Food, No preservatives, artificial colors or flavors",
         "ingredients": [
@@ -222,14 +224,14 @@
             "Moisture (80%)."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 747.5 kcal/kg",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/pescado-mar.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 747.5 kcal/kg"
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/rabbit-and-duck-with-apple-peach-and-chamomile-2/?lang=en",
         "brand": null,
         "title": "Rabbit and Duck with Apple, Peach and Chamomile - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/conejoypato.png",
         "descriptions": "Our recipe for “Rabbit and duck with Carrots and Chamomile “contains a mix of meats highly healthy as they are the rabbit and duck meat.",
         "key_benefits": [
             "Carrots: Carrots are rich in beta carotene and loaded with vitamin A, vitamin C and vitamin K, while it is also high in potassium and fibre. Good for the skin and eyesight.",
@@ -252,14 +254,14 @@
             "Taurine (1500 mg/Kg). "
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 919 Kcal/kg.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/conejoypato.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 919 Kcal/kg."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/renal-care/?lang=en",
         "brand": null,
         "title": "Renal Care - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/renal-cat-oeac180c5l1rvjkezm2d8m61r6vk0n9r3tppa51cxq.png",
         "descriptions": "Wet food formulated for junior and adult cats of all breeds with chronic kidney disease (CKD) that need a diet based on restricted proteins and phosphorus intakes.",
         "key_benefits": "Product not suitable for pregnant or lactating cats, kittens and cats with liver failure due to biliary secretion.",
         "ingredients": [
@@ -285,14 +287,14 @@
             "Taurine 1500 mg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 106 kcal / 100 g.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/renal-cat-oeac180c5l1rvjkezm2d8m61r6vk0n9r3tppa51cxq.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 106 kcal / 100 g."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/salmon-and-turkey-with-pumpkin-and-catnip/?lang=en",
         "brand": null,
         "title": "Salmon and Turkey with Pumpkin and Catnip - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/salmonpavo.png",
         "descriptions": "Our recipe “Salmon and Turkey with Pumpkin and Catnip” is a fine blend of delicious salmon and turkey meat.",
         "key_benefits": [
             "Pumpkin: Low-calorie food rich in vitamin A, vitamin C, beta-carotene, fibre, potassium, zinc, calcium and magnesium. The fibre contained in pumpkin absorbs water and helps relieve stomach upset. It also contains antioxidants. It is ideal for overweight pets as it helps regulate blood sugar and increases cardiovascular health.",
@@ -316,14 +318,14 @@
             "Taurine (1500 mg/Kg). "
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 932.2 Kcal/kg.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/salmonpavo.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 932.2 Kcal/kg."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/sensitive-indoor-recipe/?lang=en",
         "brand": null,
         "title": "Sensitive Indoor Recipe - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/indoor.png",
         "descriptions": "Hypoallergenic recipe formulated to nourish adult cats of all breeds. Its composition makes this recipe optimal for sterilized cats, overweight cats, older adults and in general, sedentary adult cats. The recipe has malt extract to prevent the formation of hairballs in the stomach of cats.",
         "key_benefits": "Recipe formulated WITHOUT SOY, WITHOUT LACTOSE, WITHOUT COLORS, WITHOUT ARTIFICIAL FLAVORS AND WITHOUT ARTIFICIAL PRESERVANTS.",
         "ingredients": [
@@ -364,14 +366,14 @@
             "L-carnitine (200 mg/kg)."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 3,800 Kcal/Kg.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/indoor.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 3,800 Kcal/Kg."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/top-mountain-recipe/?lang=en",
         "brand": null,
         "title": "Top Mountain Recipe - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/top.png",
         "descriptions": "Hypoallergenic and monoproteic rabbit recipe designed to meet the nutritional needs of all cat breeds in all stages of life. Suitable for kittens, pregnant cats and adult cats. The recipe favors the digestive tract and optimizes the level of PH in the urine.",
         "key_benefits": "Recipe formulated WITHOUT CEREALS, WITHOUT LACTOSE, WITHOUT COLORS, WITHOUT ARTIFICIAL FLAVORS AND WITHOUT ARTIFICIAL PRESERVANTS.",
         "ingredients": [
@@ -413,17 +415,17 @@
             "Omega 6 fatty acids (3,1%)",
             "Magnesium (0,1%)",
             "Taurine (1.000 mg / kg)",
-            "Methionine (1.000 mg / kg) Metabolizable energy: 4.200 Kcal/Kg."
+            "Methionine (1.000 mg / kg) Metabolizable energy: 4,200 Kcal/Kg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 4,200 Kcal/Kg.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/top.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 4,200 Kcal/Kg."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/tuna-fillet-with-prawns-2/?lang=en",
         "brand": null,
         "title": "Tuna fillet with prawns - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/atun.png",
         "descriptions": "Complementary Cat Food, No preservatives, artificial colors or flavors",
         "key_benefits": "Complementary Cat Food, No preservatives, artificial colors or flavors",
         "ingredients": [
@@ -442,14 +444,14 @@
             "Moisture (80%). "
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 710 kcal/kg",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/10/atun.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 710 kcal/kg"
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/urinary-care/?lang=en",
         "brand": null,
         "title": "Urinary Care - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/VET_CAT_Renal200-oeacyruy3oz8agty2m5yqndd3bi7rpgu1w0mypagu6.png",
         "descriptions": "Wet food formulated for junior and adult cats of all breeds with feline idiopathic cystitis, urolithiasis by struvite or with calcium oxalate crystals in the urine.",
         "key_benefits": "Product not suitable for pregnant or lactating cats, kittens and cats with liver failure due to biliary secretion.",
         "ingredients": [
@@ -476,14 +478,14 @@
             "Taurine 1500 mg."
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 86 kcal / 100 g.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/elementor/thumbs/VET_CAT_Renal200-oeacyruy3oz8agty2m5yqndd3bi7rpgu1w0mypagu6.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 86 kcal / 100 g."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/wild-instinct-recipe-medium-large-breed/?lang=en",
         "brand": null,
         "title": "Wild Instinct Recipe medium & large breed - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/wild-2-new.png",
         "descriptions": "Hypoallergenic recipe designed with a high percentage of meat and low carbohydrates to meet the nutritional needs of cats of all ages and pregnant cats of medium and large breeds. The recipe favors digestive transit and incorporates malt extract to prevent the formation of hairballs in the cat’s stomach.",
         "key_benefits": "Recipe formulated WITHOUT CEREALS, WITHOUT LACTOSE, WITHOUT COLORS, WITHOUT ARTIFICIAL FLAVORS AND WITHOUT ARTIFICIAL PRESERVANTS.",
         "ingredients": [
@@ -523,14 +525,14 @@
             "DL-Methionine (2.400 mg / kg)"
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 4,100 Kcal/Kg.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/wild-2-new.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 4,100 Kcal/Kg."
     },
     {
+        "site": "https://naturalgreatness.com",
         "url": "https://naturalgreatness.com/wild-instinct-recipe/?lang=en",
         "brand": null,
         "title": "Wild Instinct Recipe - Natural Greatness",
+        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/wild-new.png",
         "descriptions": "Hypoallergenic recipe designed with a high percentage of meat and low carbohydrates to meet the nutritional needs of kittens (from 1 month of age), pregnant cats and adult cats. The recipe favors digestive transit and incorporates malt extract to prevent the formation of hairballs in the cat’s stomach.",
         "key_benefits": "Recipe formulated WITHOUT CEREALS, WITHOUT LACTOSE, WITHOUT COLORS, WITHOUT ARTIFICIAL FLAVORS AND WITHOUT ARTIFICIAL PRESERVANTS.",
         "ingredients": [
@@ -551,8 +553,6 @@
             "DL-Methionine (2.400 mg / kg)"
         ],
         "additive": null,
-        "calorie": "Metabolizable energy: 4,100 Kcal/Kg.",
-        "image": "https://naturalgreatness.com/wp-content/uploads/2019/11/wild-new.png",
-        "site": "https://naturalgreatness.com"
+        "calorie": "Metabolizable energy: 4,100 Kcal/Kg."
     }
 ]

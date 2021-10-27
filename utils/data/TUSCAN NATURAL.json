@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://tuscannatural.com",
         "url": "https://tuscannatural.com/for-cats/carne-grain-free-recipe/",
         "brand": "TUSCAN NATURAL",
         "title": "Carne Grain-Free Recipe | Tuscan Natural",
+        "image": "https://images.app.goo.gl/3q9nLfeeUpwex95u9",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": null,
@@ -72,14 +74,14 @@
             "Vitamin E (gamma-tocopherol) 83.4 IU/kg"
         ],
         "additive": null,
-        "calorie": "3,903 Kcal/kg 514 kcal/cup 1 cup=4.8 oz. (130 g)",
-        "site": "https://tuscannatural.com",
-        "image": "https://images.app.goo.gl/3q9nLfeeUpwex95u9"
+        "calorie": "3,903 kcal/kg 1 cup=4.8 oz. (130 g)"
     },
     {
+        "site": "https://tuscannatural.com",
         "url": "https://tuscannatural.com/for-cats/harvest-turkey-chicken-recipe/",
         "brand": "TUSCAN NATURAL",
         "title": "Harvest Turkey & Chicken Recipe | Tuscan Natural",
+        "image": "https://images.app.goo.gl/ePBziumHV3CsZZCg6",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": null,
@@ -149,14 +151,14 @@
             "Vitamin E (gamma-tocopherol) 40.3 IU/kg"
         ],
         "additive": null,
-        "calorie": "Calorie Content (ME, calculated) 4,067 kcal/kg – 531 kcal/cup 1 cup=4.8 oz. (130 g)",
-        "site": "https://tuscannatural.com",
-        "image": "https://images.app.goo.gl/ePBziumHV3CsZZCg6"
+        "calorie": "Calorie Content (ME, calculated) 4,067 kcal/kg – 531 kcal/cup 1 cup=4.8 oz. (130 g)"
     },
     {
+        "site": "https://tuscannatural.com",
         "url": "https://tuscannatural.com/for-cats/simply-pure-ocean-extreme-recipe/",
         "brand": "TUSCAN NATURAL",
         "title": "Simply Pure Ocean Extreme Recipe | Tuscan Natural",
+        "image": "https://images.app.goo.gl/89q42bHtHTZt2Fbu9",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": null,
@@ -226,8 +228,6 @@
             "Vitamin E (gamma-tocopherol) 34.8 IU/kg"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy (calculated) 3,630 Kcal/kg 446 kcal/cup 1 cup=4.4 oz. (125 g)",
-        "site": "https://tuscannatural.com",
-        "image": "https://images.app.goo.gl/89q42bHtHTZt2Fbu9"
+        "calorie": "3,630 kcal/kg 1 cup=4.4 oz. (125 g)"
     }
 ]

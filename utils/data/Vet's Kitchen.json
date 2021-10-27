@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://vetskitchen.co.uk",
         "url": "https://vetskitchen.co.uk/collections/dry-cat-food/products/dry-cat-chicken",
         "brand": "Vet's Kitchen",
         "title": "Everyday Health Dry Cat Food Tasty Chicken – Vet's Kitchen",
+        "image": "http://cdn.shopify.com/s/files/1/0388/4223/7067/products/dry-cat-food-chicken-vk-pouch_1200x1200.jpg?v=1624548167",
         "descriptions": "Vet’s Kitchen® Everyday Health Tasty Chicken is a complete dry cat food developed to meet the needs of carnivorous felines and provides balanced nutrition to maintain the everyday health of your adult cat:",
         "key_benefits": [
             "High in Fresh Meat - Contains 80% Chicken and 60% is freshly prepared",
@@ -28,10 +30,10 @@
             "Crude Ash 7.5%."
         ],
         "additive": [
-            "Vitamins: Vitamin A 19;668 IU",
-            "Vitamin D3 1;573 IU",
+            "Vitamins: Vitamin A 1,9 IU",
+            "Vitamin D3 ,1 IU",
             "Vitamin E 703 IU",
-            "Vtamin C 200 mg. Provitamin: Taurine 1;389mg. Amino Acids: D-L Methionine 1;428 mg",
+            "Vtamin C 200 mg. Provitamin: Taurine ,1mg. Amino Acids: D-L Methionine ,1 mg",
             "Lysine 379 mg. Trace Elements: Zinc (Zinc Chelate of Amino Acids Hydrate) 87 mg",
             "Iron (Iron (II) Chelate of Amino Acids Hydrate) 65 mg",
             "Manganese (Manganese Chelate of Amino Acids Hydrate) 26 mg",
@@ -39,14 +41,14 @@
             "Iodine (Potassium Iodide) 3.68 mg",
             "Selenium (Sodium Selenite) 0.2 mg."
         ],
-        "calorie": "392.5 Kcals per 100g",
-        "image": "http://cdn.shopify.com/s/files/1/0388/4223/7067/products/dry-cat-food-chicken-vk-pouch_1200x1200.jpg?v=1624548167",
-        "site": "https://vetskitchen.co.uk"
+        "calorie": "392.5 Kcals per 100g"
     },
     {
+        "site": "https://vetskitchen.co.uk",
         "url": "https://vetskitchen.co.uk/collections/dry-cat-food/products/dry-cat-food-salmon",
         "brand": "Vet's Kitchen",
         "title": "Sensitive Digestion Dry Cat Food Succulent Salmon – Vet's Kitchen",
+        "image": "http://cdn.shopify.com/s/files/1/0388/4223/7067/products/dry-cat-food-salmon-vk-pouch_1200x1200.jpg?v=1624548191",
         "descriptions": "Vet’s Kitchen® Sensitive Digestion Succulent Salmon is a complete dry cat food developed to meet the needs of carnivorous felines and provides balanced nutrition, ideal for sensitive adult cats:",
         "key_benefits": [
             "High in Fresh Fish - Contains 80% Salmon and 64% is freshly prepared",
@@ -69,10 +71,10 @@
             "Omega 6 0.9%"
         ],
         "additive": [
-            "Nutritional Additives Per Kg: Vitamins: Vitamin A 20;000 IU",
-            "Vitamin D3 1;500 IU",
+            "Nutritional Additives Per Kg: Vitamins: Vitamin A 2,0 IU",
+            "Vitamin D3 ,1 IU",
             "Vitamin E 700 IU",
-            "Vitamin C 200 mg. Provitamin: Taurine 1;000mg. Amino Acids: D-L Methionine 1;400 mg",
+            "Vitamin C 200 mg. Provitamin: Taurine ,1mg. Amino Acids: D-L Methionine ,1 mg",
             "Lysine 380 mg. Trace Elements: Zinc (Zinc Chelate of Amino Acids Hydrate) 87 mg",
             "Iron (Iron (II) Chelate of Amino Acids) 65 mg",
             "Manganese (Manganese Chelate of Amino Acids Hydrate) 26 mg",
@@ -80,8 +82,6 @@
             "Iodine (Potassium Iodide) 0.36 mg",
             "Selenium (Sodium Selenite) 0.26 mg."
         ],
-        "calorie": "386 Kcals per 100g",
-        "image": "http://cdn.shopify.com/s/files/1/0388/4223/7067/products/dry-cat-food-salmon-vk-pouch_1200x1200.jpg?v=1624548191",
-        "site": "https://vetskitchen.co.uk"
+        "calorie": "386 Kcals per 100g"
     }
 ]

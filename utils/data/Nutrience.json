@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/adult-weight-control/",
         "brand": "Nutrience",
         "title": "Adult Weight Control - Nutrience - Cat Food Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2020/06/alexander-kagan-tB4KJhciWxE-unsplash-1-1.jpg",
         "descriptions": "Nutrience Infusion is a Canadian made cat food, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals.",
         "key_benefits": [
             "Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
@@ -80,14 +82,14 @@
             "Total microorganisms* min. 120M CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 456 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/06/alexander-kagan-tB4KJhciWxE-unsplash-1-1.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 456 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/canadian-pacific-formula/",
         "brand": "Nutrience",
         "title": "Canadian Pacific | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2020/02/shutterstock_568577707-2-scaled-e1615217105631.jpg",
         "descriptions": "Our Canadian Pacific food for cats is prepared with fresh wild-caught fish as well as real freeze-dried fish for a superior flavor that even the finickiest cats will crave. Made with chunks of Nutriboost for optimal nutrition.",
         "key_benefits": [
             "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
@@ -179,14 +181,14 @@
             "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,855 kcal/kg or 462 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/02/shutterstock_568577707-2-scaled-e1615217105631.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,855 kcal/kg or 462 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/fraser-valley-formula-2/",
         "brand": "Nutrience",
         "title": "Fraser Valley | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2020/08/shutterstock_1080055007-1-scaled-e1614625187833.jpg",
         "descriptions": "Our Nutrience SubZero Fraser Valley food for cats is prepared right here in Canada with fresh, never frozen Canadian sources of poultry, Pacific wild-caught fish and real freeze-dried chicken for a superior flavor that even the finickiest cats will crave. This cat food is grain-free and contains chunks of freeze-dried Nutriboost for optimal nutrition.",
         "key_benefits": [
             "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
@@ -286,14 +288,14 @@
             "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 455 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/08/shutterstock_1080055007-1-scaled-e1614625187833.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 455 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/healthy-adult-chicken-meal-with-brown-rice-recipe/",
         "brand": "Nutrience",
         "title": "Healthy Adult – Chicken Meal with Brown Rice Recipe - Nutrience",
+        "image": "https://nutrience.com/wp-content/uploads/2020/03/copshutterstock_280036565-scaled.jpg",
         "descriptions": "Quality chicken as the #1 ingredient in our Nutrience Original Healthy Adult cat food supports your cat’s strong, active body in the form of a delicious kibble.",
         "key_benefits": [
             "Cats require a diet rich in protein. We use high quality chicken as our first ingredient to ensure your cat maintains a lean muscle mass. Lesser quality meat by-products or plant glutens are never used to increase protein levels.",
@@ -352,30 +354,30 @@
             "yucca schidigera extract."
         ],
         "analysis": [
-            "Crude protein min 28.0%",
-            "Crude fat min 18.0%",
-            "Crude fiber max 3.5%",
-            "Moisture max 10.0%",
-            "Ash max 7.5%",
-            "Calcium min 1.1%",
-            "Phosphorus min 0.9%",
-            "Magnesium max 0.1%",
-            "Vitamin A min 20,000 IU/kg",
-            "Vitamin D3 min 1,100 IU/kg",
-            "Vitamin E min 110 IU/kg",
+            "Crude protein: 28.0%",
+            "Crude fat: 18.0%",
+            "Crude fiber: 3.5%",
+            "Moisture: 10.0%",
+            "Ash: 7.5%",
+            "Calcium: 1.1%",
+            "Phosphorus: 0.9%",
+            "Magnesium: 0.1%",
+            "Vitamin A: 20,000 IU/kg",
+            "Vitamin D3: 1,100 IU/kg",
+            "Vitamin E: 110 IU/kg",
             "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min 3.5%",
-            "Omega-3 fatty acids* min 0.3%"
+            "Omega-6 fatty acids*: 3.5%",
+            "Omega-3 fatty acids*: 0.3%"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,880 kcal/kg or 465 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/03/copshutterstock_280036565-scaled.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,880 kcal/kg or 465 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/healthy-adult-indoor-chicken-meal-with-brown-rice-recipe/",
         "brand": "Nutrience",
         "title": "Healthy Adult Indoor – Chicken Meal with Brown Rice Recipe - Nutrience",
+        "image": "https://nutrience.com/wp-content/uploads/2020/06/catback-21-scaled-e1594235434299.jpg",
         "descriptions": "Specifically formulated for indoor cats, our Nutrience Original Healthy Adult Indoor formula helps conquer weight and hairball challenges with healthy, wholesome ingredients.",
         "key_benefits": [
             "Indoor cats love to lounge and have a less active lifestyle than that of an outdoor cat. Providing them a diet rich in quality meat protein and moderate levels of fat will help them maintain a healthy weight and lean muscle mass. Quality chicken is always the first ingredient in our Nutrience Original formulas.",
@@ -456,14 +458,14 @@
             "Chondroitin* min. 100 mg/kg"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,685 kcal/kg or 442 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/06/catback-21-scaled-e1594235434299.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,685 kcal/kg or 442 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/healthy-adult-indoor/",
         "brand": "Nutrience",
         "title": "Healthy Adult Indoor - Nutrience - Cat Food Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2016/11/original-cat-banner1.jpg",
         "descriptions": "Nutrience Infusion is a Canadian made cat food for indoor cats, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals.",
         "key_benefits": [
             "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
@@ -539,14 +541,14 @@
             "Total microorganisms* min. 120M CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 456 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2016/11/original-cat-banner1.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 456 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/healthy-adult/",
         "brand": "Nutrience",
         "title": "Healthy Adult - Nutrience - Cat Food Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2016/11/shutterstock_522485095-2-e1571253226649.jpg",
         "descriptions": "Nutrience Infusion is a Canadian made cat food, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals.",
         "key_benefits": [
             "Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
@@ -618,14 +620,14 @@
             "Total microorganisms* min. 120M CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,830 kcal/kg or 459 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2016/11/shutterstock_522485095-2-e1571253226649.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,830 kcal/kg or 459 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/healthy-kitten-chicken-meal-with-brown-rice-recipe/",
         "brand": "Nutrience",
         "title": "Healthy Kitten – Chicken Meal with Brown Rice Recipe - Nutrience",
+        "image": "https://nutrience.com/wp-content/uploads/2020/06/care-guides-banner.jpg",
         "descriptions": "Made with quality chicken meal, Nutrience Original Healthy Kitten formula helps ensure your kitten’s optimal growth. For a complete guide on how to care for your new kitten, check out our Kitten Care Guide.",
         "key_benefits": [
             "Growing kittens require more protein in their diet. We use quality chicken as our first ingredient and do not add by-products or plant glutens, to ensure your kitten builds strong, lean muscles",
@@ -685,31 +687,31 @@
             "yucca schidigera extract."
         ],
         "analysis": [
-            "Crude protein min 31.0%",
-            "Crude fat min 19.0%",
-            "Crude fiber max 3.5%",
-            "Moisture max 10.0%",
-            "Ash max 7.5%",
-            "Calcium min 1.2%",
-            "Phosphorus min 1.0%",
-            "Magnesium max 0.1%",
-            "Vitamin A min 20,000 IU/kg",
-            "Vitamin D3 min 1,100 IU/kg",
-            "Vitamin E min 110 IU/kg",
+            "Crude protein: 31.0%",
+            "Crude fat: 19.0%",
+            "Crude fiber: 3.5%",
+            "Moisture: 10.0%",
+            "Ash: 7.5%",
+            "Calcium: 1.2%",
+            "Phosphorus: 1.0%",
+            "Magnesium: 0.1%",
+            "Vitamin A: 20,000 IU/kg",
+            "Vitamin D3: 1,100 IU/kg",
+            "Vitamin E: 110 IU/kg",
             "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min 3.8%",
-            "Omega-3 fatty acids* min 0.4%",
-            "Docosahexaenoic acid* (DHA) min 0.1%"
+            "Omega-6 fatty acids*: 3.8%",
+            "Omega-3 fatty acids*: 0.4%",
+            "Docosahexaenoic acid* (DHA): 0.1%"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,930 kcal/kg or 472 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/06/care-guides-banner.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,930 kcal/kg or 472 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/healthy-kitten/",
         "brand": "Nutrience",
         "title": "Canadian made Healthy Kitten, Chicken food - Nutrience -kitten formula",
+        "image": "https://nutrience.com/wp-content/uploads/2016/11/shutterstock_1445765741-2-scaled-e1614613521294.jpg",
         "descriptions": "Nutrience Infusion kibble for kittens is a Canadian made kitten food, combining fresh, never frozen chicken, low-glycemic whole grains, vegetables, fruits, and nutrient-rich botanicals. Whole vegetables and fruits are included for their antioxidant and phytonutrient properties to help kittens develop a strong immune system. Additionally, this formula is made with natural sources of DHA to help support brain and eye development. Plus, this kitten food is rich in Canadian-sourced protein and freeze-dried infused for a superior flavor that even the finickiest kittens will crave. On top of being delicious, this kibble is also fortified with prebiotics and probiotics that provide greater absorption of nutrients and help support your kitten’s healthy gut flora.",
         "key_benefits": [
             "Supports Brain Development Contains DHA to help support brain and eye development.",
@@ -784,14 +786,14 @@
             "Total microorganisms* min. 120M CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,935 kcal/kg or 472 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2016/11/shutterstock_1445765741-2-scaled-e1614613521294.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,935 kcal/kg or 472 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/indoor-cat-turkey-chicken-duck-formula/",
         "brand": "Nutrience",
         "title": "Indoor Cat – Turkey, Chicken & Duck - Nutrience - Canadian Cat Food",
+        "image": "https://nutrience.com/wp-content/uploads/2018/08/grain-free-cat-banner1.jpg",
         "descriptions": "A lower-fat formulation for cats of all life stages and all breeds, Nutrience Grain Free Indoor Cat – Turkey, Chicken & Duck formula especially suits indoor cats and less active cats still requiring a grain-free diet.",
         "key_benefits": [
             "Premium lean protein sources provide a complete essential amino acid profile for overall health and growth of your cat, while keeping them trim & fit.",
@@ -904,14 +906,14 @@
             "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,710 kcal/kg or 445 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2018/08/grain-free-cat-banner1.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content: 3,710 kcal/kg or 445 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/nutrience-grain-free-air-dried-cat-food-the-rancher/",
         "brand": "Nutrience",
         "title": "Air dried cat meal -The Rancher - Grain FreeNutrience - Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2021/02/Air-Dried-Banner-Beef-Cat-NEW.png",
         "descriptions": "Nutrience Grain Free Canadian Air Dried The Rancher cat food is a complete & balanced, raw-inspired diet for cats. This recipe is showcasing our country’s fresh, high quality ingredients. Handcrafted in small batches in Canada, we air-dry our foods at low temperatures to preserve all the nutrients & flavours those ingredients have to offer, resulting in a highly digestible, highly nutritious and, just simply, a really good-for-them food. Gently air dried and minimally processed to give you the very best Canada has to offer. Feed as a meal, add as a topper or offer as a treat. What is air drying? Inspired by raw diet, air drying is a preservation method that eliminates the moisture for microbial growth without the use of high temperatures. This method results in shelf-stable, highly palatable food, and preserves vital nutrients, offering nutrition similar to a raw diet. Air drying: Moisture is removed via the process of evaporation. Ingredients are placed into drying chambers, where air is continually circulated, slowly and gently evaporating moisture until a maximum level of 14% is reached. With higher moisture than freeze-dried, air dried diets offer scoop & feed convenience. RECOMMENDED FOR: • Cats of all life stages What Is the Difference Between Air Drying and Freeze Drying Cat Food?",
         "key_benefits": [
             "Our air-dried cat food is proudly made in Canada.",
@@ -965,23 +967,23 @@
             "Lactobacillus fermentum."
         ],
         "analysis": [
-            "Crude protein min 40.0 %",
-            "Crude fat min 25.0 %",
-            "Crude fiber max 5.0 %",
-            "Moisture max 14.0 %",
-            "Omega-6 fatty acids* min 1.2 %",
-            "Omega-3 fatty acids* min 0.4 %",
+            "Crude protein: 40.0 %",
+            "Crude fat: 25.0 %",
+            "Crude fiber: 5.0 %",
+            "Moisture: 14.0 %",
+            "Omega-6 fatty acids*: 1.2 %",
+            "Omega-3 fatty acids*: 0.4 %",
             "Total microorganisms* min  3,000,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "(calculated): 4,285 kcal/kg or 486 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2021/02/Air-Dried-Banner-Beef-Cat-NEW.png",
-        "site": "https://nutrience.com"
+        "calorie": "(calculated): 4,285 kcal/kg or 486 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/nutrience-grain-free-air-dried-for-cats-the-farmer/",
         "brand": "Nutrience",
         "title": "Air Dried Cat Food - Nutrience Grain Free - Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2021/02/Air-Dried-Banner-Chicken-Cat-NEW.png",
         "descriptions": "Nutrience Grain Free Canadian Air Dried cat food The Farmer is a complete & balanced, raw-inspired for cats, showcasing our country’s fresh, high quality ingredients. Handcrafted in small batches in Canada, we air-dry our foods at low temperatures to preserve all the nutrients & flavours those ingredients have to offer, resulting in a highly digestible, highly nutritious and, just simply, a really good-for-them food. Gently air dried and minimally processed to give you the very best Canada has to offer. Feed as a meal, add as a topper or offer as a treat. What is air drying? Inspired by raw diet, air drying is a preservation method that eliminates the moisture for microbial growth without the use of high temperatures. This method results in shelf-stable, highly palatable food, and preserves vital nutrients, offering nutrition similar to a raw diet. Air drying: Moisture is removed via the process of evaporation. Ingredients are placed into drying chambers, where air is continually circulated, slowly and gently evaporating moisture until a maximum level of 14% is reached. With higher moisture than freeze-dried, air dried diets offer scoop & feed convenience. RECOMMENDED FOR: • Cats of all life stages What Is the Difference Between Air Drying and Freeze Drying Cat Food?",
         "key_benefits": [
             "Our Air dried cat food is proudly made in Canada.",
@@ -1036,23 +1038,23 @@
             "calcium iodate."
         ],
         "analysis": [
-            "Crude protein min 38.0 %",
-            "Crude fat min 25.0 %",
-            "Crude fiber max 5.0 %",
-            "Moisture max 14.0 %",
-            "Omega-6 fatty acids* min 3.5 %",
-            "Omega-3 fatty acids* min 0.6 %",
+            "Crude protein: 38.0 %",
+            "Crude fat: 25.0 %",
+            "Crude fiber: 5.0 %",
+            "Moisture: 14.0 %",
+            "Omega-6 fatty acids*: 3.5 %",
+            "Omega-3 fatty acids*: 0.6 %",
             "Total microorganisms* min  3,000,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "(calculated): 4,455 kcal/kg or 506 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2021/02/Air-Dried-Banner-Chicken-Cat-NEW.png",
-        "site": "https://nutrience.com"
+        "calorie": "(calculated): 4,455 kcal/kg or 506 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/ocean-fish-formula/",
         "brand": "Nutrience",
         "title": "Ocean Fish Formula - Nutrience - Cat Food Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2020/08/shutterstock_1377027521-2-1-scaled-600x400-c-default.jpg",
         "descriptions": "The Grain Free Ocean Fish Formula is a great diet for cats sensitive to land-based proteins, eggs and poultry. This gluten-free formula is perfectly suited for cats of all life stages.",
         "key_benefits": [
             "Premium lean protein sources provide a complete essential amino acid profile for overall health and growth of your cat, while keeping them trim & fit.",
@@ -1135,33 +1137,33 @@
             "dried Enterococcus faecium fermentation product."
         ],
         "analysis": [
-            "Crude protein min 38.0%",
-            "Crude fat min 18.0%",
-            "Crude fiber max 3.5%",
-            "Moisture max 10.0%",
-            "Ash max 7.5%",
-            "Calcium min 1.1%",
-            "Phosphorus min 0.9%",
-            "Magnesium max 0.1%",
-            "Vitamin A min 25,000 IU/kg",
-            "Vitamin D3 min 1,300 IU/kg",
-            "Vitamin E min 130 IU/kg",
+            "Crude protein: 38.0%",
+            "Crude fat: 18.0%",
+            "Crude fiber: 3.5%",
+            "Moisture: 10.0%",
+            "Ash: 7.5%",
+            "Calcium: 1.1%",
+            "Phosphorus: 0.9%",
+            "Magnesium: 0.1%",
+            "Vitamin A: 25,000 IU/kg",
+            "Vitamin D3: 1,300 IU/kg",
+            "Vitamin E: 130 IU/kg",
             "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min 3.0%",
-            "Omega-3 fatty acids* min 1.5%",
-            "Glucosamine* min 800 mg/kg",
-            "Chondroitin sulfate* min 400 mg/kg",
+            "Omega-6 fatty acids*: 3.0%",
+            "Omega-3 fatty acids*: 1.5%",
+            "Glucosamine*: 800 mg/kg",
+            "Chondroitin sulfate*: 400 mg/kg",
             "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,950 kcal/kg or 474 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/08/shutterstock_1377027521-2-1-scaled-600x400-c-default.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,950 kcal/kg or 474 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/prairie-red-formula-cat/",
         "brand": "Nutrience",
         "title": "Prairie Red | High Protein Cat Food - Nutrience - Cat Food Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2020/08/shutterstock_580157716-2-e1596483191347.jpg",
         "descriptions": "Our Prairie Red formula is prepared right here in Canada with fresh, never frozen Canadian sources of beef, bison, wild boar, Pacific wild-caught fish and real freeze-dried beef liver for a superior flavor that even the finickiest cats will crave. This formula is grain-free, poultry-free and contains freeze-dried chunks of Nutriboost for optimal nutrition.",
         "key_benefits": [
             "Wholesome Fruits & Vegetables Whole fruits and vegetables contain rich antioxidant and phytonutrient properties.",
@@ -1261,14 +1263,14 @@
             "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 455 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/08/shutterstock_580157716-2-e1596483191347.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,800 kcal/kg or 455 kcal/cup ME"
     },
     {
+        "site": "https://nutrience.com",
         "url": "https://nutrience.com/products/turkey-chicken-herring-formula/",
         "brand": "Nutrience",
         "title": "Turkey, Chicken & Herring Formula - Nutrience - Cat Food Made in Canada",
+        "image": "https://nutrience.com/wp-content/uploads/2020/02/catlake1-e1582311181916.jpg",
         "descriptions": "A great everyday diet created for cats of all breeds and life stages. Nutrience Grain Free Turkey, Chicken & Herring formula is both grain-free and gluten-free, making it perfectly suited for active or sensitive cats.",
         "key_benefits": [
             "Multiple sources of animal ingredients provide protein and essential amino acids for overall health and growth.",
@@ -1352,27 +1354,25 @@
             "dried Enterococcus faecium fermentation product."
         ],
         "analysis": [
-            "Crude protein min 40.0%",
-            "Crude fat min 18.0%",
-            "Crude fiber max 3.5%",
-            "Moisture max 10.0%",
-            "Ash max 7.5%",
-            "Calcium min 1.1%",
-            "Phosphorus min 0.9%",
-            "Magnesium max 0.1%",
-            "Vitamin A min 25,000 IU/kg",
-            "Vitamin D3 min 1,300 IU/kg",
-            "Vitamin E min 130 IU/kg",
+            "Crude protein: 40.0%",
+            "Crude fat: 18.0%",
+            "Crude fiber: 3.5%",
+            "Moisture: 10.0%",
+            "Ash: 7.5%",
+            "Calcium: 1.1%",
+            "Phosphorus: 0.9%",
+            "Magnesium: 0.1%",
+            "Vitamin A: 25,000 IU/kg",
+            "Vitamin D3: 1,300 IU/kg",
+            "Vitamin E: 130 IU/kg",
             "Taurine min. 0.15%",
-            "Omega-6 fatty acids* min 3.5%",
-            "Omega-3 fatty acids* min 0.4%",
-            "Glucosamine* min 800 mg/kg",
-            "Chondroitin sulfate* min 400 mg/kg",
+            "Omega-6 fatty acids*: 3.5%",
+            "Omega-3 fatty acids*: 0.4%",
+            "Glucosamine*: 800 mg/kg",
+            "Chondroitin sulfate*: 400 mg/kg",
             "Total microorganisms* min. 225,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content (calculated): 3,955 kcal/kg or 475 kcal/cup ME",
-        "image": "https://nutrience.com/wp-content/uploads/2020/02/catlake1-e1582311181916.jpg",
-        "site": "https://nutrience.com"
+        "calorie": "Calorie Content (calculated): 3,955 kcal/kg or 475 kcal/cup ME"
     }
 ]

@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://nolnz.com",
         "url": "https://nolnz.com/petbakery-natural-pet-food-products/#for-cats",
         "brand": "New Origin Pet Bakery",
         "title": "PETBAKERY NATURAL PET FOOD - Beef & Fish",
+        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
         "descriptions": [
             "We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out.",
             "To use PETBAKERY NATURAL PET FOOD can be served as dry or re-hydrated by adding fresh water. If your cat does not drink plenty of water at mealtime, we recommend re-hydrating equal parts food to water.",
@@ -33,14 +35,14 @@
             "Minimum Taurine 0.34%"
         ],
         "additive": null,
-        "calorie": "Energy Density = 4923 kcal/kg",
-        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
-        "site": "https://nolnz.com"
+        "calorie": "4923 kcal/kg"
     },
     {
+        "site": "https://nolnz.com",
         "url": "https://nolnz.com/petbakery-natural-pet-food-products/#for-cats",
         "brand": "New Origin Pet Bakery",
         "title": "PETBAKERY NATURAL PET FOOD - Chicken & Fish",
+        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
         "descriptions": [
             "We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out.",
             "To use PETBAKERY NATURAL PET FOOD can be served as dry or re-hydrated by adding fresh water. If your cat does not drink plenty of water at mealtime, we recommend re-hydrating equal parts food to water.",
@@ -72,14 +74,14 @@
             "Minimum Taurine 0.32%"
         ],
         "additive": null,
-        "calorie": "Energy Density = 4576 kcal/kg",
-        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
-        "site": "https://nolnz.com"
+        "calorie": "4576 kcal/kg"
     },
     {
+        "site": "https://nolnz.com",
         "url": "https://nolnz.com/petbakery-natural-pet-food-products/#for-cats",
         "brand": "New Origin Pet Bakery",
         "title": "PETBAKERY NATURAL PET FOOD - Lamb & Fish",
+        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
         "descriptions": [
             "We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out.",
             "To use PETBAKERY NATURAL PET FOOD can be served as dry or re-hydrated by adding fresh water. If your cat does not drink plenty of water at mealtime, we recommend re-hydrating equal parts food to water.",
@@ -110,14 +112,14 @@
             "Minimum Taurine 0.36%"
         ],
         "additive": null,
-        "calorie": "Energy Density = 4837 kcal/kg",
-        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
-        "site": "https://nolnz.com"
+        "calorie": "4837 kcal/kg"
     },
     {
+        "site": "https://nolnz.com",
         "url": "https://nolnz.com/petbakery-natural-pet-food-products/#for-cats",
         "brand": "New Origin Pet Bakery",
         "title": "PETBAKERY NATURAL PET FOOD - Fish Feast",
+        "image": null,
         "descriptions": [
             "We combine the nutrition and taste of fresh, raw food and put it through a gentle freeze drying process which protects all the natural enzymes and nutrients, so none of the wholesome goodness is cooked out.",
             "To use PETBAKERY NATURAL PET FOOD can be served as dry or re-hydrated by adding fresh water. If your cat does not drink plenty of water at mealtime, we recommend re-hydrating equal parts food to water.",
@@ -152,8 +154,6 @@
             "Minimum Taurine 0.42%"
         ],
         "additive": null,
-        "calorie": "Energy Density = 5106 kcal/kg",
-        "image": null,
-        "site": "https://nolnz.com"
+        "calorie": "5106 kcal/kg"
     }
 ]

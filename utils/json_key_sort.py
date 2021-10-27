@@ -9,22 +9,22 @@ brand_list = ["A La CARTE", "Aatas Cat", "AATU", "Absolute Holistic", "ACANA", "
 key_list = ['site', 'url', 'brand', 'title', 'image', 'descriptions', 'key_benefits', 'ingredients', 'analysis', 'additive', 'calorie']
 # driver = webdriver.Chrome()
 
-
-for brand in brand_list:
-    with open(f"./data/{brand}.json", mode='r', encoding='UTF-8') as input_file:
-        formulas = json.load(input_file)
-        if type(formulas) is list:
-            some_list = []
-            for formula in formulas:
+if __name__ == "__main__":
+    for brand in brand_list:
+        with open(f"./data/{brand}.json", mode='r', encoding='UTF-8') as input_file:
+            formulas = json.load(input_file)
+            if type(formulas) is list:
+                some_list = []
+                for formula in formulas:
+                    some_dict = dict()
+                    for key in key_list:
+                        some_dict[key] = formula.get(key)
+                    some_list.append(some_dict)
+                with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
+                    json.dump(some_list, output, indent=4, ensure_ascii=False, allow_nan=True)
+            elif type(formulas) is dict:
                 some_dict = dict()
                 for key in key_list:
-                    some_dict[key] = formula[key]
-                some_list.append(some_dict)
-            with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
-                json.dump(some_list, output, indent=4, ensure_ascii=False, allow_nan=True)
-        elif type(formulas) is dict:
-            some_dict = dict()
-            for key in key_list:
-                some_dict[key] = formulas[key]
-            with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
-                json.dump(some_dict, output, indent=4, ensure_ascii=False, allow_nan=True)
+                    some_dict[key] = formulas.get(key)
+                with open(f"./data/{brand}.json", mode='w', encoding='UTF-8') as output:
+                    json.dump(some_dict, output, indent=4, ensure_ascii=False, allow_nan=True)

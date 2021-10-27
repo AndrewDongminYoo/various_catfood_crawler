@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.marppetfood.com",
         "url": "https://www.marppetfood.com/marp-holistic-pure-beef-for-cats-100g",
         "brand": "Marp",
         "title": "Marp | Marp Holistic Pure Beef | Marp Holistic | Canned food for cats | For cats, Products",
+        "image": "https://i00.eu/img/629/1200x630/dmmjhvs9/352.jpg",
         "descriptions": "We know that cat is carnivore and therefore we respect it as such. Marp Pure canned food contains 100% proteins from animal sources. They contain only meat, offal, broth and minerals. We do not use any artificial preservatives, colorants, fillers and so on. Marp canned food with beef grain free is suitable for cats with sensitive digestion and in our experience is very suitable for cats with food allergies.",
         "key_benefits": [
             "Single animal protein",
@@ -17,7 +19,7 @@
             "Ingredients: 70% (Beef Hearts, Beef Meat, Beef Liver, Beef Lung)",
             "28;5% Broth",
             "1% Minerals",
-            "0;5% Sunflower Oil."
+            ".5% Sunflower Oil."
         ],
         "analysis": null,
         "additive": [
@@ -27,17 +29,17 @@
             "Manganese as manganese-II-sulfate",
             "monohydrate (E5) 1;4 mg",
             "Iodine as calcium iodate",
-            "waterfree (E2) 0;75mg",
+            "waterfree (E2) 0.75mg",
             "Taurine 1500 mg."
         ],
-        "calorie": null,
-        "image": "https://i00.eu/img/629/1200x630/dmmjhvs9/352.jpg",
-        "site": "https://www.marppetfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.marppetfood.com",
         "url": "https://www.marppetfood.com/marp-holistic-pure-chicken-for-cats-100g",
         "brand": "Marp",
         "title": "Marp | Marp Holistic Pure Chicken | Marp Holistic | Canned food for cats | For cats, Products",
+        "image": "https://i00.eu/img/629/1200x630/3wmak4xk/349.jpg",
         "descriptions": "We know that cat is carnivore and therefore we respect it as such. Marp Pure canned food contains 100% proteins from animal sources. They contain only meat, offal, broth and minerals. We do not use any artificial preservatives, colorants, fillers and so on. Marp canned food with chicken grain free is suitable for cats with sensitive digestion and in our experience is very suitable for cats with food allergies.",
         "key_benefits": [
             "Single animal protein",
@@ -61,19 +63,19 @@
             "Manganese as manganese-II-sulfate",
             "monohydrate (E5) 1;4 mg",
             "Iodine as calcium iodate",
-            "waterfree (E2) 0;75mg",
+            "waterfree (E2) 0.75mg",
             "Copper as cupric-sulfate",
-            "Pentahydrate (E4) 0;5 mg",
+            "Pentahydrate (E4) 0.5 mg",
             "Taurine 1500 mg."
         ],
-        "calorie": null,
-        "image": "https://i00.eu/img/629/1200x630/3wmak4xk/349.jpg",
-        "site": "https://www.marppetfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.marppetfood.com",
         "url": "https://www.marppetfood.com/marp-holistic-pure-salmon-for-cats-100g",
         "brand": "Marp",
         "title": "Marp | Marp Holistic Pure Salmon | Marp Holistic | Canned food for cats | For cats, Products",
+        "image": "https://i00.eu/img/629/1200x630/2fjxjcid/355.jpg",
         "descriptions": "We know that cat is carnivore and therefore we respect it as such. Marp Pure canned food contains 100% proteins from animal sources. They contain only meat, offal, broth and minerals. We do not use any artificial preservatives, colorants, fillers and so on. Marp canned food with salmon grain free is suitable for cats with sensitive digestion and in our experience is very suitable for cats with food allergies.",
         "key_benefits": [
             "Single animal protein",
@@ -97,13 +99,11 @@
             "Manganese as manganese-II-sulfate",
             "monohydrate (E5) 1;4 mg",
             "Iodine as calcium iodate",
-            "waterfree (E2) 0;75mg",
+            "waterfree (E2) 0.75mg",
             "Copper as cupric-sulfate",
             "Pentahydrate (E4) 2 mg",
             "Taurine 1500 mg."
         ],
-        "calorie": null,
-        "image": "https://i00.eu/img/629/1200x630/2fjxjcid/355.jpg",
-        "site": "https://www.marppetfood.com"
+        "calorie": null
     }
 ]

@@ -1,10 +1,8 @@
 from pymongo import MongoClient
 import json
 client = MongoClient('localhost', 27017)  # mongoDB는 27017 포트로 돌아갑니다.
-db = client.dbMyProject
-col = db.catfood
+db = client.get_database("Cat-Foods")
 col.delete_many({})
-
 
 brand_list = [
     "A La CARTE", "Aatas Cat", "AATU", "Absolute Holistic", "ACANA", "Addiction", "Adirondack", "ADVANCE",
@@ -34,6 +32,7 @@ brand_list = [
 
 for brand in brand_list:
     with open(f"./data/{brand}.json", mode="r", encoding="utf8", newline="") as input_file:
+        col = db.get_collection(brand)
         data = json.load(input_file)
         if type(data) is dict:
             col.insert_one(data)

@@ -1,8 +1,10 @@
 [
     {
+        "site": "http://www.braverypetfood.com",
         "url": "http://www.braverypetfood.com/en/cats/salmon-adult-cat-sterilized/",
         "brand": "Bravery Pet Food",
         "title": "Salmon - Sterilized Adult Cat - Bravery Pet Food",
+        "image": "https://images.app.goo.gl/v8jv8X5LuHT3YJvX6",
         "descriptions": "The daily amount of this food that your cat needs depends on different factors such as weight, daily activity level, age, natural setting… For purposes of orientation, for cats with a normal daily activity level, depending on their body weight, we recommend providing them with the following daily amounts:",
         "key_benefits": null,
         "ingredients": [
@@ -41,14 +43,14 @@
             "Chondroitin sulfate 220 mg/kg."
         ],
         "additive": [
-            "Nutritional additives: Vitamin A 28;000 IU/kg",
-            "Vitamin D-3 1;600 IU/kg.",
+            "Nutritional additives: Vitamin A 2,8 IU/kg",
+            "Vitamin D-3 ,1 IU/kg.",
             "Vitamin E 600 mg/kg.",
             "Vitamin C 300 mg/kg",
-            "Biotin 2;600 mcg/kg.",
+            "Biotin ,2 mcg/kg.",
             "L-Carnitine 280 mg/kg",
-            "Choline chloride 3;220 mg/kg",
-            "Taurine 2;000 mg/kg",
+            "Choline chloride ,3 mg/kg",
+            "Taurine ,2 mg/kg",
             "Iron (ferrous sulfate monohydrate) 60 mg/kg",
             "Iron (iron chelate of glycine hydrate) 60 mg/kg",
             "Copper (cupric sulfate pentahydrate) 5 mg/kg",
@@ -61,14 +63,14 @@
             "Selenium (sodium selenite) 0.05 mg/kg",
             "Selenium (hydroxylated analogue of selenomethionine) 0.20 mg/kg."
         ],
-        "calorie": "3.575 Kcal/kg",
-        "site": "http://www.braverypetfood.com",
-        "image": "https://images.app.goo.gl/v8jv8X5LuHT3YJvX6"
+        "calorie": "3,575 Kcal/kg"
     },
     {
+        "site": "https://www.braverypetfood.com",
         "url": "https://www.braverypetfood.com/en/cats/chicken-adult-cat-sterilized/",
         "brand": "Bravery Pet Food",
         "title": "Chicken - Adult Cat Sterilized - Bravery Pet Food",
+        "image": "https://images.app.goo.gl/zgHQhW3hdjiCStg57",
         "descriptions": "The daily amount of this food that your cat needs depends on different factors such as weight, daily activity level, age, natural setting… For purposes of orientation, for cats with a normal daily activity level, depending on their body weight, we recommend providing them with the following daily amounts:",
         "key_benefits": null,
         "ingredients": [
@@ -103,20 +105,21 @@
             "Calcium 1.20%",
             "Phosphorus 1.00%",
             "Sodium 0.75%",
-            "Magnesium 0.09% Water 8.00%",
+            "Magnesium 0.09%",
+            "Water 8.00%",
             "EPA + DHA 0.50%",
             "glucosamine hydrochloride 300 mg/kg",
             "chondroitin sulfate 220 mg/kg."
         ],
         "additive": [
-            "Nutritional additives: Vitamin A 28;000 IU/kg",
-            "Vitamin D-3 1;600 IU/kg",
+            "Nutritional additives: Vitamin A 2,8 IU/kg",
+            "Vitamin D-3 ,1 IU/kg",
             "Vitamin E 600 mg/kg",
             "Vitamin C 300 mg/kg",
-            "Biotin 2;600 mcg/kg",
+            "Biotin ,2 mcg/kg",
             "L-Carnitine 280 mg/kg",
-            "Choline chloride 3;220 mg/kg",
-            "Taurine 2;000 mg/kg",
+            "Choline chloride ,3 mg/kg",
+            "Taurine ,2 mg/kg",
             "Iron (ferrous sulfate monohydrate) 60 mg/kg.",
             "Iron (iron chelate of glycine hydrate) 60 mg/kg",
             "Copper (cupric sulfate penta- hydrate) 5 mg/kg",
@@ -129,14 +132,14 @@
             "Selenium (sodium selenite) 0.05 mg/kg",
             "Selenium (hydroxylated analogue of selenomethionine) 0.20 mg/kg."
         ],
-        "calorie": "3.575 Kcal/kg",
-        "site": "https://www.braverypetfood.com",
-        "image": "https://images.app.goo.gl/zgHQhW3hdjiCStg57"
+        "calorie": "3,575 Kcal/kg"
     },
     {
+        "site": "https://www.braverypetfood.com",
         "url": "https://www.braverypetfood.com/en/cats/chicken-adult-cat/",
         "brand": "Bravery Pet Food",
         "title": "Chicken - Adult Cat - Bravery Pet Food",
+        "image": "https://images.app.goo.gl/Rdq5fetdWpJXYJFT7",
         "descriptions": "The daily amount of this food that your cat needs depends on different factors such as weight, daily activity level, age, natural setting… For purposes of orientation, for cats with a normal daily activity level, depending on their body weight, we recommend providing them with the following daily amounts:",
         "key_benefits": null,
         "ingredients": [
@@ -171,20 +174,20 @@
             "Calcium 1.30%",
             "Phosphorus 1.10%",
             "Sodium 0.70%",
-            "Magnesium 0.09% Water 8.00%",
+            "Magnesium 0.09%","Water 8.00%",
             "EPA + DHA 0.38%",
             "Glucosamine hydrochloride 300 mg/kg",
             "Chondroitin sulfate 220 mg/kg."
         ],
         "additive": [
-            "Nutritional additives: Vitamin A 28;000 IU/kg",
-            "Vitamin D-3 1;600 IU/kg",
+            "Nutritional additives: Vitamin A 2,8 IU/kg",
+            "Vitamin D-3 ,1 IU/kg",
             "Vitamin E 600 mg/kg",
             "Vitamin C 300 mg/kg",
-            "Biotin 2;600 mcg/kg",
+            "Biotin ,2 mcg/kg",
             "L-Carnitine 120 mg/kg",
-            "Choline chloride 3;220 mg/kg",
-            "Taurine 2;000 mg/kg",
+            "Choline chloride ,3 mg/kg",
+            "Taurine ,2 mg/kg",
             "Iron (ferrous sulfate monohydrate) 60 mg/kg",
             "Iron (iron chelate of glycine hydrate) 60 mg/kg",
             "Copper (cupric sulfate pentahydrate) 5 mg/kg.",
@@ -197,14 +200,14 @@
             "Selenium (sodium selenite) 0.05 mg/kg",
             "Selenium (hydroxylated analogue of selenomethionine) 0.20 mg/kg."
         ],
-        "calorie": "3.795 Kcal/kg",
-        "site": "https://www.braverypetfood.com",
-        "image": "https://images.app.goo.gl/Rdq5fetdWpJXYJFT7"
+        "calorie": "3,795 Kcal/kg"
     },
     {
+        "site": "https://www.braverypetfood.com",
         "url": "https://www.braverypetfood.com/en/cats/chicken-kitten-cat/",
         "brand": "Bravery Pet Food",
         "title": "Chicken - Kitten Cat - Bravery Pet Food",
+        "image": "https://images.app.goo.gl/4Xqp5GSmAHKnbYw3A",
         "descriptions": "The daily amount of this food that your kitten needs depends on different factors such as weight, daily activity level, age, natural setting… For purposes of orientation, for kittens with a normal daily activity level, depending on their body weight, we recommend providing them with the following daily amounts:",
         "key_benefits": null,
         "ingredients": [
@@ -239,20 +242,20 @@
             "Calcium 1.30%",
             "Phosphorus 1.10%",
             "Sodium 0.40%",
-            "Magnesium 0.09% Water 8.00%",
+            "Magnesium 0.09%","Water 8.00%",
             "EPA + DHA 0.50%",
             "Glucosamine hydrochloride 300 mg/kg",
             "Chondroitin sulfate 220 mg/kg."
         ],
         "additive": [
-            "Nutritional additives: Vitamin A 22;000 IU/kg",
-            "Vitamin D-3 1;600 IU/kg",
+            "Nutritional additives: Vitamin A 2,2 IU/kg",
+            "Vitamin D-3 ,1 IU/kg",
             "Vitamin E 460 mg/kg",
             "Vitamin C 200 mg/kg",
-            "Biotin 2;000 mcg/kg",
+            "Biotin ,2 mcg/kg",
             "L-carnitine 60 mg/kg",
-            "choline chloride 1;800 mg/kg",
-            "taurine 1;200 mg/Kg",
+            "choline chloride ,1 mg/kg",
+            "taurine ,1 mg/Kg",
             "iron (monohydrated ferrous sulphate) 60 mg/kg",
             "iron (iron chelate of glycine hydrate) 12 mg/kg",
             "copper (copper sulphate pentahydrate) 5.5 mg/kg",
@@ -265,14 +268,14 @@
             "selenium (sodium selenite) 0.11 mg/kg",
             "selenium (hydroxylated analogue of selenomethionine) 0.11 mg/kg. Technological additives: Antioxidants (Vegetable oils rich in tocopherols)."
         ],
-        "calorie": "4.020 Kcal/kg",
-        "site": "https://www.braverypetfood.com",
-        "image": "https://images.app.goo.gl/4Xqp5GSmAHKnbYw3A"
+        "calorie": "4,020 Kcal/kg"
     },
     {
+        "site": "https://www.braverypetfood.com",
         "url": "https://www.braverypetfood.com/en/cats/salmon-adult-cat/",
         "brand": "Bravery Pet Food",
         "title": "Salmon - Adult Cat - Bravery Pet Food",
+        "image": "https://images.app.goo.gl/rCGcwwnUhM6gqoYR9",
         "descriptions": "The daily amount of this food that your cat needs depends on different factors such as weight, daily activity level, age, natural setting… For purposes of orientation, for cats with a normal daily activity level, depending on their body weight, we recommend providing them with the following daily amounts:",
         "key_benefits": null,
         "ingredients": [
@@ -306,20 +309,20 @@
             "Calcium 1.00%",
             "Phosphorus 1.00%",
             "Sodium 0.60%",
-            "Magnesium 0.09% Water 8.00%",
+            "Magnesium 0.09%","Water 8.00%",
             "EPA + DHA 0.52%",
             "Glucosamine hydrochloride 300 mg/kg",
             "Chondroitin sulfate 220 mg/kg."
         ],
         "additive": [
-            "Nutritional additives: Vitamin A 28;000 IU/kg",
-            "Vitamin D-3 1;600 IU/kg.",
+            "Nutritional additives: Vitamin A 2,8 IU/kg",
+            "Vitamin D-3 ,1 IU/kg.",
             "Vitamin E 600 mg/kg",
             "Vitamin C 300 mg/kg",
-            "Biotin 2;600 mcg/kg",
+            "Biotin ,2 mcg/kg",
             "L-Carnitine 120 mg/kg",
-            "Choline chloride 3;220 mg/kg",
-            "Taurine 2;000 mg/kg",
+            "Choline chloride ,3 mg/kg",
+            "Taurine ,2 mg/kg",
             "Iron (ferrous sulfate monohydrate) 60 mg/kg",
             "Iron (iron chelate of glycine hydrate) 60 mg/kg",
             "Copper (cupric sulfate pentahydrate) 5 mg/kg",
@@ -332,8 +335,6 @@
             "Selenium (sodium selenite) 0.05 mg/kg",
             "Selenium (hydroxylated analogue of selenomethionine) 0.20 mg/kg."
         ],
-        "calorie": "3.795 Kcal/kg",
-        "site": "https://www.braverypetfood.com",
-        "image": "https://images.app.goo.gl/rCGcwwnUhM6gqoYR9"
+        "calorie": "3,795 Kcal/kg"
     }
 ]

@@ -1,8 +1,10 @@
 [
     {
+        "site": "http://catfooddb.com",
         "url": "http://catfooddb.com/product/pro%20pac/Deep+Sea+Select+Indoor+Formula",
         "brand": "PRO PAC Ultimates",
         "title": "Pro Pac Deep Sea Select Indoor Formula Cat Food Review (2021)",
+        "image": "/img/products/propac/150_deep-sea-large-image1.jpg",
         "descriptions": "Overall, Pro Pac Deep Sea Select Indoor Formula is a below average cat food, earning 5 out of a possible 10 paws based on its nutritional analysis and ingredient list. For more information on our cat food analysis techniques, please click here.",
         "key_benefits": [
             "significantly less protein than average",
@@ -61,14 +63,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "Using the calculations provided by the AAFCO, Pro Pac Deep Sea Select Indoor Formula has approximately 359 calories per 100g (101 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB.",
-        "image": "/img/products/propac/150_deep-sea-large-image1.jpg",
-        "site": "http://catfooddb.com"
+        "calorie": "Using the calculations provided by the AAFCO, Pro Pac Deep Sea Select Indoor Formula has approximately 359 calories per 100g (101 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
     },
     {
+        "site": "http://catfooddb.com",
         "url": "http://catfooddb.com/product/pro%20pac/Savanna+Pride+Indoor+Formula",
         "brand": "PRO PAC Ultimates",
         "title": "Pro Pac Savanna Pride Indoor Formula Cat Food Review (2021)",
+        "image": "/img/products/propac/150_savannah-pride-large-image1.jpg",
         "descriptions": "Overall, Pro Pac Savanna Pride Indoor Formula is an average cat food, earning 6 out of a possible 10 paws based on its nutritional analysis and ingredient list. For more information on our cat food analysis techniques, please click here.",
         "key_benefits": [
             "less protein than average",
@@ -129,8 +131,6 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "Using the calculations provided by the AAFCO, Pro Pac Savanna Pride Indoor Formula has approximately 359 calories per 100g (101 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB.",
-        "image": "/img/products/propac/150_savannah-pride-large-image1.jpg",
-        "site": "http://catfooddb.com"
+        "calorie": "Using the calculations provided by the AAFCO, Pro Pac Savanna Pride Indoor Formula has approximately 359 calories per 100g (101 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
     }
 ]

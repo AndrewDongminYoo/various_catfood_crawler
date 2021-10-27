@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.sheba.com",
         "url": "https://www.sheba.com/wet-cat-food/perfect-portions/premium-pate/singles/delectable-tuna-entr%C3%A9e",
         "brand": "Sheba",
         "title": "Premium Paté Delectable Tuna Entreé Cat Food | SHEBA®",
+        "image": "https://www.sheba.com/images/default-source/default-album/shebalogo.png?sfvrsn=766c455b_6",
         "descriptions": "SHEBA PERFECT PORTIONS Premium Paté cat food recipes offer simply delectable meat or seafood entrées served in a richly flavorful paté. Give your favorite feline a fresh and delicious entrée every meal. No mess. No fuss. No leftovers. Just snap, peel and serve!",
         "key_benefits": "TUNA Rich in proteins and vital amino acids, contains omega-3 fatty acids and vitamins from the B complex like thiamine to support healthy metabolism.",
         "ingredients": [
@@ -36,8 +38,6 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "Calorie Content (Calculated): 1004 kcal/kg",
-        "image": "https://www.sheba.com/images/default-source/default-album/shebalogo.png?sfvrsn=766c455b_6",
-        "site": "https://www.sheba.com"
+        "calorie": "Calorie Content (Calculated): 1004 kcal/kg"
     }
 ]

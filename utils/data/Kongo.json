@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.baires-sa.com.ar",
         "url": "https://www.baires-sa.com.ar/ing/marcas2_detalle.php?id=22",
         "brand": "Kongo",
         "title": "AgroIndustrias Baires",
+        "image": "https://images.app.goo.gl/d382LPJhq43e4oBc6",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -45,14 +47,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://www.baires-sa.com.ar",
-        "image": "https://images.app.goo.gl/d382LPJhq43e4oBc6"
+        "calorie": null
     },
     {
+        "site": "https://www.baires-sa.com.ar",
         "url": "https://www.baires-sa.com.ar/ing/marcas2_detalle.php?id=23",
         "brand": "Kongo",
         "title": "AgroIndustrias Baires",
+        "image": "https://images.app.goo.gl/xG4YvW5kCPiX5Guf9",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -96,14 +98,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://www.baires-sa.com.ar",
-        "image": "https://images.app.goo.gl/xG4YvW5kCPiX5Guf9"
+        "calorie": null
     },
     {
+        "site": "https://www.baires-sa.com.ar",
         "url": "https://www.baires-sa.com.ar/ing/marcas2_detalle.php?id=24",
         "brand": "Kongo",
         "title": "AgroIndustrias Baires",
+        "image": "https://images.app.goo.gl/qLchw3dsTkt4rnR5A",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -154,8 +156,6 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://www.baires-sa.com.ar",
-        "image": "https://images.app.goo.gl/qLchw3dsTkt4rnR5A"
+        "calorie": null
     }
 ]

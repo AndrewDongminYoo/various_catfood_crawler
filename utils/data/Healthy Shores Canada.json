@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://healthyshores.com",
         "url": "https://healthyshores.com/cats-wet-food/",
         "brand": "Healthy Shores Canada",
         "title": "Cats - Wet Food - Healthy Shores",
+        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
         "descriptions": [
             "Wild Caught from sustainable fisheries",
             "Made in a human food facility",
@@ -35,19 +37,19 @@
             "Crude protein: min. 11.0%",
             "Crude Fat: min. 7.5%",
             "Crude Fibre: max. 1.0%",
-            "Moisture: max 76%",
+            "Moisture:: 76%",
             "Phosphorus: max. 0.3%",
             "Ash: max. 2.0%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
-        "site": "https://healthyshores.com"
+        "calorie": null
     },
     {
+        "site": "https://healthyshores.com",
         "url": "https://healthyshores.com/cats-wet-food/",
         "brand": "Healthy Shores Canada",
         "title": "Cats - Wet Food - Healthy Shores",
+        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
         "descriptions": [
             "Wild Caught from sustainable fisheries",
             "Made in a human food facility",
@@ -81,19 +83,19 @@
             "Crude protein: min. 13.0%",
             "Crude Fat: min. 7.5%",
             "Crude Fibre: max. 1.0%",
-            "Moisture: max 76%",
+            "Moisture:: 76%",
             "Phosphorus: max. 0.3%",
             "Ash: max. 2.5%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
-        "site": "https://healthyshores.com"
+        "calorie": null
     },
     {
+        "site": "https://healthyshores.com",
         "url": "https://healthyshores.com/cats-wet-food/",
         "brand": "Healthy Shores Canada",
         "title": "Cats - Wet Food - Healthy Shores",
+        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
         "descriptions": [
             "Wild Caught from sustainable fisheries",
             "Made in a human food facility",
@@ -127,19 +129,19 @@
             "Crude protein: min. 11.0%",
             "Crude Fat: min. 7.5%",
             "Crude Fibre: max. 1.0%",
-            "Moisture: max 76%",
+            "Moisture:: 76%",
             "Phosphorus: max. 0.3%",
             "Ash: max. 2.5%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
-        "site": "https://healthyshores.com"
+        "calorie": null
     },
     {
+        "site": "https://healthyshores.com",
         "url": "https://healthyshores.com/cats-wet-food/",
         "brand": "Healthy Shores Canada",
         "title": "Cats - Wet Food - Healthy Shores",
+        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
         "descriptions": [
             "Wild Caught from sustainable fisheries",
             "Made in a human food facility",
@@ -173,13 +175,11 @@
             "Crude protein: min. 10.0%",
             "Crude Fat: min. 7.5%",
             "Crude Fibre: max. 1.0%",
-            "Moisture: max 78%",
+            "Moisture:: 78%",
             "Phosphorus: max. 0.2%",
             "Ash: max. 2.5%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
-        "site": "https://healthyshores.com"
+        "calorie": null
     }
 ]

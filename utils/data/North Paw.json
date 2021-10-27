@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://northpawgrainfree.ca",
         "url": "https://northpawgrainfree.ca/en/all-life-stages",
         "brand": "North Paw",
         "title": "All Life Stages — North Paw Grain Free",
+        "image": "http://static1.squarespace.com/static/5afd8dd81aef1de296ea95dd/t/5cf6649970318500019caa5b/1559651483154/northpaw2_0.jpg?format=1500w",
         "descriptions": "Designed to fuel the energy of kittens and cats of all ages, this nutrient-dense formula gives cats great nutrition in smaller portions. Our diet includes high amounts of pre-biotics, omega 3’s, protein and fibre to ensure your furry feline develops healthy bones, muscle and brain development from kitten to cat. ",
         "key_benefits": [
             "100% Grain-free (no corn, wheat or soy)",
@@ -80,14 +82,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "Metabolize Energy (ME*) = 4137 kcal/kg = 612 kcal/cup",
-        "image": "http://static1.squarespace.com/static/5afd8dd81aef1de296ea95dd/t/5cf6649970318500019caa5b/1559651483154/northpaw2_0.jpg?format=1500w",
-        "site": "https://northpawgrainfree.ca"
+        "calorie": "Metabolize Energy (ME*) = 4137 kcal/kg = 612 kcal/cup"
     },
     {
+        "site": "https://northpawgrainfree.ca",
         "url": "https://northpawgrainfree.ca/en/atlantic-seafood-with-lobster-cat",
         "brand": "North Paw",
         "title": "Atlantic Seafood with Lobster — North Paw Grain Free",
+        "image": "http://static1.squarespace.com/static/5afd8dd81aef1de296ea95dd/t/5cf6649970318500019caa5b/1559651483154/northpaw2_0.jpg?format=1500w",
         "descriptions": "Give your cats a taste of the East Coast with our delicious, nutritious North Paw Atlantic Seafood with Lobster formula. Highly digestible, 100% grain-free and nutrient-dense, it's perfect for cats of all life stages. Our diet includes high amounts of pre-biotics, omega 3’s, protein and fibre to ensure your furry feline is healthy and happy. ",
         "key_benefits": [
             "100% Grain-free ",
@@ -165,14 +167,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "Metabolize Energy (ME*) = 4251 kcal/kg = 629 kcal/cup",
-        "image": "http://static1.squarespace.com/static/5afd8dd81aef1de296ea95dd/t/5cf6649970318500019caa5b/1559651483154/northpaw2_0.jpg?format=1500w",
-        "site": "https://northpawgrainfree.ca"
+        "calorie": "Metabolize Energy (ME*) = 4251 kcal/kg = 629 kcal/cup"
     },
     {
+        "site": "https://northpawgrainfree.ca",
         "url": "https://northpawgrainfree.ca/en/mature-weight-health",
         "brand": "North Paw",
         "title": "Mature / Weight Health — North Paw Grain Free",
+        "image": "http://static1.squarespace.com/static/5afd8dd81aef1de296ea95dd/t/5cf6649970318500019caa5b/1559651483154/northpaw2_0.jpg?format=1500w",
         "descriptions": "The best diet for mature and less active cats: North Paw Mature/ Weight Management ensures your cats nutritional needs are being taken care of with our delicious and easily digestible formula. With just the right amount of protein and energy, you can rest assured your cats health is in good hands. ",
         "key_benefits": [
             "100% Grain-free (no corn, wheat or soy)",
@@ -255,8 +257,6 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "Metabolize Energy (ME*) = 3520 kcal/kg = 473 kcal/cup",
-        "image": "http://static1.squarespace.com/static/5afd8dd81aef1de296ea95dd/t/5cf6649970318500019caa5b/1559651483154/northpaw2_0.jpg?format=1500w",
-        "site": "https://northpawgrainfree.ca"
+        "calorie": "Metabolize Energy (ME*) = 3520 kcal/kg = 473 kcal/cup"
     }
 ]

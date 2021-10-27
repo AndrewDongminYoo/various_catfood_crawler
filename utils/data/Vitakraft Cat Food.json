@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.catpang.com",
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000008282",
         "brand": "Vitakraft Cat Food",
         "title": "비타크래프트 포에시 델리소스 칠면조 주니어 파우치 85g",
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7361_web_original_1604472098458032.jpg",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -23,14 +25,14 @@
             "수분 90.0% 이하"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7361_web_original_1604472098458032.jpg",
-        "site": "https://www.catpang.com"
+        "calorie": null
     },
     {
+        "site": "https://www.catpang.com",
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000004011",
         "brand": "Vitakraft Cat Food",
         "title": "비타크래프트 포에시 델리소스 대구 파우치 85g",
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3386_web_original_1619578018689611.jpg",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": null,
@@ -44,14 +46,14 @@
             "수분 81.0% 이하"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3386_web_original_1619578018689611.jpg",
-        "site": "https://www.catpang.com"
+        "calorie": null
     },
     {
+        "site": "https://www.catpang.com",
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000008281",
         "brand": "Vitakraft Cat Food",
         "title": "비타크래프트 포에시 델리소스 치킨 주니어 파우치 85g",
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7360_web_original_1604472087126903.jpg",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -72,14 +74,14 @@
             "수분 87.48% 이하"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7360_web_original_1604472087126903.jpg",
-        "site": "https://www.catpang.com"
+        "calorie": null
     },
     {
+        "site": "https://www.catpang.com",
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000004009",
         "brand": "Vitakraft Cat Food",
         "title": "비타크래프트 포에시 델리소스 치킨 파우치 85g",
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3384_web_original_1619577942162109.jpg",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": null,
@@ -93,14 +95,14 @@
             "수분 81.0% 이하"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3384_web_original_1619577942162109.jpg",
-        "site": "https://www.catpang.com"
+        "calorie": null
     },
     {
+        "site": "https://www.catpang.com",
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000008280",
         "brand": "Vitakraft Cat Food",
         "title": "비타크래프트 포에시 델리소스 치킨하트 파우치 85g",
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7357_web_original_1619578005850665.jpg",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -120,14 +122,14 @@
             "수분 87.48이하"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://cdnimg.catpang.com/catpang/data/goods/8/7357_web_original_1619578005850665.jpg",
-        "site": "https://www.catpang.com"
+        "calorie": null
     },
     {
+        "site": "https://www.catpang.com",
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000004012",
         "brand": "Vitakraft Cat Food",
         "title": "비타크래프트 포에시 델리소스 명태 파우치 85g",
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3387_web_original_1619577966142856.jpg",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": null,
@@ -142,14 +144,14 @@
             "수분 81.0% 이하"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3387_web_original_1619577966142856.jpg",
-        "site": "https://www.catpang.com"
+        "calorie": null
     },
     {
+        "site": "https://www.catpang.com",
         "url": "https://www.catpang.com/shop/goods/goods_view.php?viewCode=P000004010",
         "brand": "Vitakraft Cat Food",
         "title": "비타크래프트 포에시 델리소스 칠면조 파우치 85g",
+        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3385_web_original_1620267603738774.jpg",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": null,
@@ -163,8 +165,6 @@
             "수분 81.0% 이하"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://cdnimg.catpang.com/catpang/data/goods/4/3385_web_original_1620267603738774.jpg",
-        "site": "https://www.catpang.com"
+        "calorie": null
     }
 ]

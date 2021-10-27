@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.earthbornholisticpetfood.com",
         "url": "https://www.earthbornholisticpetfood.com/product/intl/intl-cat-food/primitive-feline-2/",
         "brand": "Earthborn",
         "title": "Primitive Feline | Earthborn Holistic Pet Food International",
+        "image": "https://media.earthbornholisticpetfood.com/wp-content/uploads/2021/01/20125444/earthborn-holistic-primitive-feline-pouch-front.jpg",
         "descriptions": "Earthborn Holistic Primitive Feline is advanced, alternative grain-free, gluten-free feline nutrition. Formulated with wholesome, nourishing ingredients such as chicken & fruits & vegetables. Primitive Feline provides complete nutrition and a balanced diet without the use of grains, artificial colors, flavors or preservatives.",
         "key_benefits": [
             "Grain-Free Great options for cats allergic to grains",
@@ -45,7 +47,7 @@
             "Phosphorus ≥1.1%"
         ],
         "additive": [
-            "Vitamin A ≥14;000 IU/kg",
+            "Vitamin A ≥1,4 IU/kg",
             "Vitamin D3 ≥750 IU/kg",
             "Vitamin C ≥100 mg/kg",
             "Vitamin E (α-tocopherol) ≥300 IU/kg",
@@ -59,14 +61,14 @@
             "Beta-Carotene ≥5 mg/kg",
             "Docosahexaenoic Acid (DHA) ≥0.01%"
         ],
-        "calorie": null,
-        "image": "https://media.earthbornholisticpetfood.com/wp-content/uploads/2021/01/20125444/earthborn-holistic-primitive-feline-pouch-front.jpg",
-        "site": "https://www.earthbornholisticpetfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.earthbornholisticpetfood.com",
         "url": "https://www.earthbornholisticpetfood.com/product/intl/intl-cat-food/wild-sea-catch-2/",
         "brand": "Earthborn",
         "title": "Wild Sea Catch | Earthborn Holistic Pet Food International",
+        "image": "https://media.earthbornholisticpetfood.com/wp-content/uploads/2021/01/20125736/earthborn-holistic-wild-sea-catch-pouch-front.jpg",
         "descriptions": "Earthborn Holistic Wild Sea Catch is advanced, alternative grain-free, gluten-free feline nutrition. Formulated with wholesome, nourishing ingredients such as chicken & fruits & vegetables. Wild Sea Catch provides complete nutrition and a balanced diet without the use of grains, artificial colors, flavors or preservatives.",
         "key_benefits": [
             "Grain-Free Great options for cats allergic to grains",
@@ -111,7 +113,7 @@
             "Kilocalories 3,800/kg"
         ],
         "additive": [
-            "Vitamin A ≥18;000 IU/kg",
+            "Vitamin A ≥1,8 IU/kg",
             "Vitamin D3 ≥750 IU/kg",
             "Vitamin C ≥100 mg/kg",
             "Vitamin E (α-tocopherol) ≥300 IU/kg",
@@ -125,8 +127,6 @@
             "Beta-Carotene ≥5 mg/kg",
             "Docosahexaenoic Acid (DHA) ≥0.35%"
         ],
-        "calorie": "3,800/kg",
-        "image": "https://media.earthbornholisticpetfood.com/wp-content/uploads/2021/01/20125736/earthborn-holistic-wild-sea-catch-pouch-front.jpg",
-        "site": "https://www.earthbornholisticpetfood.com"
+        "calorie": "3,800/kg"
     }
 ]

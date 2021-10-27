@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://nowfresh.com",
         "url": "https://nowfresh.com/en-us/adult-recipe-for-cats",
         "brand": "NOW FRESH",
         "title": "NOW FRESH Cat Food Grain Free Adult Recipe for Cats",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/3DXn0OG49hBPTINblDh9YV/3b87923c3c372f3fa89ccd9fca3ad58e/NF-Social-Image-Cat-Adult-Owner-cuddling-with-cat.jpg",
         "descriptions": "Made with fresh turkey, salmon and duck, this minimally processed recipe provides balanced protein & fat to help your adult cat maintain a healthy weight, with over 20 superfoods for essential nutrients and to help support healthy digestion.",
         "key_benefits": [
             "Free from grains and by-product or meat meals",
@@ -58,28 +60,28 @@
             "dried rosemary."
         ],
         "analysis": [
-            "Crude protein (min) 31%",
-            "Crude fat (min) 18%",
-            "Crude fiber (max) 3.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 6.5%",
-            "Phosphorus (min) 0.6%",
+            "Crude protein: 31%",
+            "Crude fat: 18%",
+            "Crude fiber: 3.5%",
+            "Moisture: 10%",
+            "Ash: 6.5%",
+            "Phosphorus: 0.6%",
             "Magnesium 0.09%",
-            "*L-Carnitine (min) 100 mg/kg",
-            "Taurine (min) 0.24%",
-            "*Omega 6 (min) 2.8%",
-            "*Omega 3 (min) 0.5%",
-            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+            "*L-Carnitine: 100 mg/kg",
+            "Taurine: 0.24%",
+            "*Omega 6: 2.8%",
+            "*Omega 3: 0.5%",
+            "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3872 kcal/kg or 426 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/3DXn0OG49hBPTINblDh9YV/3b87923c3c372f3fa89ccd9fca3ad58e/NF-Social-Image-Cat-Adult-Owner-cuddling-with-cat.jpg",
-        "site": "https://nowfresh.com"
+        "calorie": "ME (calculated) = 3872 kcal/kg or 426 kcal/cup (250 ml)"
     },
     {
+        "site": "https://nowfresh.com",
         "url": "https://nowfresh.com/en-us/recipe-for-kittens",
         "brand": "NOW FRESH",
         "title": "NOW FRESH Kitten Food Grain Free Kitten Recipe",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/7HSmwV7BWWTMvAfvblFL3X/de3960682ea07e300afe550a8506f25e/NF-Social-Image-Recipe-Cat-Kitten-Playing-in-Bed.jpg",
         "descriptions": "With small-sized kibble for tiny teeth, this whisker-licking recipe provides perfectly balanced nutrition for growing kittens, with balanced proteins, fats, and omega oils to support healthy growth & development, and fresh meats & fish to tempt picky eaters.",
         "key_benefits": [
             "Minimally processed and perfectly balanced nutrition",
@@ -136,28 +138,28 @@
             "dried rosemary."
         ],
         "analysis": [
-            "Crude protein (min) 33%",
-            "Crude fat (min) 20%",
-            "Crude fiber (max) 2.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 7%",
-            "EPA + DHA (min) 0.05%",
-            "Magnesium (min) 0.09%",
-            "*L-Carnitine (min) 100 mg/kg",
-            "Taurine (min) 0.25%",
-            "*Omega 6 (min) 3.2%",
-            "*Omega 3 (min) 1%",
-            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+            "Crude protein: 33%",
+            "Crude fat: 20%",
+            "Crude fiber: 2.5%",
+            "Moisture: 10%",
+            "Ash: 7%",
+            "EPA + DHA: 0.05%",
+            "Magnesium: 0.09%",
+            "*L-Carnitine: 100 mg/kg",
+            "Taurine: 0.25%",
+            "*Omega 6: 3.2%",
+            "*Omega 3: 1%",
+            "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3972 kcal/kg or 437 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/7HSmwV7BWWTMvAfvblFL3X/de3960682ea07e300afe550a8506f25e/NF-Social-Image-Recipe-Cat-Kitten-Playing-in-Bed.jpg",
-        "site": "https://nowfresh.com"
+        "calorie": "ME (calculated) = 3972 kcal/kg or 437 kcal/cup (250 ml)"
     },
     {
+        "site": "https://nowfresh.com",
         "url": "https://nowfresh.com/en-us/senior-recipe-for-cats",
         "brand": "NOW FRESH",
         "title": "NOW FRESH Grain Free Senior Recipe for Cats",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/7lhAusdxec15x3qNJ0PB0m/77dd6966c5ad0a02585e7bd668d30af9/NF-Social-Image-Cat-Senior.jpg",
         "descriptions": "Made simply using fresh turkey, salmon & duck, this recipe for senior cats is perfectly balanced to help maintain a healthy weight and features pumpkin & probiotics to support good digestion, helping to keep them happy and healthy in their golden years.",
         "key_benefits": [
             "Minimally processed and perfectly balanced nutrition",
@@ -212,22 +214,20 @@
             "dried rosemary."
         ],
         "analysis": [
-            "Crude protein (min) 30%",
-            "Crude fat (min) 14%",
-            "Crude fiber (max) 5.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 6.5%",
-            "Phosphorus (min) 0.5%",
-            "Magnesium (min) 0.09%",
-            "*L-Carnitine (min) 200 mg/kg",
-            "Taurine (min) 0.28%",
-            "*Omega 6 (min) 2.4%",
-            "*Omega 3 (min) 0.9%",
-            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+            "Crude protein: 30%",
+            "Crude fat: 14%",
+            "Crude fiber: 5.5%",
+            "Moisture: 10%",
+            "Ash: 6.5%",
+            "Phosphorus: 0.5%",
+            "Magnesium: 0.09%",
+            "*L-Carnitine: 200 mg/kg",
+            "Taurine: 0.28%",
+            "*Omega 6: 2.4%",
+            "*Omega 3: 0.9%",
+            "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 3528 kcal/kg or 388 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/7lhAusdxec15x3qNJ0PB0m/77dd6966c5ad0a02585e7bd668d30af9/NF-Social-Image-Cat-Senior.jpg",
-        "site": "https://nowfresh.com"
+        "calorie": "ME (calculated) = 3528 kcal/kg or 388 kcal/cup (250 ml)"
     }
 ]

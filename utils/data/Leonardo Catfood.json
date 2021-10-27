@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/detail/0311540067d64322b0f3d6e98dd6ee77",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Adult Duck - Size in kg: 0.4 kg",
+        "image": "https://www.leonardo-catfood.com/media/44/d0/d7/1588593836/Leonardo-Adult-Duck-400g-front.png",
         "descriptions": "LEONARDO® Adult Duck is a tasty flavour for cats who love poultry. The recipe has also been improved with the addition of chia seed and delicious krill – crustaceans from the Antarctic. The high level of Omega-3 fatty acids, together with lecithin, helps keep skin healthy and coats shiny.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
@@ -46,14 +48,14 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/44/d0/d7/1588593836/Leonardo-Adult-Duck-400g-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/detail/1ec3a178bea147c982afb735261b4bed",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Adult Maxi GF - Size in kg: 0.3 kg",
+        "image": "https://www.leonardo-catfood.com/media/e2/d4/2d/1588594883/Leonardo-Adult-Maxi-GF-300g-front.png",
         "descriptions": "Big cat breeds, like the Norwegian Forest cat and the Maine Coon, have particular food requirements. The extra-large croquettes take the cats longer to chew, which is good for their teeth. This stimulates the flow of saliva.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
@@ -95,14 +97,14 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; L-carnitine 50 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/e2/d4/2d/1588594883/Leonardo-Adult-Maxi-GF-300g-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/detail/42e5dba4529940a9b177265ce48fef56",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Adult Poultry GF - Size in kg: 0.3 kg",
+        "image": "https://www.leonardo-catfood.com/media/eb/a3/29/1588595154/Leonardo-Adult-Poultry-GF-300g-front.png",
         "descriptions": "No gluten or cereals are used in LEONARDO® Adult Poultry GF. Cereals have been replaced in this recipe by nutrient-rich amaranth. LEONARDO® Adult Poultry GF is the perfect solution for cats with food intolerances and cats that tend to suffer from allergies.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
@@ -142,14 +144,14 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2.000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/eb/a3/29/1588595154/Leonardo-Adult-Poultry-GF-300g-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/detail/6397426c23ca420992d33efb847a1d0c",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Adult Fish - Size in kg: 0.4 kg",
+        "image": "https://www.leonardo-catfood.com/media/30/62/a1/1588594059/Leonardo-Adult-Fisch-400g-front.png",
         "descriptions": "LEONARDO® Adult Fish offers a healthy selection of seafood ingredients. Enhanced with revitalizing krill (crustaceans from the Antarctic), the delicious croquettes from the LEONARDO® Adult range are a delight for fish lovers. The natural omega-3 fatty acids from the sea fish ensure a silky coat and healthy skin.",
         "key_benefits": [
             "WITH EXTRA FRESH SALMON",
@@ -189,14 +191,14 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/30/62/a1/1588594059/Leonardo-Adult-Fisch-400g-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/detail/65b88298209e4035b0f38f081d577aa6",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Kitten - Size in kg: 0.4 kg",
+        "image": "https://www.leonardo-catfood.com/media/22/e6/5f/1588595525/Leonardo-Kitten-400g-front.png",
         "descriptions": "LEONARDO® Kitten is particularly easy to digest because it contains more fresh poultry, as well as chia seeds to regulate the gut. In the first few months of a kitten’s life, good digestion is particularly important for wellbeing.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
@@ -239,14 +241,14 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/22/e6/5f/1588595525/Leonardo-Kitten-400g-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/detail/8b75a697868240c898e963a69e8597bc",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Senior - Size in kg: 0.4 kg",
+        "image": "https://www.leonardo-catfood.com/media/a8/3a/28/1588595703/Leonardo-Senior-400g-front.png",
         "descriptions": "As cats grow older, their nutritional requirements change. Their energy requirements decrease and their immune systems weaken with age. LEONARDO® Senior is adapted to these changes with a special formulation to keep your cat ﬁt and healthy to a ripe old age.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
@@ -287,14 +289,14 @@
             "Vitamin A 17,000 IU; Vitamin D3 1,700 IU; Vitamin E 170 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; L-carnitine 50 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/a8/3a/28/1588595703/Leonardo-Senior-400g-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/leonardo-adult-complete-32-16",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Adult Complete 32/16 - Size in kg: 15 kg",
+        "image": "https://www.leonardo-catfood.com/media/58/77/9b/1588593540/Leonardo-Adult-Complete-7kg-front.png",
         "descriptions": "LEONARDO® Adult Complete 32/16, the tasty LEONARDO® Adult food with a moderate energy content (16% fat) for cats with low activity levels.",
         "key_benefits": [
             "THE LOW-COST RECIPE FOR ALL CATS",
@@ -329,14 +331,14 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/58/77/9b/1588593540/Leonardo-Adult-Complete-7kg-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/leonardo-adult-lamb",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Adult Lamb - Size in kg: 0.4 kg",
+        "image": "https://www.leonardo-catfood.com/media/f3/2b/79/1588594358/Leonardo-Adult-Lamb-7kg-front.png",
         "descriptions": "LEONARDO® Adult Lamb has a very special flavour. The high proportion of lamb in this formulation of the LEONARDO® Adult product line makes it particularly suitable for cats requiring special care because of food intolerances or intestinal problems.",
         "key_benefits": [
             "WITH EXTRA FRESH LAMB",
@@ -384,14 +386,14 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/f3/2b/79/1588594358/Leonardo-Adult-Lamb-7kg-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/leonardo-adult-light",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Adult Light - Size in kg: 2 kg",
+        "image": "https://www.leonardo-catfood.com/media/0e/6d/72/1588594592/Leonardo-Adult-Light-7kg-front.png",
         "descriptions": "There are many causes of excess weight. Whether it is a consequence of incorrect feeding with too many treats, or due to hormones after castration, in all cases it reduces the agility of your pet and significantly increases the risk of illness. The early adjustment of diet by using a lower energy content cat food such as LEONARDO® Adult Light thus makes an important contribution to the health of the cat and helps put it back in top shape.",
         "key_benefits": [
             "WITH EXTRA FRESH POULTRY",
@@ -431,14 +433,14 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; L-carnitine 200 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/0e/6d/72/1588594592/Leonardo-Adult-Light-7kg-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     },
     {
+        "site": "https://www.leonardo-catfood.com",
         "url": "https://www.leonardo-catfood.com/leonardo-adult-salmon-gf",
         "brand": "Leonardo Catfood",
         "title": "LEONARDO® Adult Salmon GF - Size in kg: 0.3 kg",
+        "image": "https://www.leonardo-catfood.com/media/02/c1/b2/1588595358/Leonardo-Adult-Salmon-GF-300g-front.png",
         "descriptions": "Tasty salmon for real fish fans. This LEONARDO® recipe has been specially developed for cats with food intolerances and cats that tend to suffer from allergies. It does not contain any gluten or cereals. Cereals have been replaced in this recipe by nutrient-rich amaranth.",
         "key_benefits": [
             "WITH EXTRA FRESH SALMON",
@@ -473,8 +475,6 @@
             "Vitamin A 15,000 IU; Vitamin D3 1,500 IU; Vitamin E 150 mg; Vitamin C (as ascorbyl monophosphate, sodium salt) 245 mg; Taurine 1,400 mg; Copper (as copper(II)sulphate, pentahydrate) 15 mg; Iron (as ferrous(II)sulphate, monohydrate) 200 mg; Manganese (as manganese(II)oxide) 50 mg; Zinc (as zincoxide) 150 mg; Iodine (as calciumiodate, anhydrous) 2.5 mg; Selenium (as sodiumselenite) 0.15 mg",
             "Lecithin 2,000 mg; Tocopherol extracts from vegetable oils (= natural vitamin E) 80 mg"
         ],
-        "calorie": null,
-        "image": "https://www.leonardo-catfood.com/media/02/c1/b2/1588595358/Leonardo-Adult-Salmon-GF-300g-front.png",
-        "site": "https://www.leonardo-catfood.com"
+        "calorie": null
     }
 ]

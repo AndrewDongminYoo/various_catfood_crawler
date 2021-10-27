@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://bluebuffalo.com",
         "url": "https://bluebuffalo.com/dry-cat-food/blue/indoor-hairball-control-chicken-brown-rice/",
         "brand": "Blue Buffalo",
         "title": "BLUE Indoor Hairball Control Dry Cat Food Chicken & Brown Rice Recipe | Blue Buffalo",
+        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/share-product-image/blue-cat-indoor-hairball-share.png",
         "descriptions": "BLUE Indoor Hairball Recipe for indoor cats features delicious, high-quality chicken with carefully balanced calories to help maintain a healthy weight and a unique blend of three natural fiber sources to help reduce hairball formation.",
         "key_benefits": [
             "Real Chicken First Ingredient",
@@ -85,24 +87,24 @@
             "Oil of Rosemary."
         ],
         "analysis": [
-            "Crude Protein 32.0% min",
-            "Crude Fat 15.0% min",
-            "Crude Fiber 6.0% max",
-            "Moisture 9.0% max",
-            "Magnesium 0.14% max",
-            "Taurine 0.15% min",
-            "Omega 3 Fatty Acids* 0.5% min",
-            "Omega 6 Fatty Acids* 2.5% min"
+            "Crude Protein 32.0%",
+            "Crude Fat 15.0%",
+            "Crude Fiber 6.0%",
+            "Moisture 9.0%",
+            "Magnesium 0.14%",
+            "Taurine 0.15%",
+            "Omega 3 Fatty Acids* 0.5%",
+            "Omega 6 Fatty Acids* 2.5%"
         ],
         "additive": null,
-        "calorie": "3,669 Kcals/kg",
-        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/share-product-image/blue-cat-indoor-hairball-share.png",
-        "site": "https://bluebuffalo.com"
+        "calorie": "3,669 Kcal/kg"
     },
     {
+        "site": "https://bluebuffalo.com",
         "url": "https://bluebuffalo.com/dry-cat-food/blue/kitten-chicken-brown-rice/",
         "brand": "Blue Buffalo",
         "title": "BLUE Healthy Growth Dry Kitten Food Chicken & Brown Rice Recipe | Blue Buffalo",
+        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/teaser-product-image/cat_blue_health_growth_kitten_ckn_dry_teaser.png",
         "descriptions": "Formulated to support the health and well-being of your kitten, BLUE for Cats starts with delicious deboned chicken and features wholesome whole grains and garden vegetables. Specially made for kittens, this recipe includes high-quality proteins to support muscle growth, plus DHA for cognitive development.",
         "key_benefits": [
             "Real Chicken First Ingredient",
@@ -182,29 +184,29 @@
             "Oil of Rosemary."
         ],
         "analysis": [
-            "Crude Protein 36.0% min",
-            "Crude Fat 20.0% min",
-            "Crude Fiber 3.5% max",
-            "Moisture 9.0% max",
-            "ARA 0.06% min",
-            "DHA 0.2% min",
-            "Calcium 1.3% min",
-            "Phosphorus 1.1% min",
-            "Magnesium 0.14% max",
-            "Choline 3,500mg/kg min",
-            "Taurine 0.2% min",
-            "Omega 3 Fatty Acids* 0.75% min",
-            "Omega 6 Fatty Acids* 3.5% min"
+            "Crude Protein 36.0%",
+            "Crude Fat 20.0%",
+            "Crude Fiber 3.5%",
+            "Moisture 9.0%",
+            "ARA 0.06%",
+            "DHA 0.2%",
+            "Calcium 1.3%",
+            "Phosphorus 1.1%",
+            "Magnesium 0.14%",
+            "Choline 3,500mg/kg",
+            "Taurine 0.2%",
+            "Omega 3 Fatty Acids* 0.75%",
+            "Omega 6 Fatty Acids* 3.5%"
         ],
         "additive": null,
-        "calorie": "3,926 kcal/kg",
-        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/teaser-product-image/cat_blue_health_growth_kitten_ckn_dry_teaser.png",
-        "site": "https://bluebuffalo.com"
+        "calorie": "3,926 kcal/kg"
     },
     {
+        "site": "https://bluebuffalo.com",
         "url": "https://bluebuffalo.com/dry-cat-food/blue/sensitive-stomach-chicken-brown-rice/",
         "brand": "Blue Buffalo",
         "title": "BLUE Sensitive Stomach Dry Cat Food Chicken & Brown Rice Recipe | Blue Buffalo",
+        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/share-product-image/blue-cat-dry-sensitive-stomach-share.png",
         "descriptions": "Formulated to support the digestive health of your feline friend, BLUE for Cats starts with delicious deboned chicken and is packed with wholesome whole grains and garden vegetables, plus fructooligosaccharides to increase healthy bacteria in the intestine.",
         "key_benefits": [
             "Real Chicken First Ingredient",
@@ -285,18 +287,16 @@
             "Oil of Rosemary."
         ],
         "analysis": [
-            "Crude Protein 32.0% min",
-            "Crude Fat 16.0% min",
-            "Crude Fiber 3.5% max",
-            "Moisture 9.0% max",
-            "Magnesium 0.14% max",
-            "Taurine 0.15% min",
-            "Omega 3 Fatty Acids* 0.5% min",
-            "Omega 6 Fatty Acids* 3.0% min"
+            "Crude Protein 32.0%",
+            "Crude Fat 16.0%",
+            "Crude Fiber 3.5%",
+            "Moisture 9.0%",
+            "Magnesium 0.14%",
+            "Taurine 0.15%",
+            "Omega 3 Fatty Acids* 0.5%",
+            "Omega 6 Fatty Acids* 3.0%"
         ],
         "additive": null,
-        "calorie": "3,773 Kcals/kg",
-        "image": "https://bluebuffalo.com/globalassets/00-redesign/product-detail-pages/cat-dry-food/blue-for-cat/share-product-image/blue-cat-dry-sensitive-stomach-share.png",
-        "site": "https://bluebuffalo.com"
+        "calorie": "3,773 Kcal/kg"
     }
 ]

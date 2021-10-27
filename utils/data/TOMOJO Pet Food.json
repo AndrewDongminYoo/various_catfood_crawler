@@ -1,15 +1,17 @@
 [
     {
+        "site": "https://en.tomojo.co",
         "url": "https://en.tomojo.co/collections/croquettes-et-friandises-pour-chat/products/croquettes-chat-adulte-au-sorgho",
         "brand": "TOMOJO Pet Food",
         "title": "CROQUETTES CHAT WITH SORGHO ADULT - Tomojo",
+        "image": "http://cdn.shopify.com/s/files/1/0067/2392/8128/products/pack_chat_nouvellerecette.jpg?v=1623051439",
         "descriptions": [
             "Our pet food for cats is rich in protein and suitable for sensitive animals thanks to its limited number of allergens. Made with sorghum, a cereal with antioxidant properties, our recipe is formulated with veterinarians to provide all the essential nutrients for your pet. And of course our pet food contains no antibiotics or artificial preservatives.",
             "Each pack of pet food for cats is packaged in biodegradable packaging and saves 130 litres of water compared to pet food with beef."
         ],
         "key_benefits": null,
         "ingredients": [
-            "Ingredients:  Dehydrated insects 28% min",
+            "Ingredients: Dehydrated insects 28%",
             "corn gluten",
             "peas**",
             "sorghum**",
@@ -35,7 +37,7 @@
         ],
         "analysis": null,
         "additive": [
-            "Additives (per kg):  Vitamins: A (3a672a): 20020 IU",
+            "Additives (per kg): Vitamins: A (3a672a): 20020 IU",
             "D3 (3a671): 546 IU",
             "E (3a700): 346 IU",
             "3a370 Taurine: 1365 mg/kg. Trace elements : E1 Iron : 91 mg",
@@ -43,26 +45,26 @@
             "Zinc 3b603/3b606: 136;5mg",
             "Manganese 3b503/3b504: 59mg",
             "Iodine 3b201: 2;3mg",
-            "Selenium 3b801: 0;24mg",
+            "Selenium 3b801: 0.24mg",
             "Amino acids: DL Methionine (3c301) : 1820 mg. Technological additives: Preservatives",
             "Antioxidants",
             "Binders : E562 Sepiolite: 1820 mg."
         ],
-        "calorie": null,
-        "image": "http://cdn.shopify.com/s/files/1/0067/2392/8128/products/pack_chat_nouvellerecette.jpg?v=1623051439",
-        "site": "https://en.tomojo.co"
+        "calorie": null
     },
     {
+        "site": "https://en.tomojo.co",
         "url": "https://en.tomojo.co/collections/croquettes-et-friandises-pour-chat/products/croquettes-chat-sans-cereales-adulte",
         "brand": "TOMOJO Pet Food",
         "title": "CEREAL FREE CAT CROKE ADULT - Tomojo",
+        "image": "http://cdn.shopify.com/s/files/1/0067/2392/8128/products/PHOTOS_FORMATS_SITE_NOGLU_83406d49-1627-4233-a3f2-438ab20cef8a.jpg?v=1623657487",
         "descriptions": [
             "Our pet food for cats is rich in protein and suitable for sensitive animals thanks to its limited number of allergens. Our recipe is formulated with veterinarians to provide all the essential nutrients for your pet, and of course contains no antibiotics or artificial preservatives.",
             "Each pack of pet food for cats is packaged in biodegradable packaging and saves 130 litres of water compared to pet food with beef."
         ],
         "key_benefits": null,
         "ingredients": [
-            "Ingredients:  Dehydrated insects (34%)",
+            "Ingredients: Dehydrated insects (34%)",
             "peas",
             "potato starch",
             "lentil",
@@ -85,7 +87,7 @@
         ],
         "analysis": null,
         "additive": [
-            "Additives (per kg):  Vitamins: A (3a672a): 22000 IU",
+            "Additives (per kg): Vitamins: A (3a672a): 22000 IU",
             "D3 (3a671): 600 IU",
             "E (3a700): 380 mg",
             "3a370 Taurine: 1200 mg. Trace elements : E1 Iron: 100mg",
@@ -101,8 +103,6 @@
             "Binders : E562 Sepiolite: 3700 mg",
             "E558 Montmorillonite: 3700mg/kg."
         ],
-        "calorie": null,
-        "image": "http://cdn.shopify.com/s/files/1/0067/2392/8128/products/PHOTOS_FORMATS_SITE_NOGLU_83406d49-1627-4233-a3f2-438ab20cef8a.jpg?v=1623657487",
-        "site": "https://en.tomojo.co"
+        "calorie": null
     }
 ]

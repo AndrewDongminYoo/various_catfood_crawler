@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.josera.com",
         "url": "https://www.josera.com/marinesse-p735#82937",
         "brand": "Josera",
         "title": "MARINESSE | Josera Petfood GmbH & Co.Kg.",
+        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/1/3/9/marinesse-cat-food-10kg-4_25kg.png",
         "descriptions": [
             "Salmon, potato, and peas as selected protein sources for the best tolerability",
             "plenty of exquisite salmon (30 %) and a grain-free formula for demanding cats",
@@ -22,17 +24,17 @@
             "crude ash 6.9 %",
             "calcium 1.20 %",
             "phosphorus 1.00 %",
-            "magnesium 0,65 %"
+            "magnesium 0.65 %"
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.josera.com",
-        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/1/3/9/marinesse-cat-food-10kg-4_25kg.png"
+        "calorie": null
     },
     {
+        "site": "https://www.josera.com",
         "url": "https://www.josera.com/senior-p1042",
         "brand": "Josera",
         "title": "SENIOR | Josera Petfood GmbH & Co.Kg.",
+        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/0/0/0/Senior_seitlich_2kg_400g.png",
         "descriptions": [
             "ideal for older cats",
             "the reduced level of phosphorus supports the kidney function",
@@ -52,17 +54,17 @@
             "crude ash 5.1 %",
             "calcium 0.60 %",
             "phosphorus 0.45 %",
-            "magnesium 0,65 %"
+            "magnesium 0.65 %"
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.josera.com",
-        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/0/0/0/Senior_seitlich_2kg_400g.png"
+        "calorie": null
     },
     {
+        "site": "https://www.josera.com",
         "url": "https://www.josera.com/kitten-p1019#111055",
         "brand": "Josera",
         "title": "KITTEN | Josera Petfood GmbH & Co.Kg.",
+        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/6/0/2/Kitten-2020_seitlich_10kg_4,25kg%20(1).png",
         "descriptions": [
             "excellent for the first year of your cat’s life and during pregnancy and lactation",
             "with plenty of energy and protein as well as valuable salmon oil for the special requirements in the most important phases of life",
@@ -82,17 +84,17 @@
             "crude ash 7.0 %",
             "calcium 1.40 %",
             "phosphorus 1.10 %",
-            "magnesium 0,60 %"
+            "magnesium 0.60 %"
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.josera.com",
-        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/6/0/2/Kitten-2020_seitlich_10kg_4,25kg%20(1).png"
+        "calorie": null
     },
     {
+        "site": "https://www.josera.com",
         "url": "https://www.josera.com/sensicat-p746#88204",
         "brand": "Josera",
         "title": "SENSICAT | Josera Petfood GmbH & Co.Kg.",
+        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/2/2/4/sensicat-cat-food-10kg-4_25kg.png",
         "descriptions": [
             "ideal for adult cats and cats with a sensitive digestive system",
             "formula with high acceptance and easy digestible ingredients",
@@ -112,17 +114,17 @@
             "crude ash 6.7 %",
             "calcium 1.30 %",
             "phosphorus 1.00 %",
-            "magnesium 0,60 %"
+            "magnesium 0.60 %"
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.josera.com",
-        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/2/2/4/sensicat-cat-food-10kg-4_25kg.png"
+        "calorie": null
     },
     {
+        "site": "https://www.josera.com",
         "url": "https://www.josera.com/dailycat-p1007#109191",
         "brand": "Josera",
         "title": "DAILYCAT | Josera Petfood GmbH & Co.Kg.",
+        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/0/2/5/dailycat-cat-foot-new-10kg-4_25kg.png",
         "descriptions": [
             "the daily extra portion of tasty poultry (equivalent to about 130 g of fresh meat per 100 g of kibble)",
             "valuable fatty acids from salmon, vitamins and trace elements for healthy skin and a shiny coat",
@@ -142,17 +144,17 @@
             "crude ash 7.0 %",
             "calcium 1.25 %",
             "phosphorus 0.95 %",
-            "magnesium 0,60 %"
+            "magnesium 0.60 %"
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.josera.com",
-        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/0/2/5/dailycat-cat-foot-new-10kg-4_25kg.png"
+        "calorie": null
     },
     {
+        "site": "https://www.josera.com",
         "url": "https://www.josera.com/naturecat-p751#88217",
         "brand": "Josera",
         "title": "NATURECAT | Josera Petfood GmbH & Co.Kg.",
+        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/1/7/4/naturecat-cat-food-10kg-4_25kg.png",
         "descriptions": [
             "with 30 % dried poultry and 10 % dried salmon (corresponds to roughly 130 g of fresh meat per 100 g kibble)",
             "selected herbs and healthy fruits are the finishing touch to this recipe and offering your cat a delicious range of tastes",
@@ -172,17 +174,17 @@
             "crude ash 6.8 %",
             "calcium 1.30 %",
             "phosphorus 1.00 %",
-            "magnesium 0,60 %"
+            "magnesium 0.60 %"
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.josera.com",
-        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/1/7/4/naturecat-cat-food-10kg-4_25kg.png"
+        "calorie": null
     },
     {
+        "site": "https://www.josera.com",
         "url": "https://www.josera.com/naturelle-p771#99354",
         "brand": "Josera",
         "title": "NATURELLE | Josera Petfood GmbH & Co.Kg.",
+        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/1/7/9/naturelle-cat-food-10kg-4_25kg.png",
         "descriptions": [
             "with delicious lentil and trout",
             "moderate fat content, specially suitable for indoor and sterilised cats",
@@ -202,11 +204,9 @@
             "crude ash 6.3 %",
             "calcium 1.15 %",
             "phosphorus 0.90 %",
-            "magnesium 0,60 %"
+            "magnesium 0.60 %"
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.josera.com",
-        "image": "https://www.josera.com/media/cache/sylius_shop_product_large_thumbnail/assets/0/0/0/0/0/1/5/1/7/9/naturelle-cat-food-10kg-4_25kg.png"
+        "calorie": null
     }
 ]

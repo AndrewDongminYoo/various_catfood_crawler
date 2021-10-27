@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.stevesrealfood.com",
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/beef-dry-diet/",
         "brand": "Steve's Real Food",
         "title": "Freeze Dried Beef Diet - Steves Real Food",
+        "image": "https://images.app.goo.gl/u7JjRUjn7iunJK6u9",
         "descriptions": "Pet owners love Steve’s Real Food Beef Diet for the low-fat, nutrient dense, and lean muscle meat we use. Beef is particularly high in zinc and copper--two nutrients that work together to support the metabolism. In addition to the exceptional nutritional benefits of the meat, our Beef Diet contains unique ingredients, such as high-fiber apples, which provide a complete and balanced nutritional profile. One of the differences between Steve’s and other raw meat diets is our meat-to-veggie ratio of 80% to 20%. This gives your dog nutrition that provides the proteins and essential vitamins and minerals that help fight disease and promote strong bones, muscles, and organ function. Our meat-to-veggie ratio of 80% to 20% which gives your dog the proteins and essential vitamins and minerals that help fight disease and promote strong bones, muscles, and organ function.",
         "key_benefits": "Our complete and balanced beef diet for dogs and cats are made from grass-fed, grass-finished, antibiotic-free meats.",
         "ingredients": [
@@ -25,16 +27,16 @@
             "Inulin",
             "Ground Eggshell"
         ],
-        "analysis": "Protein: 45.5% minimum Fat: 31% minimum Fiber: 3% maximum Moisture: 5% maximum",
+        "analysis": "Protein: 45.5% Fat: 31% Fiber: 3%imum Moisture: 5%imum",
         "additive": "Calories: 4920 per kg (139 per oz) Calcium to Phosphate: 1.7:1 B.A.R.F Formulation 80% Meat/Organ/Bone 20% Produce Carbohydrates: 2.2 % PH Level: 6.4 S.U.",
-        "calorie": null,
-        "site": "https://www.stevesrealfood.com",
-        "image": "https://images.app.goo.gl/u7JjRUjn7iunJK6u9"
+        "calorie": null
     },
     {
+        "site": "https://www.stevesrealfood.com",
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/chicken-dry-diet/",
         "brand": "Steve's Real Food",
         "title": "Freeze Dried Chicken Diet - Steves Real Food",
+        "image": "https://images.app.goo.gl/91TKpWM9XdmuzB7d6",
         "descriptions": "Steve’s Chicken Diet uses only free range, vegetarian fed chicken. The Chicken Diet is high in manganese and magnesium, which are crucial for ligament health, and a mid-range fat and protein profile, making it a good option for high-energy dogs. Steve’s uses the B.A.R.F. formulation making our meat-to-produce ratio at 80%/20%. It is packed full of functional foods that provide both protein and all the essential vitamins and minerals that help promote strong bones, fight diseases, and supports organ function.",
         "key_benefits": "Our complete and balanced chicken diet for dogs and cats are made from cage-free, antibiotic-free chicken.",
         "ingredients": [
@@ -86,14 +88,14 @@
             "Sodium 0.30% ",
             "Magnesium 0.10%    "
         ],
-        "calorie": null,
-        "site": "https://www.stevesrealfood.com",
-        "image": "https://images.app.goo.gl/91TKpWM9XdmuzB7d6"
+        "calorie": null
     },
     {
+        "site": "https://www.stevesrealfood.com",
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/pork-dry-diet/",
         "brand": "Steve's Real Food",
         "title": "Pork Dry Diet for Dogs - Steves Real Food",
+        "image": "https://images.app.goo.gl/iDXZHzq1EfP24ZoFA",
         "descriptions": "Steve’s Real Food's Pork Diet is a unique cooling food that is great for pets with allergies. Additionally, our Pork Diet contains chia seeds, which boost its cooling properties and is great for detoxing. One of the differences between Steve’s and other raw meat diets is our meat-to-veggie ratio of 80% to 20%. This provides your pet with the protein and essential vitamins and minerals that help fight disease and promote strong bones, muscles, and organ function.",
         "key_benefits": "Our complete and balanced pork diet for dogs and cats are made from vegetarian-fed antibiotic-free meats.",
         "ingredients": [
@@ -147,14 +149,14 @@
             "Sodium 0.37%",
             "Magnesium 0.09%"
         ],
-        "calorie": null,
-        "site": "https://www.stevesrealfood.com",
-        "image": "https://images.app.goo.gl/iDXZHzq1EfP24ZoFA"
+        "calorie": null
     },
     {
+        "site": "https://www.stevesrealfood.com",
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/turducken-dry-diet/",
         "brand": "Steve's Real Food",
         "title": "Freeze Turducken Diet - Steves Real Food",
+        "image": "https://images.app.goo.gl/XWWhbXXDFXWZAWxm8",
         "descriptions": "This mixed protein diet uses the optimal meat and organs from each animal to ensure complete nutrition.",
         "key_benefits": [
             "Calories: 4930 per kg (140 per oz)",
@@ -218,14 +220,14 @@
             "Sodium 0.50%",
             "Magnesium 0.11%"
         ],
-        "calorie": null,
-        "site": "https://www.stevesrealfood.com",
-        "image": "https://images.app.goo.gl/XWWhbXXDFXWZAWxm8"
+        "calorie": null
     },
     {
+        "site": "https://www.stevesrealfood.com",
         "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/turkey-dry-diet/",
         "brand": "Steve's Real Food",
         "title": "Turkey Dry Diet for Dogs - Steves Real Food",
+        "image": "https://images.app.goo.gl/1Ytvx4cXQxnSigYGA",
         "descriptions": "Steve's Turkey Diet is an excellent source of nutritionally dense protein and is easily digestible. Added watermelon provides increased levels of Lycopene; a powerful antioxidant that neutralizes free radicals--specifically those derived from oxygen.",
         "key_benefits": [
             "Calories: 5114 per kg (145 per oz)",
@@ -286,8 +288,6 @@
             "Sodium 0.32%",
             "Magnesium 0.10%"
         ],
-        "calorie": null,
-        "site": "https://www.stevesrealfood.com",
-        "image": "https://images.app.goo.gl/1Ytvx4cXQxnSigYGA"
+        "calorie": null
     }
 ]

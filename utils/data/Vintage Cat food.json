@@ -1,7 +1,9 @@
 {
+    "site": "https://vintageovenfresh.com",
     "url": "https://vintageovenfresh.com/products/oven-fresh-surface-2/",
     "brand": "Vintage Cat food",
     "title": "Oven-Fresh Surface | Vintage Oven Fresh Pet Food",
+    "image": "https://images.app.goo.gl/Ug96cXK9mqPJEKbY8",
     "descriptions": "Vintage is changing the way you nurture your pet by blending fresh and whole foods to maximize bioavailability of nutrients. Mother nature intended ingredients in their complex and whole nutritious form to satisfy your pet’s energy requirements. Our homestyle Oven-Fresh feline recipes are made with carefully selected premium fresh meats complemented by market fresh produce. We have trusted Canadian partners that supply us with 1st cut proteins which are antibiotic and hormone free. Vintage Oven-Fresh recipes are gently and slowly prepared in small batches in the oven to insure superior nutrient retention for your companion. Our goal is to provide nutritious foods to help nourish your pet’s soul with every bowl.",
     "key_benefits": [
         "1st cut Fresh Turkey",
@@ -13,13 +15,11 @@
     ],
     "ingredients": "Fresh Turkey, Fresh Herring, Peas, Green Lentils, Dehydrated Fish, Canola oil (preserved with mixed tocopherols and citric acid), Whole Flaxseed, Chickpeas, Natural Flavor, Dicalcium Phosphate, Calcium Carbonate, Dehydrated Alfalfa Meal, Choline Chloride, Sea Salt, Calcium Sulfate, Monosodium Phosphate, Vitamin E Supplement, Salmon Oil, Potassium Chloride, Pumpkin, Inulin (prebiotic), Taurine, Green Tea Extract, Ferrous Sulfate, Zinc Sulfate, Niacin Supplement, Copper Sulfate, Vitamin A Supplement, Manganese Sulfate, Thiamine Mononitrate, Calcium D-pantothenate, Pyridoxine Hydrochloride, Biotin, Riboflavin Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Iodate, Folic Acid, Sodium Selenite, Rosemary Extract",
     "analysis": [
-        "Crude Protein Min 32%",
-        "Crude Fat Min 16%",
-        "Crude Fiber Max 5%",
-        "Moisture Max 10%"
+        "Crude Protein: 32%",
+        "Crude Fat: 16%",
+        "Crude Fiber: 5%",
+        "Moisture: 10%"
     ],
     "additive": null,
-    "calorie": "The calculated metabolizable energy is 3583 kcal/kg",
-    "site": "https://vintageovenfresh.com",
-    "image": "https://images.app.goo.gl/Ug96cXK9mqPJEKbY8"
+    "calorie": "The calculated metabolizable energy is 3583 kcal/kg"
 }

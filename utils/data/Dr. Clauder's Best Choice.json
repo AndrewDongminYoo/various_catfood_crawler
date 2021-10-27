@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.dr-clauder.com",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Adult%20Grainfree/?id=137&&lang=en",
         "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
+        "image": "https://images.app.goo.gl/ohjwwBEqxfNc6VoD7",
         "descriptions": [
             "grainfree",
             "well-balanced ratio of nutrients and active ingredients",
@@ -46,14 +48,14 @@
             "omega6 2.9%."
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.dr-clauder.com",
-        "image": "https://images.app.goo.gl/ohjwwBEqxfNc6VoD7"
+        "calorie": null
     },
     {
+        "site": "https://www.dr-clauder.com",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Indoor/?id=102&&lang=en",
         "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
+        "image": "https://images.app.goo.gl/RJ2oC9m6jwhLbaMs8",
         "descriptions": [
             "easily digestible",
             "ideal nutrition for cats that only stay indoors",
@@ -91,14 +93,14 @@
             "omega6 2.11%."
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.dr-clauder.com",
-        "image": "https://images.app.goo.gl/RJ2oC9m6jwhLbaMs8"
+        "calorie": null
     },
     {
+        "site": "https://www.dr-clauder.com",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Kitten/?id=136&&lang=en",
         "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
+        "image": "https://images.app.goo.gl/xPKk2nj8nx5Nm7xc9",
         "descriptions": [
             "great palatability",
             "free of wheat",
@@ -138,14 +140,14 @@
             "omega6 2.9%."
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.dr-clauder.com",
-        "image": "https://images.app.goo.gl/xPKk2nj8nx5Nm7xc9"
+        "calorie": null
     },
     {
+        "site": "https://www.dr-clauder.com",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Outdoor/?id=106&&lang=en",
         "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
+        "image": "https://images.app.goo.gl/snCXVkJEkt6J16rm6",
         "descriptions": [
             "providing of appropriate energy and protein",
             "optimal nutrition for all outdoor cats",
@@ -185,14 +187,14 @@
             "omega6 2.3%."
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.dr-clauder.com",
-        "image": "https://images.app.goo.gl/snCXVkJEkt6J16rm6"
+        "calorie": null
     },
     {
+        "site": "https://www.dr-clauder.com",
         "url": "https://www.dr-clauder.com/artikel/Dr.Clauder's%20High%20Premium%20Sterilised%20Senior%20Light/?id=138&&lang=en",
         "brand": "Dr. Clauder's Best Choice",
         "title": "Dr.Clauder's",
+        "image": "https://images.app.goo.gl/gTcg9Wu4sFBGBu9u5",
         "descriptions": [
             "with a nutritional value of 780g of fresh meat per 1kg of dry nutrition",
             "well-balanced ratio of nutrients and active ingredients",
@@ -230,8 +232,6 @@
             "omega6 2.11%."
         ],
         "additive": null,
-        "calorie": null,
-        "site": "https://www.dr-clauder.com",
-        "image": "https://images.app.goo.gl/gTcg9Wu4sFBGBu9u5"
+        "calorie": null
     }
 ]

@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-adult-cat-dry-food-chicken-brown-rice-recipe",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Adult Cat Dry Food - Chicken & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/X1EY9XBWxp2SsrmGA",
         "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
@@ -74,25 +76,25 @@
             "vitamin B12 supplement."
         ],
         "analysis": [
-            "Crude Protein 34.0% Minimum",
-            "Crude Fat 18.0% Minimum",
-            "Crude Fiber 4.0% Maximum",
-            "Moisture 10.0% Maximum",
-            "Zinc 125 mg/kg Minimum",
-            "Selenium 0.30 mg/kg Minimum",
-            "Vitamin E 125 IU/kg Minimum",
-            "Omega-6 Fatty Acids* 3.2% Minimum",
-            "Omega-3 Fatty Acids* 0.6% Minimum"
+            "Crude Protein 34.0%",
+            "Crude Fat 18.0%",
+            "Crude Fiber 4.0%",
+            "Moisture 10.0%",
+            "Zinc 125 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin E 125 IU/kg",
+            "Omega-6 Fatty Acids* 3.2%",
+            "Omega-3 Fatty Acids* 0.6%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 3,737 kcal/kg 397 kcal/cup",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/X1EY9XBWxp2SsrmGA"
+        "calorie": "3,737 kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-adult-cat-wet-food-chicken-turkey-recipe-pate",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Adult Cat Wet Food - Chicken & Turkey Recipe Pâté | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/gQTnwFFb6BoAM96x5",
         "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Chicken",
@@ -132,22 +134,22 @@
             "parsley."
         ],
         "analysis": [
-            "Crude Protein 10.5% Minimum",
-            "Crude Fat 8.0% Minimum",
-            "Crude Fiber 1.0% Maximum",
-            "Moisture 78.0% Maximum",
-            "Magnesium 0.035% Maximum",
-            "Taurine 0.10% Minimum"
+            "Crude Protein 10.5%",
+            "Crude Fat 8.0%",
+            "Crude Fiber 1.0%",
+            "Moisture 78.0%",
+            "Magnesium 0.035%",
+            "Taurine 0.10%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 1296 kcal/kg 198 kcal/can 5.5oz (156 g)",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/gQTnwFFb6BoAM96x5"
+        "calorie": "1296kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-adult-dry-cat-food-salmon-brown-rice-recipe",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Adult Dry Cat Food - Salmon & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/P3cHRqQCrdbBUnps9",
         "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Salmon",
@@ -158,25 +160,25 @@
         ],
         "ingredients": null,
         "analysis": [
-            "Crude Protein 34.0% Minimum",
-            "Crude Fat 18.0% Minimum",
-            "Crude Fiber 4.0% Maximum",
-            "Moisture 10.0% Maximum",
-            "Zinc 125 mg/kg Minimum",
-            "Selenium 0.30 mg/kg Minimum",
-            "Vitamin E 125 IU/kg Minimum",
-            "Omega-6 Fatty Acids* 2.5% Minimum",
-            "Omega-3 Fatty Acids* 2.2% Minimum"
+            "Crude Protein 34.0%",
+            "Crude Fat 18.0%",
+            "Crude Fiber 4.0%",
+            "Moisture 10.0%",
+            "Zinc 125 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin E 125 IU/kg",
+            "Omega-6 Fatty Acids* 2.5%",
+            "Omega-3 Fatty Acids* 2.2%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 3,775 kcal/kg 401 kcal/cup",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/P3cHRqQCrdbBUnps9"
+        "calorie": "3,775 kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-indoor-cat-dry-food-chicken-brown-rice-recipe",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Indoor Cat Dry Food - Chicken & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/rGperdaYzGGVv61y5",
         "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
@@ -248,48 +250,48 @@
             "vitamin B12 supplement."
         ],
         "analysis": [
-            "Crude Protein 32.0% Minimum",
-            "Crude Fat 13.0% Minimum",
-            "Crude Fiber 7.0% Maximum",
-            "Moisture 10.0% Maximum",
-            "Zinc 125 mg/kg Minimum",
-            "Selenium 0.30 mg/kg Minimum",
-            "Vitamin E 125 IU/kg Minimum",
-            "Omega-6 Fatty Acids* 2.4% Minimum",
-            "Omega-3 Fatty Acids* 0.4% Minimum"
+            "Crude Protein 32.0%",
+            "Crude Fat 13.0%",
+            "Crude Fiber 7.0%",
+            "Moisture 10.0%",
+            "Zinc 125 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin E 125 IU/kg",
+            "Omega-6 Fatty Acids* 2.4%",
+            "Omega-3 Fatty Acids* 0.4%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 3,436 kcal/kg 358 kcal/cup",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/rGperdaYzGGVv61y5"
+        "calorie": "3,436 kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-indoor-cat-dry-food-tuna-brown-rice-recipe",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Indoor Cat Dry Food - Tuna & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/uQsWMeQhF1PXTXif6",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": null,
         "analysis": [
-            "Crude Protein 35.0% Minimum",
-            "Crude Fat 12.0% Maximum",
-            "Crude Fiber 9.0% Maximum",
-            "Moisture 10.0% Maximum",
-            "Zinc 125 mg/kg Minimum",
-            "Selenium 0.30 mg/kg Minimum",
-            "Vitamin E 125 IU/kg Minimum",
-            "Omega-6 Fatty Acids* 2.0% Minimum",
-            "Omega-3 Fatty Acids* 0.6% Minimum"
+            "Crude Protein 35.0%",
+            "Crude Fat 12.0%",
+            "Crude Fiber 9.0%",
+            "Moisture 10.0%",
+            "Zinc 125 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin E 125 IU/kg",
+            "Omega-6 Fatty Acids* 2.0%",
+            "Omega-3 Fatty Acids* 0.6%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 3,419 kcal/kg 369 kcal/cup",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/uQsWMeQhF1PXTXif6"
+        "calorie": "3,419 kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-indoor-cat-wet-food-chicken-salmon-recipe-pate",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Indoor Cat Wet Food - Chicken & Salmon Recipe Pâté | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/KroydhPsmDgAF2m2A",
         "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Chicken",
@@ -331,22 +333,22 @@
             "parsley."
         ],
         "analysis": [
-            "Crude Protein 10.0% Minimum",
-            "Crude Fat 7.0% Minimum",
-            "Crude Fiber 3.0% Maximum",
-            "Moisture 78.0% Maximum",
-            "Magnesium 0.038% Maximum",
-            "Taurine 0.10% Minimum"
+            "Crude Protein 10.0%",
+            "Crude Fat 7.0%",
+            "Crude Fiber 3.0%",
+            "Moisture 78.0%",
+            "Magnesium 0.038%",
+            "Taurine 0.10%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 1298 kcal/kg 202 kcal/can 5.5oz (156 g)",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/KroydhPsmDgAF2m2A"
+        "calorie": "1298kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-kitten-dry-food-chicken-brown-rice-pea-recipe",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Kitten Dry Food - Chicken, Brown Rice & Pea Recipe | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/wghYnzkhBQ3w9TjZ6",
         "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
@@ -415,27 +417,27 @@
             "vitamin B12 supplement."
         ],
         "analysis": [
-            "Crude Protein 36.0% Minimum",
-            "Crude Fat 20.0% Minimum",
-            "Crude Fiber 4.0% Maximum",
-            "Moisture 10.0% Maximum",
-            "Docosahexaenoic acid (DHA) 0.05% Minimum",
-            "Zinc 125 mg/kg Minimum",
-            "Selenium 0.30 mg/kg Minimum",
-            "Vitamin E 125 IU/kg Minimum",
-            "Taurine 0.15% Minimum",
-            "Omega-6 Fatty Acids* 3.4% Minimum",
-            "Omega-3 Fatty Acids* 0.6% Minimum"
+            "Crude Protein 36.0%",
+            "Crude Fat 20.0%",
+            "Crude Fiber 4.0%",
+            "Moisture 10.0%",
+            "Docosahexaenoic acid (DHA) 0.05%",
+            "Zinc 125 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin E 125 IU/kg",
+            "Taurine 0.15%",
+            "Omega-6 Fatty Acids* 3.4%",
+            "Omega-3 Fatty Acids* 0.6%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 3,796 kcal/kg 396 kcal/cup",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/wghYnzkhBQ3w9TjZ6"
+        "calorie": "3,796 kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-kitten-wet-food-chicken-turkey-recipe-pate",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Kitten Wet Food - Chicken & Turkey Recipe Pâté | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/MAQjGbra1oV7Eui76",
         "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Chicken",
@@ -476,22 +478,22 @@
             "parsley."
         ],
         "analysis": [
-            "Crude Protein 11.0% Minimum",
-            "Crude Fat 8.0% Minimum",
-            "Crude Fiber 1.0% Maximum",
-            "Moisture 78.0% Maximum",
-            "Docosahexaenoic Acid (DHA)* 0.04% Minimum",
-            "Taurine* 0.10% Minimum"
+            "Crude Protein 11.0%",
+            "Crude Fat 8.0%",
+            "Crude Fiber 1.0%",
+            "Moisture 78.0%",
+            "Docosahexaenoic Acid (DHA)* 0.04%",
+            "Taurine* 0.10%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 1347 kcal/kg 210 kcal/can 5.5oz (156 g)",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/MAQjGbra1oV7Eui76"
+        "calorie": "1347kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-weight-mature-care-dry-cat-food-chicken-brown-rice-recipe",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Weight & Mature Care Dry Cat Food - Chicken & Brown Rice Recipe | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/cbE5nfso8tHs3htE9",
         "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
@@ -563,26 +565,26 @@
             "vitamin B12 supplement."
         ],
         "analysis": [
-            "Crude Protein 34.0% Minimum",
-            "Crude Fat 8.0% Minimum",
-            "Crude Fat 10.0% Maximum",
-            "Crude Fiber 8.0% Maximum",
-            "Moisture 10.0% Maximum",
-            "Zinc 125 mg/kg Minimum",
-            "Selenium 0.30 mg/kg Minimum",
-            "Vitamin E 125 IU/kg Minimum",
-            "Omega-6 Fatty Acids* 1.2% Minimum",
-            "Omega-3 Fatty Acids* 0.1% Minimum"
+            "Crude Protein 34.0%",
+            "Crude Fat 8.0%",
+            "Crude Fat 10.0%",
+            "Crude Fiber 8.0%",
+            "Moisture 10.0%",
+            "Zinc 125 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin E 125 IU/kg",
+            "Omega-6 Fatty Acids* 1.2%",
+            "Omega-3 Fatty Acids* 0.1%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 3,118 kcal/kg 325 kcal/cup",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/cbE5nfso8tHs3htE9"
+        "calorie": "3,118 kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/classic-weight-mature-care-wet-cat-food-ocean-fish-chicken-turkey-pate",
         "brand": "Chicken Soup for the Soul",
         "title": "Classic Weight & Mature Care Wet Cat Food - Ocean Fish, Chicken & Turkey Pâté | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/QqPb9FF5o5z2D2sd9",
         "descriptions": null,
         "key_benefits": [
             "#1 Ingredient Real Ocean Fish",
@@ -625,23 +627,23 @@
             "salt."
         ],
         "analysis": [
-            "Crude Protein 10.0% Minimum",
-            "Crude Fat 4.0% Minimum",
-            "Crude Fiber 2.5% Maximum",
-            "Moisture 78.0% Maximum",
-            "Ash 2.3% Maximum",
-            "Magnesium 0.032% Maximum",
-            "Taurine 0.10% Minimum"
+            "Crude Protein 10.0%",
+            "Crude Fat 4.0%",
+            "Crude Fiber 2.5%",
+            "Moisture 78.0%",
+            "Ash 2.3%",
+            "Magnesium 0.032%",
+            "Taurine 0.10%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 963 kcal/kg 150 kcal/can 5.5oz (156 g)",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/QqPb9FF5o5z2D2sd9"
+        "calorie": "963kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/grain-free-cat-food-chicken-legumes-recipe",
         "brand": "Chicken Soup for the Soul",
         "title": "Grain Free Cat Food - Chicken & Legumes Recipe | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/ivMV5ZRWhhUpe52YA",
         "descriptions": null,
         "key_benefits": [
             "Real Chicken #1 Ingredient",
@@ -697,25 +699,25 @@
             "rosemary extract."
         ],
         "analysis": [
-            "Crude Protein 32.0% Minimum",
-            "Crude Fat 15.0% Minimum",
-            "Crude Fiber 4.5% Maximum",
-            "Moisture 10.0% Maximum",
-            "Zinc 125 mg/kg Minimum",
-            "Selenium 0.30 mg/kg Minimum",
-            "Vitamin E 125 IU/kg Minimum",
-            "Omega-6 Fatty Acids* 2.5% Minimum",
-            "Omega-3 Fatty Acids* 0.5% Minimum"
+            "Crude Protein 32.0%",
+            "Crude Fat 15.0%",
+            "Crude Fiber 4.5%",
+            "Moisture 10.0%",
+            "Zinc 125 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin E 125 IU/kg",
+            "Omega-6 Fatty Acids* 2.5%",
+            "Omega-3 Fatty Acids* 0.5%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 3,583 kcal/kg 380 kcal/cup",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/ivMV5ZRWhhUpe52YA"
+        "calorie": "3,583 kcal/kg"
     },
     {
+        "site": "https://chickensouppets.com",
         "url": "https://chickensouppets.com/cats/grain-free-cat-food-salmon-legumes-recipe",
         "brand": "Chicken Soup for the Soul",
         "title": "Grain Free Cat Food - Salmon & Legumes Recipe | Chicken Soup for the Soul Pet Food",
+        "image": "https://images.app.goo.gl/D6ZXQv5MbviQMch98",
         "descriptions": null,
         "key_benefits": [
             "Real Salmon #1 Ingredient",
@@ -771,20 +773,18 @@
             "rosemary extract."
         ],
         "analysis": [
-            "Crude Protein 32.0% Minimum",
-            "Crude Fat 15.0% Minimum",
-            "Crude Fiber 4.5% Maximum",
-            "Moisture 10.0% Maximum",
-            "DHA 0.05% Minimum",
-            "Zinc 125 mg/kg Minimum",
-            "Selenium 0.30 mg/kg Minimum",
-            "Vitamin E 125 IU/kg Minimum",
-            "Omega-6 Fatty Acids* 1.8% Minimum",
-            "Omega-3 Fatty Acids* 1.8% Minimum"
+            "Crude Protein 32.0%",
+            "Crude Fat 15.0%",
+            "Crude Fiber 4.5%",
+            "Moisture 10.0%",
+            "DHA 0.05%",
+            "Zinc 125 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin E 125 IU/kg",
+            "Omega-6 Fatty Acids* 1.8%",
+            "Omega-3 Fatty Acids* 1.8%"
         ],
         "additive": null,
-        "calorie": "Calculated Metabolizable Energy (ME) 3,596 kcal/kg 371 kcal/cup",
-        "site": "https://chickensouppets.com",
-        "image": "https://images.app.goo.gl/D6ZXQv5MbviQMch98"
+        "calorie": "3,596 kcal/kg"
     }
 ]

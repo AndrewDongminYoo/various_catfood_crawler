@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://borealpetfood.com",
         "url": "https://borealpetfood.com/Cats/Product/22",
         "brand": "BOREAL",
         "title": "Boreal - Proper Chicken Meal Low Carb Grains",
+        "image": "https://boreal.blob.core.windows.net/images/1258.jpg",
         "descriptions": [
             "Our Boreal Diet Proper Chicken Meal is a good grain food using chicken as a new source of unique protein. It is a daily diet that can be used to help maintain the weight of your cat and can also be used as a hypoallergenic preparation.  We believe that pet foods should avoid starchy ingredients that might lead to weight gain and obesity. An alternative is a ‘good’ grain free diet that avoids the high sugar grains such as corn or wheat. There are particular grains such as steel cut oats that are very good for your cat and have many beneficial properties. That’s why we at Boréal have developed a line called Boréal Proper Cat Food.  Low glycemic index steel cut oats & barley from Ontario’s Central Mennonite farming region are fantastic ingredients, along with low glycemic peas and white beans. Proper grains are low carb grains plus steel cut oats and barley are a great value and are grown locally. Ontario oats and barley provide a rich source of vitamins, minerals, low glycemic carbohydrates, essential oils, fiber and proteins.  We use a base of beans and peas to replace the grains found in many dog foods, and we also add many beneficial herbs and fruits including blueberries and cranberries, thereby improving the taste of food as well add antioxidants with several health benefits.",
             "Our Boréal Cat Foods use Availa®Pet – a special collection of minerals bound to amino acids to make the minerals ‘bio-available’. The organic zinc in Availa®Pet easily absorbed and is many times more available to a cat than other zinc sources. Zinc is essential for healthy skin & coat."
@@ -42,26 +44,26 @@
             "calcium iodate."
         ],
         "analysis": [
-            "GUARANTEED ANALYSIS: Crude Protein (min) 32%",
-            "Crude Fat (min) 15%",
-            "Crude Fiber (max) 3.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 7.5%",
-            "Calcium (min) 1.3%",
-            "Phosphorous (min) 1%",
-            "Zinc (min) 100mg/kg",
+            "GUARANTEED ANALYSIS: Crude Protein: 32%",
+            "Crude Fat: 15%",
+            "Crude Fiber: 3.5%",
+            "Moisture: 10%",
+            "Ash: 7.5%",
+            "Calcium: 1.3%",
+            "Phosphorous: 1%",
+            "Zinc: 100mg/kg",
             "Omega-3 Fatty Acids (Min)* 0.54%",
             "Omega-6 Fatty Acids (Min)* 2.63%"
         ],
         "additive": null,
-        "calorie": "3510 kcal/kg",
-        "image": "https://boreal.blob.core.windows.net/images/1258.jpg",
-        "site": "https://borealpetfood.com"
+        "calorie": "3510 kcal/kg"
     },
     {
+        "site": "https://borealpetfood.com",
         "url": "https://borealpetfood.com/Cats/Product/23",
         "brand": "BOREAL",
         "title": "Boreal - Original Fish Trio Grain Free",
+        "image": "https://boreal.blob.core.windows.net/images/1259.jpg",
         "descriptions": [
             "Our Boréal Fish Trio diet is a grain free food based on fish proteins. This is an everyday diet, which can be used to help keep weight off your cat and additionally can be used as a hypoallergenic formula. We use a base of beans and peas to replace the grains found in many pet foods, and we also add many beneficial herbs and fruits including blueberries and cranberries, thereby improving the taste of food as well add antioxidants with several health benefits.",
             "Our Boréal Cat Foods use Availa®Pet – a special collection of minerals bound to amino acids to make the minerals ‘bio-available’. The organic zinc in Availa®Pet easily absorbed and is many times more available to a cat than other zinc sources. Zinc is essential for healthy skin & coat."
@@ -116,27 +118,27 @@
             "calcium iodate."
         ],
         "analysis": [
-            "GUARANTEED ANALYSIS: Crude Protein (min) 36%",
-            "Crude Fat (min) 16%",
-            "Crude Fiber (max) 5%",
-            "Moisture (max) 10%",
-            "Ash (max) 8%",
-            "Calcium (min) 1.6%",
-            "Phosphorous (min) 1.1%",
-            "Magnesium (min) 0.14%",
-            "Zinc (min) 100mg/kg",
+            "GUARANTEED ANALYSIS: Crude Protein: 36%",
+            "Crude Fat: 16%",
+            "Crude Fiber: 5%",
+            "Moisture: 10%",
+            "Ash: 8%",
+            "Calcium: 1.6%",
+            "Phosphorous: 1.1%",
+            "Magnesium: 0.14%",
+            "Zinc: 100mg/kg",
             "Omega-3 Fatty Acids (Min)* 0.7%",
             "Omega-6 Fatty Acids (Min)* 2.5%"
         ],
         "additive": null,
-        "calorie": "3728 kcal/kg",
-        "image": "https://boreal.blob.core.windows.net/images/1259.jpg",
-        "site": "https://borealpetfood.com"
+        "calorie": "3728 kcal/kg"
     },
     {
+        "site": "https://borealpetfood.com",
         "url": "https://borealpetfood.com/Cats/Product/24",
         "brand": "BOREAL",
         "title": "Boreal - Original Chicken Grain Free",
+        "image": "https://boreal.blob.core.windows.net/images/1260.jpg",
         "descriptions": [
             "Our Boréal Original Chicken diet is a grain free food based on chicken proteins - made using fresh Ontario and Quebec chicken. This is an everyday diet, which can be used to help keep weight off your cat and additionally can be used as a hypoallergenic formula. We use a base of beans and peas to replace the grains found in many pet foods, and we also add many beneficial herbs and fruits including blueberries and cranberries, thereby improving the taste of food as well add antioxidants with several health benefits.",
             "Our Boréal Cat Foods use Availa®Pet – a special collection of minerals bound to amino acids to make the minerals ‘bio-available’. The organic zinc in Availa®Pet easily absorbed and is many times more available to a cat than other zinc sources. Zinc is essential for healthy skin & coat."
@@ -190,27 +192,27 @@
             "calcium iodate."
         ],
         "analysis": [
-            "GUARANTEED ANALYSIS: Crude Protein (min) 33%",
-            "Crude Fat (min) 18%",
-            "Crude Fiber (max) 4.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 8%",
-            "Calcium (min) 1.4%",
-            "Phosphorous (min) 1%",
-            "Magnesium (max) 0.14%",
-            "Zinc (min) 100mg/kg",
+            "GUARANTEED ANALYSIS: Crude Protein: 33%",
+            "Crude Fat: 18%",
+            "Crude Fiber: 4.5%",
+            "Moisture: 10%",
+            "Ash: 8%",
+            "Calcium: 1.4%",
+            "Phosphorous: 1%",
+            "Magnesium: 0.14%",
+            "Zinc: 100mg/kg",
             "Omega-3 Fatty Acids (min)* 0.4%",
             "Omega-6 Fatty Acids (min)* 3.5%"
         ],
         "additive": null,
-        "calorie": "3815 kcal/kg",
-        "image": "https://boreal.blob.core.windows.net/images/1260.jpg",
-        "site": "https://borealpetfood.com"
+        "calorie": "3815 kcal/kg"
     },
     {
+        "site": "https://borealpetfood.com",
         "url": "https://borealpetfood.com/Cats/Product/79",
         "brand": "BOREAL",
         "title": "Boreal - Pork and Trout",
+        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
         "descriptions": "Our new reformulated Boréal canned cat foods have 95% of the protein from Meat/Fish and are designed to have almost no carbohydrates or starches. Our goal is to lower your pets risk of unwanted weight gain.  Our Canadian-made line is gum free and gluten free. Our Pork and Trout cat food is made from Canadian pork and trout. No cereals, grains, artificial colour, gums or thickeners added. We add Availa-Pet as it is the most easily absorbed and utilized trace mineral product available. It is specially formulated for companion animals and is more ‘bio-available’ than other form of zinc, iron and manganese. Zinc and manganese are important for skin health and coat quality. This includes better hair coat length and shine, and enhanced skin integrity and wound healing. Zinc, manganese and iron all contribute to the growth and development of pets including weight gain in kittens, bone development and joint maintenance and repair.",
         "key_benefits": "Cans 369 gm (13oz) ,156 gm (5.5 oz) and 80 gm (2.8 oz) Cans are BPA and Epoxy free.",
         "ingredients": [
@@ -269,19 +271,19 @@
             "Vitamin A 2,000 IU/kg",
             "Vitamin D3 80 IU/kg",
             "Vitamin E 15 IU/kg",
-            "Potassium (min) 0.18%",
-            "Magnesium (max) 0.03%",
-            "Vitamin C (min) 15 IU/kg"
+            "Potassium: 0.18%",
+            "Magnesium: 0.03%",
+            "Vitamin C: 15 IU/kg"
         ],
         "additive": null,
-        "calorie": "387 kcals/369g  164kcals/156g  84kcals/80g  105kcals/100g ME [metabolizable energy] on an as fed basis [calculated]",
-        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
-        "site": "https://borealpetfood.com"
+        "calorie": "387 kcal/369g  164kcal/156g  84kcal/80g  105kcal/100g ME [metabolizable energy] on an as fed basis [calculated]"
     },
     {
+        "site": "https://borealpetfood.com",
         "url": "https://borealpetfood.com/Cats/Product/81",
         "brand": "BOREAL",
         "title": "Boreal - Heritage Turkey & Trout",
+        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
         "descriptions": "Our new reformulated Boréal canned cat foods have 95% of the protein from Meat/Fish and are designed to have almost no carbohydrates or starches. Our goal is to lower your pets risk of unwanted weight gain.  Our Canadian-made line is gum free and gluten free. Our Heritage Turkey and Trout cat food is made from Canadian turkey and trout. No cereals, grains, artificial colour, gums or thickeners added. We add Availa-Pet as it is the most easily absorbed and utilized trace mineral product available. It is specially formulated for companion animals and is more ‘bio-available’ than other form of zinc, iron and manganese. Zinc and manganese are important for skin health and coat quality. This includes better hair coat length and shine, and enhanced skin integrity and wound healing. Zinc, manganese and iron all contribute to the growth and development of pets including weight gain in kittens, bone development and joint maintenance and repair.",
         "key_benefits": [
             "ALL BREEDS CATS",
@@ -343,19 +345,19 @@
             "Vitamin A 2,000 IU/kg",
             "Vitamin D3 80 IU/kg",
             "Vitamin E 15 IU/kg",
-            "Potassium (min) 0.18%",
-            "Magnesium (max) 0.03%",
-            "Vitamin C (min) 15 IU/kg"
+            "Potassium: 0.18%",
+            "Magnesium: 0.03%",
+            "Vitamin C: 15 IU/kg"
         ],
         "additive": null,
-        "calorie": "105 kcal/100g",
-        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
-        "site": "https://borealpetfood.com"
+        "calorie": "105 kcal/100g"
     },
     {
+        "site": "https://borealpetfood.com",
         "url": "https://borealpetfood.com/Cats/Product/88",
         "brand": "BOREAL",
         "title": "Boreal - Functional Indoor Cat",
+        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
         "descriptions": [
             "Boreal Functional foods are designed to help you solve specific issues. We have adjusted the protein, fat and fiber numbers to best suit either aging or indoor cats. Added supplements' will help solve tartar issues, help with hairballs and make for a healthier urinary tract. Boreal Functional have fresh meat as the first ingredient and use low glycemic ingredients.",
             "Our Boréal Cat Foods use Availa®Pet – a special collection of minerals bound to amino acids to make the minerals ‘bio-available’. The organic zinc in Availa®Pet easily absorbed and is many times more available to a cat than other zinc sources. Zinc is essential for healthy skin & coat."
@@ -429,26 +431,26 @@
             "rosemary extract."
         ],
         "analysis": [
-            "GUARANTEED ANALYSIS: Crude Protein (min) 32%",
-            "Crude Fat (min) 12%",
-            "Crude Fiber (max) 7%",
-            "Moisture (max) 10%",
-            "Ash (max) 7%",
-            "Calcium (min) 1%",
-            "Phosphorous (min) 0.9%",
-            "Zinc (min) 100mg/kg",
+            "GUARANTEED ANALYSIS: Crude Protein: 32%",
+            "Crude Fat: 12%",
+            "Crude Fiber: 7%",
+            "Moisture: 10%",
+            "Ash: 7%",
+            "Calcium: 1%",
+            "Phosphorous: 0.9%",
+            "Zinc: 100mg/kg",
             "Omega-3 Fatty Acids (Min)* 1.1%",
             "Omega-6 Fatty Acids (Min)* 3.7%"
         ],
         "additive": null,
-        "calorie": "3459 kcal/kg",
-        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
-        "site": "https://borealpetfood.com"
+        "calorie": "3459 kcal/kg"
     },
     {
+        "site": "https://borealpetfood.com",
         "url": "https://borealpetfood.com/Cats/Product/89",
         "brand": "BOREAL",
         "title": "Boreal - Functional Senior and Less Active Cat",
+        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
         "descriptions": [
             "Boreal Functional foods are designed to help you solve specific issues. We have adjusted the protein, fat and fiber numbers to best suit either aging or indoor cats. Added supplements' will help solve tartar issues, help with hairballs and make for a healthier urinary tract. Boreal Functional have fresh meat as the first ingredient and use low glycemic ingredients.",
             "Our Boréal Cat Foods use Availa®Pet – a special collection of minerals bound to amino acids to make the minerals ‘bio-available’. The organic zinc in Availa®Pet easily absorbed and is many times more available to a cat than other zinc sources. Zinc is essential for healthy skin & coat."
@@ -523,28 +525,28 @@
             "rosemary extract."
         ],
         "analysis": [
-            "GUARANTEED ANALYSIS: Crude Protein (min) 30%",
-            "Crude Fat (min) 15%",
-            "Crude Fiber (max) 7%",
-            "Moisture (max) 10%",
-            "Ash (max) 7%",
-            "Calcium (min) 0.9%",
-            "Phosphorous (min) 0.8%",
-            "Zinc (min) 100mg/kg",
+            "GUARANTEED ANALYSIS: Crude Protein: 30%",
+            "Crude Fat: 15%",
+            "Crude Fiber: 7%",
+            "Moisture: 10%",
+            "Ash: 7%",
+            "Calcium: 0.9%",
+            "Phosphorous: 0.8%",
+            "Zinc: 100mg/kg",
             "Omega-3 Fatty Acids (min)* 1.1%",
             "Omega-6 Fatty Acids (min)* 4.1%",
-            "Glucosamine (min) 400 mg/kg",
-            "Chondroitin (min) 100 mg/kg"
+            "Glucosamine: 400 mg/kg",
+            "Chondroitin: 100 mg/kg"
         ],
         "additive": null,
-        "calorie": "3617 kcal/kg",
-        "image": "https://borealpetfood.com/Content/images/ico-madeincanada.png",
-        "site": "https://borealpetfood.com"
+        "calorie": "3617 kcal/kg"
     },
     {
+        "site": "https://borealpetfood.com",
         "url": "https://borealpetfood.com/Cats/Product/90",
         "brand": "BOREAL",
         "title": "Boreal - Boréal Original Turkey and Trout",
+        "image": null,
         "descriptions": "Our Boréal Original Turkey and Trout diet is a grain free food based on turkey and trout proteins - made using fresh Ontario and Quebec turkey. This is an everyday diet, which can be used to help keep weight off your cat and additionally can be used as a hypoallergenic formula. We use a base of beans and peas to replace the grains found in many pet foods, and we also add many beneficial herbs and fruits including blueberries and cranberries, thereby improving the taste of food as well add antioxidants with several health benefits.",
         "key_benefits": "Our Boréal Cat Foods use Availa®Pet – a special collection of minerals bound to amino acids to make the minerals ‘bio-available’. The organic zinc in Availa®Pet easily absorbed and is many times more available to a cat than other zinc sources. Zinc is essential for healthy skin & coat.",
         "ingredients": [
@@ -608,21 +610,19 @@
             "rosemary extract."
         ],
         "analysis": [
-            "GUARANTEED ANALYSIS: Crude Protein (min) 36%",
-            "Crude Fat (min) 16%",
-            "Crude Fiber (max) 6%",
-            "Moisture (max) 10%",
-            "Ash (max) 9%",
-            "Calcium (min) 1.8%",
-            "Phosphorous (min) 1.1%",
-            "Magnesium (max) 0.12%",
-            "Zinc (min) 100mg/kg",
+            "GUARANTEED ANALYSIS: Crude Protein: 36%",
+            "Crude Fat: 16%",
+            "Crude Fiber: 6%",
+            "Moisture: 10%",
+            "Ash: 9%",
+            "Calcium: 1.8%",
+            "Phosphorous: 1.1%",
+            "Magnesium: 0.12%",
+            "Zinc: 100mg/kg",
             "Omega-3 Fatty Acids (min)* 1.3%",
             "Omega-6 Fatty Acids (min)* 2.8%"
         ],
         "additive": null,
-        "calorie": "3492 kcal/kg",
-        "image": null,
-        "site": "https://borealpetfood.com"
+        "calorie": "3492 kcal/kg"
     }
 ]

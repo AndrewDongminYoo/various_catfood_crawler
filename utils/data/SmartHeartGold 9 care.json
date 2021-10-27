@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/349461/",
         "brand": "SmartHeartGold 9 care",
         "title": "Skin & Coat Care Formula – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/cE3cPqGuh1wQyMnC6",
         "descriptions": "A completed meal that made from real meat which providing essential nutrients that cats need to stay strong and healthy.",
         "key_benefits": [
             "Optimum Level of Sodium Chloride – Optimum level of Sodium Chloride to maintain healthiness of kidney",
@@ -32,14 +34,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/cE3cPqGuh1wQyMnC6"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/fit-firm-formula/",
         "brand": "SmartHeartGold 9 care",
         "title": "Fit & Firm Formula – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/T2j75yu9YUSGYqVr6",
         "descriptions": "A completed meal that made from real meat which providing essential nutrients that cats need to stay strong and healthy.",
         "key_benefits": [
             "Optimum Level of Sodium Chloride – Optimum level of Sodium Chloride to maintain healthiness of kidney",
@@ -70,14 +72,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/T2j75yu9YUSGYqVr6"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/indoor-care-formula/",
         "brand": "SmartHeartGold 9 care",
         "title": "Indoor Care Formula – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/TGicfQhUztP9jWFVA",
         "descriptions": "A completed meal that made from real meat which providing essential nutrients that cats need to stay strong and healthy.",
         "key_benefits": [
             "Optimum Level of Sodium Chloride – Optimum level of Sodium Chloride to maintain healthiness of kidney",
@@ -107,14 +109,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/TGicfQhUztP9jWFVA"
+        "calorie": null
     },
     {
+        "site": "https://perfectcompanion.com.my",
         "url": "https://perfectcompanion.com.my/product/smartheart-gold-kitten/",
         "brand": "SmartHeartGold 9 care",
         "title": "SmartHeart Gold Kitten – Perfect Companion Malaysia",
+        "image": "https://images.app.goo.gl/TtjqcVTKwCrY51us8",
         "descriptions": "A completed meal that made from real meat which providing essential nutrients that cats need to stay strong and healthy.",
         "key_benefits": [
             "DHA and Choline– Help to develop brain and eyes function",
@@ -156,8 +158,6 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://perfectcompanion.com.my",
-        "image": "https://images.app.goo.gl/TtjqcVTKwCrY51us8"
+        "calorie": null
     }
 ]

@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.supremesourcepet.com",
         "url": "https://www.supremesourcepet.com/chicken-meal-turkey-meal-recipe-cat-food/",
         "brand": "Supreme Source",
         "title": "Chicken Meal & Turkey Meal Cat Food - Supreme Source",
+        "image": "https://images.app.goo.gl/nmTrKt5JNWb9ypnm9",
         "descriptions": "Our Chicken Meal & Turkey Meal recipe is advanced nutrition for cats who deserve only the best. Sourced from trusted, passionate farmers, our premium ingredients provide all the vitamins, protein and antioxidants your cat needs to thrive.",
         "key_benefits": [
             "Chicken Meal A great source of high-quality protein for your cat because it contains more protein than fresh chicken.",
@@ -61,34 +63,34 @@
             "Rosemary Extract."
         ],
         "analysis": [
-            "Crude Protein 35.0% Min.",
-            "Crude Fat 15.0% Min.",
+            "Crude Protein 35.0%: ",
+            "Crude Fat 15.0%: ",
             "Crude Fiber 4.5% Max.",
             "Moisture 10.0% Max.",
-            "Linoleic Acid 2.0% Min.",
-            "Calcium 1.1% Min.",
-            "Phosphorus 0.9% Min.",
-            "Potassium 0.6% Min.",
-            "Iron 100 mg/kg Min.",
-            "Manganese 15 mg/kg Min.",
-            "Zinc 150 mg/kg Min.",
-            "Selenium 0.30 mg/kg Min.",
-            "Vitamin A 15,000 IU/kg Min.",
-            "Vitamin D 1,500 IU/kg Min.",
-            "Vitamin E 300 IU/kg Min.",
-            "Taurine 0.1% Min.",
-            "Omega-3 Fatty Acids 0.5% Min.",
-            "Omega-6 Fatty Acids 1.1% Min."
+            "Linoleic Acid 2.0%",
+            "Calcium 1.1%",
+            "Phosphorus 0.9%",
+            "Potassium 0.6%",
+            "Iron 100 mg/kg",
+            "Manganese 15 mg/kg",
+            "Zinc 150 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin A 15,000 IU/kg",
+            "Vitamin D 1,500 IU/kg",
+            "Vitamin E 300 IU/kg",
+            "Taurine 0.1%",
+            "Omega-3 Fatty Acids 0.5%",
+            "Omega-6 Fatty Acids 1.1%"
         ],
         "additive": null,
-        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED (ME): 3,650 kcal/kg., 394 kcal/cup.",
-        "site": "https://www.supremesourcepet.com",
-        "image": "https://images.app.goo.gl/nmTrKt5JNWb9ypnm9"
+        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED (ME): 3,650 kcal/kg., 394 kcal/cup."
     },
     {
+        "site": "https://www.supremesourcepet.com",
         "url": "https://www.supremesourcepet.com/whitefish-meal-and-salmon-meal-recipe/",
         "brand": "Supreme Source",
         "title": "Whitefish Meal and Salmon Cat Food | Supreme Source",
+        "image": "https://images.app.goo.gl/DTmGtNwydKhPBKnq7",
         "descriptions": "Our Whitefish Meal and Salmon Meal Cat Food recipe is advanced nutrition for cats who deserve only the best. Sourced from trusted, passionate farmers, our premium ingredients provide all the vitamins, protein and antioxidants your cat needs to thrive.",
         "key_benefits": [
             "Whitefish Meal A great source of high-quality protein that contains more protein than fresh whitefish. Whitefish meal is a delicious and highly digestible protein that helps your cat maintain strong muscles.",
@@ -147,27 +149,25 @@
             "Rosemary Extract."
         ],
         "analysis": [
-            "Crude Protein 35.0% Min.",
-            "Crude Fat 15.0% Min.",
+            "Crude Protein 35.0%",
+            "Crude Fat 15.0%",
             "Crude Fiber 4.5% Max.",
             "Moisture 10.0% Max.",
-            "Linoleic Acid 2.0% Min.",
-            "Calcium 1.1% Min.",
-            "Phosphorus 0.9% Min.",
-            "Potassium 0.6% Min.",
-            "Manganese 15 mg/kg Min.",
-            "Zinc 150 mg/kg Min.",
-            "Selenium 0.30 mg/kg Min.",
-            "Vitamin A 15,000 IU/kg Min.",
-            "Vitamin D 1,500 IU/kg Min.",
-            "Vitamin E 300 IU/kg Min.",
-            "Taurine 0.1% Min.",
-            "Omega-3 Fatty Acids* 0.7% Min.",
-            "Omega-6 Fatty Acids* 2.1% Min."
+            "Linoleic Acid 2.0%",
+            "Calcium 1.1%",
+            "Phosphorus 0.9%",
+            "Potassium 0.6%",
+            "Manganese 15 mg/kg",
+            "Zinc 150 mg/kg",
+            "Selenium 0.30 mg/kg",
+            "Vitamin A 15,000 IU/kg",
+            "Vitamin D 1,500 IU/kg",
+            "Vitamin E 300 IU/kg",
+            "Taurine 0.1%",
+            "Omega-3 Fatty Acids* 0.7%",
+            "Omega-6 Fatty Acids* 2.1%"
         ],
         "additive": null,
-        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED (ME): 3,660 kcal/kg., 395 kcal/cup.",
-        "site": "https://www.supremesourcepet.com",
-        "image": "https://images.app.goo.gl/DTmGtNwydKhPBKnq7"
+        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles. CALCULATED (ME): 3,660 kcal/kg., 395 kcal/cup."
     }
 ]

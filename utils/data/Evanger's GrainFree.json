@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://evangersdogfood.com",
         "url": "https://evangersdogfood.com/product/20084/",
         "brand": "Evanger's GrainFree",
         "title": "Super Premium Seafood & Caviar Dinner for Cats – Case of 24 – Evanger's Dog & Cat Food Company, Inc.",
+        "image": "https://evangersdogfood.com/wp-content/uploads/20084.png",
         "descriptions": "Evanger's Seafood & Caviar Dinner is formulated to meet the nutritional levels established by the AAFCO nutrient profiles for all life stages. Cats, kittens, and pregnant and nursing cats may require 2-3 times above amounts, and reduced for less active or older cats.",
         "key_benefits": [
             "Salmon and Chicken meat for high protein",
@@ -44,14 +46,14 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "152 Kcals/100G, 237 Kcals/Can",
-        "image": "https://evangersdogfood.com/wp-content/uploads/20084.png",
-        "site": "https://evangersdogfood.com"
+        "calorie": "152 Kcals/100G, 237 Kcals/Can"
     },
     {
+        "site": "https://evangersdogfood.com",
         "url": "https://evangersdogfood.com/product/20085/",
         "brand": "Evanger's GrainFree",
         "title": "Super Premium Rabbit and Quail Dinner for Cats – Case of 24 – Evanger's Dog & Cat Food Company, Inc.",
+        "image": "https://evangersdogfood.com/wp-content/uploads/20085.png",
         "descriptions": "This product uses ingredients that help support small family-owned businesses and farmers.",
         "key_benefits": [
             "Limited ingredient formula",
@@ -105,14 +107,14 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "948 kcal/kg",
-        "image": "https://evangersdogfood.com/wp-content/uploads/20085.png",
-        "site": "https://evangersdogfood.com"
+        "calorie": "948 kcal/kg"
     },
     {
+        "site": "https://evangersdogfood.com",
         "url": "https://evangersdogfood.com/product/20086/",
         "brand": "Evanger's GrainFree",
         "title": "Super Premium Duck Dinner for Cats – Case of 24 – Evanger's Dog & Cat Food Company, Inc.",
+        "image": "https://evangersdogfood.com/wp-content/uploads/20086.png",
         "descriptions": "Fortified with Chelated Minerals, GMO Free, No Antibiotics, Exotic proteins, Complete and balanced.",
         "key_benefits": [
             "Limited ingredient dinner for cats",
@@ -165,14 +167,14 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "948 kcal/kg",
-        "image": "https://evangersdogfood.com/wp-content/uploads/20086.png",
-        "site": "https://evangersdogfood.com"
+        "calorie": "948 kcal/kg"
     },
     {
+        "site": "https://evangersdogfood.com",
         "url": "https://evangersdogfood.com/product/20087/",
         "brand": "Evanger's GrainFree",
         "title": "Super Premium Holistic Quail Dinner for Cats – Case of 24 – Evanger's Dog & Cat Food Company, Inc.",
+        "image": "https://evangersdogfood.com/wp-content/uploads/20087-1.png",
         "descriptions": "Evanger's Holistic Quail is formulated to meet the nutritional levels established by the AAFCO nutrient profiles for all life stages. Cats, kittens, and nursing cats may require 2-3 times above amounts, and reduced for less active or older cats. Fortified with Chelated Minerals, GMO Free, No Antibiotics, Exotic proteins, Complete and balanced dinner.",
         "key_benefits": [
             "Limited ingredient formula",
@@ -224,8 +226,6 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "134 Kcals/100G, 209 Kcals/Can",
-        "image": "https://evangersdogfood.com/wp-content/uploads/20087-1.png",
-        "site": "https://evangersdogfood.com"
+        "calorie": "134 Kcals/100G, 209 Kcals/Can"
     }
 ]

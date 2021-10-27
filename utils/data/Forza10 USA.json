@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/dermo-2",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Active Dermo Dry Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_Dermo_1lb_1200x1200.jpg?v=1600428527",
         "descriptions": "Forza10 Active Dermo is designed for cats with sensitive skin. Helps stop itchiness, redness, hot spots, scratching, dandruff, dry and dull fur, and constant fur loss. Made with Icelandic wild-caught anchovy, which is rich in omegas for a healthy skin & coat. Pomegranate, papaya, and turmeric are added for a shiny skin and coat. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. POMEGRANATE A tasty source of antioxidants, which helps prevent tissue degeneration. PAPAYA A high content of carotenoid, which stimulates the immune system and reduces oxidative stress. TURMERIC One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. RED ALGAE A unicellular algae that contains astaxanthin, the most powerful antioxidant of the carotenoid family known until now. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": [
@@ -30,16 +32,16 @@
             "Tomato",
             "Rosemary Extract."
         ],
-        "analysis": "CRUDE PROTEIN 28% min CRUDE FAT 13% min CRUDE FIBER 4.0% max MOISTURE 9.0% max ASCORBIC ACID 100 mg/kg min OMEGA-3 FATTY ACIDS 1.3% min OMEGA-6 FATTY ACIDS 3.9% min",
+        "analysis": "CRUDE PROTEIN 28% CRUDE FAT 13% CRUDE FIBER 4.0% MOISTURE 9.0% ASCORBIC ACID 100 mg/kg min OMEGA-3 FATTY ACIDS 1.3% OMEGA-6 FATTY ACIDS 3.9%",
         "additive": null,
-        "calorie": "3620 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_Dermo_1lb_1200x1200.jpg?v=1600428527",
-        "site": "https://forza10usa.com"
+        "calorie": "3620 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/dermo-3",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic ActiWet Dermo Support Icelandic Fish Recipe Canned – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Dermo_Tray_1200x1200.jpg?v=1600428793",
         "descriptions": "Forza10 Actiwet Dermo is designed for cats with sensitive skin. Helps stop itchiness, redness, hot spots, scratching, dandruff, dry and dull fur, and constant fur loss. Made with delicious Icelandic salmon that cats crave! Pomegranate, papaya, and turmeric are added for a shiny skin and coat. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. POMEGRANATE A tasty source of antioxidants, which helps prevent tissue degeneration. PAPAYA A high content of carotenoid, which stimulates the immune system and reduces oxidative stress. TURMERIC One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. RED ALGAE A unicellular algae that contains astaxanthin, the most powerful antioxidant of the carotenoid family known until now. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": [
@@ -56,14 +58,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "673 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Dermo_Tray_1200x1200.jpg?v=1600428793",
-        "site": "https://forza10usa.com"
+        "calorie": "673 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/diabetic",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic ActiWet Diabetic Support Icelandic Fish Recipe Can – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_DiabeticSupport_Tray_1200x1200.jpg?v=1600428884",
         "descriptions": "Forza10 Actiwet Diabetic is designed to help support therapy of insulin-dependent diabetes in cats. Made with delicious Icelandic salmon that cats crave! Dried kelp, orange peel, and chitosan are added to help support a healthy lifestyle. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. DRIED KELP An excellent source of essential minerals, vitamins, and antioxidants. ORANGE PEEL Used in weight loss diets because it helps to positively stimulate the nervous system and encourages lipolytic activity. CHITOSAN A natural substance that regulates the intestinal bacterial flora and stimulates the immune system. SALMON A clean protein source rich in omega-3 fatty acids.",
         "ingredients": [
@@ -86,25 +88,25 @@
             "Starch."
         ],
         "analysis": [
-            "CRUDE PROTEIN 8.5% min",
-            "CRUDE FAT 8.0% min",
-            "CRUDE FIBER 0.6% max",
-            "MOISTURE 80% max",
-            "CRUDE ASH 2.0% max",
-            "OMEGA-3 FATTY ACIDS 0.8% min",
-            "OMEGA-6 FATTY ACIDS 0.5% min",
+            "CRUDE PROTEIN 8.5%",
+            "CRUDE FAT 8.0%",
+            "CRUDE FIBER 0.6%",
+            "MOISTURE 80%",
+            "CRUDE ASH 2.0%",
+            "OMEGA-3 FATTY ACIDS 0.8%",
+            "OMEGA-6 FATTY ACIDS 0.5%",
             "STARCH 0.05%",
             "TOTAL SUGAR 0.09%"
         ],
         "additive": null,
-        "calorie": "1000 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_DiabeticSupport_Tray_1200x1200.jpg?v=1600428884",
-        "site": "https://forza10usa.com"
+        "calorie": "1000 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/hypoallergenic-fish-1",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Actiwet Hypoallergenic Canned Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Hypoallergenic_Tray_1200x1200.jpg?v=1600430866",
         "descriptions": "Forza10 Actiwet Hypoallergenic (Fish) is designed to help provide physical well-being in cats in all life stages. Made with delicious Icelandic salmon that cats crave!  Pomegranate, papaya, and turmeric are added to help support daily maintenance and optimal health. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. POMEGRANATE A tasty source of antioxidants, which helps prevent tissue degeneration. PAPAYA A high content of carotenoid, which stimulates the immune system and reduces oxidative stress. TURMERIC One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. SALMON A clean protein source rich in omega-3 fatty acids.",
         "ingredients": [
@@ -125,22 +127,22 @@
             "Pomegranate."
         ],
         "analysis": [
-            "CRUDE PROTEIN 7.0% min",
-            "CRUDE FAT 4.5% min",
-            "CRUDE FIBER 0.5% max",
-            "MOISTURE 82% max",
-            "METHIONINE 0.25% min",
-            "MAGNESIUM 0.01% min"
+            "CRUDE PROTEIN 7.0%",
+            "CRUDE FAT 4.5%",
+            "CRUDE FIBER 0.5%",
+            "MOISTURE 82%",
+            "METHIONINE 0.25%",
+            "MAGNESIUM 0.01%"
         ],
         "additive": null,
-        "calorie": "807 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Hypoallergenic_Tray_1200x1200.jpg?v=1600430866",
-        "site": "https://forza10usa.com"
+        "calorie": "807 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/hypoallergenic-lamb-1",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Actiwet Hypoallergenic Lamb Canned Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_HypoallergenicLamb_Tray_1200x1200.jpg?v=1600431168",
         "descriptions": "Forza10 Actiwet Hypoallergenic (Lamb) is designed to help provide physical well-being in cats in all life stages. Made with delicious Icelandic salmon and lamb that cats crave!  Pomegranate, papaya, and turmeric are added to help support daily maintenance and optimal health. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. POMEGRANATE A tasty source of antioxidants, which helps prevent tissue degeneration. PAPAYA A high content of carotenoid, which stimulates the immune system and reduces oxidative stress. TURMERIC One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. PASTURE-RAISED LAMB An excellent protein source of amino acids and vitamins, helping support lean muscle, maintenance, and performance.",
         "ingredients": [
@@ -162,22 +164,22 @@
             "Pomegranate."
         ],
         "analysis": [
-            "CRUDE PROTEIN 7.0% min",
-            "CRUDE FAT 4.5% min",
-            "CRUDE FIBER 0.5% max",
-            "MOISTURE 82% max",
-            "METHIONINE 0.25% min",
-            "MAGNESIUM 0.01% min"
+            "CRUDE PROTEIN 7.0%",
+            "CRUDE FAT 4.5%",
+            "CRUDE FIBER 0.5%",
+            "MOISTURE 82%",
+            "METHIONINE 0.25%",
+            "MAGNESIUM 0.01%"
         ],
         "additive": null,
-        "calorie": "808 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_HypoallergenicLamb_Tray_1200x1200.jpg?v=1600431168",
-        "site": "https://forza10usa.com"
+        "calorie": "808 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/immuno-1",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Active Immuno Support Diet Dry Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ImmunoCat1lbShopify_1200x1200.png?v=1612448325",
         "descriptions": "Forza10 Active Immuno is designed for cats with weakness or hyperactivity of the immune system. Helps stop stress and fatigue, Immune-mediated diseases (IBD, SLE, dry Keratoconjunctivitis), metabolic diseases (obesity, diabetes, Cushing disease), and itchiness on belly or chest. Made with Icelandic wild-caught anchovy, which is rich in omegas for a healthy skin & coat. Pomegranate, papaya, and Aloe Vera are added for immunity boost. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. POMEGRANATE A tasty source of antioxidants, which helps prevent tissue degeneration. PAPAYA A high content of carotenoid, which stimulates the immune system and reduces oxidative stress. ALOE VERA A plant used since ancient times for its sedative effects. TURMERIC One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": [
@@ -208,16 +210,16 @@
             "Black Pepper",
             "Rosemary Extract."
         ],
-        "analysis": "CRUDE PROTEIN 28% min CRUDE FAT 13% min CRUDE FIBER 4.0% max MOISTURE 9.0% max ZINC 80 mg/kg min OMEGA-3 FATTY ACIDS 1.3% min OMEGA-6 FATTY ACIDS 3.9% min",
+        "analysis": "CRUDE PROTEIN 28% CRUDE FAT 13% CRUDE FIBER 4.0% MOISTURE 9.0% ZINC 80 mg/kg min OMEGA-3 FATTY ACIDS 1.3% OMEGA-6 FATTY ACIDS 3.9%",
         "additive": null,
-        "calorie": "3620 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ImmunoCat1lbShopify_1200x1200.png?v=1612448325",
-        "site": "https://forza10usa.com"
+        "calorie": "3620 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/intestinal-2",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Active Intestinal Support Diet Dry Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_Intestinal_1lb_1200x1200.jpg?v=1600431752",
         "descriptions": "Forza10 Active Intestinal is designed for cats with sensitive digestion. Helps stop diarrhea, upset stomach, excessive salivation, vomiting on an empty stomach, and flatulence. Made with Icelandic wild-caught anchovy, which is rich in omegas for a healthy skin & coat. Rose hips, oregano, and psyllium seed husk are added to help support a healthy digestion. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. DRIED ROSE HIPS A tasty source of antioxidants, which helps prevent tissue degeneration. PSYLLIUM SEED HUSK A plant used since ancient times for its sedative effects. OREGANO One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. FRUCTOOLIGOSACCHARIDES Carbohydrates contained naturally in fruit and vegetables that help increase the amount of healthy bacteria in the intestine to help promote digestive health. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": [
@@ -248,16 +250,16 @@
             "Black Pepper",
             "Rosemary Extract."
         ],
-        "analysis": "CRUDE PROTEIN 28% min CRUDE FAT 13% min CRUDE FIBER 4.0% max MOISTURE 9.0% max ZINC 80 mg/kg min OMEGA-3 FATTY ACIDS 1.3% min OMEGA-6 FATTY ACIDS 3.9% min",
+        "analysis": "CRUDE PROTEIN 28% CRUDE FAT 13% CRUDE FIBER 4.0% MOISTURE 9.0% ZINC 80 mg/kg min OMEGA-3 FATTY ACIDS 1.3% OMEGA-6 FATTY ACIDS 3.9%",
         "additive": null,
-        "calorie": "3620 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_Intestinal_1lb_1200x1200.jpg?v=1600431752",
-        "site": "https://forza10usa.com"
+        "calorie": "3620 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/intestinal-3",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Actiwet Intestinal Support Icelandic Fish Recipe W – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Intestinal_Tray_1200x1200.jpg?v=1601630154",
         "descriptions": "Forza10 Actiwet Intestinal is designed for cats with sensitive digestion. Helps stop diarrhea, upset stomach, excessive salivation, vomiting on an empty stomach, and flatulence. Made with delicious Icelandic salmon that cats crave! Rose hips, oregano, and psyllium seed husk are added to help support a healthy digestion. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. DRIED ROSE HIPS A tasty source of antioxidants, which helps prevent tissue degeneration. PSYLLIUM SEED HUSK A plant used since ancient times for its sedative effects. OREGANO One of the most potent anti-inflammatory substances present in nature, promoting a healthy digestion and immune function. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": [
@@ -279,22 +281,22 @@
             "Cultured Lactic Acid Bacteria."
         ],
         "analysis": [
-            "CRUDE PROTEIN 6.0% min",
-            "CRUDE FAT 4.5% min",
-            "CRUDE FIBER 0.5% max",
-            "MOISTURE 82% max",
-            "METHIONINE 0.25% min",
-            "MAGNESIUM 0.01% min"
+            "CRUDE PROTEIN 6.0%",
+            "CRUDE FAT 4.5%",
+            "CRUDE FIBER 0.5%",
+            "MOISTURE 82%",
+            "METHIONINE 0.25%",
+            "MAGNESIUM 0.01%"
         ],
         "additive": null,
-        "calorie": "808 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Intestinal_Tray_1200x1200.jpg?v=1601630154",
-        "site": "https://forza10usa.com"
+        "calorie": "808 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/kidney-renal-2",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Active Kidney Renal Support Diet Dry Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_KidneyRenal_1lb_1200x1200.jpg?v=1600432361",
         "descriptions": "Forza10 Active Kidney Renal is designed to help support renal and cardiac health in cats. Made with Icelandic wild-caught anchovy, which is rich in omegas for a healthy skin & coat Cranberries, dried dandelion, and dried clover are added for kidney support. Free from all the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial preservatives, colors or flavors. Feel like a great cat parent with this super delicious and nutritious recipe!",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. CRANBERRIES A natural and delicious source with disinfectant properties in the urinary tract. DRIED CLOVER EXTRACT A rich source of calcium, which helps purify the urinary system and has shown to have a positive effect in cases of renal failure. DANDELION A powerful source of fiber that helps promote diuretic action, eliminate excess liquids, and maintain a positive gut flora. ROSEMARY A natural seasoning that enriches the flavor experience and contains phenolic compounds that show high levels of antioxidant activity. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": [
@@ -318,16 +320,16 @@
             "Dried Dandelion Root Extract",
             "Rosemary Extract."
         ],
-        "analysis": "CRUDE PROTEIN 26% min CRUDE FAT 18.5% min CRUDE FIBER 2.0% max MOISTURE 8.0% max CRUDE ASH 6.8% max CALCIUM 1.4% min OMEGA-3 FATTY ACIDS 0.9% min OMEGA-6 FATTY ACIDS 3.5% min PHOSPHORUS 0.8% min POTASSIUM 0.63% min SODIUM 0.24% min MAGNESIUM 0.06% min VITAMIN E 120 IU/kg",
+        "analysis": "CRUDE PROTEIN 26% CRUDE FAT 18.5% CRUDE FIBER 2.0% MOISTURE 8.0% CRUDE ASH 6.8% CALCIUM 1.4% OMEGA-3 FATTY ACIDS 0.9% OMEGA-6 FATTY ACIDS 3.5% PHOSPHORUS 0.8% POTASSIUM 0.63% SODIUM 0.24% MAGNESIUM 0.06% VITAMIN E 120 IU/kg",
         "additive": null,
-        "calorie": "3837 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_KidneyRenal_1lb_1200x1200.jpg?v=1600432361",
-        "site": "https://forza10usa.com"
+        "calorie": "3837 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/kidney-renal-3",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Actiwet Renal Support Wet Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Renal_Tray_1200x1200.jpg?v=1601630104",
         "descriptions": "Forza10 Actiwet Renal is designed to help support renal and cardiac health in cats. Made with delicious Icelandic salmon and lamb that cats crave!  Cranberries, dried dandelion, and dried clover are added for kidney support. Free from all the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial preservatives, colors or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. CRANBERRIES A natural and delicious source with disinfectant properties in the urinary tract. DRIED CLOVER EXTRACT A rich source of calcium, which helps purify the urinary system and has shown to have a positive effect in cases of renal failure. DANDELION A powerful source of fiber that helps promote diuretic action, eliminate excess liquids, and maintain a positive gut flora. ROSEMARY A natural seasoning that enriches the flavor experience and contains phenolic compounds that show high levels of antioxidant activity. PASTURE-RAISED LAMB An excellent protein source of amino acids and vitamins, helping support lean muscle, maintenance, and performance.",
         "ingredients": [
@@ -350,22 +352,22 @@
             "Cranberries."
         ],
         "analysis": [
-            "CRUDE PROTEIN 5.7% min",
-            "CRUDE FAT 5.0% min",
-            "CRUDE FIBER 0.5% max",
-            "MOISTURE 82.0% max",
-            "PHOSPHORUS 0.13% min",
-            "SODIUM 0.06% min"
+            "CRUDE PROTEIN 5.7%",
+            "CRUDE FAT 5.0%",
+            "CRUDE FIBER 0.5%",
+            "MOISTURE 82.0%",
+            "PHOSPHORUS 0.13%",
+            "SODIUM 0.06%"
         ],
         "additive": null,
-        "calorie": "806 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Renal_Tray_1200x1200.jpg?v=1601630104",
-        "site": "https://forza10usa.com"
+        "calorie": "806 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/urinary",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Active Urinary Dry Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_Urinary_1lb_1200x1200.jpg?v=1600435553",
         "descriptions": "Forza10 Active Urinary is designed to help support urinary health in cats. Helps stop idiopathic cystitis, lower urinary tract inflammation, and struvite stones formation. Made with Icelandic wild-caught anchovy, which is rich in omegas for a healthy skin & coat.  Cranberries, dried dandelion, and dried clover are added for urinary support. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial preservatives, colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. CRANBERRIES A natural and delicious source with disinfectant properties in the urinary tract. DRIED CLOVER EXTRACT A rich source of calcium, which helps purify the urinary system and has shown to have a positive effect in cases of renal failure. DANDELION A powerful source of fiber that helps promote diuretic action, eliminate excess liquids, and maintain a positive gut flora. ROSEMARY A natural seasoning that enriches the flavor experience and contains phenolic compounds that show high levels of antioxidant activity. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": [
@@ -390,16 +392,16 @@
             "Yucca Schidigera Extract",
             "Rosemary Extract."
         ],
-        "analysis": "CRUDE PROTEIN 28% min CRUDE FAT 15.5% min CRUDE FIBER 2.0% max MOISTURE 8.0% max CRUDE ASH 7.0% max CALCIUM 1.2% min OMEGA-3 FATTY ACIDS 0.8% min OMEGA-6 FATTY ACIDS 3.3% min PHOSPHORUS 1.0% max MAGNESIUM 0.05% min CHLORIDE 1.3% min DL-METHIONINE 0.69% min",
+        "analysis": "CRUDE PROTEIN 28% CRUDE FAT 15.5% CRUDE FIBER 2.0% MOISTURE 8.0% CRUDE ASH 7.0% CALCIUM 1.2% OMEGA-3 FATTY ACIDS 0.8% OMEGA-6 FATTY ACIDS 3.3% PHOSPHORUS 1.0% MAGNESIUM 0.05% CHLORIDE 1.3% DL-METHIONINE 0.69%",
         "additive": null,
-        "calorie": "3690 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_Urinary_1lb_1200x1200.jpg?v=1600435553",
-        "site": "https://forza10usa.com"
+        "calorie": "3690 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/urinary-1",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Actiwet Urinary Support Icelandic Fish Recipe Wet – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Urinary_Tray_1200x1200.jpg?v=1601302724",
         "descriptions": "Forza10 Actiwet Urinary is designed to help support urinary health in cats. Helps stop idiopathic cystitis, lower urinary tract inflammation, and struvite stones formation. Made with delicious Icelandic salmon that cats crave! Cranberries, dried dandelion, and dried clover are added for urinary support. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial preservatives, colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe!",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. CRANBERRIES A natural and delicious source with disinfectant properties in the urinary tract. DRIED CLOVER EXTRACT A rich source of calcium, which helps purify the urinary system and has shown to have a positive effect in cases of renal failure. DANDELION A powerful source of fiber that helps promote diuretic action, eliminate excess liquids, and maintain a positive gut flora. ROSEMARY A natural seasoning that enriches the flavor experience and contains phenolic compounds that show high levels of antioxidant activity. SALMON A clean protein source rich in omega-3 fatty acids.",
         "ingredients": [
@@ -422,22 +424,22 @@
             "Dried Dandelion Root Extract."
         ],
         "analysis": [
-            "CRUDE PROTEIN 6.0% min",
-            "CRUDE FAT 4.5% min",
-            "CRUDE FIBER 0.5% max",
-            "MOISTURE 82% max",
-            "METHIONINE 0.25% min",
-            "MAGNESIUM 0.01% min"
+            "CRUDE PROTEIN 6.0%",
+            "CRUDE FAT 4.5%",
+            "CRUDE FIBER 0.5%",
+            "MOISTURE 82%",
+            "METHIONINE 0.25%",
+            "MAGNESIUM 0.01%"
         ],
         "additive": null,
-        "calorie": "806 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatWet_Urinary_Tray_1200x1200.jpg?v=1601302724",
-        "site": "https://forza10usa.com"
+        "calorie": "806 kcal/kg"
     },
     {
+        "site": "https://forza10usa.com",
         "url": "https://forza10usa.com/collections/shop-cat/products/weight-control-1",
         "brand": "Forza10 USA",
         "title": "Forza10 Nutraceutic Active Weight Control Diet Dry Cat Food – Forza10 America",
+        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_WeightControl_1lb_1200x1200.jpg?v=1600435982",
         "descriptions": "Forza10 Active Weight Control is designed for cats with weight gain tendencies and metabolism problems. Helps stop obesity, diabetes mellitus, constipation, metabolic disorders, and hyperlipidemia. Made with Icelandic wild-caught anchovy, which is rich in omegas for a healthy skin & coat. Rosemary and chitosan are added for weight support. Free from the bad stuff; never any GMOs, by-products, corn, wheat, soy, artificial colors, or flavors. Feel like a great cat parent with this super delicious and nutritious recipe! ",
         "key_benefits": "Forza10 recipes are supported by numerous scientific studies conducted in association with veterinarians and European universities and published in prestigious international scientific journals. To learn more, click here. ROSEMARY A natural seasoning that enriches the flavor experience and contains phenolic compounds that show high levels of antioxidant activity. L-CARNITINE A powerful amino acid that strengthens muscles and supports weight loss. CHITOSAN A natural substance that regulates the intestinal bacterial flora and stimulates the immune system. WILD-CAUGHT ANCHOVIES A super powerful protein that is loaded with omega-3 fatty acids, which can improve skin and coat health and alleviate allergies. Other nutrients in anchovies can benefit the heart, brain, joints, and immune system.",
         "ingredients": [
@@ -461,10 +463,8 @@
             "Yucca Schidigera Extract",
             "Rosemary Extract."
         ],
-        "analysis": "CRUDE PROTEIN 33% min CRUDE FAT 9.7% min CRUDE FIBER 4.0% max MOISTURE 8.0% max CRUDE ASH 7.5% max CALCIUM 1.3% min OMEGA-3 FATTY ACIDS 1.0% min OMEGA-6 FATTY ACIDS 1.1% min PHOSPHORUS 1.2% max STARCH 27.8% TOTAL SUGAR 0.8% MAGNESIUM 0.05% min",
+        "analysis": "CRUDE PROTEIN 33% CRUDE FAT 9.7% CRUDE FIBER 4.0% MOISTURE 8.0% CRUDE ASH 7.5% CALCIUM 1.3% OMEGA-3 FATTY ACIDS 1.0% OMEGA-6 FATTY ACIDS 1.1% PHOSPHORUS 1.2% STARCH 27.8% TOTAL SUGAR 0.8% MAGNESIUM 0.05%",
         "additive": null,
-        "calorie": "3302 kcal/kg",
-        "image": "http://cdn.shopify.com/s/files/1/0429/8054/0577/products/ActiveCatDry_WeightControl_1lb_1200x1200.jpg?v=1600435982",
-        "site": "https://forza10usa.com"
+        "calorie": "3302 kcal/kg"
     }
 ]

@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://ancestrypetfood.com",
         "url": "https://ancestrypetfood.com/products/ancestry-by-sammy-snacks-grain-free-cat-food",
         "brand": "Ancestry",
         "title": "Chicken & Fish",
+        "image": "https://cdn.shopify.com/s/files/1/0081/6381/9567/products/APF_CAT_FRONT.png?v=1626354714",
         "descriptions": "Grain Free. Ancestry’s feline formula is grain-free, holistic, and formulated to meet your cat’s needs from the time they are a kitten to the time they are a senior cat.  Ingredients like chicken and fish make this food tasty, as well as healthy and all-natural!",
         "key_benefits": null,
         "ingredients": [
@@ -48,21 +50,17 @@
             "Folic Acid"
         ],
         "analysis": [
-            "Measurements below based on dry matter.",
-            "Crude Protein (min) 35.0%",
-            "Crude Fat (min) 16.0%",
-            "Crude Fiber (max) 4.0%",
-            "Moisture (max) 12.0%",
+
+            "Crude Protein: 35.0%",
+            "Crude Fat: 16.0%",
+            "Crude Fiber: 4.0%",
+            "Moisture: 12.0%",
             "Taurine 0.16%",
             "Omega – 6* 2.5%",
             "Omega – 3 0.5%",
-            "Digestibility 91%",
-            "*Not recognized as an essential ingredient by the AAFCO Cat Food Nutrient Profile",
-            "AAFCO Statement Ancesty® Wild Range feline formula is formulated to meet the nutritional levels established by the Association of American Feed Control Officials (AAFCO) Cat Food Nutrient Profiles for All Life Stages."
+            "Digestibility 91%"
         ],
         "additive": null,
-        "calorie": "Calories 370 kcals/cup",
-        "image": "https://cdn.shopify.com/s/files/1/0081/6381/9567/products/APF_CAT_FRONT.png?v=1626354714",
-        "site": "https://ancestrypetfood.com"
+        "calorie": "Calories 370 kcal/cup"
     }
 ]

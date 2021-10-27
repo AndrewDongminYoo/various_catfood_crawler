@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://nutragold.com",
         "url": "https://nutragold.com/products/cats/finicky-adult-cat/",
         "brand": "NutraGold",
         "title": "NutraGold Holistic Products",
+        "image": "https://images.app.goo.gl/9R93nsqezxFdy5Wr9",
         "descriptions": [
             "For sensitive cats",
             "Real meat provides great taste and highly digestible protein",
@@ -66,14 +68,14 @@
             "Omega-3 Fatty Acids 0.50%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,844 kcal/kg (360 kcal/cup) Calculated Metabolizable Energy.",
-        "site": "https://nutragold.com",
-        "image": "https://images.app.goo.gl/9R93nsqezxFdy5Wr9"
+        "calorie": "Calorie Content: 3,844 kcal/kg."
     },
     {
+        "site": "https://nutragold.com",
         "url": "https://nutragold.com/products/cats/indoor-adult-cat/",
         "brand": "NutraGold",
         "title": "NutraGold Holistic Products",
+        "image": "https://images.app.goo.gl/3H2uhdbsBowbhFs27",
         "descriptions": [
             "A highly nutritious, palatable diet for adult cats in good body condition",
             "Contains added cellulose to help prevent and control hairball formation",
@@ -142,14 +144,14 @@
             "Omega-3 Fatty Acids 0.40%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,450 kcal/kg (323 kcal/cup) Calculated Metabolizable Energy.",
-        "site": "https://nutragold.com",
-        "image": "https://images.app.goo.gl/3H2uhdbsBowbhFs27"
+        "calorie": "Calorie Content: 3,450 kcal/kg."
     },
     {
+        "site": "https://nutragold.com",
         "url": "https://nutragold.com/products/cats/indoor-kitten/",
         "brand": "NutraGold",
         "title": "NutraGold Holistic Products",
+        "image": "https://images.app.goo.gl/64uGTiaszSDVpMNy8",
         "descriptions": [
             "For kittens up to 1 year",
             "Formulated to meet the increased nutritional demands of fast-growing kittens and pregnant or nursing adult cats",
@@ -216,14 +218,14 @@
             "Omega-3 Fatty Acids 0.5%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,990 kcal/kg (373 kcal/cup) Calculated Metabolizable Energy.",
-        "site": "https://nutragold.com",
-        "image": "https://images.app.goo.gl/64uGTiaszSDVpMNy8"
+        "calorie": "Calorie Content: 3,990 kcal/kg."
     },
     {
+        "site": "https://nutragold.com",
         "url": "https://nutragold.com/products/cats/indoor-senior-cat/",
         "brand": "NutraGold",
         "title": "NutraGold Holistic Products",
+        "image": "https://images.app.goo.gl/efpvgauJq21DDjMc6",
         "descriptions": [
             "For cats 10 years and older",
             "Targets health issues associated with senior cats, such as decreased sense of smell, dental disease, arthritis and the inability to digest nutrients",
@@ -296,8 +298,6 @@
             "Omega-3 Fatty Acids 0.30%"
         ],
         "additive": null,
-        "calorie": "Calorie Content: 3,389 kcal/kg (317 kcal/cup) Calculated Metabolizable Energy.",
-        "site": "https://nutragold.com",
-        "image": "https://images.app.goo.gl/efpvgauJq21DDjMc6"
+        "calorie": "Calorie Content: 3,389 kcal/kg."
     }
 ]

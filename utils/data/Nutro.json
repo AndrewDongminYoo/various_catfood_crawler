@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-dry-cat-food/adult-chicken-brown-rice-recipe",
         "brand": null,
         "title": "Adult Formula with Chicken & Brown Rice Recipe",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-formula-chicken-and-brown-rice-recipe-79105127837/2-1-1-79105127837-packshot.jpg?h=536&w=480&hash=32C1DC074C454BEDE602BABDA0FF96A3AF703155",
         "descriptions": "Each NUTRO WHOLESOME ESSENTIALS Dry Cat Food recipe starts with a high-quality protein source and is made with non-GMO ingredients.* This cat food features real chicken as the #1 ingredient, natural fiber for healthy digestion, and essential antioxidants for a healthy immune system. This kibble is also rich in omega 6 fatty acids to support healthy skin and a soft, shiny coat. NUTRO Dry Cat Foods are made with quality ingredients carefully sourced from a trusted network of farmers and suppliers and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your adult cat a complete, nutritious meal every time with NUTRO WHOLESOME ESSENTIALS Adult Cat Natural Dry Cat Food Plus Vitamins, Minerals & Other Nutrients.",
         "key_benefits": null,
         "ingredients": [
@@ -45,25 +47,25 @@
             "Rosemary Extract"
         ],
         "analysis": [
-            "Crude Protein (min.) 33.00%",
-            "Crude Fat (min.) 16.00%",
-            "Crude Fiber (max.) 4.00%",
-            "Moisture (max.) 10.00%",
-            "Calcium (min.) 0.90%",
-            "Selenium (min.) 0.35 mg/kg",
-            "Vitamin E (min.) 250 IU/kg",
-            "Taurine (min.) 0.18%",
+            "Crude Protein: 33.00%",
+            "Crude Fat: 16.00%",
+            "Crude Fiber: 4.00%",
+            "Moisture: 10.00%",
+            "Calcium: 0.90%",
+            "Selenium: 0.35 mg/kg",
+            "Vitamin E: 250 IU/kg",
+            "Taurine: 0.18%",
             "Omega-6 Fatty Acids (min.)* 3.00%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-formula-chicken-and-brown-rice-recipe-79105127837/2-1-1-79105127837-packshot.jpg?h=536&w=480&hash=32C1DC074C454BEDE602BABDA0FF96A3AF703155",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-dry-cat-food/adult-hairball-chicken-brown-rice-recipe",
         "brand": null,
         "title": "Adult Hairball Control Formula with Chicken & Brown Rice Recipe",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-hairball-control-formula-chicken-and-brown-rice-recipe-79105117548/2-1-6-79105117548-packshot.jpg?h=536&w=480&hash=44A79D88D74995B37FAEF2F51E793120FBDB998B",
         "descriptions": "NUTRO WHOLESOME ESSENTIALS Hairball Control Cat Food is designed to help with hairball maintenance and promote digestive health in adult cats. This dry cat food recipe is made with non-GMO* ingredients and features real chicken as the #1 ingredient, a natural fiber blend to minimize hairball formation and to provide digestion help, and essential antioxidants for a healthy immune system. This adult natural cat food is also crafted with omega-6 fatty acids to promote skin care and coat health. NUTRO Dry Cat Foods are made with quality ingredients carefully sourced from a trusted network of farmers and suppliers and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your adult cat a complete, nutritious meal that helps minimize hairball formation with NUTRO WHOLESOME ESSENTIALS Hairball Control Adult Cat Dry Food.",
         "key_benefits": null,
         "ingredients": [
@@ -109,27 +111,27 @@
             "Rosemary Extract"
         ],
         "analysis": [
-            "Crude Protein (min.) 33.00%",
-            "Crude Fat (min.) 17.00%",
-            "Crude Fiber (max.) 6.50%",
-            "Moisture (max.) 10.00%",
-            "Linoleic Acid (min.) 3.60%",
-            "Calcium (min.) 0.90%",
-            "Zinc (min.) 300 mg/kg",
-            "Selenium (min.) 0.35 mg/kg",
-            "Vitamin E (min.) 250 IU/kg",
-            "Taurine (min.) 0.18%",
+            "Crude Protein: 33.00%",
+            "Crude Fat: 17.00%",
+            "Crude Fiber: 6.50%",
+            "Moisture: 10.00%",
+            "Linoleic Acid: 3.60%",
+            "Calcium: 0.90%",
+            "Zinc: 300 mg/kg",
+            "Selenium: 0.35 mg/kg",
+            "Vitamin E: 250 IU/kg",
+            "Taurine: 0.18%",
             "Omega-6 Fatty Acids (min.)* 3.75%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-hairball-control-formula-chicken-and-brown-rice-recipe-79105117548/2-1-6-79105117548-packshot.jpg?h=536&w=480&hash=44A79D88D74995B37FAEF2F51E793120FBDB998B",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-dry-cat-food/adult-indoor-chicken-brown-rice-recipe",
         "brand": null,
         "title": "Adult Indoor Formula with Chicken & Brown Rice Recipe",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-indoor-formula-chicken-and-brown-rice-recipe-79105128780/2-1-4-79105128780-packshot.jpg?h=536&w=480&hash=830030AB065DB3584559CB07C2049CC7BEE67D5A",
         "descriptions": "Each NUTRO WHOLESOME ESSENTIALS Dry Cat Food recipe starts with a high-quality protein source and is made with non-GMO ingredients.* This indoor cat food supports healthy weight, features real chicken as the #1 ingredient, and has natural fiber for healthy digestion. It is also rich in omega 6 fatty acids for healthy skin and a soft, shiny coat. NUTRO Dry Cat Foods are made with quality ingredients carefully sourced from a trusted network of farmers and suppliers and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your adult inside cat a complete, nutritious meal every time with NUTRO WHOLESOME ESSENTIALS Indoor Cat Adult Dry Cat Food.",
         "key_benefits": null,
         "ingredients": [
@@ -174,23 +176,23 @@
             "Rosemary Extract"
         ],
         "analysis": [
-            "Crude Protein (min.) 33.00%",
-            "Crude Fiber (max.) 7.00%",
-            "Moisture (max.) 10.00%",
-            "Calcium (min.) 0.90%",
-            "Vitamin E (min.) 250 IU/kg",
-            "Taurine (min.) 0.18%",
+            "Crude Protein: 33.00%",
+            "Crude Fiber: 7.00%",
+            "Moisture: 10.00%",
+            "Calcium: 0.90%",
+            "Vitamin E: 250 IU/kg",
+            "Taurine: 0.18%",
             "Omega-6 Fatty Acids (min.)* 3.00%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-indoor-formula-chicken-and-brown-rice-recipe-79105128780/2-1-4-79105128780-packshot.jpg?h=536&w=480&hash=830030AB065DB3584559CB07C2049CC7BEE67D5A",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-dry-cat-food/adult-salmon-brown-rice-recipe",
         "brand": null,
         "title": "Adult Formula with Salmon & Brown Rice Recipe",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-formula-with-salmon-and-brown-rice-recipe-79105117449/2-1-9-79105117449-packshot.jpg?h=536&w=480&hash=96B39DC1D3580C7F4E2EFD22D0344C31A0CC7230",
         "descriptions": "Each NUTRO WHOLESOME ESSENTIALS Dry Cat Food recipe starts with a high-quality protein source and is made with non-GMO ingredients.* This premium natural cat food features real salmon as the #1 ingredient, natural fiber for healthy digestion, and essential antioxidants for a healthy immune system. This kibble is also rich in lean protein and omega-6 fatty acids to support healthy skin and a soft, shiny coat. NUTRO Dry Cat Foods are made with quality ingredients carefully sourced from a trusted network of farmers and suppliers and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your adult cat a complete, nutritious meal every time with NUTRO WHOLESOME ESSENTIALS Adult Cat Dry Foods.",
         "key_benefits": null,
         "ingredients": [
@@ -234,25 +236,25 @@
             "Rosemary Extract"
         ],
         "analysis": [
-            "Crude Protein (min.) 33.00%",
-            "Crude Fat (min.) 16.00%",
-            "Crude Fiber (max.) 4.00%",
-            "Moisture (max.) 10.00%",
-            "Calcium (min.) 0.90%",
-            "Selenium (min.) 0.35 mg/kg",
-            "Vitamin E (min.) 250 IU/kg",
-            "Taurine (min.) 0.18%",
+            "Crude Protein: 33.00%",
+            "Crude Fat: 16.00%",
+            "Crude Fiber: 4.00%",
+            "Moisture: 10.00%",
+            "Calcium: 0.90%",
+            "Selenium: 0.35 mg/kg",
+            "Vitamin E: 250 IU/kg",
+            "Taurine: 0.18%",
             "Omega-6 Fatty Acids (min.)* 3.50%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-formula-with-salmon-and-brown-rice-recipe-79105117449/2-1-9-79105117449-packshot.jpg?h=536&w=480&hash=96B39DC1D3580C7F4E2EFD22D0344C31A0CC7230",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-dry-cat-food/adult-sensitive-chicken-rice-peas-recipe",
         "brand": null,
         "title": "Sensitive Adult Formula with Chicken, Rice & Peas Recipe",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-sensitive-formula-chicken-rice-and-peas-recipe-79105127790/2-1-8-79105127790-packshot.jpg?h=536&w=480&hash=B10F40BF0B7BD33646BD4ABBCA55A1063FD54B04",
         "descriptions": "Each NUTRO WHOLESOME ESSENTIALS Dry Cat Food recipe starts with a high-quality protein source and is made with non-GMO ingredients.* This cat food features real chicken as the #1 ingredient and is specifically designed for cats with sensitive digestion. This cat kibble is also crafted with essential antioxidants for a healthy immune system and is rich in omega 6 fatty acids to support healthy skin and a soft, shiny coat. NUTRO Dry Cat Foods are made with quality ingredients carefully sourced from a trusted network of farmers and suppliers and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your adult sensitive cat an easily digestible, complete, and nutritious meal every time with NUTRO WHOLESOME ESSENTIALS Sensitive Cat Dry Cat Food.",
         "key_benefits": null,
         "ingredients": [
@@ -295,24 +297,24 @@
             "Rosemary Extract"
         ],
         "analysis": [
-            "Crude Protein (min.) 33.00%",
-            "Crude Fat (min.) 16.00%",
-            "Moisture (max.) 10.00%",
-            "Calcium (min.) 0.90%",
-            "Selenium (min.) 0.35 mg/kg",
-            "Vitamin E (min.) 250 IU/kg",
-            "Taurine (min.) 0.18%",
+            "Crude Protein: 33.00%",
+            "Crude Fat: 16.00%",
+            "Moisture: 10.00%",
+            "Calcium: 0.90%",
+            "Selenium: 0.35 mg/kg",
+            "Vitamin E: 250 IU/kg",
+            "Taurine: 0.18%",
             "Omega-6 Fatty Acids (min.)* 3.00%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/adult-sensitive-formula-chicken-rice-and-peas-recipe-79105127790/2-1-8-79105127790-packshot.jpg?h=536&w=480&hash=B10F40BF0B7BD33646BD4ABBCA55A1063FD54B04",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-dry-cat-food/kitten-chicken-brown-rice-recipe",
         "brand": null,
         "title": "Kitten Formula with Chicken & Brown Rice Recipe",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/kitten-formula-chicken-and-brown-rice-recipe-79105128803/2-1-2-79105128803-packshot.jpg?h=536&w=480&hash=F2016588A8135EEBE09CB1392F24D05386851325",
         "descriptions": "Each NUTRO WHOLESOME ESSENTIALS Dry Cat Food recipe starts with a high-quality protein source and is made with non-GMO ingredients.* This premium natural cat food features real chicken as the #1 ingredient, omega-3 fatty acids for growth and development, and essential antioxidants like DHA for a healthy immune system. This kitty kibble is also crafted with calcium to build strong bones and joints in your growing kitten. NUTRO Dry Cat Foods are made with quality ingredients carefully sourced from a trusted network of farmers and suppliers and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your baby cat a complete, nutritious meal every time with NUTRO WHOLESOME ESSENTIALS Kitten Dry Cat Food.",
         "key_benefits": null,
         "ingredients": [
@@ -358,26 +360,26 @@
             "Rosemary Extract"
         ],
         "analysis": [
-            "Crude Protein (min.) 36.00%",
-            "Crude Fat (min.) 19.00%",
-            "Crude Fiber (max.) 4.00%",
-            "Moisture (max.) 10.00%",
-            "Docosahexaenoic Acid (DHA) (min.) 0.05%",
-            "Calcium (min.) 1.20%",
-            "Selenium (min.) 0.35 mg/kg",
-            "Vitamin E (min.) 250 IU/kg",
-            "Taurine (min.) 0.18%",
+            "Crude Protein: 36.00%",
+            "Crude Fat: 19.00%",
+            "Crude Fiber: 4.00%",
+            "Moisture: 10.00%",
+            "Docosahexaenoic Acid (DHA): 0.05%",
+            "Calcium: 1.20%",
+            "Selenium: 0.35 mg/kg",
+            "Vitamin E: 250 IU/kg",
+            "Taurine: 0.18%",
             "Omega-6 Fatty Acids (min.)* 3.80%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/kitten-formula-chicken-and-brown-rice-recipe-79105128803/2-1-2-79105128803-packshot.jpg?h=536&w=480&hash=F2016588A8135EEBE09CB1392F24D05386851325",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-dry-cat-food/senior-chicken-brown-rice-recipe",
         "brand": null,
         "title": "Senior Formula with Chicken & Brown Rice Recipe",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/senior-formula-chicken-and-brown-rice-recipe-79105128797/2-1-3-79105128797-packshot.jpg?h=536&w=480&hash=B5A2D8C87F25235E844CAA4107C790003ED37604",
         "descriptions": "Each NUTRO WHOLESOME ESSENTIALS Dry Cat Food recipe starts with a high-quality protein source and is made with non-GMO ingredients.* This senior cat kibble features real chicken as the #1 ingredient and has essential nutrients like taurine to support heart health in aging cats. It is also rich in omega 6 fatty acids for healthy skin and a soft, shiny coat. NUTRO Dry Cat Foods are made with quality ingredients carefully sourced from a trusted network of farmers and suppliers and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your older cat a complete, nutritious meal every time with NUTRO WHOLESOME ESSENTIALS Senior Cat Dry Cat Food.",
         "key_benefits": null,
         "ingredients": [
@@ -423,25 +425,25 @@
             "Rosemary Extract"
         ],
         "analysis": [
-            "Crude Protein (min.) 36.00%",
-            "Crude Fat (min.) 17.00%",
-            "Crude Fiber (max.) 6.00%",
-            "Moisture (max.) 10.00%",
-            "Calcium (min.) 0.90%",
-            "Selenium (min.) 0.35 mg/kg",
-            "Vitamin E (min.) 250 IU/kg",
-            "Taurine (min.) 0.16%",
+            "Crude Protein: 36.00%",
+            "Crude Fat: 17.00%",
+            "Crude Fiber: 6.00%",
+            "Moisture: 10.00%",
+            "Calcium: 0.90%",
+            "Selenium: 0.35 mg/kg",
+            "Vitamin E: 250 IU/kg",
+            "Taurine: 0.16%",
             "Omega-6 Fatty Acids (min.)* 3.20%"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-dry-cat-food/senior-formula-chicken-and-brown-rice-recipe-79105128797/2-1-3-79105128797-packshot.jpg?h=536&w=480&hash=B5A2D8C87F25235E844CAA4107C790003ED37604",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-beef-recipe-cuts-in-gravy",
         "brand": null,
         "title": "Beef Recipe Cuts in Gravy",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/beef-recipe-cuts-in-gravy-79105123112/2-1-10-79105123112-packshot.jpg?h=536&w=480&hash=5C165DD6A3663A4A55E1A19D7FED1348937948D7",
         "descriptions": "Feed your adult cat a delicious wet cat food in sauce without the mess of cans! This NUTRO Cuts in Gravy recipe features high-quality protein as the foundation of every recipe, and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your cat a nutritious, tasty, and grain free* meal with NUTRO Adult Wet Cat Food Cuts in Gravy Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -475,24 +477,24 @@
             "Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 8.5%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 82.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 8.5%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 82.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 953 kcal/kg, 36 kcal/serving",
             "Calorie Content ME 953 kcal/kg, 36 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/beef-recipe-cuts-in-gravy-79105123112/2-1-10-79105123112-packshot.jpg?h=536&w=480&hash=5C165DD6A3663A4A55E1A19D7FED1348937948D7",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-beef-recipe-pate",
         "brand": null,
         "title": "Beef Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/beef-recipe-pate-79105124263/2-1-16-79105124263-packshot.jpg?h=536&w=480&hash=58842133F8FF86C3C1A2EFBD60FB1185C00EDEA1",
         "descriptions": "Give your adult cat delicious soft cat food without the mess of cans! This NUTRO Pate recipe features beef as the #1 ingredient and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Feed your cat a delicious soft cat food meal with NUTRO Adult Wet Cat Food Paté Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -528,23 +530,23 @@
             "Menadione Sodium Bisulfite Complex"
         ],
         "analysis": [
-            "Crude Protein (Min.) 13.5%",
-            "Crude Fat (Min.) 8.5%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 78.0%",
-            "Ash (Max.) 3.0%",
-            "Taurine (Min.) 0.07%.",
+            "Crude Protein: 13.5%",
+            "Crude Fat: 8.5%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 3.0%",
+            "Taurine: 0.07%.",
             "Calorie Content ME 1287 kcal/kg, 48 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/beef-recipe-pate-79105124263/2-1-16-79105124263-packshot.jpg?h=536&w=480&hash=58842133F8FF86C3C1A2EFBD60FB1185C00EDEA1",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-chicken-catfish-recipe-cuts-in-gravy",
         "brand": null,
         "title": "Chicken & Catfish Recipe Cuts in Gravy",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-and-catfish-recipe-cuts-in-gravy-79105124287/2-1-11-79105124287-packshot.jpg?h=536&w=480&hash=436654B187EA05A0801D785AD5D6E03D9C6E3154",
         "descriptions": "Feed your adult cat a delicious wet cat food in sauce without the mess of cans! This NUTRO Cuts in Gravy recipe features high-quality protein as the foundation of every recipe, and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your cat a nutritious, tasty, and grain free* meal with NUTRO Adult Wet Cat Food Cuts in Gravy Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -578,23 +580,23 @@
             "Menadione Sodium Bisulfite Complex"
         ],
         "analysis": [
-            "Crude Protein (Min.) 8.5%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 82.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%.",
+            "Crude Protein: 8.5%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 82.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%.",
             "Calorie Content ME 912 kcal/kg, 34 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-and-catfish-recipe-cuts-in-gravy-79105124287/2-1-11-79105124287-packshot.jpg?h=536&w=480&hash=436654B187EA05A0801D785AD5D6E03D9C6E3154",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-chicken-liver-recipe-pate",
         "brand": null,
         "title": "Chicken & Liver Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-and-liver-recipe-pate-79105118484/2-1-20-79105118484-packshot.jpg?h=536&w=480&hash=AAE9EC2D7F4FF5E130D75C5AF088324BA40BF15A",
         "descriptions": "Give your adult cat delicious soft cat food without the mess of cans! This NUTRO Pate recipe features chicken as the #1 ingredient and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Feed your cat a delicious soft cat food meal with NUTRO Adult Wet Cat Food Paté Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -627,23 +629,23 @@
             "Menadione Sodium Bisulfite Complex (source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 12.0%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 78.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 12.0%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 1135 kcal/kg, 43 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-and-liver-recipe-pate-79105118484/2-1-20-79105118484-packshot.jpg?h=536&w=480&hash=AAE9EC2D7F4FF5E130D75C5AF088324BA40BF15A",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-chicken-liver-shrimp-recipe-pate",
         "brand": null,
         "title": "Chicken, Liver & Shrimp Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-liver-and-shrimp-recipe-pate-79105115179/2-1-21-79105118514-packshot.jpg?h=536&w=480&hash=17EDFF1010246F530C15F91050BF21928744F10E",
         "descriptions": "Give your adult cat delicious soft cat food without the mess of cans! This NUTRO Pate recipe features chicken as the #1 ingredient and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Feed your cat a delicious soft cat food meal with NUTRO Adult Wet Cat Food Paté Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -677,23 +679,23 @@
             "Menadione Sodium Bisulfite Complex (source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 12.0%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 78.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 12.0%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 1118 kcal/kg, 42 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-liver-and-shrimp-recipe-pate-79105115179/2-1-21-79105118514-packshot.jpg?h=536&w=480&hash=17EDFF1010246F530C15F91050BF21928744F10E",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-chicken-recipe-cuts-in-gravy",
         "brand": null,
         "title": "Chicken Recipe Cuts in Gravy",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-recipe-cuts-in-gravy-79105123068/2-1-12-79105123068-packshot.jpg?h=536&w=480&hash=C41D0653CCCE27D809FA646E9F0DBA935A985575",
         "descriptions": "Feed your adult cat a delicious wet cat food in sauce without the mess of cans! This NUTRO Cuts in Gravy recipe features high-quality protein as the foundation of every recipe, and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your cat a nutritious, tasty, and grain free* meal with NUTRO Adult Wet Cat Food Cuts in Gravy Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -726,23 +728,23 @@
             "Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 8.5%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 82.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 8.5%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 82.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 1004 kcal/kg, 38 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-recipe-cuts-in-gravy-79105123068/2-1-12-79105123068-packshot.jpg?h=536&w=480&hash=C41D0653CCCE27D809FA646E9F0DBA935A985575",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-chicken-recipe-pate",
         "brand": null,
         "title": "Chicken Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-recipe-pate-79105115193/2-1-19-79105115193-packshot.jpg?h=536&w=480&hash=D10C3DFA7FB4782FDFE3B18D5D82728C8BB277B5",
         "descriptions": "Give your adult cat delicious soft cat food without the mess of cans! This NUTRO Pate recipe features chicken as the #1 ingredient and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Feed your cat a delicious soft cat food meal with NUTRO Adult Wet Cat Food Paté Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -775,23 +777,23 @@
             "Menadione Sodium Bisulfite Complex (source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 12.0%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 78.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 12.0%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 1135 kcal/kg, 43 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-recipe-pate-79105115193/2-1-19-79105115193-packshot.jpg?h=536&w=480&hash=D10C3DFA7FB4782FDFE3B18D5D82728C8BB277B5",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-chicken-shrimp-recipe-pate",
         "brand": null,
         "title": "Chicken & Shrimp Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-and-shrimp-recipe-pate-79105115179/2-1-18-79105115179-packshot.jpg?h=536&w=480&hash=3A7AD661FF6CB1CBA3EBF9FF0876DC93BB1F1015",
         "descriptions": "Give your adult cat delicious soft cat food without the mess of cans! This NUTRO Pate recipe features chicken as the #1 ingredient and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Feed your cat a delicious soft cat food meal with NUTRO Adult Wet Cat Food Paté Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -825,23 +827,23 @@
             "Menadione Sodium Bisulfite Complex (source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 12.0%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 78.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 12.0%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 1118 kcal/kg, 42 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-and-shrimp-recipe-pate-79105115179/2-1-18-79105115179-packshot.jpg?h=536&w=480&hash=3A7AD661FF6CB1CBA3EBF9FF0876DC93BB1F1015",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-salmon-chicken-recipe-pate",
         "brand": null,
         "title": "Salmon & Chicken Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/salmon-and-chicken-recipe-pate-79105118507/2-1-17-79105118507-packshot.jpg?h=536&w=480&hash=832135644F0988C67F48BAC82CE36E776CB59340",
         "descriptions": "Feed your adult cat a delicious wet cat food in sauce without the mess of cans! This NUTRO Cuts in Gravy recipe features high-quality protein as the foundation of every recipe, and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your cat a nutritious, tasty, and grain free* meal with NUTRO Adult Wet Cat Food Cuts in Gravy Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -874,23 +876,23 @@
             "Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 8.5%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 82.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 8.5%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 82.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 1141 kcal/kg, 43 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/salmon-and-chicken-recipe-pate-79105118507/2-1-17-79105118507-packshot.jpg?h=536&w=480&hash=832135644F0988C67F48BAC82CE36E776CB59340",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-salmon-recipe-cuts-in-gravy",
         "brand": null,
         "title": "Salmon Recipe Cuts in Gravy",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/salmon-recipe-cuts-in-gravy-79105123099/2-1-13-79105123099-packshot.jpg?h=536&w=480&hash=0504442BCC4596D70834CFE552B9C80232F80B92",
         "descriptions": "Feed your adult cat a delicious wet cat food in sauce without the mess of cans! This NUTRO Cuts in Gravy recipe features high-quality protein as the foundation of every recipe, and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your cat a nutritious, tasty, and grain free* meal with NUTRO Adult Wet Cat Food Cuts in Gravy Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -924,23 +926,23 @@
             "Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 9.0%",
-            "Crude Fat (Min.) 4.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 82.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 9.0%",
+            "Crude Fat: 4.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 82.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 916 kcal/kg, 34 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/salmon-recipe-cuts-in-gravy-79105123099/2-1-13-79105123099-packshot.jpg?h=536&w=480&hash=0504442BCC4596D70834CFE552B9C80232F80B92",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-salmon-tuna-recipe-pate",
         "brand": null,
         "title": "Salmon & Tuna Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/salmon-and-tuna-recipe-pate-79105115209/2-1-22-79105115209-packshot.jpg?h=536&w=480&hash=4C9270A9149E7E659AF076D036B4576E5634CF29",
         "descriptions": "Give your adult cat delicious soft cat food without the mess of cans! This NUTRO Pate recipe features salmon as the #1 ingredient and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Feed your cat a delicious soft cat food meal with NUTRO Adult Wet Cat Food Paté Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -977,23 +979,23 @@
             "Menadione Sodium Bisulfite Complex (source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 12.0%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 78.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 12.0%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 1141 kcal/kg, 43 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/salmon-and-tuna-recipe-pate-79105115209/2-1-22-79105115209-packshot.jpg?h=536&w=480&hash=4C9270A9149E7E659AF076D036B4576E5634CF29",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-tuna-recipe-cuts-in-gravy",
         "brand": null,
         "title": "Tuna Recipe Cuts in Gravy",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/tuna-recipe-cuts-in-gravy-79105123105/2-1-14-79105123105-packshot.jpg?h=536&w=480&hash=5F7B0AEAC02C9B7F30DE7655F7310FB520208E03",
         "descriptions": "Feed your adult cat a delicious wet cat food in sauce without the mess of cans! This NUTRO Cuts in Gravy recipe features high-quality protein as the foundation of every recipe, and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your cat a nutritious, tasty, and grain free* meal with NUTRO Adult Wet Cat Food Cuts in Gravy Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -1027,23 +1029,23 @@
             "Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 8.5%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 82.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 8.5%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 82.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 875 kcal/kg, 33 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/tuna-recipe-cuts-in-gravy-79105123105/2-1-14-79105123105-packshot.jpg?h=536&w=480&hash=5F7B0AEAC02C9B7F30DE7655F7310FB520208E03",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-turkey-liver-recipe-pate",
         "brand": null,
         "title": "Turkey & Liver Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/turkey-and-liver-recipe-pate-79105118491/2-1-25-79105118491-packshot.jpg?h=536&w=480&hash=4B613D6FBD0F7401CD7D900F3C4485729054CEC8",
         "descriptions": "Give your adult cat delicious soft cat food without the mess of cans! This NUTRO Pate recipe features turkey as the #1 ingredient and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Feed your cat a delicious soft cat food meal with NUTRO Adult Wet Cat Food Paté Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -1076,23 +1078,23 @@
             "Menadione Sodium Bisulfite Complex (source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 12.0%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 78.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.07%",
+            "Crude Protein: 12.0%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.07%",
             "Calorie Content ME 1253 kcal/kg, 47 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/turkey-and-liver-recipe-pate-79105118491/2-1-25-79105118491-packshot.jpg?h=536&w=480&hash=4B613D6FBD0F7401CD7D900F3C4485729054CEC8",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-turkey-recipe-cuts-in-gravy",
         "brand": null,
         "title": "Turkey Recipe Cuts in Gravy",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/turkey-recipe-cuts-in-gravy-79105123082/2-1-15-79105123082-packshot.jpg?h=536&w=480&hash=E6EC337E99D92BFD51BB6A873663B8E2B113EC3D",
         "descriptions": "Feed your adult cat a delicious wet cat food in sauce without the mess of cans! This NUTRO Cuts in Gravy recipe features high-quality protein as the foundation of every recipe, and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your cat a nutritious, tasty, and grain free* meal with NUTRO Adult Wet Cat Food Cuts in Gravy Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -1126,23 +1128,23 @@
             "Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 9.0%",
-            "Crude Fat (Min.) 6.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 82.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 9.0%",
+            "Crude Fat: 6.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 82.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 1047 kcal/kg, 39 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/turkey-recipe-cuts-in-gravy-79105123082/2-1-15-79105123082-packshot.jpg?h=536&w=480&hash=E6EC337E99D92BFD51BB6A873663B8E2B113EC3D",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/adult-turkey-recipe-pate",
         "brand": null,
         "title": "Turkey Recipe Paté",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/turkey-recipe-pate-79105115186/2-1-24-79105115186-packshot.jpg?h=536&w=480&hash=E9F1F771B8DDCBA931C31599A440D6897F332CAD",
         "descriptions": "Give your adult cat delicious soft cat food without the mess of cans! This NUTRO Pate recipe features turkey as the #1 ingredient and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Feed your cat a delicious soft cat food meal with NUTRO Adult Wet Cat Food Paté Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -1175,23 +1177,23 @@
             "Menadione Sodium Bisulfite Complex (source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 12.0%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 78.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.07%",
+            "Crude Protein: 12.0%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.07%",
             "Calorie Content ME 1253 kcal/kg, 47 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/turkey-recipe-pate-79105115186/2-1-24-79105115186-packshot.jpg?h=536&w=480&hash=E9F1F771B8DDCBA931C31599A440D6897F332CAD",
-        "site": "https://nutro.com"
+        "calorie": null
     },
     {
+        "site": "https://nutro.com",
         "url": "https://nutro.com/shop-cats/natural-wet-cat-food/nutro-perfect-portions-adult-chicken-and-salmon-cuts-in-gravy",
         "brand": null,
         "title": "CHICKEN & SALMON RECIPE CUTS IN GRAVY",
+        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-and-salmon-recipe-cuts-in-gravy-79105123136/10201051-packshot.jpg?h=536&w=480&hash=EDBFAD99754E05B6FCE0F94254B6710745D518A2",
         "descriptions": "Feed your adult cat a delicious wet cat food in sauce without the mess of cans! This NUTRO Cuts in Gravy recipe features high-quality protein as the foundation of every recipe, and is a natural cat food plus vitamins, minerals, and other nutrients. Unlike canned foods, each PERFECT PORTIONS tray has convenient snap-and-peel packaging with two individual servings for your cat and no messy leftovers! These NUTRO Wet Cat Food recipes are simple, purposeful, and trustworthy, and follow the NUTRO. FEED CLEAN philosophy. They are made with non-GMO ingredients* carefully sourced from a trusted network of farmers and suppliers, and are formulated without wheat, soy protein, chicken by-product meal and artificial flavors or colors. Give your cat a nutritious, tasty, and grain free* meal with NUTRO Adult Wet Cat Food Cuts in Gravy Trays.",
         "key_benefits": null,
         "ingredients": [
@@ -1225,17 +1227,15 @@
             "Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)."
         ],
         "analysis": [
-            "Crude Protein (Min.) 8.5%",
-            "Crude Fat (Min.) 5.0%",
-            "Crude Fiber (Max.) 1.0%",
-            "Moisture (Max.) 82.0%",
-            "Ash (Max.) 3.5%",
-            "Taurine (Min.) 0.06%",
+            "Crude Protein: 8.5%",
+            "Crude Fat: 5.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 82.0%",
+            "Ash: 3.5%",
+            "Taurine: 0.06%",
             "Calorie Content ME 942 kcal/kg, 35 kcal/serving"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://nutro.com/-/media/barefootpetcare/nutro/products/cat/natural-wet-cat-food/chicken-and-salmon-recipe-cuts-in-gravy-79105123136/10201051-packshot.jpg?h=536&w=480&hash=EDBFAD99754E05B6FCE0F94254B6710745D518A2",
-        "site": "https://nutro.com"
+        "calorie": null
     }
 ]

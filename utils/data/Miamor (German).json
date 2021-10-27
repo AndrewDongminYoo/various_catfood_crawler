@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.miamor.de",
         "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-chicken-in-carrot-cream-100-g",
         "brand": "Miamor (German)",
         "title": "Ragout Royale in Cream Chicken in carrot cream Pouch 100 g",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73044.png",
         "descriptions": "Tender pieces of ragout prepared in delicate cream, a royal delight. Vitamin protection process. With nutritionally valuable prebiotic inulin, a water-soluble fibre, to support the intestinal flora.",
         "key_benefits": [
             "with all vitamins, minerals and taurine",
@@ -29,14 +31,14 @@
             "taurine 445 mg",
             "zinc (as zinc sulphate, monohydrate): 15 mg."
         ],
-        "calorie": "Calories / 100g: 85 kcal",
-        "image": "https://www.miamor.de/fileadmin/products/miamor/73044.png",
-        "site": "https://www.miamor.de"
+        "calorie": "Calories / 100g: 85 kcal"
     },
     {
+        "site": "https://www.miamor.de",
         "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-duck-in-herb-cream-100-g",
         "brand": "Miamor (German)",
         "title": "Ragout Royale in Cream Duck in herb cream Pouch 100 g",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73043.png",
         "descriptions": "Tender pieces of ragout prepared in delicate cream, a royal delight. Vitamin protection process. With nutritionally valuable prebiotic inulin, a water-soluble fibre, to support the intestinal flora.",
         "key_benefits": [
             "with all vitamins, minerals and taurine",
@@ -63,14 +65,14 @@
             "taurine 445 mg",
             "zinc (as zinc sulphate, monohydrate): 15 mg."
         ],
-        "calorie": "Calories / 100g: 85 kcal",
-        "image": "https://www.miamor.de/fileadmin/products/miamor/73043.png",
-        "site": "https://www.miamor.de"
+        "calorie": "Calories / 100g: 85 kcal"
     },
     {
+        "site": "https://www.miamor.de",
         "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-salmon-in-yoghurt-cream-100-g",
         "brand": "Miamor (German)",
         "title": "Ragout Royale in Cream Salmon in yoghurt cream Pouch 100 g",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73041.png",
         "descriptions": "Tender pieces of ragout prepared in delicate cream, a royal delight. Vitamin protection process. With nutritionally valuable prebiotic inulin, a water-soluble fibre, to support the intestinal flora.",
         "key_benefits": [
             "Tender ragout",
@@ -98,14 +100,14 @@
             "taurine 445 mg",
             "zinc (as zinc sulphate, monohydrate): 15 mg."
         ],
-        "calorie": "Calories / 100g: 85 kcal",
-        "image": "https://www.miamor.de/fileadmin/products/miamor/73041.png",
-        "site": "https://www.miamor.de"
+        "calorie": "Calories / 100g: 85 kcal"
     },
     {
+        "site": "https://www.miamor.de",
         "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-veal-in-tomato-cream-100-g",
         "brand": "Miamor (German)",
         "title": "Ragout Royale in Cream Veal in tomato cream Pouch 100 g",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73042.png",
         "descriptions": "Tender pieces of ragout prepared in delicate cream, a royal delight. Vitamin protection process. With nutritionally valuable prebiotic inulin, a water-soluble fibre, to support the intestinal flora.",
         "key_benefits": [
             "with all vitamins, minerals and taurine",
@@ -132,8 +134,6 @@
             "taurine 445 mg",
             "zinc (as zinc sulphate, monohydrate): 15 mg."
         ],
-        "calorie": "Calories / 100g: 85 kcal",
-        "image": "https://www.miamor.de/fileadmin/products/miamor/73042.png",
-        "site": "https://www.miamor.de"
+        "calorie": "Calories / 100g: 85 kcal"
     }
 ]

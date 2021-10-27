@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://bestbreed.com",
         "url": "https://bestbreed.com/product_detail/cat-diet/",
         "brand": "BEST BREED",
         "title": "Cat Diet - Best Breed",
+        "image": "https://www.bestbreed.com/wp-content/uploads/2017/06/cat_diet.jpg",
         "descriptions": "Formulated to help strengthen the digestive health of both cats and kittens, allowing them to live a longer, healthier and happier life.",
         "key_benefits": [
             "A well-balanced diet, made with the highest-quality sources of low-ash meats and fats to help ensure easier digestion and maximum nutrient absorption.",
@@ -63,16 +65,16 @@
             "Calcium Iodate."
         ],
         "analysis": [
-            "Crude Protein (Minimum) 30.0%",
-            "Crude Fat (Minimum) 12.0%",
-            "Crude Fiber (Maximum) 7.0%",
-            "Moisture (Maximum) 10.0%",
-            "Omega-6 Fatty Acids (Minimum) 2.8%",
-            "Omega-3 Fatty Acids (Minimum) 0.5%",
+            "Crude Protein: 30.0%",
+            "Crude Fat: 12.0%",
+            "Crude Fiber: 7.0%",
+            "Moisture: 10.0%",
+            "Omega-6 Fatty Acids: 2.8%",
+            "Omega-3 Fatty Acids: 0.5%",
             "Calcium 1.4%",
             "Phosphorus 1.0%",
             "Ash 6.6%",
-            "Carbohydrates (Calc.) 33.0%",
+            "Carbohydrates: 33.0%",
             "Potassium 0.64%",
             "Sodium  0.3%",
             "Magnesium 0.1%",
@@ -81,16 +83,16 @@
             "Iron 301 mg/kg"
         ],
         "additive": [
-            "Crude Protein (Minimum) 30.0%",
-            "Crude Fat (Minimum) 12.0%",
-            "Crude Fiber (Maximum) 7.0%",
-            "Moisture (Maximum) 10.0%",
-            "Omega-6 Fatty Acids (Minimum) 2.8%",
-            "Omega-3 Fatty Acids (Minimum) 0.5%",
+            "Crude Protein: 30.0%",
+            "Crude Fat: 12.0%",
+            "Crude Fiber: 7.0%",
+            "Moisture: 10.0%",
+            "Omega-6 Fatty Acids: 2.8%",
+            "Omega-3 Fatty Acids: 0.5%",
             "Calcium 1.4%",
             "Phosphorus 1.0%",
             "Ash 6.6%",
-            "Carbohydrates (Calc.) 33.0%",
+            "Carbohydrates: 33.0%",
             "Potassium 0.64%",
             "Sodium  0.3%",
             "Magnesium 0.1%",
@@ -98,14 +100,14 @@
             "Manganese 56 mg/kg",
             "Iron 301 mg/kg"
         ],
-        "calorie": "401 Kcal per cup ME",
-        "image": "https://www.bestbreed.com/wp-content/uploads/2017/06/cat_diet.jpg",
-        "site": "https://bestbreed.com"
+        "calorie": "401 Kcal/cup"
     },
     {
+        "site": "https://bestbreed.com",
         "url": "https://bestbreed.com/product_detail/grain-free-cat-diet/",
         "brand": "BEST BREED",
         "title": "Grain Free Cat Diet - Best Breed",
+        "image": "https://www.bestbreed.com/wp-content/uploads/2017/03/Grain-Free-Cat-Diet-2-1.png",
         "descriptions": "Hypoallergenic: A healthful alternative for cats with sensitivities to grains.",
         "key_benefits": [
             "Premium sources of protein from chicken, whitefish and eggs help build and maintain lean muscle mass while providing the essential nutrients needed for strong bones and teeth",
@@ -170,16 +172,16 @@
             "Calcium Iodate."
         ],
         "analysis": [
-            "Crude Protein (Minimum) 38.0%",
-            "Crude Fat (Minimum) 17.0%",
-            "Crude Fiber (Maximum) 7.0%",
-            "Moisture (Maximum) 10.0%",
-            "Omega-6 Fatty Acids (Minimum) 4.3%",
-            "Omega-3 Fatty Acids (Minimum) 0.9%",
+            "Crude Protein: 38.0%",
+            "Crude Fat: 17.0%",
+            "Crude Fiber: 7.0%",
+            "Moisture: 10.0%",
+            "Omega-6 Fatty Acids: 4.3%",
+            "Omega-3 Fatty Acids: 0.9%",
             "Calcium 1.5%",
             "Phosphorus 1.1%",
             "Ash 7.4%",
-            "Carbohydrates (Calc.) 21.0%",
+            "Carbohydrates: 21.0%",
             "Potassium 0.8%",
             "Sodium  0.3%",
             "Magnesium 0.1%",
@@ -188,16 +190,16 @@
             "Iron 345 mg/kg"
         ],
         "additive": [
-            "Crude Protein (Minimum) 38.0%",
-            "Crude Fat (Minimum) 17.0%",
-            "Crude Fiber (Maximum) 7.0%",
-            "Moisture (Maximum) 10.0%",
-            "Omega-6 Fatty Acids (Minimum) 4.3%",
-            "Omega-3 Fatty Acids (Minimum) 0.9%",
+            "Crude Protein: 38.0%",
+            "Crude Fat: 17.0%",
+            "Crude Fiber: 7.0%",
+            "Moisture: 10.0%",
+            "Omega-6 Fatty Acids: 4.3%",
+            "Omega-3 Fatty Acids: 0.9%",
             "Calcium 1.5%",
             "Phosphorus 1.1%",
             "Ash 7.4%",
-            "Carbohydrates (Calc.) 21.0%",
+            "Carbohydrates: 21.0%",
             "Potassium 0.8%",
             "Sodium  0.3%",
             "Magnesium 0.1%",
@@ -205,8 +207,6 @@
             "Manganese 36 mg/kg",
             "Iron 345 mg/kg"
         ],
-        "calorie": "424 Kcal per cup ME",
-        "image": "https://www.bestbreed.com/wp-content/uploads/2017/03/Grain-Free-Cat-Diet-2-1.png",
-        "site": "https://bestbreed.com"
+        "calorie": "424 Kcal/cup"
     }
 ]

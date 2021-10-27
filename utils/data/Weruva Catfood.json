@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/asian-fusion-3/",
         "brand": "Weruva Catfood",
         "title": "Asian Fusion - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0133-iso-1.jpg",
         "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Asian Fusion by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. A terrific Pacific treat made with red meat tuna and shirasu. Shirasu are baby anchovies. Translated as \"white child\" or \"white small\" perhaps the smallest fish available on the market, shirasu have become a traditional part of the Japanese diet. Like many people throughout the world eat cheese with their wine, many Japanese consume shirasu with their sake.",
         "key_benefits": null,
         "ingredients": [
@@ -36,24 +38,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.6%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 83%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 12%",
+            "Crude Fat: 1.6%",
+            "Crude Fiber: 0.5%",
+            "Moisture: 83%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 65 kcal",
             "KG 770 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0133-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/funky-chunky-5/",
         "brand": "Weruva Catfood",
         "title": "Funky Chunky - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0331-iso-1.jpg",
         "descriptions": "A hearty chicken soup with boneless, skinless, white breast chicken and lots of chunk for a mouthful! Exploding with carrots and peas... enough to satisfy every hungry tummy! And don't forget, our chicken is cage free and free of added antibiotics and hormones.",
         "key_benefits": null,
         "ingredients": [
@@ -88,24 +90,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 8%",
-            "Crude Fat (min) 1.2%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 87.5%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 8%",
+            "Crude Fat: 1.2%",
+            "Crude Fiber: 0.5%",
+            "Moisture: 87.5%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 53 kcal",
             "KG 618 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0331-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/grandmas-chicken-soup-5/",
         "brand": "Weruva Catfood",
         "title": "Grandma’s Chicken Soup - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0324-iso-1.jpg",
         "descriptions": "Just like Grandma used to make. Home cooked boneless, skinless white breast chicken with good ol' veggies in soup, yummy! Made with chicken breast free of added hormones and also cage free.",
         "key_benefits": null,
         "ingredients": [
@@ -140,24 +142,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 8%",
-            "Crude Fat (min) 1.2%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 87.5%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 8%",
+            "Crude Fat: 1.2%",
+            "Crude Fiber: 0.5%",
+            "Moisture: 87.5%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 58 kcal",
             "KG 683 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0324-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/green-eggs-chicken-5/",
         "brand": "Weruva Catfood",
         "title": "Green Eggs & Chicken - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0355-iso-1.jpg",
         "descriptions": "Get the cat out of the hat and into a plate full of boneless, skinless, white breast chicken loaded with the best of the best green veggies in gravy. Your cat will enjoy those garden greens! And let's not forget those bits of egg, perfect for the morning omelet! Made with magic in every bite with chicken free of added antibiotics, hormones, and also cage free.",
         "key_benefits": null,
         "ingredients": [
@@ -191,24 +193,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 10%",
-            "Crude Fat (min) 1.6%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 85%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 10%",
+            "Crude Fat: 1.6%",
+            "Crude Fiber: 0.5%",
+            "Moisture: 85%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 64 kcal",
             "KG 752 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0355-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/mack-and-jack-4/",
         "brand": "Weruva Catfood",
         "title": "Mack and Jack - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0140-iso-1.jpg",
         "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Mack & Jack by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Mack & Jack, you Omega-3 maniac! Made with mackerel and skipjack tuna. With the United States consuming nearly a third of the world's catch, simply put, skipjack is the most popularly consumed tuna in the world, surpassing albacore nearly eight times over.",
         "key_benefits": null,
         "ingredients": [
@@ -243,24 +245,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.7%",
-            "Crude Fiber (max) 1%",
-            "Moisture (max) 82%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 12%",
+            "Crude Fat: 1.7%",
+            "Crude Fiber: 1%",
+            "Moisture: 82%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 66 kcal",
             "KG 774 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0140-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/marbella-paella-5/",
         "brand": "Weruva Catfood",
         "title": "Marbella Paella - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0126-iso-1.jpg",
         "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Marbella Paella by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. If you can't bring your cat to Spain, bring Spain to your cat! Rich in Omega-3s, let kitty enjoy a paella mix of mackerel flakes, whole calamari, baby shrimp and mussels. Everything but the kitchen sink. Fabulosa!",
         "key_benefits": null,
         "ingredients": [
@@ -295,24 +297,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.6%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 86%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 12%",
+            "Crude Fat: 1.6%",
+            "Crude Fiber: 0.5%",
+            "Moisture: 86%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 61 kcal",
             "KG 718 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0126-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/meow-luau-3/",
         "brand": "Weruva Catfood",
         "title": "Meow Luau - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0164-iso-1.jpg",
         "descriptions": "Hula mackerel! Bring your leis and get your dance on! Made with a touch of pumpkin to help with digestion and loaded with omega-3.",
         "key_benefits": null,
         "ingredients": [
@@ -345,24 +347,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.5%",
-            "Crude Fiber (max) 1%",
-            "Moisture (max) 84%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 12%",
+            "Crude Fat: 1.5%",
+            "Crude Fiber: 1%",
+            "Moisture: 84%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 62 kcal",
             "KG 733 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0164-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/mideast-feast-4/",
         "brand": "Weruva Catfood",
         "title": "Mideast Feast - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0171-iso-1.jpg",
         "descriptions": "And I think to myself, what a 'wonderful' fish.\" Tilapia nilotica, \"fish of the Nile,\" plays a fascinating historical role. Evidence, in the form of hieroglyphic paintings and carvings suggest that not only was tilapia harvested by ancient Egyptians, tilapia was the food of many Pharaohs. Because biblical tradition holds that tilapia was the fish Jesus multiplied and fed to the masses, some have come to know tilapia as \"St. Peter's Fish\" or \"Wonder Fish.\"",
         "key_benefits": null,
         "ingredients": [
@@ -395,24 +397,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.5%",
-            "Crude Fiber (max) 1%",
-            "Moisture (max) 84%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 12%",
+            "Crude Fat: 1.5%",
+            "Crude Fiber: 1%",
+            "Moisture: 84%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 63 kcal",
             "KG 746 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0171-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/nine-liver-3/",
         "brand": "Weruva Catfood",
         "title": "Nine Liver - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0348-iso-1.jpg",
         "descriptions": "Your cat will enjoy every bite of this boneless, skinless, white breast chicken, with chunks of chicken liver in a delicious gravy. Enough to entice every palate...and who knows, your cat might just gain eight more lives! Did we mention the chicken is cage free and free of added antibiotics and hormones?",
         "key_benefits": null,
         "ingredients": [
@@ -445,24 +447,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 10%",
-            "Crude Fat (min) 1.4%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 85%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 10%",
+            "Crude Fat: 1.4%",
+            "Crude Fiber: 0.5%",
+            "Moisture: 85%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 59 kcal",
             "KG 698 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0348-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/outback-grill-3/",
         "brand": "Weruva Catfood",
         "title": "Outback Grill - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0119-iso-1.jpg",
         "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Outback Grill by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Howdy, mate! Get your taste of Australian seafood here. Made with exotic Australian seafood including barramundi, an Australian sea bass and trevally, a reef dweller. Like a boomerang, your cat will keep coming back for more.",
         "key_benefits": null,
         "ingredients": [
@@ -492,24 +494,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 10%",
-            "Crude Fat (min) 1.4%",
-            "Crude Fiber (max) 1%",
-            "Moisture (max) 85%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 10%",
+            "Crude Fat: 1.4%",
+            "Crude Fiber: 1%",
+            "Moisture: 85%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 56 kcal",
             "KG 663 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0119-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/paw-lickin-chicken-6/",
         "brand": "Weruva Catfood",
         "title": "Paw Lickin’ Chicken - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0317-iso-1.jpg",
         "descriptions": "Give me an order of chicken breast, hold the veggies, hold the grains. In fact, hold everything. And while you’re at it, make it free of added antibiotics, free of added hormones, and cage free.",
         "key_benefits": null,
         "ingredients": [
@@ -541,24 +543,24 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 10%",
-            "Crude Fat (min) 1.4%",
-            "Crude Fiber (max) 0.5%",
-            "Moisture (max) 85%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 10%",
+            "Crude Fat: 1.4%",
+            "Crude Fiber: 0.5%",
+            "Moisture: 85%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 57 kcal",
             "KG 673 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0317-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     },
     {
+        "site": "https://weruva.com",
         "url": "https://weruva.com/product/polynesian-bbq-4/",
         "brand": "Weruva Catfood",
         "title": "Polynesian BBQ - Weruva | Because We Luvya",
+        "image": "https://weruva.com/wp-content/uploads/2018/07/0188-iso-1.jpg",
         "descriptions": "A note about carrageenan: We’ve listened to your valuable feedback and made a small change to Polynesian BBQ by removing carrageenan! By simply removing carrageenan, it results in a texture change, making the food more gravy-like, though we have not added any water. Here’s how it works – carrageenan is a common food ingredient that helps thicken and stabilize foods for people and pets, and it helped to make the \"aspic\" texture in our previous recipes (aspic is the gel-like substance that binds the food and protects it, much like fruit in a Jello mold). The ingredients in aspic were carrageenan and vegetable gums, which start off as a powder, but when mixed with water and cooked take on a gel-like texture like Jello. With carrageenan removed and water content unchanged in our new recipes, the gel no longer forms, and the result is instead a gravy. As cooked fish is a bit delicate and flaky, you may find the pieces in gravy flake a bit before they get to you. Red Bigeye is the unique ingredient here, sitting atop sardine cutlets and whole meat tuna. Fit for their carnivorous and nocturnal lifestyles, as you could guess, \"bigeye\" refers to this fish's unusually large eyes. Native to the tropical and subtropical regions of Pacific and Indian Oceans, Bigeyes tend to live near rock outcroppings or reefs.",
         "key_benefits": null,
         "ingredients": [
@@ -590,18 +592,16 @@
             "Vitamin B12 Supplement"
         ],
         "analysis": [
-            "Crude Protein (min) 12%",
-            "Crude Fat (min) 1.7%",
-            "Crude Fiber (max) 1%",
-            "Moisture (max) 82%",
-            "Taurine (min) 0.05%"
+            "Crude Protein: 12%",
+            "Crude Fat: 1.7%",
+            "Crude Fiber: 1%",
+            "Moisture: 82%",
+            "Taurine: 0.05%"
         ],
         "additive": null,
         "calorie": [
             "3.0 oz 61 kcal",
             "KG 723 kcal"
-        ],
-        "image": "https://weruva.com/wp-content/uploads/2018/07/0188-iso-1.jpg",
-        "site": "https://weruva.com"
+        ]
     }
 ]

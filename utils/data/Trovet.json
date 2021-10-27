@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.trovet.com",
         "url": "https://www.trovet.com/en/product/renal-venison-cat/",
         "brand": "TROVET",
         "title": "Renal (Venison) cat - TROVET",
+        "image": "https://images.app.goo.gl/Mroxemkae3fzPAqd8",
         "descriptions": [
             "Complete, hypoallergenic dietary food for adult cats with insufficient kidney function",
             "Renal (Venison) is specially formulated for adult cats with insufficient kidney function. The product is based on one animal protein source (venison) and one carbohydrate source (rice) and is therefore also suited for adult cats with food hypersensitivity."
@@ -35,14 +37,14 @@
             "Manganese (Mn) 5.7 mg/kg Linoleic acid 3.30 % EPA 0.40 % DHA 0.35 % Taurine 2700 mg/kg"
         ],
         "additive": null,
-        "calorie": "3903 kcal/kg",
-        "site": "https://www.trovet.com",
-        "image": "https://images.app.goo.gl/Mroxemkae3fzPAqd8"
+        "calorie": "3903 kcal/kg"
     },
     {
+        "site": "https://www.trovet.com",
         "url": "https://www.trovet.com/en/product/urinary-calm-cat/",
         "brand": "TROVET",
         "title": "Urinary Calm cat - TROVET",
+        "image": "https://images.app.goo.gl/P4TQRtPv5u58m8g46",
         "descriptions": [
             "Complete dietary food for adult cats to reduce urolithiasis and to promote calmness",
             "Urinary Calm is specially formulated for adult cats to prevent (reoccurring) struvite and calcium oxalate formation and to reduce stress. To help reduce stress and the risk of Feline Idiopathic Cystitis (FIC), three ingredients are added to TROVET Urinary Calm: green tea extract, milk protein hydrolysate and tryptophan.",
@@ -82,14 +84,14 @@
             "Taurine 2380 mg/kg DL-Methionine 8500 mg/kg Ammonium chloride 1200 %"
         ],
         "additive": null,
-        "calorie": "3474 kcal/kg",
-        "site": "https://www.trovet.com",
-        "image": "https://images.app.goo.gl/P4TQRtPv5u58m8g46"
+        "calorie": "3474 kcal/kg"
     },
     {
+        "site": "https://www.trovet.com",
         "url": "https://www.trovet.com/product/hepatic-cat/",
         "brand": "TROVET",
         "title": "Hepatic cat - TROVET",
+        "image": "https://images.app.goo.gl/5cHM7vneYhi4qkQt6",
         "descriptions": "Hepatic is a complete dietary food that can be used for specific liver problems. Given the important role of the liver in the processing of fat and the regulation of lipid metabolism, it is important to provide substances that support the metabolism of the liver. Hepatic is enriched with these so-called lipotropic agents (e.g. L-carnitine, lecithin and choline).",
         "key_benefits": "Supports fat-metabolism by high levels of lipotropic substances (lecithin, choline).",
         "ingredients": [
@@ -110,14 +112,14 @@
             "Copper (Cu) 20 mg/kg Taurine 1800 mg/kg Lecithin 5000 mg/kg Choline 2200 mg/kg L-carnitine 300 mg/kg"
         ],
         "additive": null,
-        "calorie": "3675 kcal/kg",
-        "site": "https://www.trovet.com",
-        "image": "https://images.app.goo.gl/5cHM7vneYhi4qkQt6"
+        "calorie": "3675 kcal/kg"
     },
     {
+        "site": "https://www.trovet.com",
         "url": "https://www.trovet.com/product/intestinal-cat/",
         "brand": "TROVET",
         "title": "Intestinal cat - TROVET",
+        "image": "https://images.app.goo.gl/ULttjwfZ8X1KSU9h6",
         "descriptions": [
             "Intestinal is a complete dietary food for cats to support the gastrointestinal tract and can also be used as hypoallergenic food. The use of rice as a carbohydrate source makes this food highly digestible and the addition of both fermentable and non-fermentable fibres promote a healthy gastrointestinal tract.",
             "Furthermore, the number of ingredients used is as little as possible, in order to keep the stress on the digestive tract low and minimise the risk of an allergic reaction. Intestinal dry food contains fish protein hydrolysate as animal protein source. Next to the positive effect on digestion, the hydrolysed proteins also have a very low allergenicity. The added fatty acids are able to downregulate inflammatory reactions, which is desirable in cats with an intestinal inflammation or atopy."
@@ -154,14 +156,14 @@
             "Taurine 1500 mg/kg Omega-3 fatty acids 1.95 % Linoleic acid 3.30 % Alpha linolenic acid 0.70 % DHA 0.60 % EPA 0.65 %"
         ],
         "additive": null,
-        "calorie": "3873 kcal/kg",
-        "site": "https://www.trovet.com",
-        "image": "https://images.app.goo.gl/ULttjwfZ8X1KSU9h6"
+        "calorie": "3873 kcal/kg"
     },
     {
+        "site": "https://www.trovet.com",
         "url": "https://www.trovet.com/product/renal-oxalate-cat/",
         "brand": "TROVET",
         "title": "Renal & Oxalate cat - TROVET",
+        "image": "https://images.app.goo.gl/SYXz6UL1K6bmbBSV7",
         "descriptions": [
             "Renal & Oxalate is specially formulated to meet the requirements of cats with chronic renal failure. The diet is limited in protein and phosphorous, which prevents the accumulation of waste, reduces the stress on the kidneys and ultimately slows down the progression of renal failure. The proteins used are of high quality, in order to meet the amino acids requirements, without leading to excess waste products. Renal & Oxalate’s energy density reduces food volume, to help animals with a loss of appetite to meet their daily energy requirement.",
             "Renal & Oxalate dietary food is also designed to reduce the formation of calcium oxalate. The use of potassium citrate has a urine pH-increasing effect, which reduces the excretion of calcium in urine. In addition, citrate is able to bind calcium, which can reduce the occurrence of calcium oxalate formation in urine."
@@ -193,14 +195,14 @@
             "Taurine 1800 mg/kg Linoleic acid 6.20 % Alpha linolenic acid 0.70 % Potassium citrate 2800 mg/kg"
         ],
         "additive": null,
-        "calorie": "4118 kcal/kg",
-        "site": "https://www.trovet.com",
-        "image": "https://images.app.goo.gl/SYXz6UL1K6bmbBSV7"
+        "calorie": "4118 kcal/kg"
     },
     {
+        "site": "https://www.trovet.com",
         "url": "https://www.trovet.com/product/urinary-struvite-cat/",
         "brand": "TROVET",
         "title": "Urinary Struvite cat - TROVET",
+        "image": "https://images.app.goo.gl/Vo4UbWWoHreu1D3UA",
         "descriptions": "Struvite is a common but well treatable condition. Urinary Struvite is dietary food, specially formulated to prevent the formation of struvite crystals and helps dissolving excisting crystals. Urinary Struvite lowers the urine pH. In combination with the lowered mineral content (magnesium), the reoccurrence is further reduced.",
         "key_benefits": [
             "The low potassium level will help to keep the urinal pH low.",
@@ -230,14 +232,14 @@
             "Taurine 1800 mg/kg Ammonium chloride 1.14 %"
         ],
         "additive": null,
-        "calorie": "4083 kcal/kg",
-        "site": "https://www.trovet.com",
-        "image": "https://images.app.goo.gl/Vo4UbWWoHreu1D3UA"
+        "calorie": "4083 kcal/kg"
     },
     {
+        "site": "https://www.trovet.com",
         "url": "https://www.trovet.com/product/weight-diabetic-cat/",
         "brand": "TROVET",
         "title": "Weight & Diabetic cat - TROVET",
+        "image": "https://images.app.goo.gl/S2rGiZYsiDyqFsgA6",
         "descriptions": [
             "Complete dietary food for overweight / diabetic adult cats",
             "Weight & Diabetic is formulated to help your cat during the weight loss process. It is a complete dietary food with a reduced fat and energy content. The increased fibre content ensures satiety after a meal. The protein content is increased to prevent muscle wasting during weight loss and the vitamin and mineral levels in the diet have been adjusted to still be sufficient when a smaller amount of food is given.",
@@ -270,8 +272,6 @@
             "Iron (Fe) 75 mg/kg Copper (Cu) 10 mg/kg Zinc (Zn) 85 mg/kg Manganese (Mn) 15 mg/kg L-carnitine 150 mg/kg Taurine 1800 mg/kg"
         ],
         "additive": null,
-        "calorie": "3254 kcal/kg",
-        "site": "https://www.trovet.com",
-        "image": "https://images.app.goo.gl/S2rGiZYsiDyqFsgA6"
+        "calorie": "3254 kcal/kg"
     }
 ]

@@ -1,7 +1,9 @@
 {
+    "site": "https://www.catological.com",
     "url": "https://www.catological.com/hi-tek-naturals-dry-cat-food-review/#",
     "brand": "Hi-tek Naturals",
     "title": "Hi-Tek Naturals Cat Food (Dry) Review And Nutrition Analysis",
+    "image": "https://catological.b-cdn.net/wp-content/uploads/2018/09/hiteknaturalsdry-1.jpg",
     "descriptions": [
         "Hi-Tek’s product line includes 1 dry recipe/flavor.",
         "Each recipe below includes its related AAFCO nutrient profile when available on the product’s official webpage or packaging: Growth (G), Maintenance (M), All Life Stages (A), Supplemental (S) or Unspecified (U).",
@@ -21,7 +23,5 @@
         "Calorie Weighted Basis 37% 43% 20%"
     ],
     "additive": null,
-    "calorie": null,
-    "image": "https://catological.b-cdn.net/wp-content/uploads/2018/09/hiteknaturalsdry-1.jpg",
-    "site": "https://www.catological.com"
+    "calorie": null
 }

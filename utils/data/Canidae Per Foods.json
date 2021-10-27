@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.canidae.com",
         "url": "https://www.canidae.com/cat_goodness#product3tab1",
         "brand": "Canidae Per Foods",
         "title": "Real Salmon Limited Ingredient Diet",
+        "image": "https://www.canidae.com/wp-content/uploads/2021/03/Sweepstakes-Callout.png",
         "descriptions": [
             "Real Salmon #1 Ingredient",
             "7 Key Ingredients",
@@ -27,21 +29,21 @@
             "Crude Fat (MIN) 17.00%",
             "Crude Fiber (MAX) 3.00%",
             "Moisture (MAX) 9.00%",
-            "Linoleic Acid (omega 6) (min.) 2.80%",
-            "Alpha Linolenic Acid (omega 3) (min.) 1.00%",
+            "Linoleic Acid (omega 6): 2.80%",
+            "Alpha Linolenic Acid (omega 3): 1.00%",
             "Vitamin E (MIN) 50.00 IU/kg",
             "Taurine* (MIN) 0.15%",
             "Lactobacillus Acidophilus (min.)** 100 million CFU/lb"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://www.canidae.com/wp-content/uploads/2021/03/Sweepstakes-Callout.png",
-        "site": "https://www.canidae.com"
+        "calorie": null
     },
     {
+        "site": "https://www.canidae.com",
         "url": "https://www.canidae.com/cat_goodness#product3tab2",
         "brand": "Canidae Per Foods",
         "title": "Real Trout Limited Ingredient Diet",
+        "image": "https://www.canidae.com/wp-content/uploads/2021/03/Sweepstakes-Callout.png",
         "descriptions": [
             "Real Trout Limited Ingredient Diet",
             "Real Trout #1 Ingredient",
@@ -67,21 +69,21 @@
             "Crude Fat (MIN) 16.00%",
             "Crude Fiber (MAX) 3.00%",
             "Moisture (MAX) 9.00%",
-            "Linoleic Acid (omega 6) (min.) 2.80%",
-            "Alpha Linolenic Acid (omega 3) (min.) 1.00%",
+            "Linoleic Acid (omega 6): 2.80%",
+            "Alpha Linolenic Acid (omega 3): 1.00%",
             "Vitamin E (MIN) 50.00 IU/kg",
             "Taurine* (MIN) 0.15%",
             "Lactobacillus Acidophilus (min.)** 100 million CFU/lb"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://www.canidae.com/wp-content/uploads/2021/03/Sweepstakes-Callout.png",
-        "site": "https://www.canidae.com"
+        "calorie": null
     },
     {
+        "site": "https://www.canidae.com",
         "url": "https://www.canidae.com/cat_goodness#product3tab3",
         "brand": "Canidae Per Foods",
         "title": "Real Tuna Limited Ingredient Die",
+        "image": "https://www.canidae.com/wp-content/uploads/2021/03/Sweepstakes-Callout.png",
         "descriptions": [
             "Real Tuna Limited Ingredient Diet",
             "Real Tuna #1 Ingredient",
@@ -108,21 +110,21 @@
             "Crude Fat (MIN) 12.00%",
             "Crude Fiber (MAX) 5.00%",
             "Moisture (MAX) 9.00%",
-            "Linoleic Acid (omega 6) (min.) 3.00%",
-            "Alpha Linolenic Acid (omega 3) (min.) 1.00%",
+            "Linoleic Acid (omega 6): 3.00%",
+            "Alpha Linolenic Acid (omega 3): 1.00%",
             "Vitamin E (MIN) 50.00 IU/kg",
             "Taurine* (MIN) 0.15%",
             "Lactobacillus Acidophilus (min.)** 100 million CFU/lb"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://www.canidae.com/wp-content/uploads/2021/03/Sweepstakes-Callout.png",
-        "site": "https://www.canidae.com"
+        "calorie": null
     },
     {
+        "site": "https://www.canidae.com",
         "url": "https://www.canidae.com/cat_goodness#product3tab4",
         "brand": "Canidae Per Foods",
         "title": "tReal Chicken Limited Ingredient Diet",
+        "image": "https://www.canidae.com/wp-content/uploads/2021/03/Sweepstakes-Callout.png",
         "descriptions": [
             "Real Chicken #1 Ingredient",
             "7 Key Ingredients",
@@ -158,15 +160,13 @@
             "Crude Fat (MIN) 18.00%",
             "Crude Fiber (MAX) 3.00%",
             "Moisture (MAX) 9.00%",
-            "Linoleic Acid (omega 6) (min.) 3.75%",
-            "Alpha Linolenic Acid (omega 3) (min.) 0.25%",
+            "Linoleic Acid (omega 6): 3.75%",
+            "Alpha Linolenic Acid (omega 3): 0.25%",
             "Vitamin E (MIN) 50.00 IU/kg",
             "Taurine* (MIN) 0.15%",
             "Lactobacillus Acidophilus (min.)** 100 million CFU/lb"
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://www.canidae.com/wp-content/uploads/2021/03/Sweepstakes-Callout.png",
-        "site": "https://www.canidae.com"
+        "calorie": null
     }
 ]

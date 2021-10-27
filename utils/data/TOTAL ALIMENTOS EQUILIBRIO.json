@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.eu.equilibrio-petfood.com",
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-adult.pdf",
         "brand": "TOTAL ALIMENTOS EQUILIBRIO",
         "title": "ADULT HAIRBALL CONTROL ",
+        "image": "https://images.app.goo.gl/pUiHuyFGoeFJqk1A7",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -37,26 +39,26 @@
             "Taurine total 0,18%"
         ],
         "additive": [
-            "3a672 Vitamin A .24 900 IU/kg",
+            "3a672 Vitamin A 0.24 900 IU/kg",
             "3a671 Vitamin D3 990 IU/kg",
-            "3a700 Vitamin E .600 mg/kg",
+            "3a700 Vitamin E 0.600 mg/kg",
             "3b108 Iron ..90 mg/kg",
             "3b203 Iodine ..3,6 mg/kg",
             "3b413 Copper ..12 mg/kg",
             "3b607 Zinc ..99 mg/kg",
             "3b506 Manganese 45 mg/kg",
-            "3b815 Selenium 0,18 mg/kg",
+            "3b815 Selenium 0.18 mg/kg",
             "4b1707 Enterococcus faecium ..1x109 cfu/kg",
             ""
         ],
-        "calorie": null,
-        "site": "https://www.eu.equilibrio-petfood.com",
-        "image": "https://images.app.goo.gl/pUiHuyFGoeFJqk1A7"
+        "calorie": null
     },
     {
+        "site": "https://www.eu.equilibrio-petfood.com",
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-kitten.pdf",
         "brand": "TOTAL ALIMENTOS EQUILIBRIO",
         "title": "KITTEN NATURAL DEFENCES ",
+        "image": "https://images.app.goo.gl/bqk12nx15gAtHPuq8",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -99,17 +101,17 @@
             "3b413 Copper 12 mg/kg ",
             "3b607 Zinc 99 mg/kg ",
             "3b506 Manganese 45 mg/kg ",
-            "3b815 Selenium 0,18 mg/kg ",
+            "3b815 Selenium 0.18 mg/kg ",
             "4b1707 Enterococcus faecium 1x109 cfu/kg "
         ],
-        "calorie": null,
-        "site": "https://www.eu.equilibrio-petfood.com",
-        "image": "https://images.app.goo.gl/bqk12nx15gAtHPuq8"
+        "calorie": null
     },
     {
+        "site": "https://www.eu.equilibrio-petfood.com",
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-long-hair.pdf",
         "brand": "TOTAL ALIMENTOS EQUILIBRIO",
         "title": "LONG HAIR SKIN & HAIR COAT",
+        "image": "https://images.app.goo.gl/zqEb6qgVnaxLCNk9A",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -147,17 +149,17 @@
             "3b413 Copper 12 mg/kg",
             "3b607 Zinc 99 mg/kg",
             "3b506 Manganese 45 mg/kg",
-            "3b815 Selenium 0,18 mg/kg",
+            "3b815 Selenium 0.18 mg/kg",
             "4b1707 Enterococcus faecium 1x109 cfu/kg"
         ],
-        "calorie": null,
-        "site": "https://www.eu.equilibrio-petfood.com",
-        "image": "https://images.app.goo.gl/zqEb6qgVnaxLCNk9A"
+        "calorie": null
     },
     {
+        "site": "https://www.eu.equilibrio-petfood.com",
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-longevity.pdf",
         "brand": "TOTAL ALIMENTOS EQUILIBRIO",
         "title": "LONGEVITY HEALTHY AGEING",
+        "image": "https://images.app.goo.gl/jADbSUcR39FHetxR7",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -196,18 +198,18 @@
             "3b413 Copper 12 mg/kg",
             "3b607 Zinc 99 mg/kg",
             "3b506 Manganese 45 mg/kg",
-            "3b815 Selenium 0,18 mg/kg",
+            "3b815 Selenium 0.18 mg/kg",
             "L-carnitine 300 mg/kg",
             "4b1707 Enterococcus faecium 1x109 cfu/kg"
         ],
-        "calorie": null,
-        "site": "https://www.eu.equilibrio-petfood.com",
-        "image": "https://images.app.goo.gl/jADbSUcR39FHetxR7"
+        "calorie": null
     },
     {
+        "site": "https://www.eu.equilibrio-petfood.com",
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-preference.pdf",
         "brand": "TOTAL ALIMENTOS EQUILIBRIO",
         "title": "PREFERENCE With SALMON",
+        "image": "https://images.app.goo.gl/Udgq84NqmMU7dQQU9",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -248,14 +250,14 @@
             "3b815 Selenium 1x109",
             "4b1707 Enterococcus faecium IU/kg"
         ],
-        "calorie": null,
-        "site": "https://www.eu.equilibrio-petfood.com",
-        "image": "https://images.app.goo.gl/Udgq84NqmMU7dQQU9"
+        "calorie": null
     },
     {
+        "site": "https://www.eu.equilibrio-petfood.com",
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-reduce-calorie.pdf",
         "brand": "TOTAL ALIMENTOS EQUILIBRIO",
         "title": "REDUCED CALORIE WEIGHT MANAGEMENT",
+        "image": "https://images.app.goo.gl/4xbBCAEauzPoSvt56",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -293,18 +295,18 @@
             "3b413 Copper 12 mg/kg",
             "3b607 Zinc 99 mg/kg",
             "3b506 Manganese 45 mg/kg",
-            "3b815 Selenium 0,18 mg/kg",
+            "3b815 Selenium 0.18 mg/kg",
             "L-carnitine 400 mg/kg",
             "4b1707 Enterococcus faecium 1x109 cfu/kg"
         ],
-        "calorie": null,
-        "site": "https://www.eu.equilibrio-petfood.com",
-        "image": "https://images.app.goo.gl/4xbBCAEauzPoSvt56"
+        "calorie": null
     },
     {
+        "site": "https://www.eu.equilibrio-petfood.com",
         "url": "https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-sterilised.pdf",
         "brand": "TOTAL ALIMENTOS EQUILIBRIO",
         "title": "STERILISED WEIGHT CONTROL",
+        "image": "https://images.app.goo.gl/C4hteXbjT3j8jsqK9",
         "descriptions": null,
         "key_benefits": null,
         "ingredients": [
@@ -350,8 +352,6 @@
             "L-carnitine 300 IU/kg",
             "4b1707 Enterococcus faecium 1x109 mg/kg"
         ],
-        "calorie": null,
-        "site": "https://www.eu.equilibrio-petfood.com",
-        "image": "https://images.app.goo.gl/C4hteXbjT3j8jsqK9"
+        "calorie": null
     }
 ]

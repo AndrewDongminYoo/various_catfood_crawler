@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://petkind.com",
         "url": "https://petkind.com/products/canada-fresh-beef",
         "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Beef Formula - PetKind Pet Products",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/CF_Beef_13oz_Cat_600x.png?v=1607636859",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy. ",
         "key_benefits": [
             "95% fresh meat",
@@ -47,14 +49,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcals/100g",
-        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/CF_Beef_13oz_Cat_600x.png?v=1607636859",
-        "site": "https://petkind.com"
+        "calorie": "111.5 kcal/100g"
     },
     {
+        "site": "https://petkind.com",
         "url": "https://petkind.com/products/canada-fresh-chicken-1",
         "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Chicken Formula - PetKind Pet Products",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_chicken_13oz_cat_600x.png?v=1605292502",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy. ",
         "key_benefits": [
             "95% fresh meat",
@@ -98,14 +100,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g",
-        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_chicken_13oz_cat_600x.png?v=1605292502",
-        "site": "https://petkind.com"
+        "calorie": "111.5 kcal/100g"
     },
     {
+        "site": "https://petkind.com",
         "url": "https://petkind.com/products/canada-fresh-duck-1",
         "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Duck Formula - PetKind Pet Products",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_duck_13oz_cat_600x.png?v=1605292595",
         "descriptions": [
             "Exceptional Canadian cat food made with only the best ingredients.",
             "95% fresh meat",
@@ -157,14 +159,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g",
-        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_duck_13oz_cat_600x.png?v=1605292595",
-        "site": "https://petkind.com"
+        "calorie": "111.5 kcal/100g"
     },
     {
+        "site": "https://petkind.com",
         "url": "https://petkind.com/products/canada-fresh-lamb-1",
         "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Lamb Formula - PetKind Pet Products",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_lamb_13oz_cat_2_600x.png?v=1605292646",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy.",
         "key_benefits": [
             "95% fresh meat",
@@ -209,14 +211,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g",
-        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_lamb_13oz_cat_2_600x.png?v=1605292646",
-        "site": "https://petkind.com"
+        "calorie": "111.5 kcal/100g"
     },
     {
+        "site": "https://petkind.com",
         "url": "https://petkind.com/products/canada-fresh-red-meat-1",
         "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Red Meat Formula - PetKind Pet Products",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_red-meat_13oz_cat_600x.png?v=1605292693",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy.",
         "key_benefits": [
             "95% fresh meat",
@@ -260,14 +262,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g",
-        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_red-meat_13oz_cat_600x.png?v=1605292693",
-        "site": "https://petkind.com"
+        "calorie": "111.5 kcal/100g"
     },
     {
+        "site": "https://petkind.com",
         "url": "https://petkind.com/products/canada-fresh-salmon-1",
         "brand": "Canada Fresh",
         "title": "Canada Fresh Cat Salmon Formula - PetKind Pet Products",
+        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_salmon_13oz_cat_600x.png?v=1605292742",
         "descriptions": "Plus, a portion of the proceeds from every sale goes to the Nature Conservancy of Canada, so you're giving back to nature with every can you buy.",
         "key_benefits": [
             "95% fresh meat",
@@ -310,8 +312,6 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "111.5 kcal/100g",
-        "image": "http://cdn.shopify.com/s/files/1/0033/4839/8189/products/opt_cf_salmon_13oz_cat_600x.png?v=1605292742",
-        "site": "https://petkind.com"
+        "calorie": "111.5 kcal/100g"
     }
 ]

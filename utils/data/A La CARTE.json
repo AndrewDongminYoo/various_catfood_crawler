@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://alacarte4k9.com.au",
         "url": "https://alacarte4k9.com.au/product/chicken-brown-rice/",
         "brand": "A La CARTE",
         "title": "CHICKEN & BROWN RICE 2.5KG-7.5KG-15KG - A La Carte - Premium Made Pet Food",
+        "image": "https://alacarte4k9.com.au/wp-content/uploads/2017/12/Kibbles_Cat_Green_Chicken_Rice_All3_Pesto.png",
         "descriptions": "Cats are notoriously fussy when it comes to food, often owners are forced to throw away food when their cat ’just won’t eat it’. That is why at A La Carte we have formulated such an irresistible food, using nothing but nutritious Australian ingredients. Just make sure if you are switching your feline to a higher quality diet that you blend it with their current food gradually over a 2 week period.",
         "key_benefits": null,
         "ingredients": [
@@ -32,25 +34,25 @@
             "Anti-Oxidants."
         ],
         "analysis": [
-            "CRUDE PROTEIN Not less than 33.0%",
-            "CRUDE FAT Not less than 14.5%",
-            "CRUDE FIBRE Not more than 5.0%",
-            "CRUDE ASH Not more than 11.0%",
-            "PHOSPHORUS Not less than 1.5%",
-            "CALCIUM (CA) Not less than 1.45%",
-            "MOISTURE Not more than 10%",
-            "OMEGA 3 Not more than 0.5%",
-            "OMEGA 6 Not more than 3.5%"
+            "CRUDE PROTEIN: 33.0%",
+            "CRUDE FA: 14.5%",
+            "CRUDE FIBRE: 5.0%",
+            "CRUDE ASH: 11.0%",
+            "PHOSPHORUS: 1.5%",
+            "CALCIUM: 1.45%",
+            "MOISTURE: 10%",
+            "OMEGA 3: 0.5%",
+            "OMEGA 6: 3.5%"
         ],
         "additive": null,
-        "calorie": "Energy 385kca1/100g",
-        "image": "https://alacarte4k9.com.au/wp-content/uploads/2017/12/Kibbles_Cat_Green_Chicken_Rice_All3_Pesto.png",
-        "site": "https://alacarte4k9.com.au"
+        "calorie": "Energy 385kca1/100g"
     },
     {
+        "site": "https://alacarte4k9.com.au",
         "url": "https://alacarte4k9.com.au/product/salmon-brown-rice/",
         "brand": "A La CARTE",
         "title": "SALMON & BROWN RICE 2.5KG-7.5KG-15KG - A La Carte - Premium Made Pet Food",
+        "image": "https://alacarte4k9.com.au/wp-content/uploads/2017/12/Kibbles_Cat_Purple_Salmon_Brownrice_All3_Pesto.png",
         "descriptions": "Developing a routine is as important for cats as it is for us. Knowing when they are going to be fed is crucial for developing a sense of security for your cat. That is why at A La Carte, we have formulated a food that provides everything and more that your cat needs on a daily basis. So that all you need to do is pour A La Carte Feline into a clean glass or ceramic bowl wide enough for their whiskers and trust that we have handled the rest!",
         "key_benefits": null,
         "ingredients": [
@@ -80,19 +82,17 @@
             "Anti-Oxidants."
         ],
         "analysis": [
-            "CRUDE PROTEIN Not less than 33.0%",
-            "CRUDE FAT Not less than 14.5%",
-            "CRUDE FIBRE Not more than 5.0%",
-            "CRUDE ASH Not more than 11.0%",
-            "PHOSPHORUS Not less than 1.5%",
-            "CALCIUM (CA) Not less than 1.45%",
-            "MOISTURE Not more than 10%",
-            "OMEGA 3 Not more than 0.5%",
-            "OMEGA 6 Not more than 3.5%"
+            "CRUDE PROTEIN: 33.0%",
+            "CRUDE FAT: 14.5%",
+            "CRUDE FIBRE: 5.0%",
+            "CRUDE ASH: 11.0%",
+            "PHOSPHORUS: 1.5%",
+            "CALCIUM: 1.45%",
+            "MOISTURE: 10%",
+            "OMEGA 3: 0.5%",
+            "OMEGA 6: 3.5%"
         ],
         "additive": null,
-        "calorie": "Energy 382kca1/100g",
-        "image": "https://alacarte4k9.com.au/wp-content/uploads/2017/12/Kibbles_Cat_Purple_Salmon_Brownrice_All3_Pesto.png",
-        "site": "https://alacarte4k9.com.au"
+        "calorie": "Energy 382kca1/100g"
     }
 ]

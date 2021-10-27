@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://adirondackpetfood.com",
         "url": "https://adirondackpetfood.com/pet-food/indoor-cat-chicken/",
         "brand": "Adirondack",
         "title": "Indoor Chicken & Chicken Meal Dry Cat Recipe - Adirondack Pet Food",
+        "image": "http://adirondackpetfood.com/wp-content/uploads/2018/08/RNDR_ADR_Cat_Chicken_3_5lb_Front-791x1024.png",
         "descriptions": null,
         "key_benefits": [
             "Free of: grains & potato",
@@ -73,14 +75,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "3436 KCAL/KG",
-        "image": "http://adirondackpetfood.com/wp-content/uploads/2018/08/RNDR_ADR_Cat_Chicken_3_5lb_Front-791x1024.png",
-        "site": "https://adirondackpetfood.com"
+        "calorie": "3436 KCAL/KG"
     },
     {
+        "site": "https://adirondackpetfood.com",
         "url": "https://adirondackpetfood.com/pet-food/indoor-cat-whitefish/",
         "brand": "Adirondack",
         "title": "Indoor Whitefish & Lentils Dry Cat Recipe - Adirondack Pet Food",
+        "image": "http://adirondackpetfood.com/wp-content/uploads/2018/08/RNDR_ADR_Cat_Whitefish_3_5lb_Front-1-791x1024.png",
         "descriptions": null,
         "key_benefits": [
             "Free of: grains & potato",
@@ -151,8 +153,6 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": "3562 kcal/kg",
-        "image": "http://adirondackpetfood.com/wp-content/uploads/2018/08/RNDR_ADR_Cat_Whitefish_3_5lb_Front-1-791x1024.png",
-        "site": "https://adirondackpetfood.com"
+        "calorie": "3562 kcal/kg"
     }
 ]

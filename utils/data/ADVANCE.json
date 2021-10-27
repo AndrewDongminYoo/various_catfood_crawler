@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://petfood.advancepet.com.au",
         "url": "https://petfood.advancepet.com.au/collections/cats/products/adv-kit-ck-3kg",
         "brand": "ADVANCE",
         "title": "ADVANCE Kitten Growth Dry Cat Food Chicken and Rice 3kg – ADVANCE Pet Food D2C",
+        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEKittenDryCatFoodChickenwithRice3kgBag-1.jpg?v=1601953530",
         "descriptions": "ADVANCE products are scientifically formulated to help improve cat health. Made locally from our home in the Central Tablelands of NSW by leading cat nutritionists for over 20 years. A unique knowledge of the needs of Australian cats sees us sourcing and blending high quality ingredients to create a range of specifically tailored foods.",
         "key_benefits": [
             "#1 Ingredient: Chicken Meal",
@@ -26,31 +28,31 @@
             "Colostrum."
         ],
         "analysis": [
-            "Protein, crude 35 % 89.7 g",
-            "Fat, crude 20 % 51.2 g",
+            "Protein: 35 % 89.7 g",
+            "Fat: 20 % 51.2 g",
             "Moisture 6.5 % 16.6 g",
             "Ash 9.5 % 24.3 g",
-            "Vitamin E (min.) 39 IU 100 IU",
-            "Vitamin C (min.) 25 mg 64.1 mg",
-            "Zinc (min.) 8.3 mg 21 mg ",
-            "Linoleic Acid (min.) 0.63 g 1.6 g",
-            "Omega 3 (min.) 0.03 g 0.08 g",
-            "Omega 6 (min.) 0.63 g 1.6 g",
-            "DHA (min.) 0.01 g 0.03 g",
-            "Choline (min.) 730 mg 1870 mg",
-            "Taurine (min.) 97.5 mg 250 mg",
-            "Calcium (min.) 1.0 g 2.56 g",
-            "Phosphorus (min.) 0.8 g 2.05 g"
+            "Vitamin E: 39 IU 100 IU",
+            "Vitamin C: 25 mg 64.1 mg",
+            "Zinc: 8.3 mg 21 mg ",
+            "Linoleic Acid: 0.63 g 1.6 g",
+            "Omega 3: 0.03 g 0.08 g",
+            "Omega 6: 0.63 g 1.6 g",
+            "DHA: 0.01 g 0.03 g",
+            "Choline: 730 mg 1870 mg",
+            "Taurine: 97.5 mg 250 mg",
+            "Calcium: 1.0 g 2.56 g",
+            "Phosphorus: 0.8 g 2.05 g"
         ],
         "additive": null,
-        "calorie": "390 kcals/100 g",
-        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEKittenDryCatFoodChickenwithRice3kgBag-1.jpg?v=1601953530",
-        "site": "https://petfood.advancepet.com.au"
+        "calorie": "390 kcal/100g"
     },
     {
+        "site": "https://petfood.advancepet.com.au",
         "url": "https://petfood.advancepet.com.au/collections/cats/products/advance%E2%84%A2-adult-dry-cat-food-chicken-with-rice-3kg",
         "brand": "ADVANCE",
         "title": "Adult Dry Cat Food Chicken with Rice 3kg – ADVANCE Pet Food D2C",
+        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEAdultDryCatFoodChickenwithRice3kgBag-1_00f2a130-2850-46a7-b832-7b48a2b19bb2.jpg?v=1607477945",
         "descriptions": "ADVANCE products are scientifically formulated to help improve cat health. Made locally from our home in the Central Tablelands of NSW by leading cat nutritionists for over 20 years. A unique knowledge of the needs of Australian cats sees us sourcing and blending high quality ingredients to create a range of specifically tailored foods.",
         "key_benefits": [
             "Helps support a cat's natural defences",
@@ -76,27 +78,27 @@
             "Antioxidants."
         ],
         "analysis": [
-            "Protein, crude 34 % 87.1 g",
-            "Fat, crude 20 % 51.2 g",
+            "Protein: 34 % 87.1 g",
+            "Fat: 20 % 51.2 g",
             "Moisture 6.5 % 16.6 g",
             "Ash 9.5 % 24.3 g",
-            "Vitamin E (min.) 39 IU 100 IU",
-            "Vitamin C (min.) 25 mg 64.1 mg",
-            "Zinc (min.) 10.2 mg 26 mg",
-            "Linoleic Acid (min.) 0.76 g 1.95 g",
-            "Omega 3 (min.) 0.02 g 0.05 g",
-            "Omega 6 (min.) 0.76 g 1.95 g",
-            "Taurine (min.) 142 mg 365 mg"
+            "Vitamin E: 39 IU 100 IU",
+            "Vitamin C: 25 mg 64.1 mg",
+            "Zinc: 10.2 mg 26 mg",
+            "Linoleic Acid: 0.76 g 1.95 g",
+            "Omega 3: 0.02 g 0.05 g",
+            "Omega 6: 0.76 g 1.95 g",
+            "Taurine: 142 mg 365 mg"
         ],
         "additive": null,
-        "calorie": "390 kcals/100 g",
-        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEAdultDryCatFoodChickenwithRice3kgBag-1_00f2a130-2850-46a7-b832-7b48a2b19bb2.jpg?v=1607477945",
-        "site": "https://petfood.advancepet.com.au"
+        "calorie": "390 kcal/100g"
     },
     {
+        "site": "https://petfood.advancepet.com.au",
         "url": "https://petfood.advancepet.com.au/collections/cats/products/advance%E2%84%A2-healthy-ageing-dry-cat-food-chicken-rice-3kg",
         "brand": "ADVANCE",
         "title": "Healthy Ageing Dry Cat Food Chicken & Rice 3kg – ADVANCE Pet Food D2C",
+        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEHealthyAgeingDryCatFoodChickenwithRice3kgBag-1_416f3346-73e8-42c5-9c27-c08b4318cac8.jpg?v=1607477912",
         "descriptions": "AUSTRALIAN MADE SUPER PREMIUM CAT FOOD ADVANCE products are scientifically formulated to help improve cat health. Made locally from our home in the Central Tablelands of NSW by leading cat nutritionists for over 20 years. A unique knowledge of the needs of Australian cats sees us sourcing and blending high quality ingredients to create a range of specifically tailored foods.",
         "key_benefits": [
             "AUSTRALIAN MADE SUPER PREMIUM CAT FOOD",
@@ -123,30 +125,30 @@
             "Green Lipped Mussel Powder."
         ],
         "analysis": [
-            "Protein, crude 32 % 86.4 g",
-            "Fat, crude 16 % 43.2 g",
+            "Protein: 32 % 86.4 g",
+            "Fat: 16 % 43.2 g",
             "Moisture 6.5 % 17.5 g",
             "Ash 9.5 % 25.7 g",
-            "Vitamin E (min.) 37 IU 100 IU",
-            "Vitamin C (min.) 25 mg 67.6 mg",
-            "Zinc (min.) 9.6 mg 26 mg",
-            "Linoleic Acid (min.) 0.72 g 1.95 g",
-            "Omega 3 (min.) 0.02 g 0.05 g",
-            "Omega 6 (min.) 0.72 g 1.95 g",
-            "DHA (min.) 0.01 g 0.03 g",
-            "Taurine (min.) 135 mg 365 mg",
-            "Chondroitin (min.) 2 mg 5.4 mg",
-            "Glucosamine (min.) 5 mg 13.5 mg"
+            "Vitamin E: 37 IU 100 IU",
+            "Vitamin C: 25 mg 67.6 mg",
+            "Zinc: 9.6 mg 26 mg",
+            "Linoleic Acid: 0.72 g 1.95 g",
+            "Omega 3: 0.02 g 0.05 g",
+            "Omega 6: 0.72 g 1.95 g",
+            "DHA: 0.01 g 0.03 g",
+            "Taurine: 135 mg 365 mg",
+            "Chondroitin: 2 mg 5.4 mg",
+            "Glucosamine: 5 mg 13.5 mg"
         ],
         "additive": null,
-        "calorie": "370 kcals/100 g",
-        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEHealthyAgeingDryCatFoodChickenwithRice3kgBag-1_416f3346-73e8-42c5-9c27-c08b4318cac8.jpg?v=1607477912",
-        "site": "https://petfood.advancepet.com.au"
+        "calorie": "370 kcal/100g"
     },
     {
+        "site": "https://petfood.advancepet.com.au",
         "url": "https://petfood.advancepet.com.au/collections/cats/products/advance%E2%84%A2-kitten-growth-dry-cat-food-chicken-6kg-1",
         "brand": "ADVANCE",
         "title": "Kitten Growth Dry Cat Food Chicken 6kg – ADVANCE Pet Food D2C",
+        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEKittenDryCatFoodChickenwithRice6kgBag-1_4f812b34-3576-4fd8-8ee0-4dc8342b1033.jpg?v=1621815035",
         "descriptions": "AUSTRALIAN MADE SUPER PREMIUM CAT FOOD ADVANCE products are scientifically formulated to help improve cat health. Made locally from our home in the Central Tablelands of NSW by leading cat nutritionists for over 20 years. A unique knowledge of the needs of Australian cats sees us sourcing and blending high quality ingredients to create a range of specifically tailored foods.",
         "key_benefits": [
             "AUSTRALIAN MADE SUPER PREMIUM CAT FOOD",
@@ -172,31 +174,31 @@
             "Colostrum."
         ],
         "analysis": [
-            "Protein, crude 35 % 89.7 g",
-            "Fat, crude 20 % 51.2 g",
+            "Protein: 35 % 89.7 g",
+            "Fat: 20 % 51.2 g",
             "Moisture 6.5 % 16.6 g",
             "Ash 9.5 % 24.3 g",
-            "Vitamin E (min.) 39 IU 100 IU",
-            "Vitamin C (min.) 25 mg 64.1 mg",
-            "Zinc (min.) 8.3 mg 21 mg",
-            "Linoleic Acid (min.) 0.63 g 1.6 g",
-            "Omega 3 (min.) 0.03 g 0.08 g",
-            "Omega 6 (min.) 0.63 g 1.6 g",
-            "DHA (min.) 0.01 g 0.03 g",
-            "Choline (min.) 730 mg 1870 mg",
-            "Taurine (min.) 97.5 mg 250 mg",
-            "Calcium (min.) 1.0 g 2.56 g",
-            "Phosphorus (min.) 0.8 g 2.05 g"
+            "Vitamin E: 39 IU 100 IU",
+            "Vitamin C: 25 mg 64.1 mg",
+            "Zinc: 8.3 mg 21 mg",
+            "Linoleic Acid: 0.63 g 1.6 g",
+            "Omega 3: 0.03 g 0.08 g",
+            "Omega 6: 0.63 g 1.6 g",
+            "DHA: 0.01 g 0.03 g",
+            "Choline: 730 mg 1870 mg",
+            "Taurine: 97.5 mg 250 mg",
+            "Calcium: 1.0 g 2.56 g",
+            "Phosphorus: 0.8 g 2.05 g"
         ],
         "additive": null,
-        "calorie": "390 kcals/100 g",
-        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEKittenDryCatFoodChickenwithRice6kgBag-1_4f812b34-3576-4fd8-8ee0-4dc8342b1033.jpg?v=1621815035",
-        "site": "https://petfood.advancepet.com.au"
+        "calorie": "390 kcal/100g"
     },
     {
+        "site": "https://petfood.advancepet.com.au",
         "url": "https://petfood.advancepet.com.au/collections/cats/products/advance%E2%84%A2-kitten-growth-dry-cat-food-chicken-and-rice-3kg",
         "brand": "ADVANCE",
         "title": "Kitten Growth Dry Cat Food Chicken and Rice 3kg – ADVANCE Pet Food D2C",
+        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEKittenDryCatFoodChickenwithRice3kgBag-1_645d52f0-ac44-4a10-920e-cef8b724b9f6.jpg?v=1607478016",
         "descriptions": "ADVANCE products are scientifically formulated to help improve dog health. Made locally from our home in the Central Tablelands of NSW by leading dog nutritionists for over 20 years. A unique knowledge of the needs of Australian dogs sees us sourcing and blending high quality ingredients to create a range of specifically tailored foods. Recommended by top breeders and professional dog groups.",
         "key_benefits": [
             "ADVANCE products are scientifically formulated to help improve dog health.",
@@ -222,31 +224,31 @@
             "Colostrum."
         ],
         "analysis": [
-            "Protein, crude 35 % 89.7 g",
-            "Fat, crude 20 % 51.2 g",
+            "Protein: 35 % 89.7 g",
+            "Fat: 20 % 51.2 g",
             "Moisture 6.5 % 16.6 g",
             "Ash 9.5 % 24.3 g",
-            "Vitamin E (min.) 39 IU 100 IU",
-            "Vitamin C (min.) 25 mg 64.1 mg",
-            "Zinc (min.) 8.3 mg 21 mg",
-            "Linoleic Acid (min.) 0.63 g 1.6 g",
-            "Omega 3 (min.) 0.03 g 0.08 g",
-            "Omega 6 (min.) 0.63 g 1.6 g",
-            "DHA (min.) 0.01 g 0.03 g",
-            "Choline (min.) 730 mg 1870 mg",
-            "Taurine (min.) 97.5 mg 250 mg",
-            "Calcium (min.) 1.0 g 2.56 g",
-            "Phosphorus (min.) 0.8 g 2.05 g"
+            "Vitamin E: 39 IU 100 IU",
+            "Vitamin C: 25 mg 64.1 mg",
+            "Zinc: 8.3 mg 21 mg",
+            "Linoleic Acid: 0.63 g 1.6 g",
+            "Omega 3: 0.03 g 0.08 g",
+            "Omega 6: 0.63 g 1.6 g",
+            "DHA: 0.01 g 0.03 g",
+            "Choline: 730 mg 1870 mg",
+            "Taurine: 97.5 mg 250 mg",
+            "Calcium: 1.0 g 2.56 g",
+            "Phosphorus: 0.8 g 2.05 g"
         ],
         "additive": null,
-        "calorie": "390 kcals/100 g",
-        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEKittenDryCatFoodChickenwithRice3kgBag-1_645d52f0-ac44-4a10-920e-cef8b724b9f6.jpg?v=1607478016",
-        "site": "https://petfood.advancepet.com.au"
+        "calorie": "390 kcal/100g"
     },
     {
+        "site": "https://petfood.advancepet.com.au",
         "url": "https://petfood.advancepet.com.au/collections/cats/products/advance-adult-chicken-salmon-3kg",
         "brand": "ADVANCE",
         "title": "Adult Dry Cat Food Chicken & Salmon with Rice 3kg – ADVANCE Pet Food D2C",
+        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEAdultDryCatFoodChicken_SalmonwithRice3kgBag-1.jpg?v=1601950745",
         "descriptions": [
             "ADVANCE products are scientifically formulated to help improve dog health.",
             "Made locally from our home in the Central Tablelands of NSW by leading dog nutritionists for over 20 years.",
@@ -279,27 +281,27 @@
             "Antioxidants."
         ],
         "analysis": [
-            "Protein, crude 34 % 87.1 g",
-            "Fat, crude 20 % 51.2 g",
+            "Protein: 34 % 87.1 g",
+            "Fat: 20 % 51.2 g",
             "Moisture 6.5 % 16.6 g",
             "Ash 9.5 % 24.3 g",
-            "Vitamin E (min.) 39 IU 100 IU",
-            "Vitamin C (min.) 25 mg 64.1 mg",
-            "Zinc (min.) 10.2 mg 26 mg",
-            "Linoleic Acid (min.) 0.76 g 1.95 g",
-            "Omega 3 (min.) 0.02 g 0.05 g",
-            "Omega 6 (min.) 0.76 g 1.95 g",
-            "Taurine (min.) 142 mg 365 mg"
+            "Vitamin E: 39 IU 100 IU",
+            "Vitamin C: 25 mg 64.1 mg",
+            "Zinc: 10.2 mg 26 mg",
+            "Linoleic Acid: 0.76 g 1.95 g",
+            "Omega 3: 0.02 g 0.05 g",
+            "Omega 6: 0.76 g 1.95 g",
+            "Taurine: 142 mg 365 mg"
         ],
         "additive": null,
-        "calorie": "390 kcals/100 g",
-        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEAdultDryCatFoodChicken_SalmonwithRice3kgBag-1.jpg?v=1601950745",
-        "site": "https://petfood.advancepet.com.au"
+        "calorie": "390 kcal/100g"
     },
     {
+        "site": "https://petfood.advancepet.com.au",
         "url": "https://petfood.advancepet.com.au/collections/cats/products/advance-multicat-chicken-salmon-3kg",
         "brand": "ADVANCE",
         "title": "Multi Cat All Ages Dry Cat Food Chicken & Salmon with Rice 3kg – ADVANCE Pet Food D2C",
+        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEMultiCatDryCatFoodChicken_SalmonwithRice3kgBag-1.jpg?v=1601954642",
         "descriptions": [
             "ADVANCE products are scientifically formulated to help improve dog health.",
             "Made locally from our home in the Central Tablelands of NSW by leading dog nutritionists for over 20 years.",
@@ -331,21 +333,19 @@
             "Antioxidants."
         ],
         "analysis": [
-            "Protein, crude 34 % 88.4 g",
-            "Fat, crude 20 % 51.2 g",
+            "Protein: 34 % 88.4 g",
+            "Fat: 20 % 51.2 g",
             "Moisture 6.5 % 16.6 g",
             "Ash 9.5 % 24.3 g",
-            "Vitamin E (min.) 39 IU 100 IU",
-            "Vitamin C (min.) 25 mg 64.1 mg",
-            "Zinc (min.) 10.2 mg 26 mg",
-            "Linoleic Acid (min.) 0.76 g 1.95 g",
-            "Omega 3 (min.) 0.02 g 0.05 g",
-            "Omega 6 (min.) 0.76 g 1.95 g",
-            "Taurine (min.) 142 mg 365 mg"
+            "Vitamin E: 39 IU 100 IU",
+            "Vitamin C: 25 mg 64.1 mg",
+            "Zinc: 10.2 mg 26 mg",
+            "Linoleic Acid: 0.76 g 1.95 g",
+            "Omega 3: 0.02 g 0.05 g",
+            "Omega 6: 0.76 g 1.95 g",
+            "Taurine: 142 mg 365 mg"
         ],
         "additive": null,
-        "calorie": "390 kcals/100 g",
-        "image": "http://cdn.shopify.com/s/files/1/0457/1591/4901/products/ADVANCEMultiCatDryCatFoodChicken_SalmonwithRice3kgBag-1.jpg?v=1601954642",
-        "site": "https://petfood.advancepet.com.au"
+        "calorie": "390 kcal/100g"
     }
 ]

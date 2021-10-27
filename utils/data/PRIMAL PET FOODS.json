@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://primalpetfoods.com",
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-beef-salmon",
         "brand": "PRIMAL PET FOODS",
         "title": "Feline Freeze-Dried Nuggets Beef & Salmon | Primal Pet Foods",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-BeefSalmon-WithBowl_grande.jpg?v=1594651161",
         "descriptions": "Shelf-stable and ready to serve – just portion, shred, and rehydrate with water, Bone Broth, or Raw Goat Milk. Made with high-quality protein and Certified Organic produce, formulated especially for your feline.",
         "key_benefits": [
             "Fresh beef & cold-water, wild-caught salmon for superior levels of amino and essential fatty acids",
@@ -38,10 +40,10 @@
             "Zinc Sulfate"
         ],
         "analysis": [
-            "Crude Protein 36% min",
-            "Crude Fat 30% min",
-            "Crude Fiber 6% max",
-            "Moisture 6% max"
+            "Crude Protein 36%",
+            "Crude Fat 30%",
+            "Crude Fiber 6%",
+            "Moisture 6%"
         ],
         "additive": [
             "Vitamin A 163770 IU/kg",
@@ -67,14 +69,14 @@
             "Sodium 0.29%",
             "Zinc 115.00ppm"
         ],
-        "calorie": "Calories 138/oz 1 ounce = approx. 3 -4 nuggets",
-        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-BeefSalmon-WithBowl_grande.jpg?v=1594651161",
-        "site": "https://primalpetfoods.com"
+        "calorie": "Calories 138/oz 1 ounce = approx. 3 -4 nuggets"
     },
     {
+        "site": "https://primalpetfoods.com",
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-chicken-salmon",
         "brand": "PRIMAL PET FOODS",
         "title": "Feline Freeze-Dried Nuggets Chicken & Salmon | Primal Pet Foods",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-ChickenSalmon-WithBowl_grande.jpg?v=1594651513",
         "descriptions": "Shelf-stable and ready to serve – just portion, shred, and rehydrate with water, Bone Broth, or Raw Goat Milk. Made with high-quality protein and Certified Organic produce, formulated especially for your feline.",
         "key_benefits": [
             "Fresh chicken & cold-water, wild-caught salmon for superior levels of amino and essential fatty acids",
@@ -110,10 +112,10 @@
             "Dried Organic Kelp"
         ],
         "analysis": [
-            "Crude Protein 49% min",
-            "Crude Fat 26% min",
-            "Crude Fiber 2% max",
-            "Moisture 8% max"
+            "Crude Protein 49%",
+            "Crude Fat 26%",
+            "Crude Fiber 2%",
+            "Moisture 8%"
         ],
         "additive": [
             "Vitamin A 28597 IU/kg",
@@ -139,14 +141,14 @@
             "Sodium 0.29%",
             "Zinc 91.00ppm"
         ],
-        "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets",
-        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-ChickenSalmon-WithBowl_grande.jpg?v=1594651513",
-        "site": "https://primalpetfoods.com"
+        "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets"
     },
     {
+        "site": "https://primalpetfoods.com",
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-duck",
         "brand": "PRIMAL PET FOODS",
         "title": "Feline Freeze-Dried Nuggets Duck | Primal Pet Foods",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Duck-WithBowl_grande.jpg?v=1594649957",
         "descriptions": "Shelf-stable and ready to serve – just portion, shred, and rehydrate with water, Bone Broth, or Raw Goat Milk. Made with high-quality protein and Certified Organic produce, formulated especially for your feline.",
         "key_benefits": [
             "Fresh duck for superior levels of amino and essential fatty acids",
@@ -180,10 +182,10 @@
             "Zinc Sulfate"
         ],
         "analysis": [
-            "Crude Protein 33% min",
-            "Crude Fat 22% min",
-            "Crude Fiber 4% max",
-            "Moisture 7% max"
+            "Crude Protein 33%",
+            "Crude Fat 22%",
+            "Crude Fiber 4%",
+            "Moisture 7%"
         ],
         "additive": [
             "Vitamin A 205540 IU/kg",
@@ -208,14 +210,14 @@
             "Sodium 0.29%",
             "Zinc 98.88ppm"
         ],
-        "calorie": "Calories 126/oz 1 ounce = approx. 3 -4 nuggets",
-        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Duck-WithBowl_grande.jpg?v=1594649957",
-        "site": "https://primalpetfoods.com"
+        "calorie": "Calories 126/oz 1 ounce = approx. 3 -4 nuggets"
     },
     {
+        "site": "https://primalpetfoods.com",
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-pork",
         "brand": "PRIMAL PET FOODS",
         "title": "Feline Freeze-Dried Nuggets Pork – Primal Pet Foods",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Pork-WithBowl_grande.jpg?v=1594651991",
         "descriptions": "Shelf-stable and ready to serve – just portion, shred, and rehydrate with water, Bone Broth, or Raw Goat Milk. Made with high-quality protein and Certified Organic produce, formulated especially for your feline.",
         "key_benefits": [
             "Fresh pork for superior levels of amino and essential fatty acids",
@@ -248,10 +250,10 @@
             "Dried Organic Kelp"
         ],
         "analysis": [
-            "Crude Protein 48% min",
-            "Crude Fat 16% min",
-            "Crude Fiber 5% max",
-            "Moisture 6% max"
+            "Crude Protein 48%",
+            "Crude Fat 16%",
+            "Crude Fiber 5%",
+            "Moisture 6%"
         ],
         "additive": [
             "Vitamin A 48800 IU/kg",
@@ -277,14 +279,14 @@
             "Sodium 0.35%",
             "Zinc 105.00ppm"
         ],
-        "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets",
-        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Pork-WithBowl_grande.jpg?v=1594651991",
-        "site": "https://primalpetfoods.com"
+        "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets"
     },
     {
+        "site": "https://primalpetfoods.com",
         "url": "https://primalpetfoods.com/products/feline-freeze-dried-nuggets-turkey",
         "brand": "PRIMAL PET FOODS",
         "title": "Feline Freeze-Dried Nuggets Turkey | Primal Pet Foods",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Turkey-WithBowl_grande.jpg?v=1594653284",
         "descriptions": "Shelf-stable and ready to serve – just portion, shred, and rehydrate with water, Bone Broth, or Raw Goat Milk. Made with high-quality protein and Certified Organic produce, formulated especially for your feline.",
         "key_benefits": [
             "Fresh turkey for superior levels of amino and essential fatty acids",
@@ -318,10 +320,10 @@
             "Dried Organic Kelp"
         ],
         "analysis": [
-            "Crude Protein 48% min",
-            "Crude Fat 22% min",
-            "Crude Fiber 4% max",
-            "Moisture 9% max"
+            "Crude Protein 48%",
+            "Crude Fat 22%",
+            "Crude Fiber 4%",
+            "Moisture 9%"
         ],
         "additive": [
             "Vitamin A 69141 IU/kg",
@@ -347,14 +349,14 @@
             "Sodium 0.46%",
             "Zinc 169.00ppm"
         ],
-        "calorie": "Calories 123/oz 1 ounce = approx. 3 -4 nuggets",
-        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Turkey-WithBowl_grande.jpg?v=1594653284",
-        "site": "https://primalpetfoods.com"
+        "calorie": "Calories 123/oz 1 ounce = approx. 3 -4 nuggets"
     },
     {
+        "site": "https://primalpetfoods.com",
         "url": "https://primalpetfoods.com/products/feline-raw-freeze-dried-nuggets-venison",
         "brand": "PRIMAL PET FOODS",
         "title": "Feline Raw Freeze-Dried Nuggets Venison | Primal Pet Foods",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Venison-WithBowl_grande.jpg?v=1594653538",
         "descriptions": "Shelf-stable and ready to serve – just portion, shred, and rehydrate with water, Bone Broth, or Raw Goat Milk. Made with high-quality protein and Certified Organic produce, formulated especially for your feline.",
         "key_benefits": [
             "Fresh venison for superior levels of amino and essential fatty acids",
@@ -389,10 +391,10 @@
             "Zinc Sulfate"
         ],
         "analysis": [
-            "Crude Protein 54% min",
-            "Crude Fat 21% min",
-            "Crude Fiber 7% max",
-            "Moisture 5% max"
+            "Crude Protein 54%",
+            "Crude Fat 21%",
+            "Crude Fiber 7%",
+            "Moisture 5%"
         ],
         "additive": [
             "Calcium 1.34%",
@@ -407,14 +409,14 @@
             "Sodium 0.25%",
             "Zinc 85.4ppm"
         ],
-        "calorie": "Calories 125/oz 1 ounce = approx. 3 -4 nuggets",
-        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-FreezeDried-Venison-WithBowl_grande.jpg?v=1594653538",
-        "site": "https://primalpetfoods.com"
+        "calorie": "Calories 125/oz 1 ounce = approx. 3 -4 nuggets"
     },
     {
+        "site": "https://primalpetfoods.com",
         "url": "https://primalpetfoods.com/products/feline-raw-frozen-pronto-chicken-salmon",
         "brand": "PRIMAL PET FOODS",
         "title": "Feline Raw Frozen Pronto - Chicken & Salmon | Primal Pet Foods",
+        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-Pronto-Chicken_Salmon-WithBowl_grande.jpg?v=1597417750",
         "descriptions": "Thaws in minutes and comes in a convenient, bite-sized, easy-to-portion format—just scoop and serve! Made with high-quality protein and Certified Organic produce, formulated especially for your feline.",
         "key_benefits": [
             "Fresh chicken & cold-water, wild-caught salmon for superior levels of amino and essential fatty acids",
@@ -447,11 +449,11 @@
             "Dried Organic Kelp."
         ],
         "analysis": [
-            "Crude Protein 14% min",
-            "Crude Fat 4% min",
-            "Crude Fiber 1% max",
-            "Moisture 76% max",
-            "Ash 2.9% max"
+            "Crude Protein 14%",
+            "Crude Fat 4%",
+            "Crude Fiber 1%",
+            "Moisture 76%",
+            "Ash 2.9%"
         ],
         "additive": [
             "Vitamin A 8799 IU/kg",
@@ -477,8 +479,6 @@
             "Sodium 0.09%",
             "Zinc 28.00ppm"
         ],
-        "calorie": "Calories 35/oz 1 measured cup of Pronto = approx. 4 oz",
-        "image": "http://cdn.shopify.com/s/files/1/1788/4235/products/Feline-Pronto-Chicken_Salmon-WithBowl_grande.jpg?v=1597417750",
-        "site": "https://primalpetfoods.com"
+        "calorie": "Calories 35/oz 1 measured cup of Pronto = approx. 4 oz"
     }
 ]

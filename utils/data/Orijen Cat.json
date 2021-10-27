@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.orijenpetfoods.com",
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/cat-and-kitten/ns-ori-catkitten.html",
         "brand": "Orijen Cat",
         "title": "Cat & Kitten",
+        "image": "https://images.app.goo.gl/kAoAEJLuYgaC1HsW9",
         "descriptions": "Cats and kittens possess a biological need for animal protein. Descended from the Near Eastern wildcat, they have evolved to require a diet that is rich in animal ingredients, in order to maintain peak health. ORIJEN Cat & Kitten contains richly nourishing protein from free-run chicken and turkey, wild-caught fish, and cage-free eggs. Two-thirds of our animal ingredients are FRESH or RAW, for a concentrated source of protein. Mimicking the diet your cat’s ancestors would have hunted and eaten in the wild, we use the whole prey animal, including meat, organs, cartilage, and bone, so your cat is getting everything they need in order to stay happy, healthy, and strong.",
         "key_benefits": [
             "Biologically Appropriate The Protein-Powered Diet Your Cat is Meant to Eat",
@@ -65,29 +67,29 @@
             "Choline chloride: 1200 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600x10^6 CFU."
         ],
         "analysis": [
-            "Crude protein (min.) 40%",
-            "Fat content (min.) 20%",
-            "Crude ash (max.) 8%",
-            "Crude fiber (max.) 3%",
-            "Moisture (max.) 10%",
-            "Calcium (min.) 1.4%",
-            "Phosphorus (min.) 1.1%",
-            "Magnesium (max.) 0.1%",
-            "Taurine (min.) 0.2%",
-            "Omega-3 fatty acids* (min.) 1%",
-            "Omega-6 fatty acids* (min.) 3.1%",
-            "DHA (docosahexaenoic acid) (min.) 0.3%",
-            "EPA (eicosapentaenoic acid) (min.) 0.2%"
+            "Crude protein: 40%",
+            "Fat content: 20%",
+            "Crude ash: 8%",
+            "Crude fiber: 3%",
+            "Moisture: 10%",
+            "Calcium: 1.4%",
+            "Phosphorus: 1.1%",
+            "Magnesium: 0.1%",
+            "Taurine: 0.2%",
+            "Omega-3 fatty acids*: 1%",
+            "Omega-6 fatty acids*: 3.1%",
+            "DHA (docosahexaenoic acid): 0.3%",
+            "EPA (eicosapentaenoic acid): 0.2%"
         ],
         "additive": null,
-        "calorie": "METABOLIZABLE ENERGY: is 4160 kcal/kg (540 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 18% from vegetables and fruit, and 43% from fat.",
-        "site": "https://www.orijenpetfoods.com",
-        "image": "https://images.app.goo.gl/kAoAEJLuYgaC1HsW9"
+        "calorie": "METABOLIZABLE ENERGY: is 4160 kcal/kg (540 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 18% from vegetables and fruit, and 43% from fat."
     },
     {
+        "site": "https://www.orijenpetfoods.com",
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/fit-and-trim/ns-ori-fittrim-cat.html",
         "brand": "Orijen Cat",
         "title": "Fit & Trim",
+        "image": "https://images.app.goo.gl/dfhmbZACheZsCQjz9",
         "descriptions": "To promote and maintain peak health, all cats require a diet that is rich in quality animal protein. ORIJEN Fit & Trim provides your cat with protein and a unique blend of soluble fibre to support a healthy digestive environment. Two-thirds of our animal ingredients are FRESH or RAW, for a concentrated source of protein. With free-run chicken and turkey, wild-caught fish, and cage-free eggs, plus infusions of freeze-dried liver, Fit & Trim gives your cat a delicious meal that has the protein and nutrients they need.",
         "key_benefits": [
             "Biologically Appropriate The Protein-Powered Diet Your Cat is Meant to Eat",
@@ -173,14 +175,14 @@
             "L-Carnitine 33mg/kg"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy is 3710 kcal/kg",
-        "site": "https://www.orijenpetfoods.com",
-        "image": "https://images.app.goo.gl/dfhmbZACheZsCQjz9"
+        "calorie": "Metabolizable Energy is 3710 kcal/kg"
     },
     {
+        "site": "https://www.orijenpetfoods.com",
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/regional-red/ns-ori-regionalred-cat.html",
         "brand": "Orijen Cat",
         "title": "Regional Red",
+        "image": "https://images.app.goo.gl/B4oXVQtE8dYhBRK29",
         "descriptions": "Your cat is an obligate carnivore, requiring protein from whole animal ingredients to meet their nutritional needs. ORIJEN Regional Red mimics the diet your cat would forage for in nature, including the meat, organs, cartilage, and bone from ranch-raised beef, wild boar, bison, grass-fed lamb, Yorkshire pork, and wild-caught pilchard. Two-thirds of our animal ingredients are FRESH or RAW, and 1/3 are air-dried for a concentrated source of protein. Infused with freeze-dried cod liver, Regional Red naturally provides the nourishment your cat requires, with a flavour they crave.",
         "key_benefits": [
             "Biologically Appropriate The Protein-Powered Diet Your Cat is Meant to Eat",
@@ -267,14 +269,14 @@
             "EPA (eicosapentaenoic acid) 0.2%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat.",
-        "site": "https://www.orijenpetfoods.com",
-        "image": "https://images.app.goo.gl/B4oXVQtE8dYhBRK29"
+        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat."
     },
     {
+        "site": "https://www.orijenpetfoods.com",
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/six-fish/ns-ori-sixfish-cat.html",
         "brand": "Orijen Cat",
         "title": "Six Fish",
+        "image": "https://images.app.goo.gl/czfiTdMypF5iyDWTA",
         "descriptions": "All cats anatomically require a diet rich in whole animal ingredients. ORIJEN Six Fish is brimming with meat, organs, and bone from fresh pilchard, hake, mackerel, flounder, rockfish, and sole, wild-caught from Canada’s Pacific and delivered to our kitchen. Two-thirds of our animal ingredients are FRESH or RAW, for a concentrated source of protein. With richly nourishing protein and packed with nutrients, ORIJEN Six Fish gives your cat the diet they have evolved to eat with a flavour they crave.",
         "key_benefits": [
             "Biologically Appropriate The Protein-Powered Diet Your Cat is Meant to Eat",
@@ -358,14 +360,14 @@
             "0.5%"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 42% from protein, 15% from vegetables and fruit, and 44% from fat.",
-        "site": "https://www.orijenpetfoods.com",
-        "image": "https://images.app.goo.gl/czfiTdMypF5iyDWTA"
+        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 42% from protein, 15% from vegetables and fruit, and 44% from fat."
     },
     {
+        "site": "https://www.orijenpetfoods.com",
         "url": "https://www.orijenpetfoods.com/en-CA/cats/cat-food/tundra/ns-ori-tundra-cat.html",
         "brand": "Orijen Cat",
         "title": "Tundra",
+        "image": "https://images.app.goo.gl/yWads7RkpH9r3eX59",
         "descriptions": "A diet rich in animal protein is what your cat would hunt and eat in the wild. ORIJEN Tundra offers 40% protein from goat, wild boar, ranch-raised venison, Arctic char, duck, and mutton, including meat, organs, cartilage, and bone, providing them with all the protein and nutrients they need in order to stay healthy and strong. Two-thirds of our animal ingredients are FRESH or RAW, for a concentrated source of protein. Infused with freeze-dried liver, your cat gets a boost of flavour with this richly nourishing diet.",
         "key_benefits": [
             "Biologically Appropriate The Protein-Powered Diet Your Cat is Meant to Eat",
@@ -458,8 +460,6 @@
             "Choline 1200 mg/kg DM"
         ],
         "additive": null,
-        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat.",
-        "site": "https://www.orijenpetfoods.com",
-        "image": "https://images.app.goo.gl/yWads7RkpH9r3eX59"
+        "calorie": "Metabolizable Energy is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat."
     }
 ]

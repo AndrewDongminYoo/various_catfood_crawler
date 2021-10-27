@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.green-petfood.com",
         "url": "https://www.green-petfood.com/catfood/catfood-dry/faircat-safe",
         "brand": "Naturliebe HappyCat",
         "title": "FairCat Safe ♥ | green-petfood.com",
+        "image": "https://images.app.goo.gl/ozFvrCK8kXKs77s48",
         "descriptions": "Our FairCat Safe delivers all the nutrients your furry friend needs to explore the world with confidence. Our unique Life Protect mixture, consisting of valuable antioxidants, prebiotic inulin and essential taurine, helps your adult tiger feel fit and happy. Thanks to the glutenfree recipe, you not only do your cat good but also help make the world more sustainable every day: because this fair meal is even climate positive and contains only insect protein, THE protein source of the future!",
         "key_benefits": [
             "Complete food with a gluten-free recipe for your adult feline friend ",
@@ -26,14 +28,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://www.green-petfood.com",
-        "image": "https://images.app.goo.gl/ozFvrCK8kXKs77s48"
+        "calorie": null
     },
     {
+        "site": "https://www.green-petfood.com",
         "url": "https://www.green-petfood.com/catfood/catfood-dry/faircat-vital",
         "brand": "Naturliebe HappyCat",
         "title": "FairCat Vital ☀ | green-petfood.com",
+        "image": "https://images.app.goo.gl/4KLYZrtUFgJXzJA4A",
         "descriptions": "Our FairCat Vital provides your feline friend with the whole range of nutrients needed to live all 9 lives to the fullest. Our unique Life Protect mixture, consisting of valuable antioxidants, prebiotic inulin and essential taurine, helps your adult tiger feel fit and happy. Thanks to the grainfree recipe, you not only do your cat good but also help make the world more sustainable every day: because this fair meal is even climate positive and contains only protein from animals raised in a more species-appropriate way.",
         "key_benefits": [
             "Complete food with a grain-free recipe for your adult feline friend ",
@@ -53,14 +55,14 @@
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://www.green-petfood.com",
-        "image": "https://images.app.goo.gl/4KLYZrtUFgJXzJA4A"
+        "calorie": null
     },
     {
+        "site": "https://www.green-petfood.com",
         "url": "https://www.green-petfood.com/catfood/catfood-wet/faircat-happy",
         "brand": "Naturliebe HappyCat",
         "title": "FairCat Happy ☀ | green-petfood.com",
+        "image": "https://images.app.goo.gl/Jf9XcKKWSVEqegcG8",
         "descriptions": "In our FairCat Happy you will find flaxseed oil & psyllium husks that help your adult furry friend to deal with pesky hairballs. Thanks to the grainfree recipe, you not only do your cat good but also help make the world more sustainable every day: because this fair meal is even climate positive and contains only protein from animals raised in a more species-appropriate way.",
         "key_benefits": [
             "Grain-free complete food for your adult feline friend ",
@@ -73,12 +75,10 @@
             "minerals",
             "cellulose",
             "faxseed oil 0.50 %",
-            "psyllium husks 0;10 %."
+            "psyllium husks 0.10 %."
         ],
         "analysis": null,
         "additive": null,
-        "calorie": null,
-        "site": "https://www.green-petfood.com",
-        "image": "https://images.app.goo.gl/Jf9XcKKWSVEqegcG8"
+        "calorie": null
     }
 ]

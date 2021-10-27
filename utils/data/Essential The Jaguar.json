@@ -1,7 +1,9 @@
 {
+    "site": "https://www.essentialfoods.com",
     "url": "https://www.essentialfoods.com/product/jaguar/",
     "brand": null,
     "title": "Essential The Jaguar",
+    "image": "https://www.essentialfoods.com/wp-content/uploads/2014/02/cat.png",
     "descriptions": "ESSENTIAL the JAGUAR is our optimum food suggestion for cats and kittens of all sizes and breeds. As always, we have emphasized the premium quality of all our ingredients. With our unique recipe containing 80% chicken, salmon, trout and eggs, we are sure that even the fussiest cat will share our enthusiasm for ESSENTIAL FOODS.",
     "key_benefits": [
         "DUCK - Our free-range ducks are from Gressingham Duck, which is also the name of the breed.",
@@ -26,7 +28,5 @@
         "Kcal/Kg 3,920"
     ],
     "additive": null,
-    "calorie": "Kcal/Kg 3,920",
-    "image": "https://www.essentialfoods.com/wp-content/uploads/2014/02/cat.png",
-    "site": "https://www.essentialfoods.com"
+    "calorie": "Kcal/Kg 3,920"
 }

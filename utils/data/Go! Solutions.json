@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://go-solutions.com",
         "url": "https://go-solutions.com/en-us/carnivore-grain-free-chicken-turkey-duck-recipe-for-cats",
         "brand": "Go! Solutions",
         "title": "GO! SOLUTIONS CARNIVORE Grain-Free Chicken, Turkey + Duck Recipe for Cats",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/018O9cyYiRghcs9CSQcpYv/138318abb3bcf11da6803524a0a7bae2/GS-Cat-Carnivore-CTD-Social-Image.jpg",
         "descriptions": "This delicious grain-free, protein-rich GO! SOLUTIONS CARNIVORE Recipe has been specially formulated to support strong, lean muscles in meat-loving cats, with added pre and probiotics to maintain healthy digestion and help keep your cat healthy, fit and playful.",
         "key_benefits": [
             "84% protein from premium animal sources",
@@ -60,27 +62,27 @@
             "dried rosemary."
         ],
         "analysis": [
-            "Crude protein (min) 46%",
-            "Crude fat (min) 18%",
-            "Crude fiber (max) 1.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 9%",
-            "Phosphorus (min) 1.1%",
-            "Magnesium (min) 0.09%",
-            "Taurine (min) 0.21%",
-            "*Omega 6 (min) 2.9%",
-            "*Omega 3 (min) 0.3%",
-            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+            "Crude protein: 46%",
+            "Crude fat: 18%",
+            "Crude fiber: 1.5%",
+            "Moisture: 10%",
+            "Ash: 9%",
+            "Phosphorus: 1.1%",
+            "Magnesium: 0.09%",
+            "Taurine: 0.21%",
+            "*Omega 6: 2.9%",
+            "*Omega 3: 0.3%",
+            "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 4298 kcal/kg or 473 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/018O9cyYiRghcs9CSQcpYv/138318abb3bcf11da6803524a0a7bae2/GS-Cat-Carnivore-CTD-Social-Image.jpg",
-        "site": "https://go-solutions.com"
+        "calorie": "ME (calculated) = 4298 kcal/kg or 473 kcal/cup (250 ml)"
     },
     {
+        "site": "https://go-solutions.com",
         "url": "https://go-solutions.com/en-us/carnivore-grain-free-lamb-wild-boar-recipe-for-cats",
         "brand": "Go! Solutions",
         "title": "GO! SOLUTIONS CARNIVORE Grain-Free Lamb + Wild Boar recipe for Cats",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/1wnHTIB1Xp3gvIlTmiPP6R/479582377766499a74981914ba497d03/GO-SOLUTIONS-Social-Image-Cat-Carnivore-Lamb-Boar-Black-cat-sitting-on-counter-beside-bowl-of-kibble.jpg",
         "descriptions": "Crafted by our nutritional experts from Lamb, Wild boar and Salmon, our drool-worthy, grain-free GO! SOLUTIONS CARNIVORE recipe is packed full of delicious animal protein, with added pre and probiotics and cranberries to support urinary tract health.",
         "key_benefits": [
             "70% protein from premium animal sources",
@@ -123,27 +125,27 @@
             "dried rosemary."
         ],
         "analysis": [
-            "Crude protein (min) 42%",
-            "Crude fat (min) 15%",
-            "Crude fiber (max) 2.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 9%",
-            "Phosphorus (min) 1.0%",
-            "Magnesium (min) 0.09%",
-            "Taurine (min) 0.2%",
-            "*Omega 6 (min) 2.4%",
-            "*Omega 3 (min) 0.6%",
-            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+            "Crude protein: 42%",
+            "Crude fat: 15%",
+            "Crude fiber: 2.5%",
+            "Moisture: 10%",
+            "Ash: 9%",
+            "Phosphorus: 1.0%",
+            "Magnesium: 0.09%",
+            "Taurine: 0.2%",
+            "*Omega 6: 2.4%",
+            "*Omega 3: 0.6%",
+            "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 4147 kcal/kg or 456 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/1wnHTIB1Xp3gvIlTmiPP6R/479582377766499a74981914ba497d03/GO-SOLUTIONS-Social-Image-Cat-Carnivore-Lamb-Boar-Black-cat-sitting-on-counter-beside-bowl-of-kibble.jpg",
-        "site": "https://go-solutions.com"
+        "calorie": "ME (calculated) = 4147 kcal/kg or 456 kcal/cup (250 ml)"
     },
     {
+        "site": "https://go-solutions.com",
         "url": "https://go-solutions.com/en-us/carnivore-grain-free-salmon-cod-recipe-for-cats",
         "brand": "Go! Solutions",
         "title": "GO! CARNIVORE Grain-Free Salmon + Cod Recipe for Cats",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/2odd0fmGxujdpoIB3Hqu4o/c61ce6fff3a93e92717534edcde39d98/GO-SOLUTIONS-Social-Image-Cat-Carnivore-Salmon-Cod-Black-cat-licking-lips-eating-kibble.jpg",
         "descriptions": "Specially created for your fish-loving feline, this delicious grain-free, protein-rich GO! SOLUTIONS CARNIVORE recipe uses Salmon, Cod and Trout to provide Omega-3 fatty acids, and support strong muscles in fit, happy, and playful cats.",
         "key_benefits": [
             "Antioxidant-rich fruits and veggies to support immune function",
@@ -186,27 +188,27 @@
             "dried rosemary."
         ],
         "analysis": [
-            "Crude protein (min) 42%",
-            "Crude fat (min) 16%",
-            "Crude fiber (max) 2.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 8.5%",
-            "Phosphorus (min) 1.0%",
-            "Magnesium (min) 0.09%",
-            "Taurine (min) 0.2%",
-            "*Omega 6 (min) 2%",
-            "*Omega 3 (min) 0.9%",
-            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+            "Crude protein: 42%",
+            "Crude fat: 16%",
+            "Crude fiber: 2.5%",
+            "Moisture: 10%",
+            "Ash: 8.5%",
+            "Phosphorus: 1.0%",
+            "Magnesium: 0.09%",
+            "Taurine: 0.2%",
+            "*Omega 6: 2%",
+            "*Omega 3: 0.9%",
+            "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 4239 kcal/kg or 466 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/2odd0fmGxujdpoIB3Hqu4o/c61ce6fff3a93e92717534edcde39d98/GO-SOLUTIONS-Social-Image-Cat-Carnivore-Salmon-Cod-Black-cat-licking-lips-eating-kibble.jpg",
-        "site": "https://go-solutions.com"
+        "calorie": "ME (calculated) = 4239 kcal/kg or 466 kcal/cup (250 ml)"
     },
     {
+        "site": "https://go-solutions.com",
         "url": "https://go-solutions.com/en-us/sensitivities-limited-ingredient-grain-free-duck-recipe-for-cats",
         "brand": "Go! Solutions",
         "title": "GO! SOLUTIONS SENSITIVITIES Limited Ingredient Grain-Free Duck Recipe for Cats",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/3ZHsNumvu6XGEq6DHxdqSR/c6b9a3a98fff28822d052ec8d9a51606/GO-SOLUTIONS-Social-Image-Cat-Sensitivities-Limited-Ingredient-Duck-Cat-eating-kibble-on-kitchen-counter-licking-lips.jpg",
         "descriptions": "Using premium cage-free Duck as a single source of tasty poultry protein, this GO! SOLUTIONS Limited Ingredient recipe is formulated for cats with sensitive dietary needs, with Prebiotic fiber for sensitive stomachs, and Omega oils for healthy skin and coats.",
         "key_benefits": [
             "100% grain, gluten and potato free recipe",
@@ -238,24 +240,24 @@
             "dried rosemary."
         ],
         "analysis": [
-            "Crude protein (min) 31%",
-            "Crude fat (min) 15%",
-            "Crude fiber (max) 3.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 7.5%",
-            "Magnesium (min) 0.09%",
-            "*Omega 6 (min) 2.5%",
-            "*Omega 3 (min) 0.7%"
+            "Crude protein: 31%",
+            "Crude fat: 15%",
+            "Crude fiber: 3.5%",
+            "Moisture: 10%",
+            "Ash: 7.5%",
+            "Magnesium: 0.09%",
+            "*Omega 6: 2.5%",
+            "*Omega 3: 0.7%"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 4222 kcal/kg or 464 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/3ZHsNumvu6XGEq6DHxdqSR/c6b9a3a98fff28822d052ec8d9a51606/GO-SOLUTIONS-Social-Image-Cat-Sensitivities-Limited-Ingredient-Duck-Cat-eating-kibble-on-kitchen-counter-licking-lips.jpg",
-        "site": "https://go-solutions.com"
+        "calorie": "ME (calculated) = 4222 kcal/kg or 464 kcal/cup (250 ml)"
     },
     {
+        "site": "https://go-solutions.com",
         "url": "https://go-solutions.com/en-us/skin-coat-care-chicken-recipe-with-grains-for-cats",
         "brand": "Go! Solutions",
         "title": "GO! SOULTIONS SKIN + COAT CARE Chicken Recipe for Cats",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/44zzo6lOpzcBaQq86xbntE/a1b4ce46f8bafd9e6bf2ec8d37d2a42e/GO-SOLUTIONS-Social-Image-Cat-Skin_Coat-Care-Chicken-Bengal-cats-waiting-for-their-food.jpg",
         "descriptions": "Formulated from premium cage-free Chicken and whole grains, this whisker-licking GO! SOLUTIONS SKIN + COAT CARE recipe is rich in omega oils to help control shedding and promote healthy skin and coats, with antioxidants from fruit and veggies to support immune function.",
         "key_benefits": [
             "Omega fatty acids support healthy, hydrated skin + a shiny coat",
@@ -295,27 +297,27 @@
             "dried rosemary."
         ],
         "analysis": [
-            "Crude protein (min) 32%",
-            "Crude fat (min) 20%",
-            "Crude fiber (max) 2.5%",
-            "Moisture (max) 10%",
-            "Ash (max) 7.5%",
-            "Phosphorus (min) 0.8%",
-            "Magnesium (min) 0.09%",
-            "Taurine (min) 0.21%",
-            "*Omega 6 (min) 4%",
-            "*Omega 3 (min) 0.4%",
-            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+            "Crude protein: 32%",
+            "Crude fat: 20%",
+            "Crude fiber: 2.5%",
+            "Moisture: 10%",
+            "Ash: 7.5%",
+            "Phosphorus: 0.8%",
+            "Magnesium: 0.09%",
+            "Taurine: 0.21%",
+            "*Omega 6: 4%",
+            "*Omega 3: 0.4%",
+            "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 4604 kcal/kg or 552 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/44zzo6lOpzcBaQq86xbntE/a1b4ce46f8bafd9e6bf2ec8d37d2a42e/GO-SOLUTIONS-Social-Image-Cat-Skin_Coat-Care-Chicken-Bengal-cats-waiting-for-their-food.jpg",
-        "site": "https://go-solutions.com"
+        "calorie": "ME (calculated) = 4604 kcal/kg or 552 kcal/cup (250 ml)"
     },
     {
+        "site": "https://go-solutions.com",
         "url": "https://go-solutions.com/en-us/skin-coat-care-grain-free-salmon-recipe-for-cats",
         "brand": "Go! Solutions",
         "title": "GO! SOLUTIONS SKIN + COAT CARE Grain-Free Salmon Recipe for Cats",
+        "image": "https://images.ctfassets.net/sa0sroutfts9/7Y1sjANUES1oUDuPxVDoY/13a6ae8cedb79e0f8b67f88e9105a074/GO-SOLUTIONS-Social-Image-Cat-Skin_Coat-Care-Grain-Free-Salmon-Cat-eating-kibble-on-table-licking-lips.jpg",
         "descriptions": "Crafted from premium-quality salmon, this delicious GO! SOLUTIONS recipe helps control shedding and supports healthy skin and coats, with added fruit and veggies to support your feline friend’s immune function, and pre and probiotic fiber for healthy digestion.",
         "key_benefits": [
             "Omega fatty acids support healthy, hydrated skin + a shiny coat",
@@ -352,21 +354,19 @@
             "yucca schidigera extract."
         ],
         "analysis": [
-            "Crude protein (min) 30%",
-            "Crude fat (min) 14%",
-            "Crude fiber (max) 4%",
-            "Moisture (max) 10%",
-            "Ash (max) 8%",
-            "Phosphorus (min) 0.9%",
-            "Magnesium (min) 0.09%",
-            "Taurine (min) 0.15%",
-            "*Omega 6 (min) 2.5%",
-            "*Omega 3 (min) 1.4%",
-            "*Microorganisms (min) (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
+            "Crude protein: 30%",
+            "Crude fat: 14%",
+            "Crude fiber: 4%",
+            "Moisture: 10%",
+            "Ash: 8%",
+            "Phosphorus: 0.9%",
+            "Magnesium: 0.09%",
+            "Taurine: 0.15%",
+            "*Omega 6: 2.5%",
+            "*Omega 3: 1.4%",
+            "*Microorganisms: (Lactobacillus acidophilus, Enterococcus faecium) 90,000,000 CFU/lb"
         ],
         "additive": null,
-        "calorie": "ME (calculated) = 4122 kcal/kg or 453 kcal/cup (250 ml)",
-        "image": "https://images.ctfassets.net/sa0sroutfts9/7Y1sjANUES1oUDuPxVDoY/13a6ae8cedb79e0f8b67f88e9105a074/GO-SOLUTIONS-Social-Image-Cat-Skin_Coat-Care-Grain-Free-Salmon-Cat-eating-kibble-on-table-licking-lips.jpg",
-        "site": "https://go-solutions.com"
+        "calorie": "ME (calculated) = 4122 kcal/kg or 453 kcal/cup (250 ml)"
     }
 ]

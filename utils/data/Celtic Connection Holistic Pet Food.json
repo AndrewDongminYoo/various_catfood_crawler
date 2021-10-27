@@ -1,7 +1,9 @@
 {
+    "site": "https://celticconnection.eu",
     "url": "https://celticconnection.eu/home/products/product_cat.html",
     "brand": "Celtic Connection Holistic Pet Food",
     "title": "Cat Food | Grain Free Dry Cat Food - Celtic Connection",
+    "image": "https://images.app.goo.gl/XFC2Xzzijxtn1tD37",
     "descriptions": [
         "It is amazing to watch cats leap incredible heights or distances, chase each other almost silently across the garden or twist their bodies in ways that would make even a contortionist jealous. Their natural flexibility is a quintessential feline trait we can only be jealous of.",
         "Cats are obligate carnivores so require high amounts of meat in their diet. Celtic Connection is the first cat food on the market to include 80% premium animal ingredients and the joint-helping blend of glucosamine, chondroitin and MSM to help keep your cat moving comfortably - from kitten to well into its senior years. Our recipes are produced in small batches to ensure the food you give your pet is always fresh and full of the healthy nutrition cats need."
@@ -31,7 +33,5 @@
         "Metabolisable Energy 382 Kcal/100g"
     ],
     "additive": null,
-    "calorie": "382 Kcal/100g",
-    "image": "https://images.app.goo.gl/XFC2Xzzijxtn1tD37",
-    "site": "https://celticconnection.eu"
+    "calorie": "382 Kcal/100g"
 }

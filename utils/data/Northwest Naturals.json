@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://nw-naturals.net",
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
         "brand": "Northwest Naturals",
         "title": "Freeze Dried Cat Nibbles CHICKEN DIET FOR CATS | Northwest Naturals",
+        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
         "descriptions": [
             "We use the same meats found at your finest natural food stores. All of our muscle and organ meats are chopped (not ground) partially frozen at the time of processing to ensure the availability of the highest quality nutrients, then individually quick frozen to keep the integrity of the ingredient quality.",
             "Our recipes are very simple: muscle meat, organ meats and natural raw ground bone, all from the same species. No added fruits or vegetables. A true carnivore diet!"
@@ -62,14 +64,14 @@
             "Kcal/oz(calculated) 134"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 3807",
-        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
-        "site": "https://nw-naturals.net"
+        "calorie": "ME(kcal/kg) 3807"
     },
     {
+        "site": "https://nw-naturals.net",
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
         "brand": "Northwest Naturals",
         "title": "Freeze Dried Cat Nibbles DUCK DIET FOR CATS | Northwest Naturals",
+        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
         "descriptions": [
             "We use the same meats found at your finest natural food stores. All of our muscle and organ meats are chopped (not ground) partially frozen at the time of processing to ensure the availability of the highest quality nutrients, then individually quick frozen to keep the integrity of the ingredient quality.",
             "Our recipes are very simple: muscle meat, organ meats and natural raw ground bone, all from the same species. No added fruits or vegetables. A true carnivore diet!"
@@ -128,14 +130,14 @@
             "Kcal/oz(calculated) 173"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 4905",
-        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
-        "site": "https://nw-naturals.net"
+        "calorie": "ME(kcal/kg) 4905"
     },
     {
+        "site": "https://nw-naturals.net",
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
         "brand": "Northwest Naturals",
         "title": "Freeze Dried Cat Nibbles RABBIT DIET FOR CATS | Northwest Naturals",
+        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
         "descriptions": [
             "We use the same meats found at your finest natural food stores. All of our muscle and organ meats are chopped (not ground) partially frozen at the time of processing to ensure the availability of the highest quality nutrients, then individually quick frozen to keep the integrity of the ingredient quality.",
             "Our recipes are very simple: muscle meat, organ meats and natural raw ground bone, all from the same species. No added fruits or vegetables. A true carnivore diet!"
@@ -193,14 +195,14 @@
             "Kcal/oz(calculated) 136"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 3875",
-        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
-        "site": "https://nw-naturals.net"
+        "calorie": "ME(kcal/kg) 3875"
     },
     {
+        "site": "https://nw-naturals.net",
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
         "brand": "Northwest Naturals",
         "title": "Freeze Dried Cat Nibbles TURKEY DIET FOR CATS | Northwest Naturals",
+        "image": null,
         "descriptions": [
             "We use the same meats found at your finest natural food stores. All of our muscle and organ meats are chopped (not ground) partially frozen at the time of processing to ensure the availability of the highest quality nutrients, then individually quick frozen to keep the integrity of the ingredient quality.",
             "Our recipes are very simple: muscle meat, organ meats and natural raw ground bone, all from the same species. No added fruits or vegetables. A true carnivore diet!"
@@ -260,14 +262,14 @@
             "Kcal/oz(calculated) 134"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 3800",
-        "image": null,
-        "site": "https://nw-naturals.net"
+        "calorie": "ME(kcal/kg) 3800"
     },
     {
+        "site": "https://nw-naturals.net",
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
         "brand": "Northwest Naturals",
         "title": "Freeze Dried Cat Nibbles WHITEFISH DIET FOR CATS | Northwest Naturals",
+        "image": null,
         "descriptions": [
             "We use the same meats found at your finest natural food stores. All of our muscle and organ meats are chopped (not ground) partially frozen at the time of processing to ensure the availability of the highest quality nutrients, then individually quick frozen to keep the integrity of the ingredient quality.",
             "Our recipes are very simple: muscle meat, organ meats and natural raw ground bone, all from the same species. No added fruits or vegetables. A true carnivore diet!"
@@ -325,8 +327,6 @@
             "Kcal/oz(calculated) 122"
         ],
         "additive": null,
-        "calorie": "ME(kcal/kg) 3455",
-        "image": null,
-        "site": "https://nw-naturals.net"
+        "calorie": "ME(kcal/kg) 3455"
     }
 ]

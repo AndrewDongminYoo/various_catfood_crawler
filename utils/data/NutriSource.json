@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/cat-kitten-chicken-meal-salmon-liver-recipe/",
         "brand": "NutriSource",
         "title": "Cat & Kitten Chicken Meal, Salmon & Liver Cat Food | NutriSource",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatKittenChickenSalmonLiver.png",
         "descriptions": [
             "As a member of our grain inclusive series of cat foods, NutriSource® Cat & Kitten Chicken Meal, Salmon & Liver Recipe is formulated to meet AAFCO guidelines for all life stages.",
             "NutriSource® grain inclusive formulas deliver compact nutrition and include prebiotics and probiotics to help support a healthy gut.",
@@ -58,19 +60,19 @@
             "dried Bacillus subtilis fermentation extract."
         ],
         "analysis": [
-            "Crude Protein (Min.) 32.0% 320 g/kg",
-            "Crude Fat (Min.) 19.0% 190 g/kg",
-            "Crude Fiber (Max.) 5.0% 50 g/kg",
-            "Moisture (Max.) 10.0% 100 g/kg",
-            "Magnesium (Min.) 0.08% 0.8 g/kg",
-            "Iron (Min.) 140 mg/kg 140 mg/kg",
-            "Copper (Min.) 20 mg/kg 20 mg/kg",
-            "Manganese (Min.) 15 mg/kg 15 mg/kg",
-            "Zinc (Min.) 110 mg/kg 110 mg/kg",
-            "Taurine (Min.) 0.15% 1.5 g/kg",
-            "*Omega – 6 Fatty Acids (Min.) 2.7% 27 g/kg",
-            "*Omega – 3 Fatty Acids (Min.) 0.6% 6 g/kg",
-            "*Total Microorganisms (Min.) (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
+            "Crude Protein: 32.0% 320 g/kg",
+            "Crude Fat: 19.0% 190 g/kg",
+            "Crude Fiber: 5.0% 50 g/kg",
+            "Moisture: 10.0% 100 g/kg",
+            "Magnesium: 0.08% 0.8 g/kg",
+            "Iron: 140 mg/kg 140 mg/kg",
+            "Copper: 20 mg/kg 20 mg/kg",
+            "Manganese: 15 mg/kg 15 mg/kg",
+            "Zinc: 110 mg/kg 110 mg/kg",
+            "Taurine: 0.15% 1.5 g/kg",
+            "*Omega – 6 Fatty Acids: 2.7% 27 g/kg",
+            "*Omega – 3 Fatty Acids: 0.6% 6 g/kg",
+            "*Total Microorganisms: (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
         ],
         "additive": null,
         "calorie": [
@@ -118,14 +120,14 @@
             "Carbohydrates 24%",
             "Carbohydrates 28 g/cup",
             "pH 5.5"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatKittenChickenSalmonLiver.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-rice/",
         "brand": "NutriSource",
         "title": "Chicken & Rice Recipe | Wet Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickRice_Cat-2018.png",
         "descriptions": [
             "NutriSource® canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -173,11 +175,11 @@
             "folic acid."
         ],
         "analysis": [
-            "Crude Protein (Min.) 9.0% 90 g/kg",
-            "Crude Fat (Min.) 8.0% 80 g/kg",
-            "Crude Fiber (Max.) 1.5% 15 g/kg",
-            "Moisture (Max.) 78.0% 780 g/kg",
-            "Ash (Max.) 1.90% 19 g/kg",
+            "Crude Protein: 9.0% 90 g/kg",
+            "Crude Fat: 8.0% 80 g/kg",
+            "Crude Fiber: 1.5% 15 g/kg",
+            "Moisture: 78.0% 780 g/kg",
+            "Ash: 1.90% 19 g/kg",
             "Taurine 0.10%"
         ],
         "additive": null,
@@ -232,14 +234,14 @@
             "Protein 31.7%",
             "Fat 65.2%",
             "Carbohydrates 3.1%"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickRice_Cat-2018.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-turkey-lamb-fish/",
         "brand": "NutriSource",
         "title": "Chicken, Turkey, Lamb & Fish | Wet Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickTurkFish_Cat-2018.png",
         "descriptions": [
             "NutriSource® canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -291,11 +293,11 @@
             "folic acid."
         ],
         "analysis": [
-            "Crude Protein (Min.) 9.5% 95 g/kg",
-            "Crude Fat (Min.) 6.0% 60 g/kg",
-            "Crude Fiber (Max.) 1.5% 15 g/kg",
-            "Moisture (Max.) 78.0% 780 g/kg",
-            "Ash (Max.) 1.9% 19 g/kg",
+            "Crude Protein: 9.5% 95 g/kg",
+            "Crude Fat: 6.0% 60 g/kg",
+            "Crude Fiber: 1.5% 15 g/kg",
+            "Moisture: 78.0% 780 g/kg",
+            "Ash: 1.9% 19 g/kg",
             "Taurine 0.10%"
         ],
         "additive": null,
@@ -349,14 +351,14 @@
             "Protein 31.9%",
             "Fat 67.2%",
             "Carbohydrates 0.9%"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickTurkFish_Cat-2018.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/chicken-turkey-lamb/",
         "brand": "NutriSource",
         "title": "Chicken, Turkey & Lamb Recipe | Wet Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickTurkey_Cat-2018.png",
         "descriptions": [
             "NutriSource® canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -408,11 +410,11 @@
             "folic acid."
         ],
         "analysis": [
-            "Crude Protein (Min.) 9.5% 95 g/kg",
-            "Crude Fat (Min.) 6.0% 60 g/kg",
-            "Crude Fiber (Max.) 1.5% 15 g/kg",
-            "Moisture (Max.) 78.0% 780 g/kg",
-            "Ash (Max.) 1.9% 19 g/kg",
+            "Crude Protein: 9.5% 95 g/kg",
+            "Crude Fat: 6.0% 60 g/kg",
+            "Crude Fiber: 1.5% 15 g/kg",
+            "Moisture: 78.0% 780 g/kg",
+            "Ash: 1.9% 19 g/kg",
             "Taurine 0.10%"
         ],
         "additive": null,
@@ -466,14 +468,14 @@
             "Protein 32.0%",
             "Fat 67.2%",
             "Carbohydrates 0.8%"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_Can_ChickTurkey_Cat-2018.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/country-select-entree/",
         "brand": "NutriSource",
         "title": "Country Select Recipe | Healthy Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NSGF_CountrySelectCat.png",
         "descriptions": [
             "As a member of our grain free series of cat foods, NutriSource® Country Select Recipe Cat Food is formulated to meet AAFCO guidelines for all life stages.",
             "NutriSource® grain free formulas deliver compact nutrition and include prebiotics and probiotics to help support a healthy gut.",
@@ -529,20 +531,20 @@
             "dried Bacillus subtilis fermentation extract."
         ],
         "analysis": [
-            "Crude Protein (Min.) 36.0% 360 g/kg",
-            "Crude Fat (Min.) 16.0% 160 g/kg",
-            "Crude Fiber (Max.) 5.0% 50 g/kg",
-            "Moisture (Max.) 10.0% 100 g/kg",
-            "Magnesium (Min.) 0.08% 0.8 g/kg",
-            "Iron (Min.) 195 mg/kg 195 mg/kg",
-            "Copper (Min.) 22 mg/kg 22 mg/kg",
-            "Manganese (Min.) 10 mg/kg 10 mg/kg",
-            "Zinc (Min.) 125 mg/kg 125 mg/kg",
-            "Taurine (Min.) 0.13% 1.3 g/kg",
-            "*Omega – 6 Fatty Acids (Min.) 2.6% 26 g/kg",
-            "*Omega – 3 Fatty Acids (Min.) 0.6% 6 g/kg",
-            "*L-Carnitine (Min.) 40 mg/kg",
-            "*Total Microorganisms (Min.) (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
+            "Crude Protein: 36.0% 360 g/kg",
+            "Crude Fat: 16.0% 160 g/kg",
+            "Crude Fiber: 5.0% 50 g/kg",
+            "Moisture: 10.0% 100 g/kg",
+            "Magnesium: 0.08% 0.8 g/kg",
+            "Iron: 195 mg/kg 195 mg/kg",
+            "Copper: 22 mg/kg 22 mg/kg",
+            "Manganese: 10 mg/kg 10 mg/kg",
+            "Zinc: 125 mg/kg 125 mg/kg",
+            "Taurine: 0.13% 1.3 g/kg",
+            "*Omega – 6 Fatty Acids: 2.6% 26 g/kg",
+            "*Omega – 3 Fatty Acids: 0.6% 6 g/kg",
+            "*L-Carnitine: 40 mg/kg",
+            "*Total Microorganisms: (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
         ],
         "additive": null,
         "calorie": [
@@ -588,14 +590,14 @@
             "Carbohydrates 34%",
             "Carbohydrates 39 g/cup",
             "pH 5.5"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NSGF_CountrySelectCat.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/country-select/",
         "brand": "NutriSource",
         "title": "Country Select Recipe | Wet Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Country.png",
         "descriptions": [
             "NutriSource® canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -647,11 +649,11 @@
             "menadione sodium bisulfite complex"
         ],
         "analysis": [
-            "Crude Protein (Min.) 11.0% 110 g/kg",
-            "Crude Fat (Min.) 8.0% 80 g/kg",
-            "Crude Fiber (Min.) 1.0% 10 g/kg",
-            "Moisture (Max.) 78.0% 780 g/kg",
-            "Ash (Max.) 2.25% 23 g/kg",
+            "Crude Protein: 11.0% 110 g/kg",
+            "Crude Fat: 8.0% 80 g/kg",
+            "Crude Fiber: 1.0% 10 g/kg",
+            "Moisture: 78.0% 780 g/kg",
+            "Ash: 2.25% 23 g/kg",
             "Taurine 0.1%",
             "*Omega-6 fatty acid 1.0%",
             "*Omega-3 fatty acid 0.15%"
@@ -708,14 +710,14 @@
             "Protein 41.5%",
             "Fat 57.9%",
             "Carbohydrates 0.6%"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Country.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/lamb-lamb-liver-select/",
         "brand": "NutriSource",
         "title": "Lamb & Lamb Liver Select | Wet Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Lamb.png",
         "descriptions": [
             "NutriSource® canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -765,11 +767,11 @@
             "menadione sodium bisulfite complex"
         ],
         "analysis": [
-            "Crude Protein (Min.) 10.0% 100 g/kg",
-            "Crude Fat (Min.) 7.0% 70 g/kg",
-            "Crude Fiber (Max.) 1.0% 10 g/kg",
-            "Moisture (Max.) 78.0% 780 g/kg",
-            "Ash (Max.) 2.25% 23 g/kg",
+            "Crude Protein: 10.0% 100 g/kg",
+            "Crude Fat: 7.0% 70 g/kg",
+            "Crude Fiber: 1.0% 10 g/kg",
+            "Moisture: 78.0% 780 g/kg",
+            "Ash: 2.25% 23 g/kg",
             "Taurine 0.1%",
             "*Omega-6 fatty acid 0.3%",
             "*Omega-3 fatty acid 0.15%"
@@ -827,14 +829,14 @@
             "Protein 34.8%",
             "Fat 62.9%",
             "Carbohydrates 2.3%"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Lamb.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/nutrisource/cat-kitten-chicken-rice-recipe/",
         "brand": "NutriSource",
         "title": "Cat & Kitten Chicken & Rice | Healthy Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatKittenChicken.png",
         "descriptions": [
             "As a member of our grain inclusive series of cat foods, NutriSource® Cat & Kitten Chicken & Rice Cat Recipe is formulated to meet AAFCO guidelines for all life stages.",
             "NutriSource® grain inclusive formulas deliver compact nutrition and include prebiotics and probiotics to help support a healthy gut.",
@@ -889,19 +891,19 @@
             "dried Bacillus subtilis fermentation extract."
         ],
         "analysis": [
-            "Crude Protein (Min.) 32.0% 320 g/kg",
-            "Crude Fat (Max.) 19.0% 190 g/kg",
-            "Crude Fiber (Min.) 5.0% 50 g/kg",
-            "Moisture (Max.) 10.0% 100 g/kg",
-            "Magnesium (Min.) 0.08% 0.8 g/kg",
-            "Iron (Min.) 190 mg/kg 190 mg/kg",
-            "Copper (Min.) 22 mg/kg 22 mg/kg",
-            "Manganese (Min.) 13 mg/kg 13 mg/kg",
-            "Zinc (Min.) 120 mg/kg 120 mg/kg",
-            "Taurine (Min.) 0.15% 1.5 g/kg",
-            "*Omega – 6 Fatty Acids (Min.) 2.5% 25 g/kg",
-            "*Omega – 3 Fatty Acids (Min.) 0.4% 4 g/kg",
-            "*Total Microorganisms (Min.) (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
+            "Crude Protein: 32.0% 320 g/kg",
+            "Crude Fat: 19.0% 190 g/kg",
+            "Crude Fiber: 5.0% 50 g/kg",
+            "Moisture: 10.0% 100 g/kg",
+            "Magnesium: 0.08% 0.8 g/kg",
+            "Iron: 190 mg/kg 190 mg/kg",
+            "Copper: 22 mg/kg 22 mg/kg",
+            "Manganese: 13 mg/kg 13 mg/kg",
+            "Zinc: 120 mg/kg 120 mg/kg",
+            "Taurine: 0.15% 1.5 g/kg",
+            "*Omega – 6 Fatty Acids: 2.5% 25 g/kg",
+            "*Omega – 3 Fatty Acids: 0.4% 4 g/kg",
+            "*Total Microorganisms: (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
         ],
         "additive": null,
         "calorie": [
@@ -949,14 +951,14 @@
             "Carbohydrates 23%",
             "Carbohydrates 26 g/cup",
             "pH 5.5"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatKittenChicken.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/ocean-select-entree/",
         "brand": "NutriSource",
         "title": "Ocean Select Recipe | Healthy Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NSGF_OceanSelectCat.png",
         "descriptions": [
             "As a member of our grain free series of cat foods, NutriSource® Ocean Select Recipe is formulated to meet AAFCO guidelines for all life stages.",
             "NutriSource® grain free formulas deliver compact nutrition and include prebiotics and probiotics to help support a healthy gut.",
@@ -1012,20 +1014,20 @@
             "dried Bacillus subtilis fermentation extract."
         ],
         "analysis": [
-            "Crude Protein (Min.) 36.0% 360 g/kg",
-            "Crude Fat (Min.) 16.0% 160 g/kg",
-            "Crude Fiber (Max.) 6.0% 60 g/kg",
-            "Moisture (Max.) 10.0% 100 g/kg",
-            "Magnesium (Min.) 0.07% 0.7 g/kg",
-            "Iron (Min.) 150 mg/kg 150 mg/kg",
-            "Copper (Min.) 22 mg/kg 22 mg/kg",
-            "Manganese (Min.) 13 mg/kg 13 mg/kg",
-            "Zinc (Min.) 115 mg/kg 115 mg/kg",
-            "Taurine (Min.) 0.15% 1.5 g/kg",
-            "*Omega – 6 Fatty Acids (Min.) 2.5% 25 g/kg",
-            "*Omega – 3 Fatty Acids (Min.) 0.8% 8 g/kg",
-            "*L-Carnitine (Min.) 40 mg/kg",
-            "*Total Microorganisms (Min.) (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
+            "Crude Protein: 36.0% 360 g/kg",
+            "Crude Fat: 16.0% 160 g/kg",
+            "Crude Fiber: 6.0% 60 g/kg",
+            "Moisture: 10.0% 100 g/kg",
+            "Magnesium: 0.07% 0.7 g/kg",
+            "Iron: 150 mg/kg 150 mg/kg",
+            "Copper: 22 mg/kg 22 mg/kg",
+            "Manganese: 13 mg/kg 13 mg/kg",
+            "Zinc: 115 mg/kg 115 mg/kg",
+            "Taurine: 0.15% 1.5 g/kg",
+            "*Omega – 6 Fatty Acids: 2.5% 25 g/kg",
+            "*Omega – 3 Fatty Acids: 0.8% 8 g/kg",
+            "*L-Carnitine: 40 mg/kg",
+            "*Total Microorganisms: (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
         ],
         "additive": null,
         "calorie": [
@@ -1073,14 +1075,14 @@
             "Carbohydrates 21%",
             "Carbohydrates 23 g/cup",
             "pH 5.5"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NSGF_OceanSelectCat.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/pork-pork-liver-select/",
         "brand": "NutriSource",
         "title": "Pork & Pork Liver Select Recipe | Wet Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Pork.png",
         "descriptions": [
             "NutriSource® canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -1131,11 +1133,11 @@
             "menadione sodium bisulfite complex"
         ],
         "analysis": [
-            "Crude Protein (Min.) 11.0% 110 g/kg",
-            "Crude Fat (Min.) 5.5% 50 g/kg",
-            "Crude Fiber (Max.) 1.0% 10 g/kg",
-            "Moisture (Max.) 78.0% 780 g/kg",
-            "Ash (Max.) 2.25% 23 g/kg",
+            "Crude Protein: 11.0% 110 g/kg",
+            "Crude Fat: 5.5% 50 g/kg",
+            "Crude Fiber: 1.0% 10 g/kg",
+            "Moisture: 78.0% 780 g/kg",
+            "Ash: 2.25% 23 g/kg",
             "Taurine 0.1%",
             "*Omega-6 fatty acid 1.25%",
             "*Omega-3 fatty acid 0.3%"
@@ -1192,14 +1194,14 @@
             "Protein 43.6%",
             "Fat 53.0%",
             "Carbohydrates 3.4%"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Pork.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/senior-weight-management-cat-recipe/",
         "brand": "NutriSource",
         "title": "Senior/Weight Management | Healthy Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatSeniorWeightManagement.png",
         "descriptions": [
             "As a member of our grain inclusive series of cat foods, NutriSource® Senior / Weight Management Cat Recipe is formulated to meet AAFCO guidelines for all life stages.",
             "NutriSource® grain inclusive formulas deliver compact nutrition and include prebiotics and probiotics to help support a healthy gut.",
@@ -1254,20 +1256,20 @@
             "dried Bacillus subtilis fermentation extract."
         ],
         "analysis": [
-            "Crude Protein (Min.) 29.0% 290 g/kg",
-            "Crude Fat (Min.) 9.0% 90 g/kg",
-            "Crude Fat (Max.) 12.0% 120 g/kg",
-            "Crude Fiber (Max.) 16.0% 160 g/kg",
-            "Moisture (Max.) 10.0% 160 g/kg",
-            "Magnesium (Min.) 0.04% 0.8 g/kg",
-            "Iron (Min.) 170 mg/kg 170 mg/kg",
-            "Copper (Min.) 16 mg/kg 16 mg/kg",
-            "Manganese (Min.) 12 mg/kg 12 mg/kg",
-            "Zinc (Min.) 110 mg/kg 110 mg/kg",
-            "Taurine (Min.) 0.10% 1.0 g/kg",
-            "*Omega – 6 Fatty Acids (Min.) 1.0% 10 g/kg",
-            "*Omega – 3 Fatty Acids (Min.) 0.2% 2 g/kg",
-            "*Total Microorganisms (Min.) (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
+            "Crude Protein: 29.0% 290 g/kg",
+            "Crude Fat: 9.0% 90 g/kg",
+            "Crude Fat: 12.0% 120 g/kg",
+            "Crude Fiber: 16.0% 160 g/kg",
+            "Moisture: 10.0% 160 g/kg",
+            "Magnesium: 0.04% 0.8 g/kg",
+            "Iron: 170 mg/kg 170 mg/kg",
+            "Copper: 16 mg/kg 16 mg/kg",
+            "Manganese: 12 mg/kg 12 mg/kg",
+            "Zinc: 110 mg/kg 110 mg/kg",
+            "Taurine: 0.10% 1.0 g/kg",
+            "*Omega – 6 Fatty Acids: 1.0% 10 g/kg",
+            "*Omega – 3 Fatty Acids: 0.2% 2 g/kg",
+            "*Total Microorganisms: (Saccharomyces cerevisiae, Lactobacillus acidophilus, Enterococcus faecium) 100 million CFU/lb **"
         ],
         "additive": null,
         "calorie": [
@@ -1314,14 +1316,14 @@
             "Carbohydrates 36%",
             "Carbohydrates 34 g/cup",
             "pH 5.5"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/NS_CatSeniorWeightManagement.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     },
     {
+        "site": "https://nutrisourcepetfoods.com",
         "url": "https://nutrisourcepetfoods.com/our-food/turkey-turkey-liver-select/",
         "brand": "NutriSource",
         "title": "Turkey & Turkey Liver Select | Wet Cat Food | NutriSource Pet Foods",
+        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Turkey.png",
         "descriptions": [
             "NutriSource® canned pet foods feature meat rich, protein dense recipes.",
             "Our exclusive Good 4 Life ingredients promote gut health and overall well-being for pets.",
@@ -1371,11 +1373,11 @@
             "menadione sodium bisulfite complex"
         ],
         "analysis": [
-            "Crude Protein (Min.) 10.0% 100 g/kg",
-            "Crude Fat (Min.) 9.0% 90 g/kg",
-            "Crude Fiber (Max.) 1.0% 10 g/kg",
-            "Moisture (Max.) 78.0% 780 g/kg",
-            "Ash (Max.) 2.25% 23 g/kg",
+            "Crude Protein: 10.0% 100 g/kg",
+            "Crude Fat: 9.0% 90 g/kg",
+            "Crude Fiber: 1.0% 10 g/kg",
+            "Moisture: 78.0% 780 g/kg",
+            "Ash: 2.25% 23 g/kg",
             "Taurine 0.1%",
             "*Omega-6 fatty acid 2.0%",
             "*Omega-3 fatty acid 0.2%"
@@ -1432,8 +1434,6 @@
             "Protein 31.1%",
             "Fat 68.1%",
             "Carbohydrates 0.8%"
-        ],
-        "image": "https://nutrisourcepetfoods.com/wp-content/uploads/2020/02/Can_Cat_Turkey.png",
-        "site": "https://nutrisourcepetfoods.com"
+        ]
     }
 ]

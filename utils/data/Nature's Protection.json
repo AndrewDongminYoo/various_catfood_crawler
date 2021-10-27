@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/191/sterilised-poultry/",
         "brand": "Nature's Protection",
         "title": "Sterilised - Cat and dog feeds | Natures protection | Superior care",
+        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
         "descriptions": [
             "100% complete and balanced nutrition avoiding excess weight and obesity and maintaining muscle tissue.",
             "Natural antioxidants can help to maintain natural body protective properties.",
@@ -48,14 +50,14 @@
             "rosemary extract",
             "tocopherol extracts from vegetable oils (1b306(i))."
         ],
-        "calorie": null,
-        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     },
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/193/sterilised-long-hair/",
         "brand": "Nature's Protection",
         "title": "Sterilised Long Hair - Cat and dog feeds | Natures protection | Superior care",
+        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
         "descriptions": [
             "100% complete and balanced nutrition avoiding overweight and obesity and maintaining muscle tissue",
             "Highest quality poultry as the main source of proteins.",
@@ -104,14 +106,14 @@
             "rosemary extract",
             "tocopherol extracts from vegetable oils (1b306(i))."
         ],
-        "calorie": null,
-        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     },
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/194/indoor/",
         "brand": "Nature's Protection",
         "title": "Indoor - Cat and dog feeds | Natures protection | Superior care",
+        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
         "descriptions": [
             "100% complete and balanced nutrition adapted to specific needs of indoor cats that are less active.",
             "Selected ingredients help avoid problems like hairball formation and digestive problems.",
@@ -138,14 +140,14 @@
             "omega 6 – 1,92%."
         ],
         "additive": null,
-        "calorie": null,
-        "image": "https://www.naturesprotection.eu/uploads/userfiles/Untitled-4.jpg",
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     },
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/199/long-hair/",
         "brand": "Nature's Protection",
         "title": "Long Hair - Cat and dog feeds | Natures protection | Superior care",
+        "image": null,
         "descriptions": "100% complete and balanced nutrition enriched with valuable superfood ingredient coconut oil adapted to specific needs of long-haired cats.",
         "key_benefits": [
             "Dynamic micronised clinoptilolite actively stimulates intestinal health and nutrient absorption. Captures toxins produced by bacteria in the digestive tract and stimulates mobility by lubricating the joints. ",
@@ -156,14 +158,14 @@
         "ingredients": null,
         "analysis": "Analytical constituents: crude protein – 30% crude oils and fats – 20% crude ash – 7% crude fibres – 4,1% calcium – 1,1% phosphorus – 0,9% potassium – 0,7% sodium – 0,5% Omega-3 fatty acids – 0,43% Omega-6 fatty acids – 3,8%.",
         "additive": null,
-        "calorie": null,
-        "image": null,
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     },
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/196/large-cat/",
         "brand": "Nature's Protection",
         "title": "Large Cat - Cat and dog feeds | Natures protection | Superior care",
+        "image": null,
         "descriptions": "100% complete and balanced nutrition adapted to specific needs of large breed adult cats.",
         "key_benefits": [
             "Dynamic micronised clinoptilolite actively stimulates intestinal health and nutrient absorption. Captures toxins produced by bacteria in the digestive tract and stimulates mobility by lubricating the joints. ",
@@ -183,14 +185,14 @@
             "omega 6 – 3,57%."
         ],
         "additive": null,
-        "calorie": null,
-        "image": null,
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     },
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/202/urinary-formula-s/",
         "brand": "Nature's Protection",
         "title": "Urinary Formula-S - Cat and dog feeds | Natures protection | Superior care",
+        "image": null,
         "descriptions": "100% complete and balanced dietetic nutrition, specially formulated for adult cats suffering from struvite bladder stones. Efficiency approved by VETs. ",
         "key_benefits": [
             "Dynamic micronised clinoptilolite actively stimulates intestinal health and nutrient absorption. Captures toxins produced by bacteria in the digestive tract and stimulates mobility by lubricating the joints. ",
@@ -213,14 +215,14 @@
             " Omega-6 fatty acids – 2,49%. "
         ],
         "additive": null,
-        "calorie": null,
-        "image": null,
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     },
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/201/sensitive-digestion/",
         "brand": "Nature's Protection",
         "title": "Sensitive Digestion - Cat and dog feeds | Natures protection | Superior care",
+        "image": null,
         "descriptions": "100% complete and balanced nutrition, specially developed for cats with a highly  sensitive digestive system.",
         "key_benefits": [
             "Dynamic micronised clinoptilolite actively stimulates intestinal health and nutrient absorption. Captures toxins produced by bacteria in the digestive tract and stimulates mobility by lubricating the joints. ",
@@ -242,14 +244,14 @@
             " Omega-6 fatty acids – 2,72%. "
         ],
         "additive": null,
-        "calorie": null,
-        "image": null,
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     },
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/200/senior-cat/",
         "brand": "Nature's Protection",
         "title": "Senior Cat - Cat and dog feeds | Natures protection | Superior care",
+        "image": null,
         "descriptions": [
             "100% complete and balanced nutrition avoiding overweight and obesity and maintaining muscle tissue",
             " Due to the balanced amount of fats in the feed, it is especially appropriate for senior cats, which tend to gain weight",
@@ -295,14 +297,14 @@
             " Omega-6 fatty acids – 2,60%. "
         ],
         "additive": null,
-        "calorie": null,
-        "image": null,
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     },
     {
+        "site": "https://www.naturesprotection.eu",
         "url": "https://www.naturesprotection.eu/en/catalogue/product/305/white-cat/",
         "brand": "Nature's Protection",
         "title": "White Cat - Cat and dog feeds | Natures protection | Superior care",
+        "image": null,
         "descriptions": [
             "Formulated using 100% natural high quality ingredients.  ",
             "Enriched with proteins of animal origin – 89%. ",
@@ -327,8 +329,6 @@
             "omega 6 – 1,98%.    "
         ],
         "additive": null,
-        "calorie": null,
-        "image": null,
-        "site": "https://www.naturesprotection.eu"
+        "calorie": null
     }
 ]

@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/adult-cat-food-chicken-meal-brown-rice-recipe/#/",
         "brand": "Blackwood Pet Food",
         "title": "Adult Cat Food | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct9.jpg",
         "descriptions": [
             "Our slow cooked, grain free cat food is handcrafted with the natural goodness of chicken, Whitefish, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
             "With 30% protein, 17% fat, and 3% fiber, this cat food is ideal for adult cats",
@@ -75,23 +77,23 @@
             "Dried Lactobacillus reuteri Fermentation Product"
         ],
         "analysis": [
-            "Crude Protein MIN 30.0%",
-            "Crude Fat MIN 17.0%",
-            "Crude Fiber MAX 3.0%",
-            "Moisture MAX 10.0%",
-            "Omega 6 (Linoleic Acid) MIN 3.3%",
-            "Omega 3 (Linolenic Acid) MIN 0.65%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil. CFu/lb"
+            "Crude Protein: 30.0%",
+            "Crude Fat: 17.0%",
+            "Crude Fiber: 3.0%",
+            "Moisture: 10.0%",
+            "Omega 6 (Linoleic Acid): 3.3%",
+            "Omega 3 (Linolenic Acid): 0.65%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri): 10 Mil. CFu/lb"
         ],
         "additive": null,
-        "calorie": "3733 kcal/kg",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct9.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "3733 kcal/kg"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/adult-cat-food-chicken-salmon-with-pumpkin-new-zealand-mussels/#/",
         "brand": "Blackwood Pet Food",
         "title": "Wet Cat Food | Blackwood Pet Food",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct27.jpg",
         "descriptions": [
             "Our protein rich, wet cat food is handcrafted with fresh chicken, salmon, pumpkin, Dandelion Greens and peas.",
             "Real meat is always the first ingredient, and our grain free canned cat food never contains corn, wheat, soy, artificial colors, or flavors",
@@ -144,22 +146,22 @@
             "folic acid"
         ],
         "analysis": [
-            "Crude Protein MIN 9.5%",
-            "Crude Fat MIN 9.0%",
-            "Crude Fiber MAX 1.0%",
-            "Moisture MAX 78.0%",
-            "Ash MAX 2.5%",
-            "Calorie Content 1,284 kcal/kg • 200 kcal/can (ME – calculated)"
+            "Crude Protein: 9.5%",
+            "Crude Fat: 9.0%",
+            "Crude Fiber: 1.0%",
+            "Moisture: 78.0%",
+            "Ash: 2.5%",
+            "Calorie Content 1,284 kcal/kg"
         ],
         "additive": null,
-        "calorie": "Calorie Content 1,284 kcal/kg • 200 kcal/can (ME – calculated)",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct27.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "Calorie Content 1,284 kcal/kg"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/bounty-cat-food-grain-free-chicken-turkey-recipe-2/#/",
         "brand": "Blackwood Pet Food",
         "title": "Grain Free Cat Food | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct21.jpg",
         "descriptions": [
             "Real Chicken as #1 Ingredient",
             "42% Protein, 82% from Animal Sources",
@@ -247,17 +249,17 @@
             "Ash 8.5%",
             "Omega 6 (Linoleic Acid) 3.2%",
             "Omega 3 (Linolenic Acid) 0.95%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
         ],
         "additive": null,
-        "calorie": "3,608 kcal/kg",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct21.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "3,608 kcal/kg"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/bounty-cat-food-grain-free-salmon-rainbow-trout/#/",
         "brand": "Blackwood Pet Food",
         "title": "Dry Cat Food | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct23.jpg",
         "descriptions": [
             "Real Salmon as #1 Ingredient",
             "42% Protein, 84% from Animal Sources",
@@ -344,18 +346,18 @@
             "Moisture 10%",
             "Ash 8.5%",
             "Omega 6 (Linoleic Acid) 4%",
-            "Omega 3 (Linolenic Acid) .80%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
+            "Omega 3 (Linolenic Acid) 0.80%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
         ],
         "additive": null,
-        "calorie": "3,609 kcal/kg",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct23.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "3,609 kcal/kg"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/bounty-kitten-food-grain-free-chicken-herring/#/",
         "brand": "Blackwood Pet Food",
         "title": "Kitten Food | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct19.jpg",
         "descriptions": [
             "Real Chicken as #1 Ingredient",
             "42% Protein, 82% from Animal Sources",
@@ -443,17 +445,17 @@
             "Ash 9.5%",
             "Omega 6 (Linoleic Acid) 4%",
             "Omega 3 (Linolenic Acid) 0.8%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
         ],
         "additive": null,
-        "calorie": "Calorie Content 3,708 kcal/kg • 464 kcal/cup • 4 kcal/g (ME – calculated)",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct19.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "Calorie Content 3,708 kcal/kg • 464 kcal/cup • 4 kcal/g (ME – calculated)"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/indoor-formula-cat-food-chicken-meal-brown-rice-recipe/#/",
         "brand": "Blackwood Pet Food",
         "title": "Indoor Cat Food Formula | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct11.jpg",
         "descriptions": [
             "Our slow cooked cat food is handcrafted with the natural goodness of chicken, Whitefish, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
             "With 30% protein, 12% fat, and 3% fiber, this cat food is ideal for indoor cats",
@@ -523,23 +525,23 @@
             "Dried Lactobacillus reuteri Fermentation Product"
         ],
         "analysis": [
-            "Crude Protein MIN 30.0%",
-            "Crude Fat MIN 12.0%",
-            "Crude Fiber MAX 3.0%",
-            "Moisture MAX 10.0%",
-            "Omega 6 (Linoleic Acid) MIN 2.2%",
-            "Omega 3 (Linolenic Acid) MIN 0.4%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
+            "Crude Protein: 30.0%",
+            "Crude Fat: 12.0%",
+            "Crude Fiber: 3.0%",
+            "Moisture: 10.0%",
+            "Omega 6 (Linoleic Acid): 2.2%",
+            "Omega 3 (Linolenic Acid): 0.4%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
         ],
         "additive": null,
-        "calorie": "3493 kcal/kg",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct11.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "3493 kcal/kg"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/kitten-food-chicken-meal-brown-rice-recipe/#/",
         "brand": "Blackwood Pet Food",
         "title": "Blackwood Kitten Food | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct7.jpg",
         "descriptions": [
             "Our slow cooked cat food is handcrafted with the natural goodness of chicken, whitefish, Menhaden fish oil, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
             "With 33% protein, 21% fat, and 3% fiber, Blackwood cat food is ideal for growing kittens",
@@ -612,23 +614,23 @@
             "Dried Lactobacillus reuteri Fermentation Product"
         ],
         "analysis": [
-            "Crude Protein MIN 33.0%",
-            "Crude Fat MIN 21.0%",
-            "Crude Fiber MAX 3.0%",
-            "Moisture MAX 10.0%",
-            "Omega 6 (Linoleic Acid) MIN 4.2%",
-            "Omega 3 (Linolenic Acid) MIN 0.6%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil CFU / lb"
+            "Crude Protein: 33.0%",
+            "Crude Fat: 21.0%",
+            "Crude Fiber: 3.0%",
+            "Moisture: 10.0%",
+            "Omega 6 (Linoleic Acid): 4.2%",
+            "Omega 3 (Linolenic Acid): 0.6%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri): 10 Mil CFU / lb"
         ],
         "additive": null,
-        "calorie": "3916 kcal/kg",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct7.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "3916 kcal/kg"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/lean-senior-cat-food-chicken-meal-brown-rice-recipe/#/",
         "brand": "Blackwood Pet Food",
         "title": "Dry Senior Cat Food | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct13.jpg",
         "descriptions": [
             "Our slow cooked cat food is handcrafted with the natural goodness of chicken, Menhaden fish, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
             "With 30% protein, 11% fat, and 3.2% fiber, this cat food is ideal for older and over weight cats",
@@ -701,23 +703,23 @@
             "Dried Lactobacillus reuteri Fermentation Product"
         ],
         "analysis": [
-            "Crude Protein MIN 30.0%",
-            "Crude Fat MIN 8.0%",
-            "Crude Fiber MAX 10.0%",
-            "Moisture MAX 10.0%",
-            "Omega 6 (Linoleic Acid) MIN 1.8%",
-            "Omega 3 (Linolenic Acid) MIN 0.4%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
+            "Crude Protein: 30.0%",
+            "Crude Fat: 8.0%",
+            "Crude Fiber: 10.0%",
+            "Moisture: 10.0%",
+            "Omega 6 (Linoleic Acid): 1.8%",
+            "Omega 3 (Linolenic Acid): 0.4%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
         ],
         "additive": null,
-        "calorie": "3328 kcal/kg",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct13.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "3328 kcal/kg"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/special-diet-cat-food-chicken-meal-field-pea-recipe/#/",
         "brand": "Blackwood Pet Food",
         "title": "Special Dry Cat Food | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct4.jpg",
         "descriptions": [
             "Our slow cooked, grain free cat food is handcrafted with the natural goodness of chicken, whitefish, field peas, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
             "With 40% protein, 18% fat, and 4% fiber, Blackwood cat food is ideal for all breeds and is nutritionally complete for all life stages",
@@ -790,23 +792,23 @@
             "Dried Lactobacillus reuteri Fermentation Product"
         ],
         "analysis": [
-            "Crude Protein MIN 40.0%",
-            "Crude Fat MIN 18.0%",
-            "Crude Fiber MAX 4.0%",
-            "Moisture MAX 10.0%",
-            "Omega 6 (Linoleic Acid) MIN 3.25%",
-            "Omega 3 (Linolenic Acid) MIN 0.5%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
+            "Crude Protein: 40.0%",
+            "Crude Fat: 18.0%",
+            "Crude Fiber: 4.0%",
+            "Moisture: 10.0%",
+            "Omega 6 (Linoleic Acid): 3.25%",
+            "Omega 3 (Linolenic Acid): 0.5%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
         ],
         "additive": null,
-        "calorie": "3771 kcal/kg",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct4.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "3771 kcal/kg"
     },
     {
+        "site": "https://blackwoodpetfood.com",
         "url": "https://blackwoodpetfood.com/recipes/special-diet-cat-food-duck-meal-salmon-meal-field-pea-recipe/#/",
         "brand": "Blackwood Pet Food",
         "title": "Diet Cat Food | Blackwood",
+        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct-Resize-1.jpg",
         "descriptions": [
             "Our slow cooked, grain free cat food is handcrafted with the natural goodness of duck, salmon, field peas, cranberries and blueberries. Blackwood cat food never contains corn, wheat, or soy making it the perfect solution for food sensitivities",
             "With 38% protein, 18% fat, and 4% fiber, Blackwood cat food is ideal for all breeds and is nutritionally complete for all life stages",
@@ -877,17 +879,15 @@
             "Dried Lactobacillus reuteri Fermentation Product"
         ],
         "analysis": [
-            "Crude Protein MIN 38.0%",
-            "Crude Fat MIN 18.0%",
-            "Crude Fiber MAX 4.0%",
-            "Moisture MAX 10.0%",
-            "Omega 6 (Linoleic Acid) MIN 3.0%",
-            "Omega 3 (Linolenic Acid) MIN 0.4%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus MIN 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) MIN 10 Mil CFU / lb"
+            "Crude Protein: 38.0%",
+            "Crude Fat: 18.0%",
+            "Crude Fiber: 4.0%",
+            "Moisture: 10.0%",
+            "Omega 6 (Linoleic Acid): 3.0%",
+            "Omega 3 (Linolenic Acid): 0.4%",
+            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri): 10 Mil CFU / lb"
         ],
         "additive": null,
-        "calorie": "3785 kcal/kg",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct-Resize-1.jpg",
-        "site": "https://blackwoodpetfood.com"
+        "calorie": "3785 kcal/kg"
     }
 ]

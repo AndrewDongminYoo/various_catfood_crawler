@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.canagan.co.uk",
         "url": "https://www.canagan.co.uk/canagan-country-game-for-cats.html",
         "brand": "Canagan",
         "title": "Canagan Country Game Grain Free Food For Cats",
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_game_1200x1200.png",
         "descriptions": "Canagan Country Game for Cats is the defining statement in grain free nutrition. With even higher levels of super digestible protein delivered by an unprecedented selection of delicious natural ingredients. Our freshly prepared duck and venison are produced to an equivalent human food standard and are perfectly complimented with vegetables and botanicals. Let your cat show you this is the ultimate taste experience.",
         "key_benefits": [
             "DUCK & VENISON - This rich dark meat is a good source of iron and vitamin B, and the duck in particular is a great source of Omega-3 and 6.",
@@ -60,14 +62,14 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.60 mg"
         ],
-        "calorie": null,
-        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_game_1200x1200.png",
-        "site": "https://www.canagan.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.canagan.co.uk",
         "url": "https://www.canagan.co.uk/canagan-dental-for-cats.html",
         "brand": "Canagan",
         "title": "Canagan Turkey Dental with PlaqueOff Grain Free Food For Cats",
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan-dental-cat-sqr.png",
         "descriptions": [
             "Canagan is a special grain free cat food formulated by our experts to deliver nutrition, close to their ancestral diet, with the correct ratio of protein to carbohydrate and a host of vegetables and botanicals.",
             "This carefully balanced, nutrient dense formula will excite your cat's taste buds and give them the abundance of highly digestible protein demanded by their evolutionary needs."
@@ -131,14 +133,14 @@
             "Sodium Selenite 0.64 mg",
             "Methionine 1,800 mg"
         ],
-        "calorie": null,
-        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan-dental-cat-sqr.png",
-        "site": "https://www.canagan.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.canagan.co.uk",
         "url": "https://www.canagan.co.uk/canagan-free-range-chicken-for-cats.html",
         "brand": "Canagan",
         "title": "Canagan Free-Range Chicken Grain Free Food For Cats",
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_chicken_1200x1200.png",
         "descriptions": "Canagan Free Range Chicken For Cats is a special grain free cat food with over 65% chicken to provide the protein rich diet your cat will thrive on. Formulated by our experts to deliver nutrition with low carbohydrates, no grains and a host of vegetables and botanicals to more closely mimic your cat’s natural diet.",
         "key_benefits": [
             "FREE-RANGE CHICKEN Chicken is an excellent source of protein, vitamins, phosphorous and selenium which is good for the immune system.",
@@ -193,14 +195,14 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.64 mg"
         ],
-        "calorie": null,
-        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_chicken_1200x1200.png",
-        "site": "https://www.canagan.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.canagan.co.uk",
         "url": "https://www.canagan.co.uk/canagan-light-senior-for-catss.html",
         "brand": "Canagan",
         "title": "Canagan Light/Senior Grain Free Food For Cats",
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan-cat-bags__senior-for-cats_2_2.png",
         "descriptions": "Canagan Light / Senior / Sterilised is for overweight, senior or sterilised cats. This gorgeous recipe features high levels of super digestible protein delivered by an unprecedented selection of delicious natural ingredients.Our master chefs add glucosamine, MSM and chondroitin for healthy joints, Salmon Oil for great skin and coat and a myriad of succulent vegetables and botanicals.",
         "key_benefits": [
             "FREE-RANGE CHICKEN Chicken is an excellent source of protein, vitamins, phosphorous and selenium which is good for the immune system.",
@@ -258,14 +260,14 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.60 mg"
         ],
-        "calorie": null,
-        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan-cat-bags__senior-for-cats_2_2.png",
-        "site": "https://www.canagan.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.canagan.co.uk",
         "url": "https://www.canagan.co.uk/canagan-scottish-salmon-for-cats.html",
         "brand": "Canagan",
         "title": "Canagan Scottish Salmon Grain Free Food For Cats",
+        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_salmon_1200x1200.png",
         "descriptions": "Canagan Scottish Salmon For Cats is a carefully balanced grain free food containing over 75% fish providing your cat with a unique blend of super protein availability. Our freshly prepared deboned Scottish Salmon is produced to an equivalent human food standard this wonderful food is further boosted with the inclusion of herring, trout and white fish. The delicious selection of natural ingredients will excite even the fussiest of felines.",
         "key_benefits": [
             "DEBONED SCOTTISH SALMON - Our salmon is sourced from the Scottish highlands. A delicious source of easily digestible protein, Omega-3, vitamin D and selenium.",
@@ -331,8 +333,6 @@
             "Cupric Sulphate Pentahydrate 19 mg",
             "Sodium Selenite 0.64 mg"
         ],
-        "calorie": null,
-        "image": "https://www.canagan.co.uk/media/catalog/product/cache/7b40520bba39cb0e2045ec264e3ff7b7/c/a/canagan_2018_cat_bag_visual_salmon_1200x1200.png",
-        "site": "https://www.canagan.co.uk"
+        "calorie": null
     }
 ]

@@ -1,8 +1,10 @@
 [
     {
+        "site": "https://www.acanapetfoods.co.uk",
         "url": "https://www.acanapetfoods.co.uk/product/acana-wild-prairie-cat-new/",
         "brand": "ACANA",
         "title": "ACANA Wild Prairie | Cat Food - ACANA",
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-wild-prairie-front.png",
         "descriptions": "Cats biologically require a diet rich in protein from whole animal ingredients. Inspired by our vast prairies and pristine lakes, ACANA Wild Prairie offers your cat quality animal ingredients from free-run chicken and turkey, freshwater fish, and cage-free eggs. Protein-rich and nutrient-dense, ACANA includes WholePrey ratios of meat, organs, cartilage, and bone, so your cat is getting everything they need for peak health, keeping them happy, healthy, and strong.",
         "key_benefits": null,
         "ingredients": [
@@ -44,7 +46,25 @@
             "burdock root",
             "lavender",
             "marshmallow root",
-            "rosehips. ADDITIVES (per kg) Technological additives: With natural antioxidants. Nutritional additives: Choline chloride: 1200 mg",
+            "rosehips."
+        ],
+        "analysis": [
+            "Crude protein: 37 %",
+            "Crude fat: 18 %",
+            "Crude fibre: 3 %",
+            "Crude Ash: 9 %",
+            "Moisture: 10 %",
+            "EPA (Eicosapentaenoic acid): 0.2 %",
+            "DHA (Docosahexaenoic acid): 0.2 %",
+            "Calcium: 1.6 %",
+            "Phosphorus: 1.2 %",
+            "Magnesium: 0.1 %",
+            "Taurine: 0.1 %",
+            "Omega-6 fatty acids: 3.5 %",
+            "Omega-3 fatty acids: 0.6 %"
+        ],
+        "additive": [
+            "Choline chloride: 1200 mg",
             "Taurine: 400 mg",
             "Zinc (Zinc chelate of amino acid hydrate): 150 mg",
             "Vitamin B1: 25 mg",
@@ -57,32 +77,16 @@
             "Vitamin B12: 0.1 mg",
             "Vitamin E: 150 IU",
             "Copper (Copper (II) chelate of amino acid hydrate): 11mg",
-            "DL-methionine: 99 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600×10^6CFU."
-        ],
-        "analysis": [
-            "Crude protein (min.) 37 %",
-            "Crude fat (min.) 18 %",
-            "Crude fibre (max.) 3 %",
-            "Crude Ash (max.) 9 %",
-            "Moisture (max.) 10 %",
-            "EPA (Eicosapentaenoic acid) (min.) 0.2 %",
-            "DHA (Docosahexaenoic acid) (min.) 0.2 %",
-            "Calcium (min.) 1.6 %",
-            "Phosphorus (min.) 1.2 %",
-            "Magnesium (max.) 0.1 %",
-            "Taurine (min.) 0.1 %",
-            "Omega-6 fatty acids (min.) 3.5 %",
-            "Omega-3 fatty acids (min.) 0.6 %"
-        ],
-        "additive": null,
-        "calorie": null,
-        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-wild-prairie-front.png",
-        "site": "https://www.acanapetfoods.co.uk"
+            "DL-methionine: 99 mg",
+            "Enterococcus faecium NCIMB10415: 600×10^6CFU."],
+        "calorie": null
     },
     {
+        "site": "https://www.acanapetfoods.co.uk",
         "url": "https://www.acanapetfoods.co.uk/product/acana-grasslands-cat-new/",
         "brand": "ACANA",
         "title": "ACANA Grasslands Cat | Mixed Cat Food - ACANA Pet Foods",
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-grasslands-front.png",
         "descriptions": "Cats require a diet rich in animal protein. Inspired by our vast grasslands and cold northern lakes, ACANA Grasslands is brimming with free-run chicken, turkey, and duck, cage-free eggs, and wild-caught fish, in WholePrey ratios of meat, organs, cartilage, and bone. Our ingredients are delivered to our kitchen fresh or raw by people we know and trust, giving your cat the best ingredients and a recipe that will keep them happy, healthy, and strong.",
         "key_benefits": null,
         "ingredients": [
@@ -125,7 +129,10 @@
             "burdock root",
             "lavender",
             "marshmallow root",
-            "rosehips. ADDITIVES (per kg) Technological additives: With natural antioxidants. Nutritional additives: Choline chloride: 1200 mg",
+            "rosehips. "],
+        "additive": [
+            "natural antioxidants",
+            "Choline chloride: 1200 mg",
             "Taurine: 400 mg",
             "Zinc (Zinc chelate of amino acid hydrate): 150 mg",
             "Vitamin B1: 25 mg",
@@ -143,29 +150,28 @@
             "DL-methionine: 99 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600×10^6CFU."
         ],
         "analysis": [
-            "Crude protein (min.) 37 %",
-            "Crude fat (min.) 18 %",
-            "Crude fibre (max.) 3 %",
-            "Crude ash (max.) 9 %",
-            "Moisture (max.) 10 %",
-            "EPA (eicosapentaenoic acid) (min.) 0.2 %",
-            "DHA (docosahexaenoic acid) (min.) 0.2 %",
-            "Calcium (min.) 1.9 %",
-            "Phosphorus (min.) 1.3 %",
-            "Magnesium (min.) 0.1%",
-            "Taurine (min.) 0.1%",
-            "Omega-6 fatty acids (min.) 2.5 %",
-            "Omega-3 fatty acids (min.) 0.8 %"
+            "Crude protein: 37 %",
+            "Crude fat: 18 %",
+            "Crude fibre: 3 %",
+            "Crude ash: 9 %",
+            "Moisture: 10 %",
+            "EPA (eicosapentaenoic acid): 0.2 %",
+            "DHA (docosahexaenoic acid): 0.2 %",
+            "Calcium: 1.9 %",
+            "Phosphorus: 1.3 %",
+            "Magnesium: 0.1%",
+            "Taurine: 0.1%",
+            "Omega-6 fatty acids: 2.5 %",
+            "Omega-3 fatty acids: 0.8 %"
         ],
-        "additive": null,
-        "calorie": null,
-        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-grasslands-front.png",
-        "site": "https://www.acanapetfoods.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.acanapetfoods.co.uk",
         "url": "https://www.acanapetfoods.co.uk/product/acana-first-feast-kitten/",
         "brand": "ACANA",
         "title": "ACANA First Feast Kitten Food - ACANA Pet Foods",
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-first-feast-front.png",
         "descriptions": "Jumpstart your kitten’s life with a food packed with whole animal ingredients. Crafted to provide everything your kitten needs for peak growth and development, ACANA First Feast is brimming with free-run chicken and whole herring in WholePrey ratios of meat, organs, cartilage, and bone, providing your kitten with everything they need in order to grow up healthy, happy, and strong, with a delicious flavour that they’ll love.",
         "key_benefits": null,
         "ingredients": [
@@ -190,7 +196,8 @@
             "fresh whole butternut squash",
             "fresh whole pumpkin",
             "fresh whole cranberry",
-            "fresh whole blueberry. ADDITIVES (per kg) Technological additives: With natural antioxidants. Nutritional additives: Choline chloride: 1200mg",
+            "fresh whole blueberry. "],
+        "additive": ["With natural antioxidants. Nutritional additives: Choline chloride: 1200mg",
             "Taurine: 400 mg. Zinc (Zinc chelate of amino acid hydrate): 150 mg",
             "Vitamin B1: 25 mg",
             "Vitamin B2: 10 mg",
@@ -222,15 +229,14 @@
             "DHA 0.2 %",
             "EPA 0.15 %"
         ],
-        "additive": null,
-        "calorie": null,
-        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-first-feast-front.png",
-        "site": "https://www.acanapetfoods.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.acanapetfoods.co.uk",
         "url": "https://www.acanapetfoods.co.uk/product/acana-pacifica-cat-new/",
         "brand": "ACANA",
         "title": "ACANA Pacifica | Fish Cat Food - ACANA Pet Foods",
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-pacifica-front.png",
         "descriptions": "Cats are anatomically designed to eat a diet rich in animal protein. Bursting with wild-caught herring, mackerel, flounder, hake, and rockfish in WholePrey ratios of fish, organs, and bone, ACANA Pacifica naturally delivers the nutrients your cat requires for peak health, nourishing them the way Mother Nature intended.",
         "key_benefits": null,
         "ingredients": [
@@ -268,7 +274,9 @@
             "burdock root",
             "lavender",
             "marshmallow root",
-            "rosehips. ADDITIVES (per kg) Technological additives: With natural antioxidants. Nutritional additives: Choline chloride: 1200 mg",
+            "rosehips. "],
+        "additive": [
+            "Choline chloride: 1200 mg",
             "Taurine: 400 mg",
             "Zinc (Zinc chelate of amino acid hydrate): 150 mg",
             "Vitamin B1: 12.5 mg",
@@ -283,32 +291,32 @@
             "Vitamin E: 230 IU",
             "Vitamin K1: 0.5 mg",
             "Copper (Copper (II) chelate of amino acid hydrate): 11mg",
-            "DL-methionine: 99 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600×10^6CFU."
+            "DL-methionine: 99 mg.",
+            "Enterococcus faecium NCIMB10415: 600×10^6CFU."
         ],
         "analysis": [
-            "Crude protein (min.) 37 %",
-            "Fat content (min.) 18 %",
-            "Crude ﬁbre (max.) 3 %",
-            "Crude ash (max.) 9 %",
-            "Moisture (max.) 10 %",
-            "EPA (Eicosapentaenoic acid) (min.) 0.8 %",
-            "DHA (Docosahexaenoic acid) (min.) 1 %",
-            "Calcium (min.) 1.2 %",
-            "Phosphorus (min.) 0.9 %",
-            "Magnesium (max.) 0.1 %",
-            "Taurine (min.) 0.1 %",
-            "Omega-6 fatty acids (min.) 2 %",
-            "Omega-3 fatty acids (min.) 2.2 %"
+            "Crude protein: 37 %",
+            "Fat content: 18 %",
+            "Crude ﬁbre: 3 %",
+            "Crude ash: 9 %",
+            "Moisture: 10 %",
+            "EPA (Eicosapentaenoic acid): 0.8 %",
+            "DHA (Docosahexaenoic acid): 1 %",
+            "Calcium: 1.2 %",
+            "Phosphorus: 0.9 %",
+            "Magnesium: 0.1 %",
+            "Taurine: 0.1 %",
+            "Omega-6 fatty acids: 2 %",
+            "Omega-3 fatty acids: 2.2 %"
         ],
-        "additive": null,
-        "calorie": null,
-        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-pacifica-front.png",
-        "site": "https://www.acanapetfoods.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.acanapetfoods.co.uk",
         "url": "https://www.acanapetfoods.co.uk/product/acana-indoor-entree-cat/",
         "brand": "ACANA",
         "title": "ACANA Indoor Entrée | Indoor Cat Food - ACANA Pet Foods",
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-indoor-entree-front.png",
         "descriptions": "Meat is always our #1 ingredient. ACANA’s new Indoor Entrée recipe is brimming with free-run chicken and turkey, and tender, delicious rabbit, all in WholePrey ratios of meat, organs, cartilage, and bone that nourish your cat completely and deliver nutrients naturally. With a savoury flavour, ACANA Indoor Entrée has the nutrients your indoor cat needs with a taste that they’ll love.",
         "key_benefits": null,
         "ingredients": [
@@ -333,7 +341,9 @@
             "fresh whole butternut squash",
             "fresh whole pumpkin",
             "fresh whole cranberry",
-            "fresh whole blueberry. ADDITIVES (per kg) Technological additives: With natural anti-oxidants. Nutritional additives: Choline Chloride: 1200mg",
+            "fresh whole blueberry."],
+        "additive": [
+            "Choline Chloride: 1200mg",
             "Taurine: 400 mg",
             "Zinc (Zinc chelate of amino acid hydrate): 150 mg",
             "Vitamin B1: 25 mg",
@@ -349,7 +359,8 @@
             "Vitamin E: 175 IU",
             "Copper (Copper (II) chelate of amino acid hydrate): 11 mg",
             "L-carnitine: 50 mg",
-            "DL-methionine: 99 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600×10^6CFU."
+            "DL-methionine: 99 mg",
+            "Enterococcus faecium NCIMB10415: 600×10^6CFU."
         ],
         "analysis": [
             "Crude protein 37 %",
@@ -366,15 +377,14 @@
             "DHA 0.2 %",
             "EPA 0.1 %"
         ],
-        "additive": null,
-        "calorie": null,
-        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-indoor-entree-front.png",
-        "site": "https://www.acanapetfoods.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.acanapetfoods.co.uk",
         "url": "https://www.acanapetfoods.co.uk/product/acana-bountiful-catch-cat/",
         "brand": "ACANA",
         "title": "ACANA Bountiful Catch | Fish Cat Food - ACANA",
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-bountiful-catch-front.png",
         "descriptions": "Feed your little wildcat a diet packed with whole fish ingredients. NEW ACANA Bountiful Catch is loaded with quality fish ingredients from wild-caught salmon & herring, and rainbow trout, in richly nourishing WholePrey ratios of fish, organs, and bone, so your cat is getting the nutrients they need, naturally.",
         "key_benefits": null,
         "ingredients": [
@@ -397,7 +407,9 @@
             "fresh whole butternut squash",
             "fresh whole pumpkin",
             "fresh whole cranberry",
-            "fresh whole blueberry. ADDITIVES (per kg) Technological additives: With natural antioxidants. Nutritional additives: Choline chloride: 1200 mg",
+            "fresh whole blueberry."],
+        "additive": [
+            "Choline chloride: 1200 mg",
             "Taurine: 400 mg",
             "Zinc (Zinc chelate of amino acid hydrate): 150 mg",
             "Vitamin B1: 12.5 mg",
@@ -414,7 +426,8 @@
             "Vitamin K: 0.5 mg",
             "Copper (Copper (II) chelate of amino acid hydrate): 11 mg",
             "L-carnitine: 50 mg",
-            "DL-methionine: 99 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600×10^6CFU."
+            "DL-methionine: 99 mg",
+            "Enterococcus faecium NCIMB10415: 600×10^6CFU."
         ],
         "analysis": [
             "Crude protein 34 %",
@@ -431,15 +444,14 @@
             "DHA 0.3 %",
             "EPA 0.2 %"
         ],
-        "additive": null,
-        "calorie": null,
-        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-bountiful-catch-front.png",
-        "site": "https://www.acanapetfoods.co.uk"
+        "calorie": null
     },
     {
+        "site": "https://www.acanapetfoods.co.uk",
         "url": "https://www.acanapetfoods.co.uk/product/acana-homestead-harvest-cat/",
         "brand": "ACANA",
         "title": "ACANA Homestead Harvest Cat Food - ACANA",
+        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-homestead-harvest-front.png",
         "descriptions": "Feed your little wildcat a diet packed with quality animal ingredients. NEW ACANA Homestead Harvest is packed with free-run chicken, turkey, and duck, in WholePrey ratios of poultry, organs, and cartilage, nourishing your cat naturally while offering a taste they crave, and keeping them healthy, happy, and strong.",
         "key_benefits": null,
         "ingredients": [
@@ -464,8 +476,11 @@
             "fresh whole butternut squash",
             "fresh whole pumpkin",
             "fresh whole cranberry",
-            "fresh whole blueberry. ADDITIVES (per kg) Technological additives: With natural antioxidants. Nutritional additives: Choline chloride: 1200 mg",
-            "Taurine: 400 mg. Zinc (Zinc chelate of amino acid hydrate): 150 mg. Vitamin B1: 25 mg",
+            "fresh whole blueberry."],
+        "additive": ["Choline chloride: 1200 mg",
+            "Taurine: 400 mg",
+            "Zinc (Zinc chelate of amino acid hydrate): 150 mg",
+            "Vitamin B1: 25 mg",
             "Vitamin B2: 10 mg",
             "Niacin: 50 mg",
             "Vitamin B5: 8 mg",
@@ -476,8 +491,10 @@
             "Vitamin A: 1850 IU",
             "Vitamin D: 250 IU",
             "Vitamin E: 175 IU",
-            "Copper (Copper (II) chelate of amino acid hydrate): 11mg. L-carnitine: 50 mg",
-            "DL-methionine: 99 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600×10^6CFU."
+            "Copper (Copper (II) chelate of amino acid hydrate): 11mg.",
+            "L-carnitine: 50 mg",
+            "DL-methionine: 99 mg",
+            "Enterococcus faecium NCIMB10415: 600×10^6CFU."
         ],
         "analysis": [
             "Crude protein 34 %",
@@ -494,9 +511,6 @@
             "DHA 0.1 %",
             "EPA 0.1 %"
         ],
-        "additive": null,
-        "calorie": null,
-        "image": "https://www.acanapetfoods.co.uk/wp-content/uploads/2020/08/acana-cat-homestead-harvest-front.png",
-        "site": "https://www.acanapetfoods.co.uk"
+        "calorie": null
     }
 ]
