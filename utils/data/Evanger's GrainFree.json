@@ -19,24 +19,8 @@
             "Chicken Liver",
             "Caviar",
             "Taurine",
-            "Vitamins {Vitamin E Supplement",
-            "Niacin Supplement",
-            "L-Ascorbyl-2-Polyphosphate (Source of Vitamin C)",
-            "Thiamine Mononitrate (Source of Vitamin B1)",
-            "Calcium Pantothenate",
-            "Vitamin A Supplement",
-            "Pyridoxine Hydrochloride (Source of Vitamin B6)",
-            "Riboflavin Supplement (Source of Vitamin B2)",
-            "Folic Acid",
-            "Vitamin B12 Supplement",
-            "Biotin",
-            "Vitamin D2 Supplement}",
-            "Minerals {Zinc Sulfate",
-            "Iron Sulfate",
-            "Copper Sulfate",
-            "Manganese Sulfate",
-            "Sodium Selenite",
-            "Potassium Iodide}."
+            "Vitamins (Vitamin E SupplementNiacin Supplement, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Thiamine Mononitrate (Source of Vitamin B1), Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride (Source of Vitamin B6), Riboflavin Supplement (Source of Vitamin B2), Folic Acid, Vitamin B12 Supplement, Biotin, Vitamin D2 Supplement)",
+            "Minerals (Zinc Sulfate, Iron Sulfate, Copper Sulfate, Manganese Sulfate, Sodium Selenite, Potassium Iodide)."
         ],
         "analysis": [
             "Crude Protein, not less than 10.0%",
@@ -46,7 +30,7 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "152 Kcals/100G, 237 Kcals/Can"
+        "calorie": "152 kcal/100g"
     },
     {
         "site": "https://evangersdogfood.com",
@@ -80,24 +64,8 @@
             "Ginger",
             "Taurine",
             "Yucca Schidigera Extract",
-            "Vitamins {Vitamin E Supplement",
-            "Niacin Supplement",
-            "L-Ascorbyl-2-Polyphosphate (Source of Vitamin C)",
-            "Thiamine Mononitrate (Source of Vitamin B1)",
-            "Calcium Pantothenate",
-            "Vitamin A Supplement",
-            "Pyridoxine Hydrochloride (Source of Vitamin B6)",
-            "Riboflavin Supplement (Source of Vitamin B2)",
-            "Folic Acid",
-            "Vitamin B12 Supplement",
-            "Biotin",
-            "Vitamin D2 Supplement}",
-            "Minerals {Zinc Proteinate",
-            "Ferrous Sulfate",
-            "Copper Proteinate",
-            "Manganese Proteinate",
-            "Potassium Iodide",
-            "Sodium Selenite}"
+            "Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Thiamine Mononitrate (Source of Vitamin B1, Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride (Source of Vitamin B6), Riboflavin Supplement (Source of Vitamin B2, Folic Acid, Vitamin B12 Supplement, Biotin, Vitamin D2 Supplement)",
+            "Minerals (Zinc Proteinate, Ferrous Sulfate, Copper Proteinate, Manganese Proteinat, Potassium Iodide, Sodium Selenite)"
         ],
         "analysis": [
             "Crude Protein, not less than 9.0%",
@@ -199,24 +167,8 @@
             "Ginger",
             "Taurine",
             "Yucca Schidigera Extract",
-            "Vitamins {Vitamin E Supplement",
-            "Niacin Supplement",
-            "L-Ascorbyl-2-Polyphosphate (Source of Vitamin C)",
-            "Thiamine Mononitrate (Source of Vitamin B1)",
-            "Calcium Pantothenate",
-            "Vitamin A Supplement",
-            "Pyridoxine Hydrochloride (Source of Vitamin B6)",
-            "Riboflavin Supplement (Source of Vitamin B2)",
-            "Folic Acid",
-            "Vitamin B12 Supplement",
-            "Biotin",
-            "Vitamin D2 Supplement}",
-            "Minerals {Zinc Sulfate",
-            "Iron Sulfate",
-            "Copper Sulfate",
-            "Manganese Sulfate",
-            "Selenium Yeast",
-            "Potassium Iodide}."
+            "Vitamins (Vitamin E Supplement, Niacin Supplement, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Thiamine Mononitrate (Source of Vitamin B1), Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride (Source of Vitamin B6), Riboflavin Supplement (Source of Vitamin B2), Folic Acid, Vitamin B12 Supplement, Biotin, Vitamin D2 Supplement)",
+            "Minerals (Zinc Sulfate, Iron Sulfate, Copper Sulfate, Manganese Sulfate, Selenium Yeast, Potassium Iodide)"
         ],
         "analysis": [
             "Crude Protein, not less than 9%",
@@ -226,6 +178,6 @@
             "Ash, not more than 2.5%"
         ],
         "additive": null,
-        "calorie": "134 Kcals/100G, 209 Kcals/Can"
+        "calorie": "134 kcal/100g"
     }
 ]

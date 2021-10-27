@@ -21,13 +21,13 @@
         "FAT 13%",
         "FIBERS 2.8%",
         "WATER 6%",
-        "ASH 6,8%",
-        "CALCIUM 0,9%",
-        "PHOSPHROUS 0,7%",
-        "OMEGA-3 0,2%",
-        "OMEGA-6 1,7%",
+        "ASH 6.8%",
+        "CALCIUM 0.9%",
+        "PHOSPHOROUS 0.7%",
+        "OMEGA-3 0.2%",
+        "OMEGA-6 1.7%",
         "ENERGY  369 Kcal"
     ],
     "additive": null,
-    "calorie": "369 Kcal"
+    "calorie": "369 Kcal/100g"
 }
